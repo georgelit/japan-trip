@@ -11,7 +11,9 @@ Live at **https://georgelit.github.io/japan-trip/**
 
 | File | What it is |
 |---|---|
-| `TRIP.md` | **The source of truth.** All decisions, verified facts, sources, money, open questions, changelog |
+| `TRIP.md` | **The source of truth.** All decisions, verified facts with sources, money, open questions |
+| `CHANGELOG.md` | **What changed, who changed it, and why.** One entry per published version, newest first |
+| `whatsnew.sh` | Answers "what changed since I last looked" from the real git history |
 | `index.html` | The published page. All text, styles and scripts inline, one file, no dependencies |
 | `publish.sh` | The only way to publish |
 | `tools/publish.py` | Publishing internals: versions, snapshots, history |
@@ -23,19 +25,35 @@ Live at **https://georgelit.github.io/japan-trip/**
 ## The one rule that matters most
 
 **`TRIP.md` and `index.html` must agree.** `TRIP.md` is the detailed record, the page is the
-readable summary. When you change a decision:
-
-1. Update `TRIP.md` first, including a line in the **Changelog** table at the bottom.
-2. Then bring `index.html` in line with it.
-3. Then publish.
-
-If they disagree, `TRIP.md` wins and the page is what needs fixing.
+readable summary. If they disagree, `TRIP.md` wins and the page is what needs fixing.
 
 ## How to make an edit
 
 1. **Pull other people's work first:** `git pull --rebase`
-2. Edit `TRIP.md`, then `index.html`
-3. Publish: `./publish.sh "short note about what changed"`
+2. Edit `TRIP.md`
+3. Bring `index.html` in line with it
+4. **Add an entry at the top of `CHANGELOG.md`**
+5. Publish: `./publish.sh "short note about what changed"`
+
+**Step 4 is not optional.** Two people edit this from two machines, and the other one has to be
+able to find out what moved and why without asking. Say what changed, what it replaced, and
+the reason. A published version with no changelog entry is a version nobody can reconstruct
+later.
+
+## Answering "what changed?"
+
+When someone asks what changed, what Nadir changed, or what happened since they last looked,
+**do not answer from memory and do not answer from `CHANGELOG.md` alone.** Run the tool:
+
+```
+./whatsnew.sh              # every version, newest first, with author
+./whatsnew.sh --by nadir   # only that person's versions
+./whatsnew.sh --since 5    # everything after v5
+./whatsnew.sh --diff 5     # the actual diff
+```
+
+It reads git and `v/versions.tsv`, so it cannot be stale. Read `CHANGELOG.md` alongside it for
+the reasoning, then summarise both.
 
 The script pulls again, bumps the version number, stamps the header and footer, freezes a
 copy into `v/vN.html`, rebuilds the history page and pushes. The live page updates in about

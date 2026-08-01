@@ -415,17 +415,8 @@ Only one real blocker left.
 
 ## Changelog
 
-Newest first. Add a line here every time a decision changes.
+**Moved to [`CHANGELOG.md`](CHANGELOG.md)** on 1 Aug 2026, so there is exactly one place for it
+and no chance of the two drifting apart.
 
-| Date | Who | What changed |
-|---|---|---|
-| 1 Aug 2026 | Georgi + Nadir | **Whole trip moved one day later to 14–23 Feb so Valentine's Day is spent in Berlin.** Entry switched to Nagano, which frees a third ski day and lands the ryokan on a Thursday (cheapest tier) on Nadir's birthday. Group confirmed at four. March logged as a fallback |
-| 1 Aug 2026 | Georgi + Claude | **Route split into A (mountains) and B (coast), both costed, no choice made yet.** Ryokan moved to Thursday 18 Feb, which closed four open questions at once: birthday in the ryokan, no Friday pricing, full Tokyo day, JDM slot. Route 158 drive moved off the flight day |
-| 1 Aug 2026 | Georgi | Rostik confirmed: **no ski school**, he learns on his own throughout. Question 4 closed |
-| 1 Aug 2026 | Nadir + Claude | Logged six new open questions: Nagano vs Matsumoto as entry point, a missing JDM night drive in Tokyo, Valentine's Day timing, the ryokan landing on a Friday, birthday not needing a ski day, and swapping Takayama for Kanazawa |
-| 1 Aug 2026 | Georgi | Nadir (`nadir35`) invited as a collaborator with write access. Two editors from here on |
-| 1 Aug 2026 | Georgi | Birthday on 18 Feb is **Nadir's**. Gear split confirmed: Georgi and Jakob on skis, Nadir and Rostik on snowboards. Group of four is a working assumption. Ski days assigned to specific resorts |
-| 31 Jul 2026 | Georgi + Claude | Repo created. Route v1: 10 days, Hakuba, Okuhida, Takayama, Shirakawa-go. Toyama parked as an open question |
-| 31 Jul 2026 | Georgi | Hakuba chosen over Nozawa Onsen. English chosen for the page. Rental car confirmed |
-| 31 Jul 2026 | Georgi | 9–10 days instead of 7–8. Late evening departure, morning arrival home, Tokyo at the end |
-| 30 Jul 2026 | Claude | First research pass: Honshu over Hokkaido, dates 13–20 Feb, visa and JR Pass settled |
+To find out what changed and who changed it, run `./whatsnew.sh` (see `CHANGELOG.md` for the
+options). It reads the real git history, so unlike a hand-written summary it cannot go stale.

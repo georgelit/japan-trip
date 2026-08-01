@@ -48,14 +48,35 @@ version does not land in the history.
 
 ---
 
-## Two files, two jobs
+## Three files, three jobs
 
 - **`TRIP.md`** is the source of truth: every decision with the date it was made, every fact
-  with the source link, the money, the open questions, and a changelog at the bottom.
+  with its source link, the money, the open questions.
 - **`index.html`** is the readable page the four of us actually look at.
+- **`CHANGELOG.md`** is what changed, who changed it and why, newest first.
 
-If you change a decision, change `TRIP.md` first (including a changelog line), then bring the
-page in line. If the two ever disagree, `TRIP.md` wins.
+If you change a decision: `TRIP.md` first, then the page, then a `CHANGELOG.md` entry, then
+publish. If `TRIP.md` and the page ever disagree, `TRIP.md` wins.
+
+## Finding out what I changed
+
+You do not have to read the whole page to spot my edits. Just ask your Claude:
+
+> What changed on the Japan trip since I last looked?
+> What did Georgi change?
+
+It should run `./whatsnew.sh` in the repo, which reads the real git history and cannot be
+stale:
+
+```
+./whatsnew.sh               every version, newest first, with author
+./whatsnew.sh --by georgi   only my versions
+./whatsnew.sh --since 5     everything after v5
+./whatsnew.sh --diff 9      the actual diff of what v9 changed
+```
+
+I will be doing the same in reverse to see yours, so **please add a `CHANGELOG.md` entry when
+you publish.** One or two lines: what changed, and why.
 
 ## What matters about the content
 
