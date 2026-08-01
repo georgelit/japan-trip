@@ -15,14 +15,17 @@ facts without checking them.
 
 ## Who is going
 
-| | |
-|---|---|
-| Georgi | Berlin. Skiing since childhood, confident. Triathlete, fine with long days |
-| Nadir | Skiing since childhood, confident. Co-editor of this page |
-| Jakob | Intermediate |
-| Rostik | **Beginner.** Will learn on his own or with an instructor, so the morning ski plan does not have to accommodate him |
+| | Level | Gear | |
+|---|---|---|---|
+| **Georgi** | Skiing since childhood, confident | 🎿 **skis** | Berlin. Triathlete, fine with long days |
+| **Nadir** | Riding since childhood, confident | 🏂 **snowboard** | Co-editor of this page. **Birthday on 18 February** |
+| **Jakob** | Intermediate | 🎿 **skis** | |
+| **Rostik** | **Beginner** | 🏂 **snowboard** | Will learn on his own or with an instructor, so the morning plan does not have to accommodate him |
 
-All four hold **German passports**. Group size is still "most likely four", not confirmed.
+Two on skis, two on boards. All four hold **German passports**.
+
+⚠️ Group size is a **working assumption of four**, not confirmed. Apartment size, car class and
+every per-person price on this page depend on it. Confirm before anything is booked.
 
 **Style of trip:** skiing for pleasure, not for numbers. Three ski days only, mornings until
 14:00–15:00. The other 70 % of the trip is food, onsen, mountains and towns.
@@ -97,9 +100,9 @@ Matsumoto to Tokyo. **No backtracking anywhere.**
 | 1 | **Sat 13 Feb** | Fly out of BER after 21:00 | plane |
 | 2 | Sun 14 Feb | Land at Haneda in the evening. Kill the jet lag, nothing ambitious | Tokyo |
 | 3 | Mon 15 Feb | Tokyo → **Matsumoto** by Limited Express Azusa (2 h 30). Matsumoto Castle, soba lunch. Pick up the car. Drive to Hakuba (~1 h) | Hakuba |
-| 4 | **Tue 16 Feb** | 🎿 **Ski 1.** Happo-One. Rostik to ski school | Hakuba |
-| 5 | **Wed 17 Feb** | 🎿 **Ski 2.** Second Hakuba Valley resort (the car makes this easy) | Hakuba |
-| 6 | **Thu 18 Feb** | 🎿 **Ski 3.** 🎂 **Birthday dinner in Hakuba** | Hakuba |
+| 4 | **Tue 16 Feb** | 🎿 **Day 1 on snow: Happo-One.** Rostik to the school at Nakiyama | Hakuba |
+| 5 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** Gentle terrain for Rostik, the park for Nadir | Hakuba |
+| 6 | **Thu 18 Feb** | 🎿 **Day 3: Nadir's pick, it is his birthday.** 🎂 Dinner in Hakuba | Hakuba |
 | 7 | Fri 19 Feb | Hakuba → Matsumoto → Route 158 through the Abo Tunnel → **Okuhida** (~2 h 30). **Shinhotaka Ropeway** in the afternoon | 🏮 **Ryokan with rotenburo** |
 | 8 | Sat 20 Feb | Okuhida → **Takayama** (50 min). Old town, Hida beef, sake breweries. Afternoon run out to **Shirakawa-go** (50 min) and back | Takayama |
 | 9 | Sun 21 Feb | Takayama **morning market** from 08:00. Drive to Matsumoto (~2 h 30), drop the car, Azusa to Tokyo, arrive ~15:00. **Tokyo afternoon and evening**, then Haneda for the night flight | plane |
@@ -116,6 +119,20 @@ Matsumoto to Tokyo. **No backtracking anywhere.**
   afternoon slot with the ryokan right there afterwards, not a rushed morning.
 - **The car sits in Hakuba for three days and that is fine.** Parking is cheap and it turns
   the 10-resort Hakuba Valley pass from theory into something we can actually use.
+
+### Which resort on which ski day
+
+Two skiers and two boarders, and one of the boarders is a beginner. That shapes the three days.
+
+| Day | Resort | Why |
+|---|---|---|
+| **Tue 16** | **Happo-One** | The big one, and worth knowing: despite its reputation as a skiers' mountain, Happo-One is rated the **best resort in Hakuba for snowboarders** precisely because it has flowy terrain with **minimal flat sections**. Steepest vertical in the valley, 1,071 m. Rostik goes to the school at the base of Nakiyama, with the Sakka and Shirakaba (max 20°) slopes right there |
+| **Wed 17** | **Goryu + Hakuba47** | These two are **physically connected** by gondola at the top and share one ticket: 24 runs, 14 lifts, 2 gondolas across 3 areas, all inside our Hakuba Valley pass anyway. Goryu has the gentle stuff for Rostik, and **Hakuba47 has what is widely called the best terrain park in Japan**, which is Nadir's day |
+| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or Cortina and Tsugaike at the north end of the valley for trees and deep snow |
+
+Sources: [Burton's guide to Hakuba](https://www.burton.com/en-us/blogs/the-burton-blog/burtons-official-guide-to-snowboarding-hakuba) ·
+[Hakuba47 official](https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/entry-110.html) ·
+[Goryu 47 combined area](https://goryu47.com/en/)
 
 ---
 
@@ -227,23 +244,22 @@ Ranked. The top ones block bookings.
    ski day. **Nadir to decide whether it is worth it.** Toyama is a pleasant modern city:
    Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park. It is not a headline stop,
    but it is what turns the route into an actual circle.
-2. 🔴 **Whose birthday is 18 February, and how do we mark it?** It lands on the last ski day
-   (Thursday). Current plan: dinner in Hakuba that evening, ryokan the next night, so it
-   reads as a two-night celebration. Alternative: move the ryokan onto the birthday itself,
-   which would mean reshuffling days 6 and 7.
-3. 🟡 **Is the group confirmed at four?** Everything from apartment size to car class hangs
-   on this.
-4. 🟡 **Skis or snowboard, per person?** Does not change the rental plan, slightly changes
-   which slopes we favour.
-5. 🟡 **Rostik: ski school or we teach him?** Affects day 4 only.
-6. 🟡 **Day 9 risk.** The drive Takayama → Matsumoto crosses Route 158 on the day we fly
+2. 🟡 **Nadir's birthday, 18 February: does the current shape work?** It lands on the last ski
+   day, so he picks the mountain, then dinner in Hakuba, then the ryokan the following night.
+   Two-night celebration. The alternative is swapping days 6 and 7 so the birthday itself
+   falls on the ryokan with the rotenburo. Nadir's call.
+3. 🟡 **Confirm the group at four.** Working assumption for now. Apartment size, car class and
+   every price here depend on it, so it needs settling before any booking.
+4. 🟡 **Rostik: ski school or we teach him?** Affects day 4 only. Worth knowing that a private
+   lesson is priced per instructor rather than per person, so it can cover several of us.
+5. 🟡 **Day 9 risk.** The drive Takayama → Matsumoto crosses Route 158 on the day we fly
    home. The road does not close, but snow slows it down. Current mitigation: leave Takayama
    by 09:00, which leaves a ~10 hour buffer before the flight. Alternative worth pricing:
    drop the car in Takayama and take the Nohi/Alpico bus instead.
-7. 🟢 **Tokyo: is an afternoon plus evening enough?** As planned we get roughly 15:00 to
+6. 🟢 **Tokyo: is an afternoon plus evening enough?** As planned we get roughly 15:00 to
    21:00 in Tokyo on day 9. A full Tokyo day would need an 11th day, or dropping
    Shirakawa-go.
-8. 🟢 **Nadir's GitHub username**, so he can be given write access to this repo.
+7. 🟢 **Nadir's GitHub username**, so he can be given write access to this repo.
 
 ---
 
@@ -253,6 +269,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Georgi | Birthday on 18 Feb is **Nadir's**. Gear split confirmed: Georgi and Jakob on skis, Nadir and Rostik on snowboards. Group of four is a working assumption. Ski days assigned to specific resorts |
 | 31 Jul 2026 | Georgi + Claude | Repo created. Route v1: 10 days, Hakuba, Okuhida, Takayama, Shirakawa-go. Toyama parked as an open question |
 | 31 Jul 2026 | Georgi | Hakuba chosen over Nozawa Onsen. English chosen for the page. Rental car confirmed |
 | 31 Jul 2026 | Georgi | 9–10 days instead of 7–8. Late evening departure, morning arrival home, Tokyo at the end |
