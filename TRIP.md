@@ -259,7 +259,8 @@ Ranked. The top ones block bookings.
 6. 🟢 **Tokyo: is an afternoon plus evening enough?** As planned we get roughly 15:00 to
    21:00 in Tokyo on day 9. A full Tokyo day would need an 11th day, or dropping
    Shirakawa-go.
-7. 🟢 **Nadir's GitHub username**, so he can be given write access to this repo.
+✅ **Closed:** Nadir has write access to this repo (`nadir35`, invited 1 Aug 2026). Onboarding
+text for him is in `FOR-NADIR.md`.
 
 ---
 
@@ -269,6 +270,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Georgi | Nadir (`nadir35`) invited as a collaborator with write access. Two editors from here on |
 | 1 Aug 2026 | Georgi | Birthday on 18 Feb is **Nadir's**. Gear split confirmed: Georgi and Jakob on skis, Nadir and Rostik on snowboards. Group of four is a working assumption. Ski days assigned to specific resorts |
 | 31 Jul 2026 | Georgi + Claude | Repo created. Route v1: 10 days, Hakuba, Okuhida, Takayama, Shirakawa-go. Toyama parked as an open question |
 | 31 Jul 2026 | Georgi | Hakuba chosen over Nozawa Onsen. English chosen for the page. Rental car confirmed |
