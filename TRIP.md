@@ -92,6 +92,12 @@ Berlin–Tokyo routing, but **book the Tokyo hotel for the night of the 14th ear
 
 ## The route
 
+⚠️ **Two shapes are on the table.** Route **A (mountains)** is fully worked out and is the
+current default. Route **B (coast)** is Nadir's circle through Toyama and Kanazawa, costed
+below. **Nobody has chosen yet.** Days 1 to 5 are identical in both.
+
+## Route A: the mountains
+
 A loop around the Northern Alps: Tokyo, Matsumoto, Hakuba, Okuhida, Takayama, back through
 Matsumoto to Tokyo. **No backtracking anywhere.**
 
@@ -100,25 +106,111 @@ Matsumoto to Tokyo. **No backtracking anywhere.**
 | 1 | **Sat 13 Feb** | Fly out of BER after 21:00 | plane |
 | 2 | Sun 14 Feb | Land at Haneda in the evening. Kill the jet lag, nothing ambitious | Tokyo |
 | 3 | Mon 15 Feb | Tokyo → **Matsumoto** by Limited Express Azusa (2 h 30). Matsumoto Castle, soba lunch. Pick up the car. Drive to Hakuba (~1 h) | Hakuba |
-| 4 | **Tue 16 Feb** | 🎿 **Day 1 on snow: Happo-One.** Rostik to the school at Nakiyama | Hakuba |
+| 4 | **Tue 16 Feb** | 🎿 **Day 1 on snow: Happo-One** | Hakuba |
 | 5 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** Gentle terrain for Rostik, the park for Nadir | Hakuba |
-| 6 | **Thu 18 Feb** | 🎿 **Day 3: Nadir's pick, it is his birthday.** 🎂 Dinner in Hakuba | Hakuba |
-| 7 | Fri 19 Feb | Hakuba → Matsumoto → Route 158 through the Abo Tunnel → **Okuhida** (~2 h 30). **Shinhotaka Ropeway** in the afternoon | 🏮 **Ryokan with rotenburo** |
-| 8 | Sat 20 Feb | Okuhida → **Takayama** (50 min). Old town, Hida beef, sake breweries. Afternoon run out to **Shirakawa-go** (50 min) and back | Takayama |
-| 9 | Sun 21 Feb | Takayama **morning market** from 08:00. Drive to Matsumoto (~2 h 30), drop the car, Azusa to Tokyo, arrive ~15:00. **Tokyo afternoon and evening**, then Haneda for the night flight | plane |
+| 6 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, half day until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
+| 7 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00 when it opens. Down by midday, on to **Takayama** (50 min). Old town, Hida beef, sake breweries | Takayama |
+| 8 | Sat 20 Feb | **Shirakawa-go** in the morning, 50 min each way. Back through Takayama, drive to Matsumoto (~2 h 30), drop the car, Azusa to Tokyo, arrive in the evening | Tokyo |
+| 9 | Sun 21 Feb | **Full day in Tokyo.** Evening free for the JDM night drive if we want it. Haneda for the night flight | plane |
 | 10 | **Mon 22 Feb** | Land in Berlin in the morning | home |
 
-**7 nights of accommodation:** Tokyo ×1, Hakuba ×4, Okuhida ×1, Takayama ×1.
+**7 nights:** Tokyo ×1, Hakuba ×3, Okuhida ×1, Takayama ×1, Tokyo ×1.
 
-### Why the route runs this way
+### Why route A runs this way
 
 - **Matsumoto goes on the way in, not the way out.** Doing the castle on day 3 frees the
-  whole return leg. This is what makes 10 days work at all.
+  whole return leg. This is what makes ten days work at all.
 - **Ski first, tour second.** Fresh legs on the snow, and gear rental stays in one place.
-- **Okuhida before Takayama.** The ropeway shuts at 16:15 in winter, so it needs an
-  afternoon slot with the ryokan right there afterwards, not a rushed morning.
-- **The car sits in Hakuba for three days and that is fine.** Parking is cheap and it turns
-  the 10-resort Hakuba Valley pass from theory into something we can actually use.
+- **The car earns its keep here.** Okuhida has no railway, Route 158 is the only way through,
+  and the car turns the 10-resort Hakuba Valley pass from theory into something usable.
+
+### The Thursday ryokan move (rewritten 1 Aug 2026)
+
+Moving the ryokan from Friday to **Thursday** closes four open questions at once:
+
+- ✅ **Nadir's birthday now happens in the ryokan**, over kaiseki with a rotenburo, instead of
+  a restaurant in Hakuba (was question 2).
+- ✅ **The ryokan is no longer on a Friday**, so no weekend pricing or weekend crowd (was
+  question 10).
+- ✅ **Tokyo gets a full day** on day 9 instead of an afternoon (was question 6).
+- ✅ **A real evening slot appears** for the JDM night drive (was question 8).
+- ✅ The ropeway moves to a **fresh 09:00 opening** instead of a rushed afternoon before the
+  16:15 shutdown.
+
+**The entire cost is two and a half hours of skiing** on Thursday: off the snow at 12:30
+instead of 15:00, because the drive to Okuhida takes 2 h 30.
+
+---
+
+## Route B: the coast
+
+Nadir's circle. Same first five days, then west to the Sea of Japan instead of south into the
+mountains.
+
+| Day | Date | Plan | Night |
+|---|---|---|---|
+| 1–5 | 13–17 Feb | **Identical to route A**, except the way in is Tokyo → **Nagano** by Hokuriku Shinkansen (77–95 min) → Hakuba by Alpico bus (~1 h), which drops Matsumoto Castle | Tokyo, Hakuba ×3 |
+| 6 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick.** 🎂 Birthday in a **Hakuba ryokan** (Shiroumaso in Happo has tatami and a natural onsen) | 🏮 Hakuba ryokan |
+| 7 | Fri 19 Feb | Hakuba → Nagano (bus ~1 h) → **Toyama** (Shinkansen ~50 min). Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park | Toyama |
+| 8 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market**, Kenrokuen, the Higashi Chaya geisha quarter | Kanazawa |
+| 9 | Sun 21 Feb | Early Kagayaki to Tokyo (2 h 28, ¥14,380), in the city by ~11:00. **Most of a day in Tokyo**, then Haneda | plane |
+| 10 | **Mon 22 Feb** | Land in Berlin in the morning | home |
+
+### What route B is actually for
+
+- **February is peak seafood season on this coast.** Omicho Market has been Kanazawa's food
+  market since the Edo period, open 09:00–17:00 daily, and **November to February is snow crab
+  season**, with the local snow crab rated among the best in Japan.
+  [Japan Guide](https://www.japan-guide.com/e/e4207.html) ·
+  [Visit Kanazawa](https://visitkanazawa.jp/en/kanazawa-101/detail_80.html)
+- **Kenrokuen**, one of Japan's three great gardens, opens from **06:00 in winter** (1 Nov to
+  28 Feb) via the Renchi-mon and Zuishinzaka gates.
+- ⚠️ Kanazawa's winter illuminations around Omicho, Korimbo and Katamachi run **"until
+  mid-February"**, so our 20 Feb probably misses them. Not verified for 2027.
+- ⚠️ **Reality check on the vibe.** Nadir wanted "little Tokyo". Kanazawa's actual reputation
+  is **"Little Kyoto"**: preserved geisha and samurai quarters, gardens, crafts. It is livelier
+  and more urban than Takayama, but it is not a night-life city.
+
+### 🚗 The big practical difference: route B does not need a car
+
+The whole of route B runs on the Hokuriku Shinkansen corridor. That matters more than it sounds:
+
+- **No one-way drop fee.** Picking a car up in Nagano or Matsumoto and dropping it in Kanazawa
+  crosses prefectures. Quoted drop fees run **¥20,000 to over ¥30,000**; one Nippon quote for
+  Nagano → Kanazawa came to ¥30,030 for a single day including the drop.
+  [ORIX one-way rentals](https://car.orix.co.jp/eng/price/oneway.html)
+- **No Route 148.** The Hakuba → Itoigawa road is a known winter bottleneck: narrow, icy, lots
+  of tunnels, and slow behind the plough during heavy snow. Driving Hakuba → Toyama is
+  128 km, about 1 h 32 in clear conditions and nearer 2 h in snow.
+- The trade is that **we lose the car**, and with it the freedom to hop between Hakuba Valley
+  resorts. Hakuba does run shuttle buses between them, so this is inconvenience, not a blocker.
+
+### What route B costs us
+
+| Lost | Gained |
+|---|---|
+| **Shinhotaka Ropeway**, the only winter access to the Northern Alps | **Omicho Market** in snow crab season |
+| The **Okuhida rotenburo ryokan** (a Hakuba ryokan replaces it) | **Kenrokuen** and the Higashi Chaya quarter |
+| **Takayama** old town and the morning market | **Toyama Bay sushi** and the glass museum |
+| **Shirakawa-go** | An actual circle, which is what Nadir wanted |
+| **Matsumoto Castle** (Nagano entry replaces Matsumoto entry) | No car, no one-way fee, no icy Route 148 |
+
+⚠️ **The single heaviest loss is the ropeway.** Kamikochi is shut until 16 April and the
+Tateyama route until mid-April, so route B means **no close-up view of the Northern Alps at
+all**, on a trip whose whole premise was the Japanese Alps. Worth being honest about that
+before choosing.
+
+### Transport cost per person, A against B
+
+| | Route A | Route B |
+|---|---|---|
+| Rail | Azusa both ways, ~¥13,240 (≈ €72) | Tokyo→Nagano ~¥9,000, Nagano→Toyama ~¥7,000, Toyama→Kanazawa ~¥3,000, Kanazawa→Tokyo ¥14,380. Total ~¥33,000 (≈ €180) |
+| Buses | included in the car | Nagano ↔ Hakuba ~¥4,600 (≈ €25) |
+| Car, split four ways | 6 days, ⚠️ est. €110–150 plus fuel and tolls | none |
+| **Roughly** | **⚠️ €180–220** | **⚠️ €205** |
+
+They land in much the same place. **This is not a money decision, it is a taste decision:**
+mountains and onsen, or coast and seafood.
 
 ### Which resort on which ski day
 
@@ -237,78 +329,59 @@ Everything in this section has a source. Do not edit these numbers without a new
 
 ## Open questions
 
-Ranked. The top ones block bookings.
+Ranked. The top one blocks everything else.
 
-1. 🔴 **Toyama: in or out?** Nadir suggested a full circle including Toyama. It does not fit
-   in 10 days as planned. Putting it back costs either an 11th day, or Shirakawa-go, or a
-   ski day. **Nadir to decide whether it is worth it.** Toyama is a pleasant modern city:
-   Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park. It is not a headline stop,
-   but it is what turns the route into an actual circle. See #11 below, a Kanazawa swap
-   could pull the second half further along the same coast.
-2. 🟡 **Nadir's birthday, 18 February: does the current shape work?** It lands on the last ski
-   day, so he picks the mountain, then dinner in Hakuba, then the ryokan the following night.
-   Two-night celebration. The alternative is swapping days 6 and 7 so the birthday itself
-   falls on the ryokan with the rotenburo. **The birthday does not have to land on a ski day
-   at all**, it is only there because day 6 happened to be the last one on snow. Nadir's call.
-3. 🟡 **Confirm the group at four.** Working assumption for now. Apartment size, car class and
-   every price here depend on it, so it needs settling before any booking.
-4. ✅ **CLOSED (1 Aug, Georgi): Rostik does not want a school.** He will teach himself the
-   whole time. No lesson to book, and no instructor slot to plan around on day 4.
-5. 🟡 **Day 9 risk.** The drive Takayama → Matsumoto crosses Route 158 on the day we fly
-   home. The road does not close, but snow slows it down. Current mitigation: leave Takayama
-   by 09:00, which leaves a ~10 hour buffer before the flight. Alternative worth pricing:
-   drop the car in Takayama and take the Nohi/Alpico bus instead.
-6. 🟢 **Tokyo: is an afternoon plus evening enough?** As planned we get roughly 15:00 to
-   21:00 in Tokyo on day 9. A full Tokyo day would need an 11th day, or dropping
-   Shirakawa-go. See #8, a JDM night drive would need real time carved out of this same slot.
-7. 🟡 **Nagano instead of Matsumoto as the way in?** Tokyo Station → Nagano is 77–95 min on
-   the Hokuriku Shinkansen (~¥8,000–9,500), then Nagano → Hakuba is ~60–70 min by Alpico bus
-   (¥2,200–2,400). That beats Shinjuku → Matsumoto (Azusa, 2 h 30, ¥6,620) → Hakuba (~1 h by
-   car) by roughly 40–70 minutes each way, and Nagano has rental car offices at the station
-   (Toyota, Times, Nippon, Orix). What it costs: Matsumoto Castle would need dropping or
-   re-routing as a detour, and it is **not yet confirmed** whether a car picked up in Nagano
-   naturally passes Matsumoto on the way to Okuhida via Route 158, or needs a real backtrack.
-   **Nadir to decide.**
+1. 🔴 **Route A or Route B?** This absorbs what were separate questions about Toyama and about
+   swapping Takayama for Kanazawa: they are the same fork. **Mountains** (Okuhida, the
+   ropeway, a rotenburo ryokan, Takayama, Shirakawa-go) or **coast** (Toyama, Kanazawa, snow
+   crab, city rhythm, and the actual circle Nadir drew). Both are fully costed above and land
+   within about €25 of each other per person, so it is a taste decision, not a money one.
+   **The heaviest single consequence: route B means no close-up view of the Northern Alps,**
+   because the Shinhotaka Ropeway is the only winter access and it goes with Takayama.
+
+2. 🟡 **Confirm the group at four.** Still a working assumption. Apartment size, car class and
+   every per-person price here depend on it, so it has to be settled before any booking.
+
+3. 🟡 **Nagano or Matsumoto as the way in?** Route B answers this by itself: Nagano, because
+   the coast leg starts there. For route A it is a live choice. Tokyo → Nagano is 77–95 min
+   on the Hokuriku Shinkansen (~¥8,000–9,500) plus ~1 h by Alpico bus to Hakuba
+   (¥2,200–2,400), against Shinjuku → Matsumoto by Azusa (2 h 30, ¥6,620) plus ~1 h by car.
+   Nagano saves roughly 40–70 minutes each way and has rental offices at the station.
+   **What it costs route A: Matsumoto Castle**, and route A drives back through Matsumoto on
+   day 8 anyway, so entering there is nearly free. Recommendation: **Matsumoto for route A,
+   Nagano for route B.**
    [Hokuriku Shinkansen](https://www.snowmonkeyresorts.com/access/hokuriku-shinkansen/) ·
-   [Nagano–Hakuba bus](https://thehakubacollection.com/hakuba/access/nagano-to-hakuba) ·
-   [Nagano car rental](https://db.go-nagano.net/en/travel-guide/transportation/car-rental/)
-8. 🟢 **A JDM night drive in Tokyo is missing from the plan.** Real operators exist: a
-   chauffeured 3-hour night ride past Rainbow Bridge and **Daikoku PA** (the actual
-   expressway car-meet spot) in an R34/R32/R35 GT-R, RX-7, S15 or Supra
-   ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive with an IDP
-   ([JDM TOUR](https://jdmtour.com/jdm/sports_car_rental_tokyo/), Fri–Sun 17:00–21:00 or
-   Mon–Thu 18:30–22:30). ⚠️ Pricing not checked. Neither current Tokyo slot fits well: day 2
-   evening is jet-lagged arrival, day 9 is already the tight pre-flight window in #6. Needs
-   either more Tokyo time or a dedicated slot. **Nadir to decide.**
-9. 🟢 **Valentine's Day, 14 Feb 2027, is a Sunday and falls on the arrival/transit day.**
-   Under the current plan it is spent landing at Haneda, not with anyone at home. Shifting
-   departure later to actually spend the 14th in Berlin pushes the return either onto 23 Feb
-   (Emperor's Birthday, already a locked no-go) or pushes ski days onto a weekend, the two
-   things these dates were chosen to avoid. Also worth knowing: Japan's Feb 14 is not really
-   a date-night culture event, it is one-directional chocolate-giving (often *giri-choco*,
-   "obligation chocolate," mostly for coworkers), the reciprocal falls on White Day, 14 March.
-   Not something to plan around for its own sake.
-   [Nippon.com](https://www.nippon.com/en/features/jg00025/) **Nadir to decide if this is
-   worth disturbing the dates for.**
-10. 🟡 **The ryokan night currently falls on a Friday (19 Feb), borderline weekend pricing
-    and crowding.** Same family of question as #2, worth considering together if days get
-    reshuffled. **Nadir to decide.**
-11. 🔴 **Swap Takayama for Kanazawa, or push further up the coast, for seafood and city
-    vibes instead of the old-town focus.** Nadir's read: Kanazawa for a livelier, more urban
-    ("little Tokyo") feel rather than Takayama's old-town pace. Worth flagging: Kanazawa's
-    actual tourist reputation runs the other way, it is usually branded **"Little Kyoto"**
-    for its preserved geisha and samurai quarters, so worth confirming that is still the vibe
-    wanted. What Kanazawa does bring for real: **Omicho Market**, a genuine seafood market,
-    plus Kenrokuen. Access from Hakuba is via Nagano: Alpico bus (~1 h, ¥2,200) then Hokuriku
-    Shinkansen (~65 min, ¥8,920), no direct road time confirmed. Toyama is closer by car
-    (~128 km, 1 h 32) and has its own case, see #1. **What this costs:** swapping out
-    Takayama likely means swapping out the **Shinhotaka Ropeway** too unless it is kept as a
-    separate stop, and the ropeway is verified as the only winter access to the Northern
-    Alps. **Nadir to decide the shape of the second half.**
-    [Kanazawa day trip from Hakuba](https://maiandchristravel.com/what-to-do-in-toyoma/)
+   [Nagano–Hakuba bus](https://thehakubacollection.com/hakuba/access/nagano-to-hakuba)
 
-✅ **Closed:** Nadir has write access to this repo (`nadir35`, invited 1 Aug 2026). Onboarding
-text for him is in `FOR-NADIR.md`.
+4. 🟢 **JDM night drive: book it or not?** It now has a proper slot, the evening of day 9 in
+   Tokyo, which the Thursday ryokan move created. Operators are real: chauffeured three-hour
+   night runs past Rainbow Bridge and **Daikoku PA** in an R34/R32/R35 GT-R, RX-7, S15 or
+   Supra ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive on an IDP
+   ([JDM TOUR](https://jdmtour.com/jdm/sports_car_rental_tokyo/), Fri–Sun 17:00–21:00 or
+   Mon–Thu 18:30–22:30). ⚠️ **Pricing still not checked.** Day 9 is a Sunday, so the Fri–Sun
+   window applies. Note we fly that night, so it has to end with time to reach Haneda.
+
+5. 🟢 **Valentine's Day, Sunday 14 February.** Under both routes it is spent landing at
+   Haneda. Moving the dates to be home for it pushes the return onto 23 Feb (the Emperor's
+   Birthday, a locked no-go) or pushes ski days onto a weekend, which is exactly what these
+   dates were chosen to avoid. Also worth knowing: **Japan's 14 February is not a date-night
+   occasion**, it is one-directional chocolate-giving, often *giri-choco* ("obligation
+   chocolate") for coworkers, with the reciprocal on White Day, 14 March.
+   [Nippon.com](https://www.nippon.com/en/features/jg00025/)
+   **Recommendation: do not disturb the dates for it.** Purely a question of who is at home.
+
+### Closed
+
+- ✅ **Rostik: no ski school** (1 Aug, Georgi). He teaches himself throughout.
+- ✅ **Nadir's birthday** (1 Aug). Route A puts it in the Okuhida ryokan over kaiseki, route B
+  in a Hakuba ryokan. Either way it is the ryokan night, not a restaurant.
+- ✅ **The ryokan no longer falls on a Friday.** Moved to Thursday 18 Feb, which removes the
+  weekend pricing and the weekend crowd.
+- ✅ **Tokyo gets a full day** (day 9), not an afternoon.
+- ✅ **The day 9 Route 158 risk is gone.** The mountain pass drive now happens on **day 8**,
+  a full day before the flight, instead of on the morning we fly home.
+- ✅ **Nadir has write access** to this repo (`nadir35`, invited 1 Aug 2026). Onboarding text
+  in `FOR-NADIR.md`.
 
 ---
 
@@ -318,6 +391,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Georgi + Claude | **Route split into A (mountains) and B (coast), both costed, no choice made yet.** Ryokan moved to Thursday 18 Feb, which closed four open questions at once: birthday in the ryokan, no Friday pricing, full Tokyo day, JDM slot. Route 158 drive moved off the flight day |
 | 1 Aug 2026 | Georgi | Rostik confirmed: **no ski school**, he learns on his own throughout. Question 4 closed |
 | 1 Aug 2026 | Nadir + Claude | Logged six new open questions: Nagano vs Matsumoto as entry point, a missing JDM night drive in Tokyo, Valentine's Day timing, the ryokan landing on a Friday, birthday not needing a ski day, and swapping Takayama for Kanazawa |
 | 1 Aug 2026 | Georgi | Nadir (`nadir35`) invited as a collaborator with write access. Two editors from here on |
