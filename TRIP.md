@@ -258,8 +258,9 @@ Everything in this section has a source. Do not edit these numbers without a new
 - **Snow tyres or chains are required from mid-November to early April.** Winter tyres must
   be **booked with the car in advance**; rental companies will not swap them on arrival.
   [Hida Takayama official warning](https://www.hida.jp/english/traveltips/practicalguide/4001651.html)
-- **There is no car rental in Okuhida or Hirayu.** Nearest offices are downtown Takayama or
-  downtown Matsumoto. [Okuhida official access](https://www.okuhida.or.jp/en/access_car)
+- **There is no car rental in Okuhida or Hirayu.** Nearest offices are downtown Takayama,
+  Matsumoto or Toyama, which is why we drop in Toyama.
+  [Okuhida official access](https://www.okuhida.or.jp/en/access_car)
 
 ### Driving and travel times
 
@@ -292,7 +293,7 @@ Everything in this section has a source. Do not edit these numbers without a new
   and **Sakka** beginner zones with the ski school office at the base of Nakiyama.
   [happo-one.jp](https://www.happo-one.jp/en/gelande/)
 
-### Okuhida and Takayama
+### Okuhida, and what we kept from Takayama
 
 - **Shinhotaka Ropeway** runs all year. **Winter hours 09:00–16:15 (Dec–Mar)**, last ascent
   around 15:30. Observation deck at **2,156 m**, 360° view of the Hida range: Yarigatake,
@@ -321,14 +322,17 @@ Everything in this section has a source. Do not edit these numbers without a new
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
 | Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
 | Car, 7 days incl. winter tyres, split 4 ways | 120–160 | ⚠️ plus fuel and tolls |
-| Azusa Shinjuku ↔ Matsumoto, both ways | ~72 | ¥13,240 |
+| Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~145 | ≈ ¥27,000 |
+| **One-way car drop, Nagano → Toyama** | **28–40** | ⚠️ crosses prefectures, ¥20,000–30,000 split four ways |
 | Tokyo, 1 night | 60–90 | ⚠️ |
 | Hakuba, 4 nights | 240–360 | ⚠️ apartment for four |
 | 🏮 Okuhida ryokan, 1 night with dinner | 120–200 | ⚠️ the one deliberate splurge |
-| Takayama, 1 night | 60–100 | ⚠️ |
+| Toyama, 1 night | 60–100 | ⚠️ |
+| Kanazawa, 1 night | 70–110 | ⚠️ |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
-| **Total** | **≈ €2,100 – 2,750** | ⚠️ |
+| The Tokyo drive, one car split four ways | 28–69 | see the drive section |
+| **Total** | **≈ €2,300 – 3,000** | ⚠️ |
 
 **Where not to save:** the ryokan, and gear rental.
 **Where we already saved:** no JR Pass (≈ €160 per person).
