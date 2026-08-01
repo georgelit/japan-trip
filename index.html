@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Japan 2027 &middot; Hakuba, Okuhida, Takayama</title>
+<meta name="description" content="Ten days around the Northern Japanese Alps, 13-22 February 2027. Three ski mornings in Hakuba, the Shinhotaka Ropeway, an Okuhida ryokan, Takayama and Shirakawa-go.">
+<meta name="theme-color" content="#f2f0ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14171c" media="(prefers-color-scheme: dark)">
+<style>
+  :root {
+    --paper:#f2f0ec; --card:#fbfaf8; --ink:#1c2126; --ink-soft:#525d68; --ink-faint:#949ea8;
+    --rule:#d5d2cb; --sat:#a8452f;
+    --tokyo:#3f5fa8; --snow:#2b7f96; --alps:#b06a1f;
+    --serif: ui-serif,"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans: ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    --mono: ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --paper:#14171c; --card:#1d2229; --ink:#e9e6e1; --ink-soft:#a6b0ba; --ink-faint:#6c7883;
+            --rule:#2e353e; --sat:#e0836a; --tokyo:#8aa4e0; --snow:#5fc0d8; --alps:#e0a656; }
+  }
+  :root[data-theme="dark"] { --paper:#14171c; --card:#1d2229; --ink:#e9e6e1; --ink-soft:#a6b0ba;
+    --ink-faint:#6c7883; --rule:#2e353e; --sat:#e0836a; --tokyo:#8aa4e0; --snow:#5fc0d8; --alps:#e0a656; }
+  :root[data-theme="light"] { --paper:#f2f0ec; --card:#fbfaf8; --ink:#1c2126; --ink-soft:#525d68;
+    --ink-faint:#949ea8; --rule:#d5d2cb; --sat:#a8452f; --tokyo:#3f5fa8; --snow:#2b7f96; --alps:#b06a1f; }
+
+  * { box-sizing:border-box; }
+  html { -webkit-text-size-adjust:100%; scroll-behavior:smooth; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:var(--sans);
+         font-size:16px; line-height:1.62; -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:820px; margin:0 auto;
+          padding:0 max(20px,env(safe-area-inset-left)) 80px max(20px,env(safe-area-inset-right)); }
+  a { color:var(--sat); text-underline-offset:2px; }
+
+  /* header */
+  header.top { padding:44px 0 26px; border-bottom:1px solid var(--rule); }
+  .eyebrow { font-family:var(--mono); font-size:12px; letter-spacing:.16em; text-transform:uppercase;
+             color:var(--ink-faint); margin:0 0 12px; display:flex; flex-wrap:wrap; gap:10px;
+             align-items:center; justify-content:space-between; }
+  .ver { color:var(--ink-faint); }
+  h1 { font-family:var(--serif); font-weight:600; letter-spacing:-.02em;
+       font-size:clamp(32px,7vw,54px); line-height:1.02; margin:0 0 16px; }
+  h1 em { font-style:normal; color:var(--sat); }
+  .lede { color:var(--ink-soft); margin:0; max-width:62ch; font-size:17px; }
+
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(110px,1fr)); gap:1px;
+           background:var(--rule); border:1px solid var(--rule); border-radius:3px;
+           margin:26px 0 0; overflow:hidden; }
+  .stat { background:var(--card); padding:13px 14px; }
+  .stat b { display:block; font-family:var(--serif); font-size:23px; line-height:1.15; font-weight:600; }
+  .stat span { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+               color:var(--ink-faint); }
+
+  /* sections */
+  section { padding-top:42px; }
+  h2 { font-family:var(--serif); font-size:clamp(23px,4.4vw,31px); font-weight:600; letter-spacing:-.015em;
+       margin:0 0 6px; line-height:1.15; }
+  .sub { color:var(--ink-faint); font-family:var(--mono); font-size:12px; letter-spacing:.12em;
+         text-transform:uppercase; margin:0 0 20px; }
+  h3 { font-size:17px; margin:26px 0 8px; }
+  p { margin:0 0 14px; max-width:66ch; }
+  ul { margin:0 0 14px; padding-left:20px; max-width:66ch; }
+  li { margin-bottom:6px; }
+
+  /* days */
+  .day { background:var(--card); border:1px solid var(--rule); border-left:4px solid var(--rule);
+         border-radius:3px; padding:16px 18px; margin-bottom:12px; }
+  .day.t { border-left-color:var(--tokyo); }
+  .day.s { border-left-color:var(--snow); }
+  .day.a { border-left-color:var(--alps); }
+  .day-h { display:flex; flex-wrap:wrap; gap:6px 12px; align-items:baseline; margin-bottom:8px; }
+  .day-n { font-family:var(--mono); font-size:11px; letter-spacing:.12em; text-transform:uppercase;
+           color:var(--ink-faint); }
+  .day-d { font-family:var(--serif); font-size:20px; font-weight:600; }
+  .day.t .day-d { color:var(--tokyo); } .day.s .day-d { color:var(--snow); } .day.a .day-d { color:var(--alps); }
+  .day-t { font-family:var(--mono); font-size:12px; color:var(--ink-faint); margin-left:auto; }
+  .day p { margin:0 0 8px; }
+  .day p:last-child { margin-bottom:0; }
+  .bed { font-family:var(--mono); font-size:12px; color:var(--ink-faint); margin-top:10px;
+         padding-top:9px; border-top:1px solid var(--rule); }
+
+  /* tables */
+  .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; margin:0 0 16px;
+            border:1px solid var(--rule); border-radius:3px; background:var(--card); }
+  table { border-collapse:collapse; width:100%; font-size:15px; min-width:min(100%,460px); }
+  th, td { text-align:left; padding:10px 13px; border-bottom:1px solid var(--rule); vertical-align:top; }
+  th { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+       color:var(--ink-faint); font-weight:400; white-space:nowrap; }
+  tr:last-child td { border-bottom:none; }
+  td.num { font-variant-numeric:tabular-nums; white-space:nowrap; }
+
+  .note { background:var(--card); border:1px solid var(--rule); border-left:4px solid var(--sat);
+          border-radius:3px; padding:14px 17px; margin:0 0 16px; }
+  .note p:last-child { margin-bottom:0; }
+  .note b { color:var(--sat); }
+
+  .q { background:var(--card); border:1px solid var(--rule); border-radius:3px;
+       padding:14px 17px; margin-bottom:10px; }
+  .q b { display:block; margin-bottom:4px; }
+  .q .who { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+            color:var(--sat); }
+
+  /* footer + controls */
+  footer { margin-top:52px; padding-top:22px; border-top:1px solid var(--rule);
+           font-family:var(--mono); font-size:12px; color:var(--ink-faint); }
+  footer a { color:var(--ink-faint); }
+  .themebtn { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+              background:none; border:1px solid var(--rule); color:var(--ink-faint); cursor:pointer;
+              padding:7px 11px; border-radius:3px; min-height:34px; }
+  #upd { position:fixed; left:50%; transform:translateX(-50%); bottom:calc(16px + env(safe-area-inset-bottom));
+         background:var(--sat); color:var(--paper); border:none; border-radius:999px; padding:12px 20px;
+         font-family:var(--mono); font-size:13px; cursor:pointer; display:none; z-index:9;
+         box-shadow:0 4px 18px rgba(0,0,0,.28); min-height:44px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <p class="eyebrow"><span>Northern Japanese Alps &middot; 13&ndash;22 Feb 2027</span><span class="ver">v0 &middot; draft</span></p>
+    <h1>Ten days around the <em>Japanese Alps</em></h1>
+    <p class="lede">Three ski mornings in Hakuba, the one ropeway that still reaches the high Alps in
+      winter, a night in an Okuhida ryokan, then Takayama and Shirakawa-go. Georgi, Nadir, Jakob, Rostik.</p>
+
+    <div class="stats">
+      <div class="stat"><b>10</b><span>days</span></div>
+      <div class="stat"><b>3</b><span>ski mornings</span></div>
+      <div class="stat"><b>4</b><span>of us</span></div>
+      <div class="stat"><b>2,156</b><span>m ropeway</span></div>
+      <div class="stat"><b>7</b><span>nights</span></div>
+    </div>
+  </header>
+
+  <section id="plan">
+    <h2>The plan, day by day</h2>
+    <p class="sub">Saturday 13 February &rarr; Monday 22 February 2027</p>
+
+    <p>A loop around the Northern Alps with no backtracking: Tokyo, Matsumoto, Hakuba, Okuhida,
+      Takayama, then back through Matsumoto to Tokyo. Matsumoto sits on the way <em>in</em>, which is
+      the trick that makes ten days enough.</p>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 1</span><span class="day-d">Sat 13 Feb</span><span class="day-t">departure</span></div>
+      <p>Fly out of Berlin after 21:00. One stop, roughly 15 hours door to door.</p>
+      <div class="bed">Night: on the plane</div>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 2</span><span class="day-d">Sun 14 Feb</span><span class="day-t">arrival</span></div>
+      <p>Land at Haneda in the evening. Nothing ambitious: eat something, sleep, let the jet lag start
+        unwinding. Haneda is much closer to the centre than Narita.</p>
+      <div class="bed">Night: Tokyo &middot; book early, this is still Chinese New Year week</div>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 3</span><span class="day-d">Mon 15 Feb</span><span class="day-t">transfer + Matsumoto</span></div>
+      <p>Limited Express Azusa from Shinjuku to <b>Matsumoto</b>, 2 h 30, ¥6,620. Matsumoto Castle is a
+        sixteenth century original and a designated National Treasure, and the town does very good soba.</p>
+      <p>Pick up the car in Matsumoto, drive to Hakuba, about an hour. Settle in.</p>
+      <div class="bed">Night: Hakuba (1 of 4)</div>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 4</span><span class="day-d">Tue 16 Feb</span><span class="day-t">🎿 ski 1</span></div>
+      <p><b>Happo-One.</b> 52 km of runs, 21 lifts, 1,071 m of vertical, and the slope the 1998 Olympic
+        downhill was raced on. Ski until early afternoon, then the village.</p>
+      <p>Rostik has his own programme: the beginner zones are <b>Nakiyama</b> and <b>Sakka</b> at the
+        base, with the ski school office right there, plus the <b>Shirakaba</b> slope at a maximum of 20°.</p>
+      <div class="bed">Night: Hakuba (2 of 4)</div>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 5</span><span class="day-d">Wed 17 Feb</span><span class="day-t">🎿 ski 2</span></div>
+      <p>Second resort. The Hakuba Valley pass covers <b>ten</b> of them, 133 km and 109 lifts in total,
+        but the valley is 40 km long, so it is one or two resorts a day and no more. Having the car is
+        what makes this realistic instead of theoretical.</p>
+      <div class="bed">Night: Hakuba (3 of 4)</div>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 6</span><span class="day-d">Thu 18 Feb</span><span class="day-t">🎿 ski 3 &middot; 🎂</span></div>
+      <p>Last ski morning, and it happens to be a <b>birthday</b>. Dinner in Hakuba that evening, and the
+        ryokan is the very next night, so the celebration runs across two nights.</p>
+      <div class="bed">Night: Hakuba (4 of 4)</div>
+    </div>
+
+    <div class="day a">
+      <div class="day-h"><span class="day-n">Day 7</span><span class="day-d">Fri 19 Feb</span><span class="day-t">into the Alps</span></div>
+      <p>Drive Hakuba &rarr; Matsumoto &rarr; <b>Route 158</b> through the Abo Tunnel to <b>Okuhida</b>,
+        about 2 h 30. This road has never been closed by snow even in deep winter, but it is a narrow
+        pass with a long winding descent, so no hurry.</p>
+      <p>Afternoon: the <b>Shinhotaka Ropeway</b>. Double-decker gondola to an observation deck at
+        <b>2,156 m</b> with a 360° view of the Hida range: Yarigatake, Hotaka, Kasagatake, Yakedake.
+        ¥3,300 return. Winter hours are 09:00&ndash;16:15, last ascent around 15:30.</p>
+      <p>This matters more than it sounds. Kamikochi is shut from 16 November to 16 April and the
+        Tateyama Kurobe route does not open until mid-April, so <b>this ropeway is the only way to get
+        close to the Northern Alps in February.</b></p>
+      <div class="bed">Night: 🏮 Okuhida ryokan with an open-air rotenburo &middot; the one deliberate splurge</div>
+    </div>
+
+    <div class="day a">
+      <div class="day-h"><span class="day-n">Day 8</span><span class="day-d">Sat 20 Feb</span><span class="day-t">Takayama</span></div>
+      <p>Okuhida &rarr; <b>Takayama</b>, 50 minutes. Sanmachi Suji, the Edo-era merchant quarter, Hida
+        beef, sake breweries.</p>
+      <p>Afternoon run out to <b>Shirakawa-go</b> and back, 50 minutes each way. The gassho-zukuri
+        village under snow is the picture everybody knows.</p>
+      <div class="bed">Night: Takayama</div>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 9</span><span class="day-d">Sun 21 Feb</span><span class="day-t">back to Tokyo</span></div>
+      <p><b>Takayama morning market</b> from 08:00 until around noon, at Miyagawa riverside and in front
+        of Takayama Jinya. Fewer stalls in winter than in the photos, but it is still the best hour of
+        the day here.</p>
+      <p>On the road by 09:00. Drive to Matsumoto over Route 158 (~2 h 30), drop the car, Azusa to
+        Tokyo, in the city around 15:00. Afternoon and evening in Tokyo, then Haneda for the night flight.</p>
+      <div class="bed">Night: on the plane</div>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 10</span><span class="day-d">Mon 22 Feb</span><span class="day-t">home</span></div>
+      <p>Land in Berlin in the morning.</p>
+      <div class="bed">7 nights booked: Tokyo ×1, Hakuba ×4, Okuhida ×1, Takayama ×1</div>
+    </div>
+  </section>
+
+  <section id="dates">
+    <h2>Why exactly these dates</h2>
+    <p class="sub">six things to dodge, from two directions</p>
+
+    <p>February 2027 starts on a Monday. The dates were not picked for convenience: the first two
+      weeks of February are the <b>worst possible window</b>, hit from both sides at once. Expensive
+      tickets out of Germany, crowded slopes in Japan.</p>
+
+    <h3>Japan side</h3>
+    <div class="scroll"><table>
+      <tr><th>Date</th><th>What</th><th>Effect</th></tr>
+      <tr><td class="num"><b>6 Feb</b></td><td>Chinese New Year, Year of the Fire Goat</td><td>Wave from China, Hong Kong, Taiwan, Singapore. Japanese resorts are their main winter destination. Peak roughly 6&ndash;13 Feb</td></tr>
+      <tr><td class="num"><b>11 Feb</b> (Thu)</td><td>National Foundation Day</td><td>Many take the Friday too, so it becomes a four-day weekend on the slopes</td></tr>
+      <tr><td class="num"><b>23 Feb</b> (Tue)</td><td>The Emperor's Birthday</td><td>Lands exactly on a ski Tuesday</td></tr>
+      <tr><td class="num">Sat &amp; Sun</td><td>Japanese people ski at weekends</td><td>Midweek is much quieter for the same money</td></tr>
+    </table></div>
+
+    <h3>Germany side</h3>
+    <div class="scroll"><table>
+      <tr><th>Date</th><th>What</th><th>Effect</th></tr>
+      <tr><td class="num"><b>1&ndash;6 Feb</b></td><td>Berlin Winterferien</td><td>Price spike on departures from BER</td></tr>
+      <tr><td class="num"><b>4&ndash;10 Feb</b></td><td>Carnival: Weiberfastnacht 4th, Rosenmontag 8th, Ash Wednesday 10th</td><td>School holidays in several states, another price spike</td></tr>
+    </table></div>
+
+    <div class="note">
+      <p><b>So 13&ndash;22 February is the clean window.</b> We land on the 14th with the Chinese wave
+        gone and the 11th behind us. We ski Tuesday to Thursday, clean midweek days with no holiday
+        anywhere near them. We fly home on the 22nd, the day before the Emperor's Birthday refills
+        everything. And mid-February is the <b>deepest snow base of the season</b>: December and
+        January snow has settled, the spring melt has not started.</p>
+      <p>One soft spot: 13&ndash;14 February is the tail of Chinese New Year week, so the Tokyo hotel
+        for the night of the 14th should be booked early.</p>
+    </div>
+  </section>
+
+  <section id="money">
+    <h2>What it costs</h2>
+    <p class="sub">per person &middot; €1 ≈ ¥185, checked 31 Jul 2026</p>
+
+    <p>Everything below is an estimate except the two lines marked as confirmed. Nothing here has
+      been booked yet.</p>
+
+    <div class="scroll"><table>
+      <tr><th>Item</th><th>€</th><th>Note</th></tr>
+      <tr><td>Flight BER ↔ Tokyo, economy</td><td class="num">750&ndash;1,000</td><td>not checked live yet</td></tr>
+      <tr><td><b>Hakuba Valley 3-day pass</b></td><td class="num"><b>174</b></td><td>✅ confirmed, ¥32,200, official 2026/27 price</td></tr>
+      <tr><td>Ski or board rental, 3 days</td><td class="num">~85</td><td>Hakuba prices not checked yet</td></tr>
+      <tr><td>Car, 7 days with winter tyres, split four ways</td><td class="num">120&ndash;160</td><td>plus fuel and tolls</td></tr>
+      <tr><td>Azusa Shinjuku ↔ Matsumoto, both ways</td><td class="num">~72</td><td>¥13,240</td></tr>
+      <tr><td>Tokyo, 1 night</td><td class="num">60&ndash;90</td><td></td></tr>
+      <tr><td>Hakuba, 4 nights</td><td class="num">240&ndash;360</td><td>apartment for four</td></tr>
+      <tr><td>🏮 Okuhida ryokan, 1 night with dinner</td><td class="num">120&ndash;200</td><td>the deliberate splurge</td></tr>
+      <tr><td>Takayama, 1 night</td><td class="num">60&ndash;100</td><td></td></tr>
+      <tr><td><b>Shinhotaka Ropeway</b></td><td class="num"><b>18</b></td><td>✅ confirmed, ¥3,300 return</td></tr>
+      <tr><td>Food and onsen</td><td class="num">~400</td><td>roughly €45 a day</td></tr>
+      <tr><td><b>Total</b></td><td class="num"><b>2,100&ndash;2,750</b></td><td>all estimates</td></tr>
+    </table></div>
+
+    <p><b>No Japan Rail Pass.</b> It costs ¥50,000, and ¥53,000 from 1 October 2026, while our actual
+      long-distance legs come to about ¥20,000. Skipping it saves roughly €160 each.</p>
+  </section>
+
+  <section id="practical">
+    <h2>Things that will bite if we forget them</h2>
+    <p class="sub">checked against official sources</p>
+
+    <div class="note">
+      <p><b>A German International Driving Permit is not valid in Japan.</b> Japan recognises the 1949
+        Geneva Convention, Germany signed the 1968 Vienna one. German licence holders need an
+        <b>official Japanese translation</b> carried together with the original licence. It comes from
+        ADAC Südbayern, the only licensed office in Europe: €65 in person in Munich, €70 by post,
+        10&ndash;14 working days, and they need the physical licence, not a scan.</p>
+      <p>Georgi and Nadir already have theirs. <b>Anyone else who wants to drive needs their own.</b></p>
+    </div>
+
+    <ul>
+      <li><b>Winter tyres must be booked with the car.</b> Rental companies will not fit them on
+        arrival. Snow tyres or chains are required on Route 158 from mid-November to early April.</li>
+      <li><b>No car rental exists in Okuhida or Hirayu.</b> Nearest offices are downtown Takayama or
+        downtown Matsumoto, which is why the car is picked up and dropped in Matsumoto.</li>
+      <li><b>No visa for German passports.</b> Visa-free up to 90 days. JESTA, Japan's ESTA equivalent,
+        only starts in fiscal year 2028, so it does not touch this trip.</li>
+      <li><b>The Shirakawa-go winter light-up is not available to us.</b> In 2027 it runs on four
+        evenings only, all in January: the 11th, 17th, 24th and 31st, advance booking only. The village
+        itself is open and deep in snow in February, just without the illumination.</li>
+      <li><b>Day 9 is the tight one.</b> Route 158 on the morning we fly home. The road does not close,
+        but snow slows it. Leaving Takayama by 09:00 leaves about ten hours of buffer.</li>
+    </ul>
+  </section>
+
+  <section id="open">
+    <h2>Still open</h2>
+    <p class="sub">these block bookings</p>
+
+    <div class="q"><span class="who">Nadir</span><b>Toyama: in or out?</b>
+      Nadir wanted a full circle including Toyama, and geographically he is right, it is what makes
+      this a circle rather than a loop. It does not fit in ten days as planned. Putting it back costs
+      an eleventh day, or Shirakawa-go, or a ski day. Toyama is a pleasant modern city: Toyama Bay
+      sushi, the Kengo Kuma glass museum, Kansui Park. Good, not a headline.</div>
+
+    <div class="q"><span class="who">Georgi</span><b>Whose birthday is 18 February, and how do we mark it?</b>
+      It lands on the last ski day. Current plan is dinner in Hakuba that night with the ryokan the
+      night after. The alternative is moving the ryokan onto the birthday itself, which reshuffles
+      days 6 and 7.</div>
+
+    <div class="q"><span class="who">Everyone</span><b>Is the group confirmed at four?</b>
+      Apartment size, car class and every price on this page depend on it.</div>
+
+    <div class="q"><span class="who">Everyone</span><b>Skis or snowboard, each of us?</b>
+      Does not change the rental plan, slightly changes which slopes we favour.</div>
+
+    <div class="q"><span class="who">Rostik</span><b>Ski school, or do we teach him?</b>
+      Affects day 4 only. Worth knowing that a private lesson is priced per instructor rather than per
+      person, so it can cover several of us at once.</div>
+
+    <div class="q"><span class="who">Everyone</span><b>Is an afternoon plus evening enough for Tokyo?</b>
+      As planned we get roughly 15:00 to 21:00 on day 9. A full Tokyo day needs an eleventh day, or
+      dropping Shirakawa-go.</div>
+  </section>
+
+  <footer>
+    Planning page for Georgi, Nadir, Jakob and Rostik &middot;
+    <a href="v/">v0 &middot; draft</a> &middot;
+    full decision log and sources live in <code>TRIP.md</code> in the repo
+    <p style="margin-top:14px"><button class="themebtn" id="tt">theme</button></p>
+  </footer>
+</div>
+
+<button id="upd">A newer version is out &middot; refresh</button>
+
+<script>
+(function () {
+  var VLOG = 'v/versions.tsv';
+  var root = document.documentElement;
+
+  // theme toggle, remembered locally
+  try {
+    var saved = localStorage.getItem('theme');
+    if (saved) root.setAttribute('data-theme', saved);
+  } catch (e) {}
+  document.getElementById('tt').addEventListener('click', function () {
+    var now = root.getAttribute('data-theme');
+    if (!now) {
+      now = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    var next = now === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e) {}
+  });
+
+  // GitHub Pages caches HTML for ~10 minutes, so check the version log directly
+  var stamp = document.querySelector('.ver');
+  var mine = stamp ? parseInt((stamp.textContent.match(/\d+/) || [0])[0], 10) : 0;
+  fetch(VLOG + '?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { return r.ok ? r.text() : ''; })
+    .then(function (txt) {
+      var lines = txt.trim().split('\n').filter(Boolean);
+      if (!lines.length) return;
+      var latest = parseInt(lines[lines.length - 1].split('\t')[0], 10);
+      if (latest > mine) {
+        var b = document.getElementById('upd');
+        b.style.display = 'block';
+        b.addEventListener('click', function () { location.reload(true); });
+      }
+    })
+    .catch(function () {});
+})();
+</script>
+</body>
+</html>
