@@ -42,7 +42,7 @@ Two on skis, two on boards. All four hold **German passports**.
 | 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle, gains Zenko-ji |
 | 1 Aug 2026 | **Group confirmed at four** | Georgi |
 | 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
-| 31 Jul 2026 | **Rental car** for the second half | Georgi and Nadir already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
+| 31 Jul 2026 | **Rental car** for the second half | Three of us already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
 | 1 Aug 2026 | **Takayama is out, Toyama is in** | Rostik has been to Takayama and says it is not worth a stop. Toyama was Nadir's original ask. Okuhida sits on the road north to Toyama, so the ropeway and the ryokan survive and the coast gets added: the A / B fork dissolved |
 | 1 Aug 2026 | **Kanazawa added on day 7** | Fills what had become an empty day 8, and Omicho Market is in snow crab season |
@@ -252,7 +252,7 @@ Everything in this section has a source. Do not edit these numbers without a new
 - Issued by **ADAC Südbayern**, the only licensed office in Europe. €65 in person in Munich,
   €70 by post, **10–14 working days**, and they need the **original licence**, not a copy.
   [ADAC](https://www.adac.de/der-adac/regionalclubs/suedbayern/fuehrerscheinuebersetzung-japan/)
-  → **Georgi and Nadir already have theirs.** Anyone else who wants to drive needs their own.
+  → **Three of us already have theirs.** Anyone else who wants to drive needs their own.
 - **Route 158 (Matsumoto – Hirayu – Takayama) has never been closed by snow, even in deep
   winter.** It is a narrow mountain pass with a long winding descent past Hirayu.
 - **Snow tyres or chains are required from mid-November to early April.** Winter tyres must
@@ -373,8 +373,8 @@ evening-drive product we want.
 ### What this means for four people
 
 Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all four of us fit in
-one car if we want. But **Georgi and Nadir both hold the Japanese translation of their
-licences**, so two cars is equally possible and arguably the whole point.
+one car if we want. But **three of us hold the Japanese translation of our licences**, so two
+cars is equally possible and arguably the whole point.
 
 | Shape | Cost | Per person |
 |---|---|---|
@@ -447,14 +447,15 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 | 🚨 **Both branches close at 18:30** | Late return is **¥6,600 per 30 minutes**. So the night drive cannot end with handing the keys back and boarding. It has to be a **24-hour rental across days 8 and 9**, returned by 18:30 on the 9th, and we fly that night |
 | ⚠️ **Luggage** | Four people with ten days of bags in an EVO is tight. We rent ski gear on site, so no ski bags, but it is still tight |
 
-#### Two things to confirm before booking anything
+#### The licence is not a blocker
 
-1. 🚨 **The licence.** Their terms say: *"We will require your original physical driver's licence,
-   passport, and International Driving Permit (IDP)"*, and *"if the IDP you bring is incorrect or
-   invalid, we will not provide a refund."* **German licences cannot get a Japan-valid IDP**, we
-   carry the ADAC Japanese translation instead. The group has rented from them before so it
-   presumably worked, but the wording is unforgiving. **Get it confirmed in writing.**
-2. **After-hours return.** Whether anything can be arranged past 18:30, and at what price.
+✅ Their terms mention an IDP, but German licences cannot get a Japan-valid one anyway, we
+carry the ADAC Japanese translation instead. Three of us hold it, and the group has rented
+from OnlyJDM before on that same document.
+
+#### One thing left to confirm before booking anything
+
+**After-hours return.** Whether anything can be arranged past 18:30, and at what price.
 
 #### Their other terms
 
@@ -478,11 +479,11 @@ Nothing structural is blocking any more. What is left is detail and booking.
 2. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
-   luggage. Two things have to be confirmed with the operator first: whether they accept the
-   ADAC translation instead of an IDP, and whether the car can come back after 18:30.
+   luggage. One thing left to confirm with the operator: whether the car can come back after
+   18:30.
 
 3. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
-   (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
+   (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
 
 4. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is

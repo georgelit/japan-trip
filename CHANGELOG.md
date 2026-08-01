@@ -33,6 +33,16 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v16 &middot; 1 Aug 2026 &middot; Nadir
+
+**The IDP concern is dropped, it was never real for us.** OnlyJDM's terms mention an
+International Driving Permit, but German licences cannot get a Japan-valid one anyway, we
+carry the ADAC Japanese translation instead. Nadir confirmed **three of us** now hold that
+translation, on top of the group's prior rental history with OnlyJDM on the same document. The
+"🚨 licence" warning is gone from the JDM sections and both headcount mentions moved from
+"Georgi and Nadir" to "three of us." The one thing still open on that option is the after-hours
+return past 18:30, not the licence.
+
 ## v15 &middot; 1 Aug 2026 &middot; Georgi
 
 **Added a costed option: one JDM car for the whole trip instead of the three-part transport
