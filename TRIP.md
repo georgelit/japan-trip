@@ -369,9 +369,59 @@ Everything in this section has a source. Do not edit these numbers without a new
 
 ---
 
-## Open questions
+## 🏎 The Tokyo drive
 
-Only one real blocker left.
+✅ **Decided (1 Aug, Georgi).** Self-drive, not a chauffeured tour. Operator is **OnlyJDM**,
+<https://only-jdm.com>, which the group has already rented from once before. That trip went
+*out* of Tokyo; **this time the point is central Tokyo and the busy districts at night.**
+
+### Why the operator choice settles the logistics too
+
+OnlyJDM has two branches, and one of them is **at Haneda Airport**. That turns the last day
+into a straight line with nothing wasted: reach Tokyo, pick the car up, drive through the
+evening, drop it back at Haneda, walk to the terminal, fly. The other branch is **Tokyo North**.
+
+They price in two tiers, **7 hours** and **24 hours**. The 7-hour tier is exactly the
+evening-drive product we want.
+
+### Prices, checked 1 Aug 2026
+
+⚠️ Live prices off the site on 1 Aug 2026. They will move, re-check at booking.
+
+| Car | Seats | Gearbox | Store | 7 h | 24 h |
+|---|---|---|---|---|---|
+| **Skyline R34** (auto) | 5 | A | Haneda | **¥20,800** (≈ €112) | ¥23,800 |
+| Skyline R34 (manual) | 5 | M | Haneda | ¥32,800 (≈ €177) | ¥36,800 |
+| **Silvia S15** | 4 | M | Tokyo North | ¥23,800 (≈ €129) | ¥26,800 |
+| EVO X | 5 | A | Haneda | ¥23,800 (≈ €129) | ¥25,800 |
+| **Supra A80** | 4 | A | Haneda | ¥32,800 (≈ €177) | ¥36,800 |
+| Civic Type R FL5 | 4 | M | Haneda | ¥32,800 (≈ €177) | ¥36,800 |
+| **Skyline GT-R R32** | 4 | M | Tokyo North | ¥36,800 (≈ €199) | ¥39,800 |
+| **GT-R R35** | 4 | A | Haneda | ¥50,800 (≈ €275) | ¥56,800 |
+| **RX-7 FD** | 4 | M | Haneda | ¥51,800 (≈ €280) | ¥58,800 |
+
+### What this means for four people
+
+Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all four of us fit in
+one car if we want. But **Georgi and Nadir both hold the Japanese translation of their
+licences**, so two cars is equally possible and arguably the whole point.
+
+| Shape | Cost | Per person |
+|---|---|---|
+| One R34, 7 h | ¥20,800 | **≈ €28** |
+| Two cars (R34 + S15), 7 h | ¥44,600 | **≈ €60** |
+| One R35 GT-R, 7 h | ¥50,800 | **≈ €69** |
+
+Cheap relative to everything else on this trip. Long-term discounts exist (5 % from 3 days,
+15 % from 7) but do not apply to a single evening.
+
+⚠️ **Not yet checked:** licence requirements, insurance, deposit and minimum age are not
+published on the public site, they sit inside the booking flow. The group has rented here
+before, so this is a confirm-at-booking item rather than an unknown.
+
+---
+
+## Open questions
 
 1. 🔴 **Route A or Route B?** Mountains (Okuhida, the Shinhotaka Ropeway, a rotenburo ryokan,
    Takayama, Shirakawa-go) or coast (Toyama, Kanazawa, snow crab, city rhythm, and the actual
@@ -380,35 +430,36 @@ Only one real blocker left.
    route B means no close-up view of the Northern Alps**, because the ropeway is the only
    winter access and it goes with Takayama.
 
-2. 🟢 **JDM night drive: book it or not?** It now has two clear evenings, day 8 or day 9 in
-   Tokyo. Operators are real: chauffeured three-hour night runs past Rainbow Bridge and
-   **Daikoku PA** in an R34/R32/R35 GT-R, RX-7, S15 or Supra
-   ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive on an IDP
-   ([JDM TOUR](https://jdmtour.com/jdm/sports_car_rental_tokyo/), Fri–Sun 17:00–21:00 or
-   Mon–Thu 18:30–22:30). ⚠️ **Pricing still not checked.** If we take the Monday slot the
-   Mon–Thu window applies and we fly that night, so it has to end in time for Haneda.
+2. 🟡 **What happens to day 8 now?** Georgi's shape for the drive is "reach Tokyo around
+   midday, take the car, drive until late, then the airport", and that fits into **day 9
+   alone**. Which leaves day 8, Sunday 21 February, without a job. Three ways to spend it:
+   - **Leave it as a free day in Tokyo.** Simplest, and nobody has to move.
+   - **Give it back to the mountains.** This is the day that would let **Toyama** back into
+     route A, which was Nadir's original ask, or buy a second day around Okuhida and Takayama.
+   - **Cut it and fly home a day earlier**, making the trip nine days.
 
-3. 🟢 **What actually goes into the two Tokyo days?** Nadir noted activities are missing. There
-   are now two full days plus an arrival evening and nothing is planned in them. Open to
-   everyone.
+   ⚠️ One thing not to do: compress so far that we reach Tokyo from Takayama *on* the flight
+   day. That puts the Route 158 mountain pass back on the morning we fly, which is exactly the
+   risk we removed.
 
 ### Closed
 
+- ✅ **The Tokyo drive is booked in principle** (1 Aug, Georgi): self-drive with **OnlyJDM**,
+  central Tokyo, evening, 7-hour tier. See the section above for cars and prices. This also
+  answers what the Tokyo time is *for*, so the "activities are missing" gap is closed at the
+  Tokyo end.
+- ✅ **Chauffeured tours are out.** The point is driving it ourselves.
 - ✅ **Group confirmed at four** (1 Aug, Georgi).
 - ✅ **Valentine's Day is spent in Berlin** (1 Aug, Georgi and Nadir). We fly out that evening.
   This is what moved the whole trip one day later.
 - ✅ **Ski days are Tuesday, Wednesday, Thursday**, no weekends. Nadir's stated priority.
 - ✅ **The ryokan is on a Thursday**, the cheapest night tier in Japan, not a Friday.
 - ✅ **Nadir's birthday, 18 Feb, is the ryokan night** in route A, a Hakuba ryokan in route B.
-  Either way it is the ryokan, not a restaurant.
 - ✅ **Nagano, not Matsumoto, as the way in.** Faster from Tokyo, and it is what makes the late
-  Monday arrival work at all. Costs Matsumoto Castle, gains Zenko-ji.
+  Monday arrival work at all.
 - ✅ **Rostik: no ski school.** He teaches himself throughout.
-- ✅ **Tokyo gets two full days**, not an afternoon.
-- ✅ **The Route 158 risk on the flight day is gone.** The mountain pass is now driven three
-  days before we fly.
-- ✅ **March is documented as a fallback** but is not needed: February works with Valentine's
-  Day at home.
+- ✅ **The Route 158 risk on the flight day is gone.** The pass is driven three days before we fly.
+- ✅ **March is documented as a fallback** but is not needed.
 - ✅ **Nadir has write access** (`nadir35`, invited 1 Aug 2026).
 
 ---

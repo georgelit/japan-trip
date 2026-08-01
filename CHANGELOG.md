@@ -33,6 +33,32 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v12 &middot; 1 Aug 2026 &middot; Georgi
+
+**The Tokyo drive is decided, and it changed the shape of the last days.**
+
+- **Self-drive, not a chauffeured tour**, with **OnlyJDM** (<https://only-jdm.com>), who the
+  group has rented from once before. The earlier trip went *out* of Tokyo; this time the point
+  is **central Tokyo and the busy districts at night**.
+- **Their Haneda Airport branch settles the logistics.** Drop the car, walk to the terminal,
+  fly. The last day becomes a straight line: reach Tokyo around midday, drive through the
+  evening, board.
+- **Real prices added** (read off the site 1 Aug 2026). They sell a **7-hour tier**, which is
+  exactly this. R34 Skyline ¥20,800, Supra A80 ¥32,800, R32 GT-R ¥36,800, R35 GT-R ¥50,800,
+  RX-7 FD ¥51,800. Split four ways an R34 is about €28 a head.
+- **One car or two:** the R34 and the EVO seat five, so we all fit in one, but Georgi and Nadir
+  both hold translated licences, so two cars works too.
+- **This closed the "activities are missing" gap at the Tokyo end.** It also means **day 8,
+  Sunday 21 February, no longer has a job**, since the whole drive fits into day 9. That is now
+  an open question: free Tokyo day, give the day back to the mountains (this is what would let
+  **Toyama** into route A), or cut it and fly home a day earlier.
+
+## v11 &middot; 1 Aug 2026 &middot; Georgi
+
+Housekeeping on the working rules: fixed stale dates and night counts left in `CLAUDE.md`, and
+moved the new "answering what changed?" section out of the middle of the publish workflow where
+it had landed.
+
 ## v10 &middot; 1 Aug 2026 &middot; Georgi
 
 **This file and `whatsnew.sh` were added**, so either of us can find out what the other changed
