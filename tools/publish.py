@@ -144,7 +144,9 @@ def main():
     n = int(rows[-1][0]) + 1 if rows else 1
     now = datetime.datetime.now()
     stamp = "%d.%02d %02d:%02d" % (now.day, now.month, now.hour, now.minute)
-    author = git("config", "user.name", check=False) or "unknown"
+    author = (git("config", "user.name", check=False)
+              or git("log", "-1", "--format=%an", check=False)
+              or "unknown")
 
     page = io.open(PAGE, encoding="utf-8").read()
     page, k1 = re.subn(r'<span class="ver">[^<]*</span>',

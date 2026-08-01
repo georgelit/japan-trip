@@ -1,7 +1,8 @@
-1	2026-08-01T11:52	unknown	first version: 10-day route Hakuba, Okuhida, Takayama, Shirakawa-go
-2	2026-08-01T11:54	unknown	stats block: added ryokan count so the mobile grid fills evenly
-3	2026-08-01T12:02	unknown	Nadir's birthday on the 18th, gear split (2 skis / 2 boards), resorts assigned to each ski day
-4	2026-08-01T12:13	unknown	Nadir (nadir35) added as collaborator
+1	2026-08-01T11:52	Georgi Litvinov	first version: 10-day route Hakuba, Okuhida, Takayama, Shirakawa-go
+2	2026-08-01T11:54	Georgi Litvinov	stats block: added ryokan count so the mobile grid fills evenly
+3	2026-08-01T12:02	Georgi Litvinov	Nadir's birthday on the 18th, gear split (2 skis / 2 boards), resorts assigned to each ski day
+4	2026-08-01T12:13	Georgi Litvinov	Nadir (nadir35) added as collaborator
 5	2026-08-01T12:36	nadir35	log open questions: Nagano entry, JDM night drive, Valentine's Day, ryokan weekend, Takayama/Kanazawa swap
-6	2026-08-01T13:55	unknown	Rostik: no ski school, self-taught throughout (question 4 closed)
-7	2026-08-01T14:10	unknown	route split into A (mountains) and B (coast), both costed; ryokan moved to Thursday which closes four questions
+6	2026-08-01T13:55	Georgi Litvinov	Rostik: no ski school, self-taught throughout (question 4 closed)
+7	2026-08-01T14:10	Georgi Litvinov	route split into A (mountains) and B (coast), both costed; ryokan moved to Thursday which closes four questions
+8	2026-08-01T14:11	Georgi Litvinov	fix: publish.py fell back to 'unknown' when git user.name was unset; repaired v6 and v7 rows
