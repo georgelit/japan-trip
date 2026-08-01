@@ -1,7 +1,7 @@
 # Japan trip page — how to work on this repo
 
 This repository holds one published page: the plan for a ten-day trip around the Northern
-Japanese Alps, 13–22 February 2027, for Georgi, Nadir, Jakob and Rostik.
+Japanese Alps, 14–23 February 2027, for Georgi, Nadir, Jakob and Rostik.
 
 Live at **https://georgelit.github.io/japan-trip/**
 
@@ -40,6 +40,16 @@ able to find out what moved and why without asking. Say what changed, what it re
 the reason. A published version with no changelog entry is a version nobody can reconstruct
 later.
 
+The script pulls again, bumps the version number, stamps the header and footer, freezes a
+copy into `v/vN.html`, rebuilds the history page and pushes. The live page updates in about
+two minutes.
+
+**Do not hand-edit** the version stamp (`<span class="ver">`) or the version link in the
+footer. The script writes those; editing them by hand breaks the numbering.
+
+**Do not `git commit` or `git push` directly.** Only `./publish.sh`, otherwise the version
+never lands in the history.
+
 ## Answering "what changed?"
 
 When someone asks what changed, what Nadir changed, or what happened since they last looked,
@@ -55,16 +65,6 @@ When someone asks what changed, what Nadir changed, or what happened since they 
 It reads git and `v/versions.tsv`, so it cannot be stale. Read `CHANGELOG.md` alongside it for
 the reasoning, then summarise both.
 
-The script pulls again, bumps the version number, stamps the header and footer, freezes a
-copy into `v/vN.html`, rebuilds the history page and pushes. The live page updates in about
-two minutes.
-
-**Do not hand-edit** the version stamp (`<span class="ver">`) or the version link in the
-footer. The script writes those; editing them by hand breaks the numbering.
-
-**Do not `git commit` or `git push` directly.** Only `./publish.sh`, otherwise the version
-never lands in the history.
-
 ## Content rules
 
 - **Never invent a fact.** Prices, opening hours, driving times, holiday dates, ropeway
@@ -79,7 +79,7 @@ never lands in the history.
 - **No em dashes as a thought separator.** Use a comma, a colon, brackets, or a new sentence.
 - Money in **euros**, with the yen figure alongside where it helps. Rate in use: €1 ≈ ¥185,
   noted with the date it was checked.
-- Numbers in the header stats block (10 days, 3 ski mornings, 4 of us, 2,156 m, 7 nights)
+- Numbers in the header stats block (10 days, 3 ski mornings, 4 of us, 2,156 m, 8 nights, 1 ryokan)
   must match the itinerary below them. If you change the route, check the stats block, the
   footer, and `<meta name="description">` at the top of the file.
 

@@ -33,6 +33,14 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v10 &middot; 1 Aug 2026 &middot; Georgi
+
+**This file and `whatsnew.sh` were added**, so either of us can find out what the other changed
+without asking. `CLAUDE.md` and `FOR-NADIR.md` now require a changelog entry on every publish,
+and tell Claude to answer "what changed?" by running the tool rather than from memory. The
+duplicate changelog table inside `TRIP.md` was removed and now points here, so the two cannot
+drift apart.
+
 ## v9 &middot; 1 Aug 2026 &middot; Georgi
 
 **The whole trip moved one day later: 13–22 Feb became 14–23 Feb.**
