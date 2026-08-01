@@ -243,11 +243,13 @@ Ranked. The top ones block bookings.
    in 10 days as planned. Putting it back costs either an 11th day, or Shirakawa-go, or a
    ski day. **Nadir to decide whether it is worth it.** Toyama is a pleasant modern city:
    Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park. It is not a headline stop,
-   but it is what turns the route into an actual circle.
+   but it is what turns the route into an actual circle. See #11 below, a Kanazawa swap
+   could pull the second half further along the same coast.
 2. 🟡 **Nadir's birthday, 18 February: does the current shape work?** It lands on the last ski
    day, so he picks the mountain, then dinner in Hakuba, then the ryokan the following night.
    Two-night celebration. The alternative is swapping days 6 and 7 so the birthday itself
-   falls on the ryokan with the rotenburo. Nadir's call.
+   falls on the ryokan with the rotenburo. **The birthday does not have to land on a ski day
+   at all**, it is only there because day 6 happened to be the last one on snow. Nadir's call.
 3. 🟡 **Confirm the group at four.** Working assumption for now. Apartment size, car class and
    every price here depend on it, so it needs settling before any booking.
 4. 🟡 **Rostik: ski school or we teach him?** Affects day 4 only. Worth knowing that a private
@@ -258,7 +260,53 @@ Ranked. The top ones block bookings.
    drop the car in Takayama and take the Nohi/Alpico bus instead.
 6. 🟢 **Tokyo: is an afternoon plus evening enough?** As planned we get roughly 15:00 to
    21:00 in Tokyo on day 9. A full Tokyo day would need an 11th day, or dropping
-   Shirakawa-go.
+   Shirakawa-go. See #8, a JDM night drive would need real time carved out of this same slot.
+7. 🟡 **Nagano instead of Matsumoto as the way in?** Tokyo Station → Nagano is 77–95 min on
+   the Hokuriku Shinkansen (~¥8,000–9,500), then Nagano → Hakuba is ~60–70 min by Alpico bus
+   (¥2,200–2,400). That beats Shinjuku → Matsumoto (Azusa, 2 h 30, ¥6,620) → Hakuba (~1 h by
+   car) by roughly 40–70 minutes each way, and Nagano has rental car offices at the station
+   (Toyota, Times, Nippon, Orix). What it costs: Matsumoto Castle would need dropping or
+   re-routing as a detour, and it is **not yet confirmed** whether a car picked up in Nagano
+   naturally passes Matsumoto on the way to Okuhida via Route 158, or needs a real backtrack.
+   **Nadir to decide.**
+   [Hokuriku Shinkansen](https://www.snowmonkeyresorts.com/access/hokuriku-shinkansen/) ·
+   [Nagano–Hakuba bus](https://thehakubacollection.com/hakuba/access/nagano-to-hakuba) ·
+   [Nagano car rental](https://db.go-nagano.net/en/travel-guide/transportation/car-rental/)
+8. 🟢 **A JDM night drive in Tokyo is missing from the plan.** Real operators exist: a
+   chauffeured 3-hour night ride past Rainbow Bridge and **Daikoku PA** (the actual
+   expressway car-meet spot) in an R34/R32/R35 GT-R, RX-7, S15 or Supra
+   ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive with an IDP
+   ([JDM TOUR](https://jdmtour.com/jdm/sports_car_rental_tokyo/), Fri–Sun 17:00–21:00 or
+   Mon–Thu 18:30–22:30). ⚠️ Pricing not checked. Neither current Tokyo slot fits well: day 2
+   evening is jet-lagged arrival, day 9 is already the tight pre-flight window in #6. Needs
+   either more Tokyo time or a dedicated slot. **Nadir to decide.**
+9. 🟢 **Valentine's Day, 14 Feb 2027, is a Sunday and falls on the arrival/transit day.**
+   Under the current plan it is spent landing at Haneda, not with anyone at home. Shifting
+   departure later to actually spend the 14th in Berlin pushes the return either onto 23 Feb
+   (Emperor's Birthday, already a locked no-go) or pushes ski days onto a weekend, the two
+   things these dates were chosen to avoid. Also worth knowing: Japan's Feb 14 is not really
+   a date-night culture event, it is one-directional chocolate-giving (often *giri-choco*,
+   "obligation chocolate," mostly for coworkers), the reciprocal falls on White Day, 14 March.
+   Not something to plan around for its own sake.
+   [Nippon.com](https://www.nippon.com/en/features/jg00025/) **Nadir to decide if this is
+   worth disturbing the dates for.**
+10. 🟡 **The ryokan night currently falls on a Friday (19 Feb), borderline weekend pricing
+    and crowding.** Same family of question as #2, worth considering together if days get
+    reshuffled. **Nadir to decide.**
+11. 🔴 **Swap Takayama for Kanazawa, or push further up the coast, for seafood and city
+    vibes instead of the old-town focus.** Nadir's read: Kanazawa for a livelier, more urban
+    ("little Tokyo") feel rather than Takayama's old-town pace. Worth flagging: Kanazawa's
+    actual tourist reputation runs the other way, it is usually branded **"Little Kyoto"**
+    for its preserved geisha and samurai quarters, so worth confirming that is still the vibe
+    wanted. What Kanazawa does bring for real: **Omicho Market**, a genuine seafood market,
+    plus Kenrokuen. Access from Hakuba is via Nagano: Alpico bus (~1 h, ¥2,200) then Hokuriku
+    Shinkansen (~65 min, ¥8,920), no direct road time confirmed. Toyama is closer by car
+    (~128 km, 1 h 32) and has its own case, see #1. **What this costs:** swapping out
+    Takayama likely means swapping out the **Shinhotaka Ropeway** too unless it is kept as a
+    separate stop, and the ropeway is verified as the only winter access to the Northern
+    Alps. **Nadir to decide the shape of the second half.**
+    [Kanazawa day trip from Hakuba](https://maiandchristravel.com/what-to-do-in-toyoma/)
+
 ✅ **Closed:** Nadir has write access to this repo (`nadir35`, invited 1 Aug 2026). Onboarding
 text for him is in `FOR-NADIR.md`.
 
@@ -270,6 +318,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Nadir + Claude | Logged six new open questions: Nagano vs Matsumoto as entry point, a missing JDM night drive in Tokyo, Valentine's Day timing, the ryokan landing on a Friday, birthday not needing a ski day, and swapping Takayama for Kanazawa |
 | 1 Aug 2026 | Georgi | Nadir (`nadir35`) invited as a collaborator with write access. Two editors from here on |
 | 1 Aug 2026 | Georgi | Birthday on 18 Feb is **Nadir's**. Gear split confirmed: Georgi and Jakob on skis, Nadir and Rostik on snowboards. Group of four is a working assumption. Ski days assigned to specific resorts |
 | 31 Jul 2026 | Georgi + Claude | Repo created. Route v1: 10 days, Hakuba, Okuhida, Takayama, Shirakawa-go. Toyama parked as an open question |
