@@ -1,4 +1,4 @@
-# Japan, 13–22 February 2027
+# Japan, 14–23 February 2027
 
 **Single source of truth for this trip.** Everything we decide goes here first, then onto
 the page. If the page and this file disagree, this file wins and the page needs fixing.
@@ -24,8 +24,7 @@ facts without checking them.
 
 Two on skis, two on boards. All four hold **German passports**.
 
-⚠️ Group size is a **working assumption of four**, not confirmed. Apartment size, car class and
-every per-person price on this page depend on it. Confirm before anything is booked.
+✅ **Group confirmed at four** (1 Aug 2026, Georgi).
 
 **Style of trip:** skiing for pleasure, not for numbers. Three ski days only, mornings until
 14:00–15:00. The other 70 % of the trip is food, onsen, mountains and towns.
@@ -38,8 +37,11 @@ every per-person price on this page depend on it. Confirm before anything is boo
 |---|---|---|
 | 30 Jul 2026 | **Honshu, not Hokkaido** | 3 half-days on snow is ~15 hours. Hokkaido costs two extra flights or a full day of travel for snow we barely use |
 | 31 Jul 2026 | **Hakuba**, not Nozawa Onsen | Hakuba sits inside the Hida range, the actual Northern Japanese Alps. Nozawa is on Mt Kenashi in the Mikuni range, a different system. Nozawa is cheaper and has a nicer village, but the Alps were the deciding factor |
-| 31 Jul 2026 | **13–22 February, 10 days** | Clears the Chinese New Year wave, the 11 Feb Japanese holiday, the 23 Feb Japanese holiday, and the German school holidays and carnival. See "Why these dates" |
-| 31 Jul 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
+| 1 Aug 2026 | **14–23 February, 10 days** | Moved one day later than the first draft so **Valentine's Day is spent in Berlin, not in the air**. Everything else still clears: Chinese New Year, both Japanese holidays, German school holidays and carnival. See "Why these dates" |
+| 1 Aug 2026 | **Valentine's Day, Sun 14 Feb, stays at home** | Georgi and Nadir both wanted it. We fly out that evening after 21:00 |
+| 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle, gains Zenko-ji |
+| 1 Aug 2026 | **Group confirmed at four** | Georgi |
+| 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
 | 31 Jul 2026 | **Rental car** for the second half | Georgi and Nadir already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
 | 31 Jul 2026 | **Toyama dropped** (for now) | Did not fit in 10 days. ⚠️ Open question for Nadir, see below |
@@ -74,19 +76,40 @@ directions at once**: crowds in Japan, and ticket prices out of Berlin.
 **1–13 February is the worst possible window**: expensive tickets *and* crowded slopes.
 23 February is a separate no-go.
 
-**13–22 February is clean.** We land on the 14th once the Chinese wave has passed and the
-11th is behind us, ski on clean midweek days, and leave the day before the Emperor's
-Birthday. Mid-February is also the **deepest snow base of the season**: December and
-January snow has settled, spring melt has not started.
+**14–23 February is clean, and cleaner than the 13–22 draft it replaced.** We fly out on the
+evening of the 14th, land on the 15th with the Chinese wave fully gone, ski Tuesday to
+Thursday, and land back in Berlin on the morning of the 23rd, so the Emperor's Birthday never
+touches us. Mid-February is also the **deepest snow base of the season**: December and January
+snow has settled, spring melt has not started.
 
-⚠️ **One soft spot:** 13–14 Feb is the tail of Chinese New Year week. It barely affects a
-Berlin–Tokyo routing, but **book the Tokyo hotel for the night of the 14th early**.
+✅ The one-day shift also removed the old soft spot. The first draft arrived on 14 February,
+still the tail of Chinese New Year week. Arriving on the 15th clears it.
 
 ### Rejected alternatives
 
+- **13–22 Feb**, the original draft. Rejected on 1 Aug: Valentine's Day would have been spent
+  flying, and the ryokan would have landed on a Friday.
 - **30 Jan – 6 Feb.** Coldest, driest snow of the season, but falls inside Berlin's
   Winterferien and we would fly home on Chinese New Year day itself.
 - **20–27 Feb.** The 23rd wrecks the schedule and late February is slightly warmer.
+
+### The March fallback
+
+Georgi raised March as an option if February could not be made to work. It can, so this is a
+fallback rather than a plan, but it is a real one and worth keeping on file.
+
+**Clean March window: Sat 6 → Mon 15 March 2027**, skiing Tue 9, Wed 10, Thu 11.
+
+| For | Against |
+|---|---|
+| **No Valentine's conflict at all** | **Nadir's birthday, 18 Feb, is not on the trip** |
+| Only Japanese holiday nearby is the **Vernal Equinox, Sun 21 March**, with a substitute Monday on the 22nd, safely after us | Powder quality drops. March is spring snow, not midwinter |
+| Base is still deep. Mid-March 2026 measured around **215 cm at the Hakuba summit**, described as deep and stable | Lower slopes soften first, so the good runs concentrate up high |
+| **Fewer crowds and cheaper accommodation** than February | |
+| **Firm in the morning, slush by afternoon**, and we only ski mornings, so the pattern suits us almost perfectly | |
+
+[Hakuba month-by-month](https://japanuncharted.com/nagano/ski/hakuba-ski-season-dates) ·
+[Vernal Equinox 2027](https://publicholidays.jp/vernal-equinox-day/)
 
 ---
 
@@ -103,18 +126,36 @@ Matsumoto to Tokyo. **No backtracking anywhere.**
 
 | Day | Date | Plan | Night |
 |---|---|---|---|
-| 1 | **Sat 13 Feb** | Fly out of BER after 21:00 | plane |
-| 2 | Sun 14 Feb | Land at Haneda in the evening. Kill the jet lag, nothing ambitious | Tokyo |
-| 3 | Mon 15 Feb | Tokyo → **Matsumoto** by Limited Express Azusa (2 h 30). Matsumoto Castle, soba lunch. Pick up the car. Drive to Hakuba (~1 h) | Hakuba |
-| 4 | **Tue 16 Feb** | 🎿 **Day 1 on snow: Happo-One** | Hakuba |
-| 5 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** Gentle terrain for Rostik, the park for Nadir | Hakuba |
-| 6 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, half day until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
-| 7 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00 when it opens. Down by midday, on to **Takayama** (50 min). Old town, Hida beef, sake breweries | Takayama |
-| 8 | Sat 20 Feb | **Shirakawa-go** in the morning, 50 min each way. Back through Takayama, drive to Matsumoto (~2 h 30), drop the car, Azusa to Tokyo, arrive in the evening | Tokyo |
-| 9 | Sun 21 Feb | **Full day in Tokyo.** Evening free for the JDM night drive if we want it. Haneda for the night flight | plane |
-| 10 | **Mon 22 Feb** | Land in Berlin in the morning | home |
+| 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home in Berlin.** Fly out that evening after 21:00 | plane |
+| 2 | Mon 15 Feb | Land at Haneda in the evening. Straight onto the Hokuriku Shinkansen to **Nagano** (77–95 min). Sleep by the station | Nagano |
+| 3 | **Tue 16 Feb** | Pick up the car in Nagano, drive to Hakuba (~1 h). 🎿 **Day 1 on snow: Happo-One**, from around 10:30 | Hakuba |
+| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** Gentle terrain for Rostik, the park for Nadir | Hakuba |
+| 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, half day until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
+| 6 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00 when it opens. Down by midday, on to **Takayama** (50 min). Old town, Hida beef, sake breweries | Takayama |
+| 7 | Sat 20 Feb | **Shirakawa-go** in the morning, 50 min each way. Back through Takayama, drive to Matsumoto (~2 h 30), drop the car, Azusa to Tokyo | Tokyo |
+| 8 | Sun 21 Feb | **Tokyo, day one.** Wide open, nothing booked | Tokyo |
+| 9 | Mon 22 Feb | **Tokyo, day two.** Evening: the **JDM night drive** if we book it. Then Haneda for the night flight | plane |
+| 10 | **Tue 23 Feb** | Land in Berlin in the morning | home |
 
-**7 nights:** Tokyo ×1, Hakuba ×3, Okuhida ×1, Takayama ×1, Tokyo ×1.
+**8 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Takayama ×1, Tokyo ×3.
+
+### What the one-day shift bought us
+
+Moving everything one day later than the first draft, and coming in via Nagano instead of
+Matsumoto, made six things line up at once:
+
+- ✅ **Valentine's Day is spent in Berlin**, not somewhere over Siberia.
+- ✅ **Three ski days, all weekdays**: Tuesday, Wednesday, Thursday. Nadir's priority.
+- ✅ **The ryokan lands on a Thursday**, the cheapest night tier in Japan. Saturdays and days
+  before holidays cost the most, then Fridays and Sundays, and Monday to Thursday is 15–30 %
+  below that. The first draft had it on a Friday.
+- ✅ **Nadir's birthday, 18 February, is the ryokan night**, over kaiseki with a rotenburo.
+- ✅ **Two full days in Tokyo**, so the JDM night drive finally has a real slot instead of
+  being squeezed against a flight.
+- ✅ **The Emperor's Birthday on 23 February never touches us.** We land in Berlin that morning.
+
+**What it cost:** Matsumoto Castle (we come in via Nagano now, though Zenko-ji is right there),
+and a rough second evening: land, ride 90 minutes to Nagano, sleep.
 
 ### Why route A runs this way
 
@@ -144,17 +185,18 @@ instead of 15:00, because the drive to Okuhida takes 2 h 30.
 
 ## Route B: the coast
 
-Nadir's circle. Same first five days, then west to the Sea of Japan instead of south into the
-mountains.
+Nadir's circle. Same first four days, then west to the Sea of Japan instead of south into the
+mountains. Route B was already entering via Nagano, so the shift changes nothing for it.
 
 | Day | Date | Plan | Night |
 |---|---|---|---|
-| 1–5 | 13–17 Feb | **Identical to route A**, except the way in is Tokyo → **Nagano** by Hokuriku Shinkansen (77–95 min) → Hakuba by Alpico bus (~1 h), which drops Matsumoto Castle | Tokyo, Hakuba ×3 |
-| 6 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick.** 🎂 Birthday in a **Hakuba ryokan** (Shiroumaso in Happo has tatami and a natural onsen) | 🏮 Hakuba ryokan |
-| 7 | Fri 19 Feb | Hakuba → Nagano (bus ~1 h) → **Toyama** (Shinkansen ~50 min). Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park | Toyama |
-| 8 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market**, Kenrokuen, the Higashi Chaya geisha quarter | Kanazawa |
-| 9 | Sun 21 Feb | Early Kagayaki to Tokyo (2 h 28, ¥14,380), in the city by ~11:00. **Most of a day in Tokyo**, then Haneda | plane |
-| 10 | **Mon 22 Feb** | Land in Berlin in the morning | home |
+| 1–4 | 14–17 Feb | **Identical to route A**, both routes now come in via **Nagano** | Nagano ×1, Hakuba ×2 |
+| 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, half day.** 🎂 Birthday in a **Hakuba ryokan** (Shiroumaso in Happo has tatami and a natural onsen) | 🏮 Hakuba ryokan |
+| 6 | Fri 19 Feb | Hakuba → Nagano (~1 h) → **Toyama** (Shinkansen ~50 min). Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park | Toyama |
+| 7 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market**, Kenrokuen, the Higashi Chaya geisha quarter | Kanazawa |
+| 8 | Sun 21 Feb | Kanazawa, second half day, then Kagayaki to Tokyo (2 h 28, ¥14,380) | Tokyo |
+| 9 | Mon 22 Feb | **Full day in Tokyo**, JDM night drive in the evening, then Haneda | plane |
+| 10 | **Tue 23 Feb** | Land in Berlin in the morning | home |
 
 ### What route B is actually for
 
@@ -329,59 +371,45 @@ Everything in this section has a source. Do not edit these numbers without a new
 
 ## Open questions
 
-Ranked. The top one blocks everything else.
+Only one real blocker left.
 
-1. 🔴 **Route A or Route B?** This absorbs what were separate questions about Toyama and about
-   swapping Takayama for Kanazawa: they are the same fork. **Mountains** (Okuhida, the
-   ropeway, a rotenburo ryokan, Takayama, Shirakawa-go) or **coast** (Toyama, Kanazawa, snow
-   crab, city rhythm, and the actual circle Nadir drew). Both are fully costed above and land
-   within about €25 of each other per person, so it is a taste decision, not a money one.
-   **The heaviest single consequence: route B means no close-up view of the Northern Alps,**
-   because the Shinhotaka Ropeway is the only winter access and it goes with Takayama.
+1. 🔴 **Route A or Route B?** Mountains (Okuhida, the Shinhotaka Ropeway, a rotenburo ryokan,
+   Takayama, Shirakawa-go) or coast (Toyama, Kanazawa, snow crab, city rhythm, and the actual
+   circle Nadir drew). Both are costed above and land within about €25 of each other per
+   person, so it is a taste decision, not a money one. **The heaviest single consequence:
+   route B means no close-up view of the Northern Alps**, because the ropeway is the only
+   winter access and it goes with Takayama.
 
-2. 🟡 **Confirm the group at four.** Still a working assumption. Apartment size, car class and
-   every per-person price here depend on it, so it has to be settled before any booking.
-
-3. 🟡 **Nagano or Matsumoto as the way in?** Route B answers this by itself: Nagano, because
-   the coast leg starts there. For route A it is a live choice. Tokyo → Nagano is 77–95 min
-   on the Hokuriku Shinkansen (~¥8,000–9,500) plus ~1 h by Alpico bus to Hakuba
-   (¥2,200–2,400), against Shinjuku → Matsumoto by Azusa (2 h 30, ¥6,620) plus ~1 h by car.
-   Nagano saves roughly 40–70 minutes each way and has rental offices at the station.
-   **What it costs route A: Matsumoto Castle**, and route A drives back through Matsumoto on
-   day 8 anyway, so entering there is nearly free. Recommendation: **Matsumoto for route A,
-   Nagano for route B.**
-   [Hokuriku Shinkansen](https://www.snowmonkeyresorts.com/access/hokuriku-shinkansen/) ·
-   [Nagano–Hakuba bus](https://thehakubacollection.com/hakuba/access/nagano-to-hakuba)
-
-4. 🟢 **JDM night drive: book it or not?** It now has a proper slot, the evening of day 9 in
-   Tokyo, which the Thursday ryokan move created. Operators are real: chauffeured three-hour
-   night runs past Rainbow Bridge and **Daikoku PA** in an R34/R32/R35 GT-R, RX-7, S15 or
-   Supra ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive on an IDP
+2. 🟢 **JDM night drive: book it or not?** It now has two clear evenings, day 8 or day 9 in
+   Tokyo. Operators are real: chauffeured three-hour night runs past Rainbow Bridge and
+   **Daikoku PA** in an R34/R32/R35 GT-R, RX-7, S15 or Supra
+   ([Samurai Car JDM](https://samuraicarjapanjdm.jp/)), or self-drive on an IDP
    ([JDM TOUR](https://jdmtour.com/jdm/sports_car_rental_tokyo/), Fri–Sun 17:00–21:00 or
-   Mon–Thu 18:30–22:30). ⚠️ **Pricing still not checked.** Day 9 is a Sunday, so the Fri–Sun
-   window applies. Note we fly that night, so it has to end with time to reach Haneda.
+   Mon–Thu 18:30–22:30). ⚠️ **Pricing still not checked.** If we take the Monday slot the
+   Mon–Thu window applies and we fly that night, so it has to end in time for Haneda.
 
-5. 🟢 **Valentine's Day, Sunday 14 February.** Under both routes it is spent landing at
-   Haneda. Moving the dates to be home for it pushes the return onto 23 Feb (the Emperor's
-   Birthday, a locked no-go) or pushes ski days onto a weekend, which is exactly what these
-   dates were chosen to avoid. Also worth knowing: **Japan's 14 February is not a date-night
-   occasion**, it is one-directional chocolate-giving, often *giri-choco* ("obligation
-   chocolate") for coworkers, with the reciprocal on White Day, 14 March.
-   [Nippon.com](https://www.nippon.com/en/features/jg00025/)
-   **Recommendation: do not disturb the dates for it.** Purely a question of who is at home.
+3. 🟢 **What actually goes into the two Tokyo days?** Nadir noted activities are missing. There
+   are now two full days plus an arrival evening and nothing is planned in them. Open to
+   everyone.
 
 ### Closed
 
-- ✅ **Rostik: no ski school** (1 Aug, Georgi). He teaches himself throughout.
-- ✅ **Nadir's birthday** (1 Aug). Route A puts it in the Okuhida ryokan over kaiseki, route B
-  in a Hakuba ryokan. Either way it is the ryokan night, not a restaurant.
-- ✅ **The ryokan no longer falls on a Friday.** Moved to Thursday 18 Feb, which removes the
-  weekend pricing and the weekend crowd.
-- ✅ **Tokyo gets a full day** (day 9), not an afternoon.
-- ✅ **The day 9 Route 158 risk is gone.** The mountain pass drive now happens on **day 8**,
-  a full day before the flight, instead of on the morning we fly home.
-- ✅ **Nadir has write access** to this repo (`nadir35`, invited 1 Aug 2026). Onboarding text
-  in `FOR-NADIR.md`.
+- ✅ **Group confirmed at four** (1 Aug, Georgi).
+- ✅ **Valentine's Day is spent in Berlin** (1 Aug, Georgi and Nadir). We fly out that evening.
+  This is what moved the whole trip one day later.
+- ✅ **Ski days are Tuesday, Wednesday, Thursday**, no weekends. Nadir's stated priority.
+- ✅ **The ryokan is on a Thursday**, the cheapest night tier in Japan, not a Friday.
+- ✅ **Nadir's birthday, 18 Feb, is the ryokan night** in route A, a Hakuba ryokan in route B.
+  Either way it is the ryokan, not a restaurant.
+- ✅ **Nagano, not Matsumoto, as the way in.** Faster from Tokyo, and it is what makes the late
+  Monday arrival work at all. Costs Matsumoto Castle, gains Zenko-ji.
+- ✅ **Rostik: no ski school.** He teaches himself throughout.
+- ✅ **Tokyo gets two full days**, not an afternoon.
+- ✅ **The Route 158 risk on the flight day is gone.** The mountain pass is now driven three
+  days before we fly.
+- ✅ **March is documented as a fallback** but is not needed: February works with Valentine's
+  Day at home.
+- ✅ **Nadir has write access** (`nadir35`, invited 1 Aug 2026).
 
 ---
 
@@ -391,6 +419,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Georgi + Nadir | **Whole trip moved one day later to 14–23 Feb so Valentine's Day is spent in Berlin.** Entry switched to Nagano, which frees a third ski day and lands the ryokan on a Thursday (cheapest tier) on Nadir's birthday. Group confirmed at four. March logged as a fallback |
 | 1 Aug 2026 | Georgi + Claude | **Route split into A (mountains) and B (coast), both costed, no choice made yet.** Ryokan moved to Thursday 18 Feb, which closed four open questions at once: birthday in the ryokan, no Friday pricing, full Tokyo day, JDM slot. Route 158 drive moved off the flight day |
 | 1 Aug 2026 | Georgi | Rostik confirmed: **no ski school**, he learns on his own throughout. Question 4 closed |
 | 1 Aug 2026 | Nadir + Claude | Logged six new open questions: Nagano vs Matsumoto as entry point, a missing JDM night drive in Tokyo, Valentine's Day timing, the ryokan landing on a Friday, birthday not needing a ski day, and swapping Takayama for Kanazawa |
