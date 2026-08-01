@@ -391,6 +391,80 @@ before, so this is a confirm-at-booking item rather than an unknown.
 
 ---
 
+### Option: one JDM car for the whole trip
+
+⚠️ **Not decided. This is an alternative to the whole transport stack, not an add-on.**
+
+Instead of *(normal rental car Nagano → Toyama) + (Shinkansen on the coast) + (a separate
+7-hour sports car evening in Tokyo)*, we take **one snow-tyre JDM car from OnlyJDM at Haneda on
+arrival and keep it for the entire trip.**
+
+#### Snow tyres: not a question, an obligation
+
+OnlyJDM state it plainly: **from December to March the snow tyre option is mandatory on every
+vehicle**, whether or not you plan to drive on snow. It costs **¥2,000 per day**.
+
+Separately, 11 of their 51 cars are listed as already snow-tyre equipped. The **all-wheel-drive**
+ones, which are the only ones worth taking into the mountains:
+
+| Car | Seats | Gearbox | 24 h |
+|---|---|---|---|
+| **EVO X** (Haneda and Tokyo North, one is literally named *Ruler of the Mountain Pass*) | 5 | auto | ¥25,800 |
+| **EVO IX** | 5 | manual | ¥29,800 |
+| **EVO VIII** | 5 | manual | ¥29,000 |
+| **GR Yaris** | 4 | manual | ¥25,000 |
+| **GT-R R35** | 4 | auto | ¥56,800 |
+| Odyssey (minivan, the practical answer) | 7 | auto | ¥15,000 |
+
+⚠️ The **GR86** is also snow-tyre listed but it is **rear-wheel drive**, so not for these roads.
+The Civic FD2 and the Fit are front-wheel drive.
+
+#### What it costs
+
+**EVO X, 8 days**, day 2 to day 9, with their 15 % long-term discount (7–14 days):
+
+| | |
+|---|---|
+| Base ¥25,800 × 8, less 15 % | ¥175,440 |
+| Snow tyres ¥2,000 × 8 | ¥16,000 |
+| ETC ¥600 × 8 and second driver ¥3,000 × 8 | ¥28,800 |
+| Premium coverage | ¥12,000 |
+| **Total** | **≈ ¥232,000 ≈ €1,255, or €314 per person** |
+
+Against the current stack (⚠️ est. €110–150 rental + €28–40 one-way drop + ~€145 rail + €28–69
+for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** instead would be about
+**€199 per person**, but it is a minivan.
+
+**So it is not more expensive. It is one contract instead of three.**
+
+#### What it actually changes for the trip
+
+| | Effect |
+|---|---|
+| ✅ **No one-way drop fee** | Saves €28–40 per person. Both their branches are in Tokyo, so there is nothing to pay |
+| 🚨 **No Shinkansen home** | Both branches are in Tokyo, so the car must come back. **Kanazawa → Tokyo is 400–480 km, 5 h 30 to 6 h, tolls ¥9,100–12,000.** That replaces a 2 h 28 Kagayaki and eats most of day 8 |
+| 🚨 **Mileage limit: 200 km per 24 h**, then ¥55/km (¥165/km for GT-R, RX-7, LC500, Supra) | Our route is ⚠️ roughly **1,150 km**. Eight days gives 1,600 km, so it fits, but the slack is thin and every detour is metered |
+| 🚨 **Both branches close at 18:30** | Late return is **¥6,600 per 30 minutes**. So the night drive cannot end with handing the keys back and boarding. It has to be a **24-hour rental across days 8 and 9**, returned by 18:30 on the 9th, and we fly that night |
+| ⚠️ **Luggage** | Four people with ten days of bags in an EVO is tight. We rent ski gear on site, so no ski bags, but it is still tight |
+
+#### Two things to confirm before booking anything
+
+1. 🚨 **The licence.** Their terms say: *"We will require your original physical driver's licence,
+   passport, and International Driving Permit (IDP)"*, and *"if the IDP you bring is incorrect or
+   invalid, we will not provide a refund."* **German licences cannot get a Japan-valid IDP**, we
+   carry the ADAC Japanese translation instead. The group has rented from them before so it
+   presumably worked, but the wording is unforgiving. **Get it confirmed in writing.**
+2. **After-hours return.** Whether anything can be arranged past 18:30, and at what price.
+
+#### Their other terms
+
+Refundable deposit **¥50,000** (¥200,000 for GT-R, RX-7, LC500). Minimum age **23**, licence held
+**3 years or more**. Second driver ¥3,000/day, ETC ¥600/day, coverage ¥3,000 (third-party only)
+or ¥12,000. Cars carry **GPS and dashcams facing in and out**. Track use and reckless driving are
+forbidden. **No free cancellation for weather.**
+
+---
+
 ## Open questions
 
 Nothing structural is blocking any more. What is left is detail and booking.
@@ -401,11 +475,17 @@ Nothing structural is blocking any more. What is left is detail and booking.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-2. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+2. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+   section above and it comes out roughly level on money, simpler on admin, but it trades a
+   2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
+   luggage. Two things have to be confirmed with the operator first: whether they accept the
+   ADAC translation instead of an IDP, and whether the car can come back after 18:30.
+
+3. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
    (~€60 each). Arguably the point of the whole exercise.
 
-3. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
+4. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
    right, the content is empty.
 
 ### Closed

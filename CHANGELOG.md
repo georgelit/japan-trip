@@ -33,6 +33,38 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v15 &middot; 1 Aug 2026 &middot; Georgi
+
+**Added a costed option: one JDM car for the whole trip instead of the three-part transport
+stack.** Georgi asked whether OnlyJDM have snow-tyre cars for the mountains. They do, and the
+answer turned out to have consequences well beyond tyres.
+
+- **Snow tyres are mandatory, not optional.** OnlyJDM require the snow tyre option on *every*
+  vehicle from December to March, at ¥2,000 per day. Eleven of their 51 cars are listed as
+  already equipped; the AWD ones are the EVO X (one is named *Ruler of the Mountain Pass*), EVO
+  IX, EVO VIII, GR Yaris and the R35 GT-R. The GR86 is snow-tyre listed but rear-wheel drive.
+- **Costed:** an EVO X for 8 days with their 15 % long-term discount works out at ≈ €314 per
+  person all in, against ⚠️ €310–405 for the current stack. Not more expensive, and one contract
+  instead of three. An Odyssey would be ≈ €199 but it is a minivan.
+- 🚨 **Three constraints found in their terms that matter regardless of which option we pick:**
+  - **Mileage is capped at 200 km per 24 h**, then ¥55/km. Our route is roughly 1,150 km against
+    a 1,600 km allowance, so it fits with thin slack.
+  - **Both branches are in Tokyo and close at 18:30**, late return ¥6,600 per 30 min. So the
+    night drive cannot end with handing the keys back and boarding. It has to be a 24-hour
+    rental across days 8 and 9. **This affects the current plan too, not just the option.**
+  - **They demand an IDP**, and German licences cannot get a Japan-valid one: we carry the ADAC
+    translation. Needs confirming in writing before anything is booked.
+- **Also logged:** deposit ¥50,000 (¥200,000 for GT-R, RX-7, LC500), minimum age 23, licence held
+  3 years, second driver ¥3,000/day, ETC ¥600/day, GPS and dashcams, no weather cancellation.
+- **Verified:** Kanazawa → Tokyo by road is 400–480 km, 5 h 30 to 6 h, tolls ¥9,100–12,000.
+
+## v14 &middot; 1 Aug 2026 &middot; Georgi
+
+Cleanup after the Takayama removal: the budget still had a "Takayama, 1 night" line and the
+risks section still warned about driving Route 158 on the flight day, which no longer happens.
+Replaced with Toyama and Kanazawa nights, the coast rail costs, the one-way car drop fee, and the
+Tokyo drive. Budget total moved to ⚠️ €2,300–3,000 per person.
+
 ## v13 &middot; 1 Aug 2026 &middot; Georgi
 
 **Takayama is out, Toyama is in, and the mountains-versus-coast fork turned out not to exist.**
