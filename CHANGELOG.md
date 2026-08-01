@@ -33,6 +33,31 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v13 &middot; 1 Aug 2026 &middot; Georgi
+
+**Takayama is out, Toyama is in, and the mountains-versus-coast fork turned out not to exist.**
+
+- **Rostik's input:** he has been to **Takayama** and says it is not worth a stop. He wants
+  **Toyama**, which was Nadir's original ask from the very first pass.
+- **The A / B fork dissolved.** The whole thing rested on an assumption that the coast is only
+  reachable from Hakuba along Route 148 through Itoigawa, a known winter bottleneck. It is not.
+  **Okuhida sits on the road north to Toyama:** Route 471 east out of Hirayu joins Route 41, and
+  Toyama Interchange to Hirayu is about **90 minutes**. So the mountains and the coast both fit
+  in one continuous arc, and Route 148 is sidestepped entirely.
+- **Kept:** the Shinhotaka Ropeway (the only winter access to the Northern Alps), the Okuhida
+  ryokan on Thursday on Nadir's birthday, three weekday ski mornings.
+- **Gained:** Toyama on day 6, and **Kanazawa on day 7**, which fills what had become an empty
+  day 8. Omicho Market is in snow crab season from November to February.
+- **Dropped:** Takayama as a stop, we only drive through it. **Shirakawa-go fell off the route**:
+  Hirayu to Shirakawa-go is about 2 h 10, too long to fit beside the ropeway, and it is an hour
+  from Toyama, so it is now only possible as a day 7 trip *instead of* Kanazawa. That is the
+  main open question left.
+- ⚠️ **What the circle costs:** the car is now picked up in Nagano and dropped in **Toyama**,
+  which crosses prefectures. One-way drop fees run ¥20,000–30,000, roughly €28–40 per person.
+- **Route B was deleted as a separate section**, folded into the single route. The research that
+  still mattered (Omicho, Kenrokuen, the coast timings, the "Little Kyoto not little Tokyo"
+  caveat) was kept.
+
 ## v12 &middot; 1 Aug 2026 &middot; Georgi
 
 **The Tokyo drive is decided, and it changed the shape of the last days.**
