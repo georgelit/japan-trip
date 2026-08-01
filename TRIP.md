@@ -252,8 +252,8 @@ Ranked. The top ones block bookings.
    at all**, it is only there because day 6 happened to be the last one on snow. Nadir's call.
 3. 🟡 **Confirm the group at four.** Working assumption for now. Apartment size, car class and
    every price here depend on it, so it needs settling before any booking.
-4. 🟡 **Rostik: ski school or we teach him?** Affects day 4 only. Worth knowing that a private
-   lesson is priced per instructor rather than per person, so it can cover several of us.
+4. ✅ **CLOSED (1 Aug, Georgi): Rostik does not want a school.** He will teach himself the
+   whole time. No lesson to book, and no instructor slot to plan around on day 4.
 5. 🟡 **Day 9 risk.** The drive Takayama → Matsumoto crosses Route 158 on the day we fly
    home. The road does not close, but snow slows it down. Current mitigation: leave Takayama
    by 09:00, which leaves a ~10 hour buffer before the flight. Alternative worth pricing:
@@ -318,6 +318,7 @@ Newest first. Add a line here every time a decision changes.
 
 | Date | Who | What changed |
 |---|---|---|
+| 1 Aug 2026 | Georgi | Rostik confirmed: **no ski school**, he learns on his own throughout. Question 4 closed |
 | 1 Aug 2026 | Nadir + Claude | Logged six new open questions: Nagano vs Matsumoto as entry point, a missing JDM night drive in Tokyo, Valentine's Day timing, the ryokan landing on a Friday, birthday not needing a ski day, and swapping Takayama for Kanazawa |
 | 1 Aug 2026 | Georgi | Nadir (`nadir35`) invited as a collaborator with write access. Two editors from here on |
 | 1 Aug 2026 | Georgi | Birthday on 18 Feb is **Nadir's**. Gear split confirmed: Georgi and Jakob on skis, Nadir and Rostik on snowboards. Group of four is a working assumption. Ski days assigned to specific resorts |
