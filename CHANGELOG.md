@@ -33,6 +33,39 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v17 &middot; 3 Aug 2026 &middot; Nadir
+
+**Fixed drift between the money table, the night count and the actual itinerary**, found by
+asking Claude for a critical read of the whole document.
+
+- **Nights and Tokyo count were wrong.** The itinerary only ever has one Tokyo night (day 8,
+  day 9's night is "plane") and two Hakuba nights (days 3-4, Thursday moved to the ryokan back
+  in v9). The summary line and header stat still said "8 nights ... Tokyo ×2". Fixed to 7
+  nights, Tokyo ×1.
+- **The money table still had "Hakuba, 4 nights" and "Car, 7 days"**, both stale from before
+  the Nagano-entry and half-day-Thursday changes. The car is actually held Tue 16 to Fri 19,
+  4 days. Recomputed both lines, and added a **Nagano, 1 night** line that was missing
+  entirely. New total **≈ €2,150–2,800**, down from the old ≈ €2,300–3,000.
+- **Fixed a corrupted sentence** in the route section: a stray `(1 Aug 2026).**` fragment had
+  been left sitting mid-sentence.
+- **The Nagano-entry decision claimed "gains Zenko-ji"** as a benefit, but there is no time
+  slotted for it anywhere in the plan, arrival is evening, departure is early the next
+  morning. `index.html` already hedged this correctly ("if anyone surfaces early"), `TRIP.md`
+  did not, the two disagreed. Brought `TRIP.md` in line with the more honest version.
+- **Open question 4 said "nothing is planned" for Toyama, Kanazawa and the Tokyo evening.**
+  That overstated it, each already has 3 named stops. The real gap is no hours, order or
+  reasoning behind any of them. Used Kenrokuen as the concrete example: winter is its
+  signature season because of yukitsuri, not an off-season visit the way "great garden"
+  sounds.
+- **Sourced two driving/rail figures that had none:** Tokyo→Nagano now has a fare
+  (¥8,000–9,500) and a link. Kanazawa→Tokyo by road now cites a source instead of a bare
+  "verified" claim in this changelog with nothing backing it in `TRIP.md`. Toyama→Kanazawa
+  fare is still unsourced, flagged rather than guessed.
+- **Not changed:** Toyama lands on a Friday night and Kanazawa on a Saturday, both pricier
+  nights by the doc's own logic. Left alone deliberately, Nadir's call: the rule that matters
+  is no resort or ryokan night on a weekend, ordinary city nights are fine and largely
+  unavoidable across a 10-day trip.
+
 ## v16 &middot; 1 Aug 2026 &middot; Nadir
 
 **The IDP concern is dropped, it was never real for us.** OnlyJDM's terms mention an

@@ -39,7 +39,7 @@ Two on skis, two on boards. All four hold **German passports**.
 | 31 Jul 2026 | **Hakuba**, not Nozawa Onsen | Hakuba sits inside the Hida range, the actual Northern Japanese Alps. Nozawa is on Mt Kenashi in the Mikuni range, a different system. Nozawa is cheaper and has a nicer village, but the Alps were the deciding factor |
 | 1 Aug 2026 | **14–23 February, 10 days** | Moved one day later than the first draft so **Valentine's Day is spent in Berlin, not in the air**. Everything else still clears: Chinese New Year, both Japanese holidays, German school holidays and carnival. See "Why these dates" |
 | 1 Aug 2026 | **Valentine's Day, Sun 14 Feb, stays at home** | Georgi and Nadir both wanted it. We fly out that evening after 21:00 |
-| 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle, gains Zenko-ji |
+| 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle. Zenko-ji is close by but not actually built into the plan, only reachable by an early riser before car pickup |
 | 1 Aug 2026 | **Group confirmed at four** | Georgi |
 | 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
 | 31 Jul 2026 | **Rental car** for the second half | Three of us already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
@@ -119,8 +119,8 @@ fallback rather than a plan, but it is a real one and worth keeping on file.
 
 ### The A / B fork is resolved
 
-✅ **1 Aug 2026.** Rostik has been to **Takayama** (1 Aug 2026).** before and says it is not
-worth a stop, so it is out. He wants **Toyama**, which was Nadir's original ask. It turns
+✅ **1 Aug 2026.** Rostik has been to **Takayama** before and says it is not worth a stop,
+so it is out. He wants **Toyama**, which was Nadir's original ask. It turns
 out we do not have to choose between the mountains and the coast: **Okuhida sits on the road
 north to Toyama**, so the ropeway and the ryokan survive and the coast gets added. The two
 routes merged into one.
@@ -143,7 +143,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 9 | Mon 22 Feb | 🏎 **The Tokyo drive.** Car around midday, central Tokyo through the evening, drop at Haneda, board | plane |
 | 10 | **Tue 23 Feb** | Land in Berlin in the morning | home |
 
-**8 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×2.
+**7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
 
 ### Why the merge works
 
@@ -271,10 +271,10 @@ Everything in this section has a source. Do not edit these numbers without a new
 | Matsumoto → Okuhida (Hirayu) | **~80 min by car** | Route 158, Abo Tunnel |
 | Takayama → Hirayu | **~50 min by car** | Routes 158 and 471 |
 | Takayama → Shirakawa-go | ~50 min | |
-| Tokyo → Nagano | 1 h 20–40 Shinkansen | How we come in |
+| Tokyo → Nagano | 1 h 20–40 Shinkansen, ¥8,000–9,500 | How we come in. [Snow Monkey Resorts](https://www.snowmonkeyresorts.com/access/hokuriku-shinkansen/) |
 | **Okuhida (Hirayu) → Toyama** | **~1 h 30 by car** | Route 471 east from Hirayu, then Route 41. Ploughed but slow in winter |
 | Hirayu → Shirakawa-go | ~2 h 10 by car | Too long to fit alongside the ropeway on day 6 |
-| Toyama → Kanazawa | 19–22 min Shinkansen | |
+| Toyama → Kanazawa | 19–22 min Shinkansen | ⚠️ fare not yet found, the ¥27,000 rail total above assumes a short-hop price but this leg is not individually sourced |
 | Toyama → Tokyo | 2 h 06–10, ¥12,430–12,960 | Kagayaki, reserved |
 | Kanazawa → Tokyo | 2 h 28, ¥14,380 | Kagayaki, reserved |
 
@@ -321,18 +321,19 @@ Everything in this section has a source. Do not edit these numbers without a new
 | Flight BER ↔ Tokyo, economy | 750–1,000 | ⚠️ not yet checked live |
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
 | Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
-| Car, 7 days incl. winter tyres, split 4 ways | 120–160 | ⚠️ plus fuel and tolls |
-| Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~145 | ≈ ¥27,000 |
+| Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
+| Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~145 | ≈ ¥27,000, only the Kanazawa→Tokyo leg (¥14,380) is individually sourced, see the travel-times table |
 | **One-way car drop, Nagano → Toyama** | **28–40** | ⚠️ crosses prefectures, ¥20,000–30,000 split four ways |
+| Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |
-| Hakuba, 4 nights | 240–360 | ⚠️ apartment for four |
+| Hakuba, 2 nights | 120–180 | ⚠️ apartment for four |
 | 🏮 Okuhida ryokan, 1 night with dinner | 120–200 | ⚠️ the one deliberate splurge |
 | Toyama, 1 night | 60–100 | ⚠️ |
 | Kanazawa, 1 night | 70–110 | ⚠️ |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
 | The Tokyo drive, one car split four ways | 28–69 | see the drive section |
-| **Total** | **≈ €2,300 – 3,000** | ⚠️ |
+| **Total** | **≈ €2,150 – 2,800** | ⚠️ recomputed 3 Aug, the old €2,300–3,000 total carried a stale 4-night Hakuba line, a stale 7-day car line and no Nagano line at all |
 
 **Where not to save:** the ryokan, and gear rental.
 **Where we already saved:** no JR Pass (≈ €160 per person).
@@ -442,7 +443,7 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 | | Effect |
 |---|---|
 | ✅ **No one-way drop fee** | Saves €28–40 per person. Both their branches are in Tokyo, so there is nothing to pay |
-| 🚨 **No Shinkansen home** | Both branches are in Tokyo, so the car must come back. **Kanazawa → Tokyo is 400–480 km, 5 h 30 to 6 h, tolls ¥9,100–12,000.** That replaces a 2 h 28 Kagayaki and eats most of day 8 |
+| 🚨 **No Shinkansen home** | Both branches are in Tokyo, so the car must come back. **Kanazawa → Tokyo is roughly 6–7 h by expressway (Kan-etsu, then Hokuriku), tolls ¥9,300–12,000** ([Kanazawa Station](https://www.kanazawastation.com/traveling-from-tokyo-to-kanazawa/)). That replaces a 2 h 28 Kagayaki and eats most of day 8 |
 | 🚨 **Mileage limit: 200 km per 24 h**, then ¥55/km (¥165/km for GT-R, RX-7, LC500, Supra) | Our route is ⚠️ roughly **1,150 km**. Eight days gives 1,600 km, so it fits, but the slack is thin and every detour is metered |
 | 🚨 **Both branches close at 18:30** | Late return is **¥6,600 per 30 minutes**. So the night drive cannot end with handing the keys back and boarding. It has to be a **24-hour rental across days 8 and 9**, returned by 18:30 on the 9th, and we fly that night |
 | ⚠️ **Luggage** | Four people with ten days of bags in an EVO is tight. We rent ski gear on site, so no ski bags, but it is still tight |
@@ -486,8 +487,14 @@ Nothing structural is blocking any more. What is left is detail and booking.
    (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
 
-4. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
-   right, the content is empty.
+4. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
+   behind them.** Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen,
+   Higashi Chaya, an empty Tokyo evening, that is a name list, not a plan: no hours, no order,
+   no reason given for why each one is worth the stop. Kenrokuen is a concrete example of what
+   is missing: it is not just "one of Japan's three great gardens", winter is its signature
+   season because of **yukitsuri**, the rope rigging that protects the pine trees from snow
+   load, illuminated at night through February.
+   [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
 
 ### Closed
 
