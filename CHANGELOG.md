@@ -34,6 +34,25 @@ file below is the human-readable layer: what changed and, more importantly, why.
 ---
 
 <<<<<<< Updated upstream
+## v20 &middot; 3 Aug 2026 &middot; Georgi
+
+**Second pass over Nadir's map, this time covering Tokyo and the Nagano side.**
+
+- **Method note worth keeping:** filtering has to be done **by map geography**, zooming the list's
+  own pins region by region. A keyword sweep over all 615 names returned only 13 hits and most were
+  false positives, because Japanese restaurant names give no location away.
+- 🏎 **Daikoku Parking Area is in the list.** That is the expressway car-meet spot and exactly where
+  the day 9 Tokyo drive was already pointed. Confirms the plan rather than changing it.
+- **Tokyo is where the bulk of his usable pins are:** a dense cluster of roughly fifty in the centre,
+  too packed to read off the map individually. Logged as a question for Nadir to pick from, since the
+  two Tokyo days are still the biggest blank on the page and the choice is his taste.
+  Readable ones nearby: teamLab Planets TOKYO DMM, Cup Noodles Museum, Round 1 Stadium Kawasaki
+  Daishi, Cafe Glühwürmchenweg, Ramen FeeL, Yamagami Station (Chairlift), Showa Kinen Park.
+- **On the Nagano side**, a small food cluster sits north-east of the city (Shokudo Yoroshiki Hi,
+  Fukutora, Ramen Tokumi, Soba Yariya, plus Crumpet Cafe and Yubatake), but that is the axis towards
+  Kusatsu and we go the other way, west to Hakuba.
+- ⚠️ **Re-confirmed: nothing at all is pinned in Hakuba.**
+
 ## v17 &middot; 3 Aug 2026 &middot; Nadir
 
 **Fixed drift between the money table, the night count and the actual itinerary**, found by

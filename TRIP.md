@@ -478,7 +478,9 @@ forbidden. **No free cancellation for weather.**
 of Japan. <https://maps.app.goo.gl/AvZ3JBsUUWzSE9kW6>
 
 **All 615 have been read** (3 Aug 2026, opened through Georgi's signed-in Chrome; a signed-out
-browser only serves the first 20). It is a **general Japan wishlist collected over time**, not a
+browser only serves the first 20). Filtering was done **by map geography**, zooming the list's own
+pins region by region, because the names alone give nothing away: a keyword sweep over all 615
+names returned only 13 hits and most of those were false positives. It is a **general Japan wishlist collected over time**, not a
 shortlist for this trip: the overwhelming majority sits in Hokkaido, Tohoku, Kansai, Shikoku,
 Kyushu and the Ogasawara Islands, nowhere near our route.
 
@@ -511,6 +513,28 @@ Filtered to our corridor, here is everything that is actually reachable.
 - **Villa Azalea** — near Matsumoto, and we no longer stop in Matsumoto.
 - **Yubatake** — Kusatsu Onsen in Gunma, the wrong side of Nagano.
 - Everything else in the 615 is a different region entirely.
+
+### 🏎 One hit that lands perfectly
+
+**Daikoku Parking Area is in the list.** That is the expressway car-meet spot, and it is exactly
+where the **day 9 Tokyo drive** was already pointed. Nothing to decide, it just confirms the plan.
+
+### Tokyo is where the rest of his list actually is
+
+Central Tokyo carries a **dense cluster of roughly fifty pins**, far too packed to read off the map
+one by one, and they are plainly his own food and city spots. **The two Tokyo days should be built
+straight out of this cluster, and Nadir should pick**: it is his taste, and picking for him would
+be guessing.
+
+A few readable ones nearby: **teamLab Planets TOKYO DMM**, **Cup Noodles Museum** (Yokohama),
+**Round 1 Stadium Kawasaki Daishi**, **Cafe Glühwürmchenweg**, **Ramen FeeL**, **Yamagami Station
+(Chairlift)**, **Showa Kinen Park**, **Teuchi Mensai Kamei**.
+
+### Also on the Nagano side, but off our road
+
+A small food cluster sits **north-east of Nagano city**, on the axis towards Kusatsu rather than
+towards Hakuba: **Shokudo Yoroshiki Hi, Fukutora, Ramen Tokumi, Soba Yariya**, then **Crumpet Cafe**
+and **Yubatake** further east. We go the other way, west to Hakuba.
 
 ⚠️ **Worth noting: there is nothing pinned in Hakuba itself.**
 
@@ -614,30 +638,34 @@ Nothing structural is blocking any more. What is left is detail and booking.
    Center4 Hamburgers and Hida no Sato, are both in Takayama. **The two of them need to settle
    this.**
 
-2. 🟢 **Nadir: confirm the near-route ones.** Unazuki Onsen (the gorge railway is shut in winter,
+2. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
+   pins and the two Tokyo days are still empty. That is the single biggest blank left on this page,
+   and it is your taste, so you choose rather than us guessing.
+
+3. 🟢 **Nadir: confirm the near-route ones.** Unazuki Onsen (the gorge railway is shut in winter,
    is the town still the point?), Togakushi Shrine and Jokoji near Nagano, both awkward on our
    timing. Everything genuinely on-route is already folded into the plan.
 
-3. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
+4. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
    day, the car is picked up or returned on **23 February, the Emperor's Birthday**. Both branches
    already close at 18:30 on ordinary days. Third thing to ask them, alongside the ADAC-translation
    question and the after-hours return.
 
-4. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
+5. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
    the trip, nothing in the shared plan has to change, they travel to Hakuba independently by
    Shinkansen and bus. Needs an answer from them, not from us.
 
-5. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
+6. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
    between the third ski day and keeping the ryokan on Thursday for Nadir's birthday. The 16th
    pushes skiing onto a Saturday and is not advisable.
 
-6. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
+7. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
    about 2 h 10, too long to fit into day 6 alongside the ropeway, and it is roughly an hour
    from Toyama. So it is only possible as a **day 7 trip instead of Kanazawa**, not as well as.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-7. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+8. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
    luggage. One thing left to confirm with the operator: whether the car can come back after
@@ -657,11 +685,11 @@ Nothing structural is blocking any more. What is left is detail and booking.
    load, illuminated at night through February.
    [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
 =======
-8. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+9. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
    (~€60 each). Arguably the point of the whole exercise.
 
-9. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
+10. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
    right, the content is empty.
 >>>>>>> Stashed changes
 
