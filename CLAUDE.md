@@ -91,12 +91,14 @@ the reasoning, then summarise both.
 - Both themes work, light and dark. Colours come only from the CSS variables
   (`var(--ink)`, `var(--card)` and so on). Do not add hardcoded colours.
 - **No external links to fonts, scripts or images**, with **one deliberate exception**: the route
-  map. It loads Leaflet from unpkg and raster tiles from `tile.openstreetmap.org`, because a real
+  map. It loads Leaflet from unpkg and raster tiles from **CARTO** (`basemaps.cartocdn.com`, Voyager in light mode and `dark_all` in dark), because a real
   map with roads and towns is worth more here than offline purity. Georgi decided this on 3 Aug
   2026, see v24 in `CHANGELOG.md`.
   - **Do not add any further external dependency** without asking a human first.
-  - **The OpenStreetMap attribution must stay visible** on the map. That is a licence condition,
-    not decoration. Never hide it behind a toggle or push it off-screen.
+  - **The OpenStreetMap and CARTO attribution must stay visible** on the map. That is a licence
+    condition, not decoration. Never hide it behind a toggle or push it off-screen.
+  - CARTO is used instead of the default OSM tiles because **OSM tiles label Japan in Japanese**.
+    If you ever swap the basemap, check the labels are still in Latin script.
   - Keep `referrerPolicy: 'strict-origin-when-cross-origin'` on the tile layer, OSM's tile policy
     asks for it.
   - The rest of the page stays self-contained: styles and scripts inline, no web fonts, no

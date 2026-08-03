@@ -34,6 +34,25 @@ file below is the human-readable layer: what changed and, more importantly, why.
 ---
 
 <<<<<<< Updated upstream
+## v26 &middot; 3 Aug 2026 &middot; Georgi
+
+**Map now reads in English, and the route lines actually stand out.** Both asked for by Georgi.
+
+- **Basemap switched from standard OSM tiles to CARTO Voyager.** The default OSM tiles label Japan
+  in Japanese, because they use the local `name`. Voyager renders in Latin script: Nagano, Myoko,
+  Itoigawa, Joetsu. Checked against Esri World Street Map too, which is bilingual and much darker,
+  so the route lines would have competed with it. Voyager is lighter and cleaner.
+- **Dark mode is now a proper dark basemap** (CARTO `dark_all`) instead of a CSS invert filter on
+  the tiles, which had been making the labels look odd. The theme toggle swaps the tile URL live.
+- **Every route line is now drawn twice:** a white casing underneath, then the colour on top. That
+  is what makes a line readable over a busy map, and the Shinkansen dashes in particular were nearly
+  invisible before.
+- **Brighter, map-specific colours**, because the page palette is deliberately muted and muted does
+  not survive on top of a basemap: rail `#1d4ed8`, the Hakuba leg `#0e7490`, the mountain loop
+  `#ea580c`. Weights up to 5 and 6, dashes longer, markers larger with a thicker casing. The legend
+  swatches were updated to match, so page and map still agree.
+- **Attribution updated** to credit both OpenStreetMap and CARTO, as CARTO's terms require.
+
 ## v24 &middot; 3 Aug 2026 &middot; Georgi
 
 **The schematic map is replaced with a real one.** Georgi's call, and it required changing a rule
