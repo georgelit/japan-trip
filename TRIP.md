@@ -394,7 +394,12 @@ before, so this is a confirm-at-booking item rather than an unknown.
 
 ### Option: one JDM car for the whole trip
 
-⚠️ **Not decided. This is an alternative to the whole transport stack, not an add-on.**
+⚠️ **Not decided, but Nadir is leaning towards it.** In his words: *"my feeling is for having car
+all the time and do a loop... yes it looses a few hours on driving, but i feel like its kinda
+nice... also probably cheaper... it can actually save us time if we wanna visit places inside city,
+we dont need to wait for trains."* The costing below broadly agrees with him on price.
+
+**This is an alternative to the whole transport stack, not an add-on.**
 
 Instead of *(normal rental car Nagano → Toyama) + (Shinkansen on the coast) + (a separate
 7-hour sports car evening in Tokyo)*, we take **one snow-tyre JDM car from OnlyJDM at Haneda on
@@ -464,6 +469,63 @@ Refundable deposit **¥50,000** (¥200,000 for GT-R, RX-7, LC500). Minimum age *
 **3 years or more**. Second driver ¥3,000/day, ETC ¥600/day, coverage ¥3,000 (third-party only)
 or ¥12,000. Cars carry **GPS and dashcams facing in and out**. Track use and reckless driving are
 forbidden. **No free cancellation for weather.**
+
+---
+
+## Nadir's Google Maps list
+
+**The list:** *Nadirs japan map*, a shared Google Maps list with **615 places** covering the whole
+of Japan. <https://maps.app.goo.gl/AvZ3JBsUUWzSE9kW6>
+
+**All 615 have been read** (3 Aug 2026, opened through Georgi's signed-in Chrome; a signed-out
+browser only serves the first 20). It is a **general Japan wishlist collected over time**, not a
+shortlist for this trip: the overwhelming majority sits in Hokkaido, Tohoku, Kansai, Shikoku,
+Kyushu and the Ogasawara Islands, nowhere near our route.
+
+Filtered to our corridor, here is everything that is actually reachable.
+
+### ✅ Straight onto the plan, no cost
+
+| Place | Where | Fits |
+|---|---|---|
+| **Sushi-Ei Sogawa shop** | Sogawa, central **Toyama**. Sushi, 4.3 (943) | **Day 6 evening.** Toyama Bay sushi was already the plan, this names the place |
+| **KIRARI** (Kanazawa Kaiten Zushi Kirari) | Conveyor-belt sushi by the **west exit of Kanazawa Station** | **Day 7.** Made-to-order from a tablet, the belt does not revolve so nothing sits around |
+| **Chirimen-tei Nagano Ekimae** | Literally **in front of Nagano Station** | **Night 2.** We already sleep by Nagano Station. Free hit |
+| **Shirakawa-go** | Gifu | Already on the page as the day 7 alternative to Kanazawa |
+
+### ⚠️ Near the route, but each needs a decision
+
+| Place | Where | The catch |
+|---|---|---|
+| **Unazuki Onsen** | North-east **Toyama** prefecture, gateway to the Kurobe Gorge | **The Kurobe Gorge Railway is closed December to mid-April**, so the famous trolley is out. The onsen town itself is open year-round and good under snow. Worth it only if the town is the point |
+| **Togakushi Shrine Okusha, Zuishinmon** | **Nagano**, about an hour from the city | The cedar avenue is the picture people go for. But we pass through Nagano at night on day 2 and leave early on day 3 |
+| **Jokoji** | Near **Nagano** | Same timing problem |
+| **Sakurajaya** (izakaya, 4.6) · **Center4 Hamburgers** (Hida beef burgers, 4.7) · **Hida no Sato Folk Village** (4.5) | All three in **Takayama** | 🚨 All three sit in the town Rostik wants to skip. See the conflict below |
+
+### ❌ In the list but not reachable on this trip
+
+- **Kamikōchi** — closed 16 November to 16 April. Not a choice, it is shut.
+- **Gero Onsen** and **Curegarden Open Air Bath** — about an hour **south** of Takayama, and we
+  head north to Toyama. Wrong direction.
+- **Narai-juku, Tsumago-juku, Magome-juku** — the Kiso valley post towns, south of Matsumoto.
+- **Villa Azalea** — near Matsumoto, and we no longer stop in Matsumoto.
+- **Yubatake** — Kusatsu Onsen in Gunma, the wrong side of Nagano.
+- Everything else in the 615 is a different region entirely.
+
+⚠️ **Worth noting: there is nothing pinned in Hakuba itself.**
+
+### A conflict inside the group
+
+**Nadir wrote:** *"shirakawago could be on the way back and takayama as onsen option or something."*
+**Rostik has been to Takayama and says skip it entirely.** The plan currently follows Rostik and
+drives through without stopping.
+
+**Three of the corridor hits above are all in Takayama**: Sakurajaya, Center4 Hamburgers and Hida
+no Sato. So this is now a real trade, not a shrug, and the two of them need to settle it.
+
+⚠️ Also, on Shirakawa-go being "on the way back": it is not. From Toyama it is roughly an hour
+**south-west**, and Tokyo is east. It is a detour in the opposite direction, which is why it sits
+as a day 7 alternative to Kanazawa rather than a stop en route.
 
 ---
 
@@ -547,21 +609,35 @@ cost. The 16th breaks the rule the dates were built around.**
 
 Nothing structural is blocking any more. What is left is detail and booking.
 
-1. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
+1. 🚨 **Takayama: Rostik says skip, Nadir suggests it as an onsen stop.** The plan currently
+   follows Rostik and drives through without stopping. Two of the corridor hits from Nadir's map,
+   Center4 Hamburgers and Hida no Sato, are both in Takayama. **The two of them need to settle
+   this.**
+
+2. 🟢 **Nadir: confirm the near-route ones.** Unazuki Onsen (the gorge railway is shut in winter,
+   is the town still the point?), Togakushi Shrine and Jokoji near Nagano, both awkward on our
+   timing. Everything genuinely on-route is already folded into the plan.
+
+3. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
+   day, the car is picked up or returned on **23 February, the Emperor's Birthday**. Both branches
+   already close at 18:30 on ordinary days. Third thing to ask them, alongside the ADAC-translation
+   question and the after-hours return.
+
+4. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
    the trip, nothing in the shared plan has to change, they travel to Hakuba independently by
    Shinkansen and bus. Needs an answer from them, not from us.
 
-2. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
+5. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
    between the third ski day and keeping the ryokan on Thursday for Nadir's birthday. The 16th
    pushes skiing onto a Saturday and is not advisable.
 
-3. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
+6. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
    about 2 h 10, too long to fit into day 6 alongside the ropeway, and it is roughly an hour
    from Toyama. So it is only possible as a **day 7 trip instead of Kanazawa**, not as well as.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-4. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+7. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
    luggage. One thing left to confirm with the operator: whether the car can come back after
@@ -581,11 +657,11 @@ Nothing structural is blocking any more. What is left is detail and booking.
    load, illuminated at night through February.
    [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
 =======
-5. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+8. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
    (~€60 each). Arguably the point of the whole exercise.
 
-6. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
+9. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
    right, the content is empty.
 >>>>>>> Stashed changes
 

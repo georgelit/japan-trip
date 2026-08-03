@@ -67,6 +67,31 @@ asking Claude for a critical read of the whole document.
   is no resort or ryokan night on a weekend, ordinary city nights are fine and largely
   unavoidable across a 10-day trip.
 
+## v17 &middot; 3 Aug 2026 &middot; Georgi
+
+**Nadir's Google Maps list read in full, and folded in.**
+
+- The list is *Nadirs japan map*, **615 places across the whole of Japan**, a general wishlist
+  collected over time rather than a shortlist for this trip. A signed-out browser only serves the
+  first 20, so it was opened through Georgi's own signed-in Chrome to read all of it.
+- **Four points land straight on the plan at zero cost:** *Sushi-Ei Sogawa shop* in central Toyama
+  (day 6 evening, which was already going to be Toyama Bay sushi), **KIRARI** conveyor sushi by the
+  west exit of Kanazawa Station (day 7), **Chirimen-tei Nagano Ekimae** right in front of Nagano
+  Station where we already sleep on night 2, and **Shirakawa-go**, already on the page.
+- **Four need a decision:** Unazuki Onsen (⚠️ the Kurobe Gorge Railway is **closed December to
+  mid-April**, so only the onsen town itself is on offer), Togakushi Shrine and Jokoji near Nagano
+  (awkward against our timing), and the Takayama cluster.
+- **Ruled out with reasons:** Kamikōchi (shut 16 Nov to 16 Apr), Gero Onsen and Curegarden (an hour
+  south of Takayama, wrong direction), the Kiso valley post towns, Villa Azalea, Kusatsu.
+- ⚠️ **Nothing is pinned in Hakuba itself.**
+- 🚨 **A group conflict surfaced.** Three of the corridor hits, Sakurajaya, Center4 Hamburgers and
+  Hida no Sato, are all in **Takayama**, which Rostik wants skipped and Nadir suggests as an onsen
+  stop. Logged as a question for the two of them.
+- Also corrected Nadir's assumption that Shirakawa-go is "on the way back": from Toyama it is an
+  hour south-west and Tokyo is east, so it is a detour in the opposite direction.
+- **Also logged:** Nadir is leaning towards keeping the car for the whole trip and doing a loop,
+  and he raised that OnlyJDM's holiday opening needs confirming if the dates shift onto 23 February.
+
 ## v16 &middot; 1 Aug 2026 &middot; Nadir
 
 **The IDP concern is dropped, it was never real for us.** OnlyJDM's terms mention an
