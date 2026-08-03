@@ -34,6 +34,33 @@ file below is the human-readable layer: what changed and, more importantly, why.
 ---
 
 <<<<<<< Updated upstream
+## v24 &middot; 3 Aug 2026 &middot; Georgi
+
+**The schematic map is replaced with a real one.** Georgi's call, and it required changing a rule
+we had set ourselves.
+
+- **Why the old one had to go.** It was a node diagram with no coastline, and on a phone the labels
+  collided with the route lines (Kanazawa over the rail dashes, Shirakawa-go over the Takayama leg,
+  the ropeway label straight across a road). The overlap check that passed it only tested text
+  against text, never text against lines.
+- **Now: Leaflet with OpenStreetMap tiles.** Real roads, real towns, pan and zoom, popups on every
+  stop, and it inverts politely in dark mode. Free, no API key, no account.
+- 🚨 **This breaks the "single self-contained file" rule**, deliberately and for the map only.
+  `CLAUDE.md` has been updated with the exception and its conditions: no further external
+  dependencies without asking, the OSM attribution stays visible because it is a licence condition,
+  and the tile layer keeps `referrerPolicy: strict-origin-when-cross-origin` as OSM's policy asks.
+- **The driving line follows actual roads.** Geometry was pulled once from OSRM and baked into the
+  page as coordinates, so there is no runtime dependency on a routing service. That also produced
+  real distances: **Nagano → Hakuba 45 km**, and **Hakuba → Matsumoto → Okuhida → past Takayama →
+  Toyama 237 km**, so **282 km of driving in total**.
+  - ⚠️ OSRM's times are free-flow and take no account of winter. It puts Okuhida → Takayama at 24
+    minutes where the Okuhida tourist board says 50. **The sourced, slower figures stay the planning
+    numbers**; the OSRM ones are only used for distance.
+  - Useful side effect: 282 km sits well inside the 200 km per 24 h mileage cap on the whole-trip
+    JDM car option, over the four days the car is held.
+- **Two links added under the map**: the car loop as a ready-made **Google Maps directions** URL, so
+  anyone can open it in the app on their phone, and a link to Nadir's pin list.
+
 ## v22 &middot; 3 Aug 2026 &middot; Georgi
 
 **Added a route map to the page.**
