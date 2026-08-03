@@ -19,3 +19,4 @@
 19	2026-08-03T12:45	Georgi Litvinov	Nadir's 615-place map read in full and filtered to the corridor; Takayama conflict surfaced
 20	2026-08-03T12:51	Georgi Litvinov	second map pass: Daikoku PA confirmed in Nadir's list, ~50 Tokyo pins flagged for him to pick from
 21	2026-08-03T12:52	Georgi Litvinov	fix changelog numbering: my entries had collided with Nadir's concurrent v16 and v17
+22	2026-08-03T13:21	Georgi Litvinov	add an inline SVG route map, node positions computed from real coordinates

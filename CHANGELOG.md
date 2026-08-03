@@ -34,6 +34,23 @@ file below is the human-readable layer: what changed and, more importantly, why.
 ---
 
 <<<<<<< Updated upstream
+## v22 &middot; 3 Aug 2026 &middot; Georgi
+
+**Added a route map to the page.**
+
+- **Drawn as inline SVG**, because the page rule forbids external scripts and images, so a Google
+  Maps or Leaflet embed is not an option. No dependencies, works offline, themes correctly.
+- **Node positions are computed from real latitudes and longitudes** (equirectangular with a
+  cos-latitude correction at 36.5°N), so the shape of the loop is geographically true. It is still
+  a schematic: no coastline, and legs are drawn direct rather than following the actual roads.
+- The structure it makes visible: a **Hokuriku Shinkansen spine** (Tokyo, Nagano, Toyama, Kanazawa)
+  used three times, with a **car loop** hanging off it at Nagano and rejoining at Toyama. That is
+  why the trip works without backtracking, and it is much easier to see than to read.
+- Shirakawa-go is drawn dashed off Toyama, which makes the point that it is an alternative to
+  Kanazawa rather than an extra stop.
+- Sits inside the standard `.scroll` container with a 660px minimum width, so it scrolls sideways
+  on a phone instead of shrinking the labels to nothing.
+
 ## v20 &middot; 3 Aug 2026 &middot; Georgi
 
 **Second pass over Nadir's map, this time covering Tokyo and the Nagano side.**
