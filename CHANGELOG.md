@@ -34,6 +34,29 @@ file below is the human-readable layer: what changed and, more importantly, why.
 ---
 
 <<<<<<< Updated upstream
+## v27 &middot; 3 Aug 2026 &middot; Georgi
+
+**Corrected an overclaim about the ropeway, and answered whether it is worth a morning at all.**
+
+- 🚨 **The page contradicted itself.** It said Hakuba sits in the Hida range, i.e. the Northern Alps,
+  and also that the Shinhotaka Ropeway is "the only way to get close to the Northern Alps in
+  February". Both cannot be true. Georgi caught it by asking the obvious question: why go and look at
+  mountains when we will have been skiing in them for three days?
+- **The accurate claim is narrower.** The ropeway is the only winter access to the **high central
+  massif**, Hotaka and Yari. Fixed in every place the old wording appeared.
+- **What the honest comparison shows.** It is not about altitude: Happo-One's top is 1,831 m and the
+  deck is 2,156 m, only 325 m more. It is about **which peaks you face**. From Happo-One: Shirouma,
+  Goryu, Kashimayari, the Hakuba Sanzan group at the northern end of the range, 2,800–2,900 m. From
+  the deck: **Yarigatake 3,180 m and Oku-Hotaka 3,190 m**, the highest in Japan after Fuji and
+  Kita-dake, about 40 km south and **not visible from Hakuba at all**. Kamikochi lies right beneath
+  them and is shut until 16 April.
+- ⚠️ **Added the risk that was missing.** Winter visitor reports describe the deck in thick fog at
+  −12 °C with no view whatsoever, and it can close for wind. No published closure statistics exist.
+- **Decision recorded: keep it, but demote it.** It is no longer the reason we go to Okuhida, the
+  ryokan is, and Okuhida is on the road to Toyama regardless. **We decide on the morning of day 6 by
+  looking out of the ryokan window.** Clear, we go up; socked in, we skip it and get a longer
+  afternoon in Toyama. Nothing is pre-booked, so there is no downside either way.
+
 ## v26 &middot; 3 Aug 2026 &middot; Georgi
 
 **Map now reads in English, and the route lines actually stand out.** Both asked for by Georgi.

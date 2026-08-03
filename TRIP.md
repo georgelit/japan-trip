@@ -153,7 +153,8 @@ road to Toyama:** Route 471 east from Hirayu joins Route 41, and Toyama Intercha
 about **90 minutes**. So the order is Hakuba, south into the mountains, then north-west to the
 sea, and it reads as one continuous arc.
 
-- ✅ **The Shinhotaka Ropeway survives**, and it is the only winter access to the Northern Alps.
+- ✅ **The Shinhotaka Ropeway survives**, and it is the only winter access to the *high central*
+  massif, Hotaka and Yari. See the honesty check below on whether that is worth a morning.
 - ✅ **The Okuhida ryokan survives**, on Thursday, on Nadir's birthday, at the cheapest night tier.
 - ✅ **Toyama is in**, which Rostik asked for and Nadir originally drew.
 - ✅ **Kanazawa is in**, which fills what was the empty day 8.
@@ -293,6 +294,37 @@ Everything in this section has a source. Do not edit these numbers without a new
   and **Sakka** beginner zones with the ski school office at the base of Nakiyama.
   [happo-one.jp](https://www.happo-one.jp/en/gelande/)
 
+### Is the ropeway actually worth a morning?
+
+Georgi asked the obvious question on 3 Aug: **we are already skiing in these mountains for three
+days, so what does a viewing platform add?** Fair, and the honest answer is not "it is higher".
+
+| | Happo-One, from the top | Shinhotaka deck |
+|---|---|---|
+| Altitude | **1,831 m** | **2,156 m**, only 325 m more |
+| What you face | **Shirouma (2,932 m), Shakushi, Goryu (2,814 m), Kashimayari (2,889 m)**, the Hakuba Sanzan group at the **northern end** of the Hida range | **Yarigatake (3,180 m), Oku-Hotaka (3,190 m), Kasagatake, Yakedake**, the **high central massif** |
+| Can you see the other one from here? | **No.** The Hotaka and Yari group is about 40 km south and out of sight from Hakuba | No |
+| What you are doing | Skiing. Moving, watching the group, not really looking | Standing still on a 360° deck for twenty minutes |
+
+**So the argument is not "more mountains", it is "different mountains".** Oku-Hotaka and Yarigatake
+are the highest peaks in Japan after Fuji and Kita-dake, and you genuinely cannot see them from
+Hakuba. Kamikochi, the valley people picture when they say "Japanese Alps", sits directly beneath
+them and is shut until 16 April, which is why the ropeway is the only winter way in.
+
+**What it actually costs us: very little.** We are in Okuhida anyway for the ryokan on Nadir's
+birthday, and Okuhida is on the road north to Toyama. So this is a stop on a day we are already
+there, not a detour: roughly **2 h 30 to 3 h and ¥3,300** (≈ €18).
+
+⚠️ **What could make it worthless: the weather.** Visitor reports from winter describe the deck in
+thick fog at −12 °C with nothing visible at all. There are no published closure statistics. It can
+also shut for wind.
+
+**Decision rule (3 Aug 2026): keep it, but demote it.** It is no longer the reason we go to
+Okuhida, the ryokan is. **We look out of the ryokan window on the morning of day 6 and decide
+there.** Clear, we go up. Socked in, we skip it, leave early and get a longer afternoon in Toyama.
+Nothing is lost either way, because the ¥3,300 is not pre-booked and we are driving past regardless.
+
+
 ### Okuhida, and what we kept from Takayama
 
 - **Shinhotaka Ropeway** runs all year. **Winter hours 09:00–16:15 (Dec–Mar)**, last ascent
@@ -300,7 +332,9 @@ Everything in this section has a source. Do not edit these numbers without a new
   Hotaka, Kasagatake, Yakedake. **¥3,300 return** (≈ €18).
   [Official site](https://shinhotaka-ropeway.jp/en/price/) ·
   [Japan Guide](https://www.japan-guide.com/e/e5943.html)
-- This is **the only way to get close to the Northern Alps in February.** Kamikochi is
+- ⚠️ **Corrected 3 Aug 2026.** This used to say "the only way to get close to the Northern Alps in
+  February", which contradicted our own page: Hakuba *is* in the Hida range, so we are already in
+  the Northern Alps for three days. The accurate claim is narrower, see below. Kamikochi is
   closed 16 Nov – 16 Apr; the Tateyama Kurobe Alpine Route opens mid-April.
   [Alpen Route](https://www.alpen-route.com/en/tateyama-kurobe-alpine-route-will-open-on-april-15th-2026)
 - **Takayama morning markets:** from **08:00 until around noon** in winter, at Miyagawa
