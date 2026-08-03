@@ -467,22 +467,107 @@ forbidden. **No free cancellation for weather.**
 
 ---
 
+## Two questions about who flies when
+
+### A. Rostik or Jakob arriving earlier, or staying longer, for more skiing
+
+**Verdict: easy, and it does not disturb anything.** Extra ski days bolt on cleanly, as long as
+they go at the **front** of the trip.
+
+**Why the front and not the back.** The group leaves Hakuba on **day 5, Thursday 18 February**,
+and does not come back: from there it is Okuhida, then Toyama, then Kanazawa, then Tokyo. Extra
+days at the back would mean splitting off from the group mid-trip and finding a separate way
+home. Extra days at the front just means being in Hakuba before the rest of us turn up.
+
+**Nothing in the shared plan has to change.** Hakuba nights are booked per night, lift passes are
+sold per day, and **Tokyo → Nagano → Hakuba needs no car**: Hokuriku Shinkansen 77–95 min, then
+the Alpico bus about an hour. Whoever comes early travels independently and we meet on the
+mountain.
+
+**What it costs them:**
+
+| Item | Note |
+|---|---|
+| Extra Hakuba nights | ⚠️ est. €60–90 each per night |
+| Extra lift days | Hakuba Valley: 1 day **¥11,100**, 2 days ¥21,800, 3 days **¥32,200**. Note the multi-day rate barely discounts, so a 4th day is close to full price |
+| Extra gear rental | ⚠️ est. ~¥5,500 per day |
+| Their own flight | Separate booking |
+
+⚠️ **Two things to weigh:**
+- **Arriving before the 14th means giving up Valentine's Day at home**, which is the whole reason
+  the group's dates sit where they do. That is a personal call, not a group one.
+- **Weekends are busy on the slopes.** Sunday 14 and Saturday 13 February are the crowded days.
+  An extra **Monday 15** is the good one: a quiet weekday, and the group arrives that evening.
+
+### B. Flying out on the 15th or the 16th instead of the 14th
+
+First, the thing that is *not* a reason either way: **Valentine's Day is satisfied by all three
+options.** The 14th is a Sunday, and we already fly out that evening, so leaving on the 15th or
+16th also means being home for it.
+
+#### Departing Monday 15 February: workable, at a price
+
+| | Now (out on the 14th) | Out on the 15th |
+|---|---|---|
+| Ski days | Tue 16, Wed 17, Thu 18 | Wed 17, Thu 18, Fri 19 |
+| All weekdays? | ✅ | ✅ still fine |
+| The ryokan | **Thu 18**, cheapest night tier | **Fri 19**, mid tier |
+| Nadir's birthday | **Is the ryokan night** | Becomes a plain ski day again |
+| Tokyo drive day | Mon 22, ordinary weekday | **Tue 23, the Emperor's Birthday** |
+| Land in Berlin | Tue 23 | Wed 24 |
+
+**The cost is concrete: you have to give up one of two things.**
+
+- **Keep three ski days** → the ryokan slides to **Friday 19**. Japanese pricing runs Saturday and
+  pre-holiday highest, then Friday and Sunday, with Monday to Thursday **15–30 % cheaper**. And
+  Nadir's birthday on Thursday stops being the ryokan night, which was the whole point of the
+  current shape.
+- **Keep the Thursday ryokan on the birthday** → we are down to **two ski days**, Wednesday and a
+  half-day Thursday, and pick up a spare day in Tokyo instead.
+
+⚠️ Also note the Tokyo drive would land on **23 February, the Emperor's Birthday**. Not a blocker,
+and arguably a livelier night for it, but the roads and the city are busier, and OnlyJDM's
+holiday hours would need checking.
+
+#### Departing Tuesday 16 February: not advisable
+
+| | Effect |
+|---|---|
+| ❌ **Ski days become Thu 18, Fri 19, Sat 20** | **Saturday on the slopes.** Keeping ski days off weekends was Nadir's explicit priority |
+| ❌ **The Kanazawa → Tokyo transfer lands on Tue 23** | The Emperor's Birthday. Shinkansen packed on a national holiday |
+| ⚠️ **First ski day is the day after landing** | Straight from a 15-hour flight onto the mountain |
+| Land in Berlin | Thu 25 |
+
+**Recommendation: the 14th stays best. The 15th is a genuine fallback with a known, specific
+cost. The 16th breaks the rule the dates were built around.**
+
+---
+
 ## Open questions
 
 Nothing structural is blocking any more. What is left is detail and booking.
 
-1. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
+1. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
+   the trip, nothing in the shared plan has to change, they travel to Hakuba independently by
+   Shinkansen and bus. Needs an answer from them, not from us.
+
+2. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
+   between the third ski day and keeping the ryokan on Thursday for Nadir's birthday. The 16th
+   pushes skiing onto a Saturday and is not advisable.
+
+3. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
    about 2 h 10, too long to fit into day 6 alongside the ropeway, and it is roughly an hour
    from Toyama. So it is only possible as a **day 7 trip instead of Kanazawa**, not as well as.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-2. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+4. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
    luggage. One thing left to confirm with the operator: whether the car can come back after
    18:30.
 
+<<<<<<< Updated upstream
 3. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
@@ -495,6 +580,14 @@ Nothing structural is blocking any more. What is left is detail and booking.
    season because of **yukitsuri**, the rope rigging that protects the pine trees from snow
    load, illuminated at night through February.
    [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
+=======
+5. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+   (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
+   (~€60 each). Arguably the point of the whole exercise.
+
+6. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
+   right, the content is empty.
+>>>>>>> Stashed changes
 
 ### Closed
 

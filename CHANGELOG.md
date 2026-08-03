@@ -33,6 +33,7 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+<<<<<<< Updated upstream
 ## v17 &middot; 3 Aug 2026 &middot; Nadir
 
 **Fixed drift between the money table, the night count and the actual itinerary**, found by
@@ -75,6 +76,29 @@ translation, on top of the group's prior rental history with OnlyJDM on the same
 "🚨 licence" warning is gone from the JDM sections and both headcount mentions moved from
 "Georgi and Nadir" to "three of us." The one thing still open on that option is the after-hours
 return past 18:30, not the licence.
+=======
+## v16 &middot; 3 Aug 2026 &middot; Georgi
+
+**Two new questions about who flies when, both worked through rather than just logged.**
+
+- **Rostik or Jakob adding ski days.** Verdict: easy, and it disturbs nothing, provided the extra
+  days go at the **front**. The group leaves Hakuba on day 5 and never returns, so extra days at
+  the back would mean splitting off mid-trip. Nothing shared has to change: Hakuba nights are per
+  night, lift passes per day, and Tokyo → Nagano → Hakuba needs no car. Flagged that arriving
+  before the 14th costs them Valentine's Day at home, and that an extra **Monday 15** is the good
+  day to add while weekends are the crowded ones.
+- **Flying out on the 15th or 16th instead of the 14th.** Worked out against the calendar.
+  - **Valentine's Day is satisfied by all three options**, so it is not a reason either way.
+  - **The 15th is workable but forces a choice.** Ski days shift to Wed/Thu/Fri, still weekdays,
+    but either the ryokan slides to **Friday** and loses both the cheapest night tier (Mon–Thu is
+    15–30 % below Saturday) and Nadir's birthday, **or** we keep the Thursday ryokan and drop to
+    two ski days. Also puts the Tokyo drive on **23 February, the Emperor's Birthday**.
+  - **The 16th is not advisable.** Ski days become Thu/Fri/**Sat**, and keeping skiing off weekends
+    was Nadir's explicit priority. The Kanazawa → Tokyo transfer would also land on the Emperor's
+    Birthday with packed Shinkansen, and the first ski day would be the day after landing.
+  - **Recommendation recorded: keep the 14th.** The 15th is a real fallback with a specific known
+    cost; the 16th breaks the rule the dates were built around.
+>>>>>>> Stashed changes
 
 ## v15 &middot; 1 Aug 2026 &middot; Georgi
 
