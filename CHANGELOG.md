@@ -53,6 +53,54 @@ file below is the human-readable layer: what changed and, more importantly, why.
   Kusatsu and we go the other way, west to Hakuba.
 - ⚠️ **Re-confirmed: nothing at all is pinned in Hakuba.**
 
+## v19 &middot; 3 Aug 2026 &middot; Georgi
+
+**Nadir's Google Maps list read in full, and folded in.**
+
+- The list is *Nadirs japan map*, **615 places across the whole of Japan**, a general wishlist
+  collected over time rather than a shortlist for this trip. A signed-out browser only serves the
+  first 20, so it was opened through Georgi's own signed-in Chrome to read all of it.
+- **Four points land straight on the plan at zero cost:** *Sushi-Ei Sogawa shop* in central Toyama
+  (day 6 evening, which was already going to be Toyama Bay sushi), **KIRARI** conveyor sushi by the
+  west exit of Kanazawa Station (day 7), **Chirimen-tei Nagano Ekimae** right in front of Nagano
+  Station where we already sleep on night 2, and **Shirakawa-go**, already on the page.
+- **Four need a decision:** Unazuki Onsen (⚠️ the Kurobe Gorge Railway is **closed December to
+  mid-April**, so only the onsen town itself is on offer), Togakushi Shrine and Jokoji near Nagano
+  (awkward against our timing), and the Takayama cluster.
+- **Ruled out with reasons:** Kamikōchi (shut 16 Nov to 16 Apr), Gero Onsen and Curegarden (an hour
+  south of Takayama, wrong direction), the Kiso valley post towns, Villa Azalea, Kusatsu.
+- ⚠️ **Nothing is pinned in Hakuba itself.**
+- 🚨 **A group conflict surfaced.** Three of the corridor hits, Sakurajaya, Center4 Hamburgers and
+  Hida no Sato, are all in **Takayama**, which Rostik wants skipped and Nadir suggests as an onsen
+  stop. Logged as a question for the two of them.
+- Also corrected Nadir's assumption that Shirakawa-go is "on the way back": from Toyama it is an
+  hour south-west and Tokyo is east, so it is a detour in the opposite direction.
+- **Also logged:** Nadir is leaning towards keeping the car for the whole trip and doing a loop,
+  and he raised that OnlyJDM's holiday opening needs confirming if the dates shift onto 23 February.
+
+## v18 &middot; 3 Aug 2026 &middot; Georgi
+
+**Two new questions about who flies when, both worked through rather than just logged.**
+
+- **Rostik or Jakob adding ski days.** Verdict: easy, and it disturbs nothing, provided the extra
+  days go at the **front**. The group leaves Hakuba on day 5 and never returns, so extra days at
+  the back would mean splitting off mid-trip. Nothing shared has to change: Hakuba nights are per
+  night, lift passes per day, and Tokyo → Nagano → Hakuba needs no car. Flagged that arriving
+  before the 14th costs them Valentine's Day at home, and that an extra **Monday 15** is the good
+  day to add while weekends are the crowded ones.
+- **Flying out on the 15th or 16th instead of the 14th.** Worked out against the calendar.
+  - **Valentine's Day is satisfied by all three options**, so it is not a reason either way.
+  - **The 15th is workable but forces a choice.** Ski days shift to Wed/Thu/Fri, still weekdays,
+    but either the ryokan slides to **Friday** and loses both the cheapest night tier (Mon–Thu is
+    15–30 % below Saturday) and Nadir's birthday, **or** we keep the Thursday ryokan and drop to
+    two ski days. Also puts the Tokyo drive on **23 February, the Emperor's Birthday**.
+  - **The 16th is not advisable.** Ski days become Thu/Fri/**Sat**, and keeping skiing off weekends
+    was Nadir's explicit priority. The Kanazawa → Tokyo transfer would also land on the Emperor's
+    Birthday with packed Shinkansen, and the first ski day would be the day after landing.
+  - **Recommendation recorded: keep the 14th.** The 15th is a real fallback with a specific known
+    cost; the 16th breaks the rule the dates were built around.
+>>>>>>> Stashed changes
+
 ## v17 &middot; 3 Aug 2026 &middot; Nadir
 
 **Fixed drift between the money table, the night count and the actual itinerary**, found by
@@ -86,31 +134,6 @@ asking Claude for a critical read of the whole document.
   is no resort or ryokan night on a weekend, ordinary city nights are fine and largely
   unavoidable across a 10-day trip.
 
-## v17 &middot; 3 Aug 2026 &middot; Georgi
-
-**Nadir's Google Maps list read in full, and folded in.**
-
-- The list is *Nadirs japan map*, **615 places across the whole of Japan**, a general wishlist
-  collected over time rather than a shortlist for this trip. A signed-out browser only serves the
-  first 20, so it was opened through Georgi's own signed-in Chrome to read all of it.
-- **Four points land straight on the plan at zero cost:** *Sushi-Ei Sogawa shop* in central Toyama
-  (day 6 evening, which was already going to be Toyama Bay sushi), **KIRARI** conveyor sushi by the
-  west exit of Kanazawa Station (day 7), **Chirimen-tei Nagano Ekimae** right in front of Nagano
-  Station where we already sleep on night 2, and **Shirakawa-go**, already on the page.
-- **Four need a decision:** Unazuki Onsen (⚠️ the Kurobe Gorge Railway is **closed December to
-  mid-April**, so only the onsen town itself is on offer), Togakushi Shrine and Jokoji near Nagano
-  (awkward against our timing), and the Takayama cluster.
-- **Ruled out with reasons:** Kamikōchi (shut 16 Nov to 16 Apr), Gero Onsen and Curegarden (an hour
-  south of Takayama, wrong direction), the Kiso valley post towns, Villa Azalea, Kusatsu.
-- ⚠️ **Nothing is pinned in Hakuba itself.**
-- 🚨 **A group conflict surfaced.** Three of the corridor hits, Sakurajaya, Center4 Hamburgers and
-  Hida no Sato, are all in **Takayama**, which Rostik wants skipped and Nadir suggests as an onsen
-  stop. Logged as a question for the two of them.
-- Also corrected Nadir's assumption that Shirakawa-go is "on the way back": from Toyama it is an
-  hour south-west and Tokyo is east, so it is a detour in the opposite direction.
-- **Also logged:** Nadir is leaning towards keeping the car for the whole trip and doing a loop,
-  and he raised that OnlyJDM's holiday opening needs confirming if the dates shift onto 23 February.
-
 ## v16 &middot; 1 Aug 2026 &middot; Nadir
 
 **The IDP concern is dropped, it was never real for us.** OnlyJDM's terms mention an
@@ -121,29 +144,6 @@ translation, on top of the group's prior rental history with OnlyJDM on the same
 "Georgi and Nadir" to "three of us." The one thing still open on that option is the after-hours
 return past 18:30, not the licence.
 =======
-## v16 &middot; 3 Aug 2026 &middot; Georgi
-
-**Two new questions about who flies when, both worked through rather than just logged.**
-
-- **Rostik or Jakob adding ski days.** Verdict: easy, and it disturbs nothing, provided the extra
-  days go at the **front**. The group leaves Hakuba on day 5 and never returns, so extra days at
-  the back would mean splitting off mid-trip. Nothing shared has to change: Hakuba nights are per
-  night, lift passes per day, and Tokyo → Nagano → Hakuba needs no car. Flagged that arriving
-  before the 14th costs them Valentine's Day at home, and that an extra **Monday 15** is the good
-  day to add while weekends are the crowded ones.
-- **Flying out on the 15th or 16th instead of the 14th.** Worked out against the calendar.
-  - **Valentine's Day is satisfied by all three options**, so it is not a reason either way.
-  - **The 15th is workable but forces a choice.** Ski days shift to Wed/Thu/Fri, still weekdays,
-    but either the ryokan slides to **Friday** and loses both the cheapest night tier (Mon–Thu is
-    15–30 % below Saturday) and Nadir's birthday, **or** we keep the Thursday ryokan and drop to
-    two ski days. Also puts the Tokyo drive on **23 February, the Emperor's Birthday**.
-  - **The 16th is not advisable.** Ski days become Thu/Fri/**Sat**, and keeping skiing off weekends
-    was Nadir's explicit priority. The Kanazawa → Tokyo transfer would also land on the Emperor's
-    Birthday with packed Shinkansen, and the first ski day would be the day after landing.
-  - **Recommendation recorded: keep the 14th.** The 15th is a real fallback with a specific known
-    cost; the 16th breaks the rule the dates were built around.
->>>>>>> Stashed changes
-
 ## v15 &middot; 1 Aug 2026 &middot; Georgi
 
 **Added a costed option: one JDM car for the whole trip instead of the three-part transport
