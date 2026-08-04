@@ -33,6 +33,18 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v28 &middot; 4 Aug 2026 &middot; Nadir
+
+**Fixed live git conflict markers.** Georgi's v18 (a `git stash pop` against my concurrently
+published v16/v17) left `<<<<<<< Updated upstream`, `=======` and `>>>>>>> Stashed changes`
+sitting in both `TRIP.md` and `CHANGELOG.md`, published and live on the actual site since
+v18. Caught it doing a routine `git pull` to check for updates. The markers were structurally
+odd (a `<<<<<<<`/`>>>>>>>` pair with no `=======` between them, plus an orphan `=======` lower
+down), but the underlying content on both sides was already correctly merged and in the right
+order, so the fix was just deleting the three stray lines, nothing was lost or reworded.
+Also renumbered the two open questions that had briefly existed in two versions (old
+"Georgi and Nadir" wording vs the current "three of us" wording), keeping the current one.
+
 ## v27 &middot; 3 Aug 2026 &middot; Georgi
 
 **Corrected an overclaim about the ropeway, and answered whether it is worth a morning at all.**
