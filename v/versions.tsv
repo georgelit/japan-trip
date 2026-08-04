@@ -25,3 +25,4 @@
 25	2026-08-03T13:41	Georgi Litvinov	fix duplicate id=map: Nadir's list section and the route div were fighting over it
 26	2026-08-03T13:48	Georgi Litvinov	map in English via CARTO Voyager, brighter route lines with white casings, real dark basemap
 27	2026-08-03T14:18	Georgi Litvinov	fix ropeway overclaim (we are already in the Northern Alps at Hakuba) and add an honest is-it-worth-it with a decide-on-the-morning rule
+28	2026-08-04T14:13	nadir35	fix broken git-stash conflict markers left live in TRIP.md and CHANGELOG.md

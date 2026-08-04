@@ -33,7 +33,6 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
-<<<<<<< Updated upstream
 ## v27 &middot; 3 Aug 2026 &middot; Georgi
 
 **Corrected an overclaim about the ropeway, and answered whether it is worth a morning at all.**
@@ -185,7 +184,6 @@ we had set ourselves.
     Birthday with packed Shinkansen, and the first ski day would be the day after landing.
   - **Recommendation recorded: keep the 14th.** The 15th is a real fallback with a specific known
     cost; the 16th breaks the rule the dates were built around.
->>>>>>> Stashed changes
 
 ## v17 &middot; 3 Aug 2026 &middot; Nadir
 
@@ -229,7 +227,7 @@ translation, on top of the group's prior rental history with OnlyJDM on the same
 "🚨 licence" warning is gone from the JDM sections and both headcount mentions moved from
 "Georgi and Nadir" to "three of us." The one thing still open on that option is the after-hours
 return past 18:30, not the licence.
-=======
+
 ## v15 &middot; 1 Aug 2026 &middot; Georgi
 
 **Added a costed option: one JDM car for the whole trip instead of the three-part transport

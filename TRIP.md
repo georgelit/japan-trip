@@ -705,27 +705,18 @@ Nothing structural is blocking any more. What is left is detail and booking.
    luggage. One thing left to confirm with the operator: whether the car can come back after
    18:30.
 
-<<<<<<< Updated upstream
-3. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+9. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
 
-4. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
-   behind them.** Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen,
-   Higashi Chaya, an empty Tokyo evening, that is a name list, not a plan: no hours, no order,
-   no reason given for why each one is worth the stop. Kenrokuen is a concrete example of what
-   is missing: it is not just "one of Japan's three great gardens", winter is its signature
-   season because of **yukitsuri**, the rope rigging that protects the pine trees from snow
-   load, illuminated at night through February.
-   [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
-=======
-9. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
-   (~€28 each), but Georgi and Nadir both hold translated licences, so two cars works
-   (~€60 each). Arguably the point of the whole exercise.
-
-10. 🟢 **Nothing is planned for Toyama, Kanazawa or the Tokyo evening of day 8.** The skeleton is
-   right, the content is empty.
->>>>>>> Stashed changes
+10. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
+    behind them.** Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen,
+    Higashi Chaya, an empty Tokyo evening, that is a name list, not a plan: no hours, no order,
+    no reason given for why each one is worth the stop. Kenrokuen is a concrete example of what
+    is missing: it is not just "one of Japan's three great gardens", winter is its signature
+    season because of **yukitsuri**, the rope rigging that protects the pine trees from snow
+    load, illuminated at night through February.
+    [Visit Kanazawa](https://visitkanazawa.jp/en/trip-ideas/detail_238.html)
 
 ### Closed
 
