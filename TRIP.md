@@ -533,10 +533,17 @@ Filtered to our corridor, here is everything that is actually reachable.
 
 | Place | Where | The catch |
 |---|---|---|
-| **Unazuki Onsen** | North-east **Toyama** prefecture, gateway to the Kurobe Gorge | **The Kurobe Gorge Railway is closed December to mid-April**, so the famous trolley is out. The onsen town itself is open year-round and good under snow. Worth it only if the town is the point |
 | **Togakushi Shrine Okusha, Zuishinmon** | **Nagano**, about an hour from the city | The cedar avenue is the picture people go for. But we pass through Nagano at night on day 2 and leave early on day 3 |
 | **Jokoji** | Near **Nagano** | Same timing problem |
-| **Sakurajaya** (izakaya, 4.6) · **Center4 Hamburgers** (Hida beef burgers, 4.7) · **Hida no Sato Folk Village** (4.5) | All three in **Takayama** | 🚨 All three sit in the town Rostik wants to skip. See the conflict below |
+
+### ✅ Decided against, 4 Aug 2026 (Nadir)
+
+- **Unazuki Onsen** — the Kurobe Gorge Railway is shut in winter regardless, and the pins are a
+  guideline, not a checklist. We already get mountain scenery from three ski days, not worth a
+  detour for the onsen town alone.
+- **Takayama, as a stop of any kind** — settles the conflict below in Rostik's favour. Drive
+  through only, no onsen detour. Sakurajaya, Center4 Hamburgers and Hida no Sato fall away with
+  it.
 
 ### ❌ In the list but not reachable on this trip
 
@@ -572,14 +579,13 @@ and **Yubatake** further east. We go the other way, west to Hakuba.
 
 ⚠️ **Worth noting: there is nothing pinned in Hakuba itself.**
 
-### A conflict inside the group
+### A conflict inside the group, resolved
 
 **Nadir wrote:** *"shirakawago could be on the way back and takayama as onsen option or something."*
-**Rostik has been to Takayama and says skip it entirely.** The plan currently follows Rostik and
-drives through without stopping.
+**Rostik has been to Takayama and says skip it entirely.**
 
-**Three of the corridor hits above are all in Takayama**: Sakurajaya, Center4 Hamburgers and Hida
-no Sato. So this is now a real trade, not a shrug, and the two of them need to settle it.
+✅ **Settled 4 Aug 2026: Nadir agreed, no Takayama stop.** Drive through only, per Rostik. The
+pin list is a guideline, not a mandate, and it does not override this.
 
 ⚠️ Also, on Shirakawa-go being "on the way back": it is not. From Toyama it is roughly an hour
 **south-west**, and Tokyo is east. It is a detour in the opposite direction, which is why it sits
@@ -667,49 +673,44 @@ cost. The 16th breaks the rule the dates were built around.**
 
 Nothing structural is blocking any more. What is left is detail and booking.
 
-1. 🚨 **Takayama: Rostik says skip, Nadir suggests it as an onsen stop.** The plan currently
-   follows Rostik and drives through without stopping. Two of the corridor hits from Nadir's map,
-   Center4 Hamburgers and Hida no Sato, are both in Takayama. **The two of them need to settle
-   this.**
-
-2. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
+1. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
    pins and the two Tokyo days are still empty. That is the single biggest blank left on this page,
    and it is your taste, so you choose rather than us guessing.
 
-3. 🟢 **Nadir: confirm the near-route ones.** Unazuki Onsen (the gorge railway is shut in winter,
-   is the town still the point?), Togakushi Shrine and Jokoji near Nagano, both awkward on our
-   timing. Everything genuinely on-route is already folded into the plan.
+2. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing:
+   we pass through at night on day 2 and leave early on day 3. Unazuki Onsen and Takayama are
+   settled, see Closed. Everything genuinely on-route is already folded into the plan.
 
-4. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
+3. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
    day, the car is picked up or returned on **23 February, the Emperor's Birthday**. Both branches
    already close at 18:30 on ordinary days. Third thing to ask them, alongside the ADAC-translation
    question and the after-hours return.
 
-5. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
+4. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
    the trip, nothing in the shared plan has to change, they travel to Hakuba independently by
    Shinkansen and bus. Needs an answer from them, not from us.
 
-6. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
+5. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
    between the third ski day and keeping the ryokan on Thursday for Nadir's birthday. The 16th
    pushes skiing onto a Saturday and is not advisable.
 
-7. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
+6. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
    about 2 h 10, too long to fit into day 6 alongside the ropeway, and it is roughly an hour
    from Toyama. So it is only possible as a **day 7 trip instead of Kanazawa**, not as well as.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-8. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+7. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
    luggage. One thing left to confirm with the operator: whether the car can come back after
    18:30.
 
-9. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+8. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
 
-10. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
+9. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
     behind them.** Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen,
     Higashi Chaya, an empty Tokyo evening, that is a name list, not a plan: no hours, no order,
     no reason given for why each one is worth the stop. Kenrokuen is a concrete example of what
@@ -720,7 +721,10 @@ Nothing structural is blocking any more. What is left is detail and booking.
 
 ### Closed
 
-- ✅ **Takayama is out** (1 Aug, Rostik). He has been, it is not worth a stop. We drive through it.
+- ✅ **Takayama is out, for good** (1 Aug, Rostik; reconfirmed 4 Aug, Nadir, closing the onsen-stop
+  suggestion from his map). Drive through only.
+- ✅ **Unazuki Onsen is out** (4 Aug, Nadir). The Kurobe Gorge Railway is shut in winter regardless,
+  and three ski days already cover the mountain scenery.
 - ✅ **Toyama is in** (1 Aug, Rostik and Nadir).
 - ✅ **The A / B fork is dissolved.** Okuhida is on the road to Toyama, so the mountains and the
   coast both fit. There was never a real choice to make.

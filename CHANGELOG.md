@@ -33,6 +33,22 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v30 &middot; 4 Aug 2026 &middot; Nadir
+
+**Closed the Takayama conflict and the Unazuki Onsen question.**
+
+- **Takayama, for good.** Nadir's map had suggested it as an onsen stop, which put three of his
+  own pins (Sakurajaya, Center4 Hamburgers, Hida no Sato) in tension with Rostik's "skip it
+  entirely." Nadir sided with Rostik: drive through only. Explicit reasoning, the pin list is a
+  guideline, not a checklist.
+- **Unazuki Onsen is out.** The Kurobe Gorge Railway is shut in winter regardless, and three ski
+  days already cover the mountain scenery, so the onsen town alone isn't worth the detour.
+- **Togakushi Shrine and Jokoji stay open**, deliberately not closed by the same reasoning: their
+  catch was always a timing conflict (we pass Nagano at night on day 2, leave early on day 3),
+  not a scenery-in-winter question, so nothing said this round actually resolves them.
+- Removed the now-closed items from the open-questions list and the near-route table, moved them
+  into Closed, and renumbered what's left.
+
 ## v28 &middot; 4 Aug 2026 &middot; Nadir
 
 **Fixed live git conflict markers.** Georgi's v18 (a `git stash pop` against my concurrently
