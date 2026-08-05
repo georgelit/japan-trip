@@ -33,6 +33,29 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v32 &middot; 4 Aug 2026 &middot; Georgi
+
+**Jakob is out. His place is held open, not deleted.**
+
+- The group is now **three confirmed plus one open seat**: Georgi on skis, Nadir and Rostik on
+  boards. The header, the stats block, the footer and the "who is going" table all say **open
+  place** rather than quietly dropping to three, because the seat may still be filled.
+- ⚠️ **This moves money, it is not cosmetic.** Everything shared divides by three instead of four.
+  The money table now carries **both** figures on every affected line: the car goes from €70–100 to
+  **€93–133**, the one-way drop from €28–40 to **€36–54**, the Tokyo drive from €28–69 to
+  **€37–92**. The Hakuba apartment line is flagged for re-pricing since it was sized for four.
+- ✅ **Two constraints get easier.** Luggage in an EVO was the weak point of the whole-trip car
+  option at four people; at three it is fine. And two-seaters become usable, since two cars at three
+  people means one passenger.
+- **Logged as the top open question, and it blocks bookings**: the Hakuba apartment, the ryokan and
+  the car are all sized and priced on the headcount, so this has to be settled first. If nobody
+  obvious comes to mind, accepting three and booking for three is the cheaper answer.
+- ⚠️ **One thing to re-check that nobody has yet:** the page says three of us hold the Japanese
+  translation of our licences, but that was counted when we were four. Whether it still holds
+  depends on whether Jakob was one of the three. Flagged rather than guessed.
+- `CLAUDE.md` now states the headcount rule outright, so shared costs do not silently get divided by
+  four again.
+
 ## v31 &middot; 4 Aug 2026 &middot; Georgi
 
 **Fixed the cause of the mess Nadir cleaned up in v28.**

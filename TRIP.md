@@ -19,12 +19,30 @@ facts without checking them.
 |---|---|---|---|
 | **Georgi** | Skiing since childhood, confident | 🎿 **skis** | Berlin. Triathlete, fine with long days |
 | **Nadir** | Riding since childhood, confident | 🏂 **snowboard** | Co-editor of this page. **Birthday on 18 February** |
-| **Jakob** | Intermediate | 🎿 **skis** | |
 | **Rostik** | **Beginner** | 🏂 **snowboard** | Will learn on his own or with an instructor, so the morning plan does not have to accommodate him |
+| 🔓 **Open place** | — | — | **Jakob dropped out (4 Aug 2026).** His seat is deliberately left open rather than removed. See below |
 
-Two on skis, two on boards. All four hold **German passports**.
+One on skis, two on boards, **one place open**. All confirmed travellers hold **German passports**;
+whoever takes the fourth seat needs their own paperwork checked, see the driving section.
 
-✅ **Group confirmed at four** (1 Aug 2026, Georgi).
+### 🔓 The fourth place is open
+
+**Jakob can no longer come** (4 Aug 2026). We are **three confirmed, with one place held open**
+rather than four.
+
+⚠️ **This is not cosmetic, it moves money.** Everything shared between us gets divided by three
+instead of four, so the per-person cost of the car, the one-way drop and the Tokyo drive all rise
+by roughly a third. The money table below now shows both numbers.
+
+**It also relaxes two constraints:**
+- **Luggage stops being a problem.** Four people with ten days of bags in an EVO was tight. Three
+  is not.
+- **More cars become usable.** Two-seaters were awkward at four; at three, two cars means one
+  passenger, which works.
+
+**What has to happen before anything is booked:** either the place is filled or we accept the
+three-way split, because the apartment in Hakuba, the ryokan and the car are all sized and priced
+on the headcount. See the open questions.
 
 **Style of trip:** skiing for pleasure, not for numbers. Three ski days only, mornings until
 14:00–15:00. The other 70 % of the trip is food, onsen, mountains and towns.
@@ -40,7 +58,8 @@ Two on skis, two on boards. All four hold **German passports**.
 | 1 Aug 2026 | **14–23 February, 10 days** | Moved one day later than the first draft so **Valentine's Day is spent in Berlin, not in the air**. Everything else still clears: Chinese New Year, both Japanese holidays, German school holidays and carnival. See "Why these dates" |
 | 1 Aug 2026 | **Valentine's Day, Sun 14 Feb, stays at home** | Georgi and Nadir both wanted it. We fly out that evening after 21:00 |
 | 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle. Zenko-ji is close by but not actually built into the plan, only reachable by an early riser before car pickup |
-| 1 Aug 2026 | **Group confirmed at four** | Georgi |
+| 1 Aug 2026 | ~~Group confirmed at four~~ | Superseded 4 Aug |
+| 4 Aug 2026 | **Three confirmed, fourth place left open** | Jakob dropped out. The seat is held open rather than removed, but shared costs now divide by three |
 | 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
 | 31 Jul 2026 | **Rental car** for the second half | Three of us already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
@@ -357,16 +376,16 @@ Nothing is lost either way, because the ¥3,300 is not pre-booked and we are dri
 | Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~145 | ≈ ¥27,000, only the Kanazawa→Tokyo leg (¥14,380) is individually sourced, see the travel-times table |
-| **One-way car drop, Nagano → Toyama** | **28–40** | ⚠️ crosses prefectures, ¥20,000–30,000 split four ways |
+| **One-way car drop, Nagano → Toyama** | **28–40**, or **36–54 at three** | ⚠️ crosses prefectures, ¥20,000–30,000 split |
 | Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |
-| Hakuba, 2 nights | 120–180 | ⚠️ apartment for four |
+| Hakuba, 2 nights | 120–180 | ⚠️ apartment sized on the headcount, re-check if we stay three |
 | 🏮 Okuhida ryokan, 1 night with dinner | 120–200 | ⚠️ the one deliberate splurge |
 | Toyama, 1 night | 60–100 | ⚠️ |
 | Kanazawa, 1 night | 70–110 | ⚠️ |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
-| The Tokyo drive, one car split four ways | 28–69 | see the drive section |
+| The Tokyo drive, one car | 28–69, or **37–92 at three** | see the drive section |
 | **Total** | **≈ €2,150 – 2,800** | ⚠️ recomputed 3 Aug, the old €2,300–3,000 total carried a stale 4-night Hakuba line, a stale 7-day car line and no Nagano line at all |
 
 **Where not to save:** the ryokan, and gear rental.
@@ -407,7 +426,7 @@ evening-drive product we want.
 
 ### What this means for four people
 
-Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all four of us fit in
+Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all of us fit in
 one car if we want. But **three of us hold the Japanese translation of our licences**, so two
 cars is equally possible and arguably the whole point.
 
@@ -485,7 +504,7 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 | 🚨 **No Shinkansen home** | Both branches are in Tokyo, so the car must come back. **Kanazawa → Tokyo is roughly 6–7 h by expressway (Kan-etsu, then Hokuriku), tolls ¥9,300–12,000** ([Kanazawa Station](https://www.kanazawastation.com/traveling-from-tokyo-to-kanazawa/)). That replaces a 2 h 28 Kagayaki and eats most of day 8 |
 | 🚨 **Mileage limit: 200 km per 24 h**, then ¥55/km (¥165/km for GT-R, RX-7, LC500, Supra) | Our route is ⚠️ roughly **1,150 km**. Eight days gives 1,600 km, so it fits, but the slack is thin and every detour is metered |
 | 🚨 **Both branches close at 18:30** | Late return is **¥6,600 per 30 minutes**. So the night drive cannot end with handing the keys back and boarding. It has to be a **24-hour rental across days 8 and 9**, returned by 18:30 on the 9th, and we fly that night |
-| ⚠️ **Luggage** | Four people with ten days of bags in an EVO is tight. We rent ski gear on site, so no ski bags, but it is still tight |
+| ✅ **Luggage** | This was the weak point at four. **At three it is fine.** We rent ski gear on site, so no ski bags either |
 
 #### The licence is not a blocker
 
@@ -595,7 +614,7 @@ as a day 7 alternative to Kanazawa rather than a stop en route.
 
 ## Two questions about who flies when
 
-### A. Rostik or Jakob arriving earlier, or staying longer, for more skiing
+### A. Rostik arriving earlier, or staying longer, for more skiing
 
 **Verdict: easy, and it does not disturb anything.** Extra ski days bolt on cleanly, as long as
 they go at the **front** of the trip.
@@ -673,44 +692,50 @@ cost. The 16th breaks the rule the dates were built around.**
 
 Nothing structural is blocking any more. What is left is detail and booking.
 
-1. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
+1. 🔴 **Do we fill Jakob's place, and by when?** Three confirmed, one seat open since 4 Aug. This
+   has to be settled **before the first booking**, because the Hakuba apartment, the ryokan and the
+   car are all sized and priced on the headcount, and the shared costs differ by about a third
+   between three and four. If nobody obvious comes to mind, the cheaper answer is simply to accept
+   three and book for three.
+
+2. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
    pins and the two Tokyo days are still empty. That is the single biggest blank left on this page,
    and it is your taste, so you choose rather than us guessing.
 
-2. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing:
+3. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing:
    we pass through at night on day 2 and leave early on day 3. Unazuki Onsen and Takayama are
    settled, see Closed. Everything genuinely on-route is already folded into the plan.
 
-3. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
+4. 🟡 **Confirm OnlyJDM's holiday opening.** Nadir raised it and he is right: if the trip shifts a
    day, the car is picked up or returned on **23 February, the Emperor's Birthday**. Both branches
    already close at 18:30 on ordinary days. Third thing to ask them, alongside the ADAC-translation
    question and the after-hours return.
 
-4. 🟡 **Do Rostik or Jakob want extra ski days?** Analysed above: easy to bolt on at the front of
+5. 🟡 **Does Rostik want extra ski days?** Analysed above: easy to bolt on at the front of
    the trip, nothing in the shared plan has to change, they travel to Hakuba independently by
    Shinkansen and bus. Needs an answer from them, not from us.
 
-5. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
+6. 🟡 **Do we still fly out on the 14th?** Analysed above. The 15th works but forces a choice
    between the third ski day and keeping the ryokan on Thursday for Nadir's birthday. The 16th
    pushes skiing onto a Saturday and is not advisable.
 
-6. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
+7. 🟡 **Shirakawa-go: in or out?** It no longer sits on the route. Hirayu to Shirakawa-go is
    about 2 h 10, too long to fit into day 6 alongside the ropeway, and it is roughly an hour
    from Toyama. So it is only possible as a **day 7 trip instead of Kanazawa**, not as well as.
    Snow crab and Kenrokuen, or a UNESCO village under snow. ⚠️ Note the winter light-up is not
    available to us either way: in 2027 it runs four evenings only, all in January.
 
-7. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
+8. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Fully costed in the
    section above and it comes out roughly level on money, simpler on admin, but it trades a
    2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts everyone in one car with all the
    luggage. One thing left to confirm with the operator: whether the car can come back after
    18:30.
 
-8. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
+9. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one
    (~€28 each), but three of us hold translated licences, so two cars works just as easily
    (~€60 each). Arguably the point of the whole exercise.
 
-9. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
+11. 🟢 **Toyama, Kanazawa and the Tokyo evening of day 8 have named stops but no real planning
     behind them.** Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen,
     Higashi Chaya, an empty Tokyo evening, that is a name list, not a plan: no hours, no order,
     no reason given for why each one is worth the stop. Kenrokuen is a concrete example of what
