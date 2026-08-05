@@ -28,3 +28,4 @@
 28	2026-08-04T14:13	nadir35	fix broken git-stash conflict markers left live in TRIP.md and CHANGELOG.md
 29	2026-08-04T14:13	nadir35	changelog entry for the conflict-marker fix
 30	2026-08-04T14:22	nadir35	close Takayama and Unazuki Onsen questions, Nadir sides with Rostik
+31	2026-08-05T09:02	Georgi Litvinov	publish.py now refuses to commit if a pull left conflict markers, the cause of the v27 breakage

@@ -140,6 +140,25 @@ def main():
     # Pull other people's edits BEFORE changing anything, otherwise the push bounces.
     git("pull", "--rebase", "--autostash", check=False)
 
+    # The pull above can leave conflict markers behind, and everything below this point does a
+    # blind "git add -A", so without this guard the markers get committed and published live.
+    # That happened once, in v27. Never again.
+    conflicted = []
+    for name in ("index.html", "TRIP.md", "CHANGELOG.md", "CLAUDE.md", "FOR-NADIR.md"):
+        f = os.path.join(ROOT, name)
+        if not os.path.exists(f):
+            continue
+        txt = io.open(f, encoding="utf-8").read()
+        for line in txt.splitlines():
+            if line.startswith("<<<<<<<") or line.startswith(">>>>>>>"):
+                conflicted.append(name)
+                break
+    if conflicted:
+        sys.exit(
+            "STOP: unresolved merge conflict markers in " + ", ".join(conflicted) + ".\n"
+            "The pull left them there. Resolve them by hand, keeping BOTH sides where both are\n"
+            "real edits, then run ./publish.sh again. Nothing has been committed or pushed.")
+
     rows = read_log()
     n = int(rows[-1][0]) + 1 if rows else 1
     now = datetime.datetime.now()

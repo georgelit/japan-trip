@@ -33,6 +33,20 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v31 &middot; 4 Aug 2026 &middot; Georgi
+
+**Fixed the cause of the mess Nadir cleaned up in v28.**
+
+Nadir removed the stray git conflict markers that went live in v27, but the thing that put them
+there was still armed. `publish.py` runs `git pull --rebase --autostash` with errors ignored, and
+everything after it does a blind `git add -A` and commit. So if a pull leaves conflict markers in a
+file, they get committed and published without anyone noticing.
+
+`publish.py` now **scans `index.html`, `TRIP.md`, `CHANGELOG.md`, `CLAUDE.md` and `FOR-NADIR.md`
+for conflict markers straight after the pull and refuses to continue if it finds any**, printing
+what to do and committing nothing. Thanks for the cleanup, Nadir, this is the part that stops it
+repeating.
+
 ## v30 &middot; 4 Aug 2026 &middot; Nadir
 
 **Closed the Takayama conflict and the Unazuki Onsen question.**
