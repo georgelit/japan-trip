@@ -33,6 +33,35 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v33 &middot; 4 Aug 2026 &middot; Georgi
+
+**Real flight prices, and two things they broke.**
+
+Searched Google Flights on 4 Aug 2026 for 14&ndash;22 February, round trip, economy, per person.
+These are live fares, not estimates.
+
+- 🚨 **"We fly out after 21:00" was fiction.** No Berlin to Tokyo flight departs that late. The
+  latest of the day is **19:20**. Valentine's Day is still safe (out of the door around 17:00), but
+  the claim was wrong and is corrected everywhere it appeared.
+- **Best evening option: Turkish 19:20 → Haneda 19:45 next day, €974 round trip.** The plan's shape
+  holds.
+- 🚨 **The tight link nobody had checked: the last train.** Landing at 19:45 only works if we can
+  still reach Nagano, and the plan has us sleeping there. **The last Shinkansen Tokyo → Nagano is
+  the 22:08 Asama 633.** Realistic timeline puts us on the platform at 21:30&ndash;21:45, so we make
+  it with 25 to 40 minutes to spare and no later train exists. **If the flight is late there is no
+  train**, and the fallback costs part of ski day one.
+- **The return is confirmed and ideal:** Turkish **22:05 from Haneda on the 22nd, into Berlin 09:25
+  on the 23rd**. Full Tokyo day, JDM car back before the 18:30 store closing, home Tuesday morning.
+- **Departing the 15th instead costs a ski day.** Berlin to Tokyo always lands the next day, so a
+  morning departure on the 15th arrives on the morning of the 16th, which is ski day one. It saves
+  about €10. Not recommended, and now documented so nobody re-proposes it.
+- **A real alternative worth knowing:** Lufthansa + ANA 11:40 → 10:45 next day, **€1,020**, the
+  shortest routing at 15 h 05, lands in the morning with a whole afternoon spare and no last-train
+  gamble. It costs Valentine's Day. **€46 is the price of a calm arrival**, and that is now a number
+  instead of an assumption.
+- **Budget line updated** from the ⚠️ €750&ndash;1,000 estimate to a confirmed **€965&ndash;1,020**.
+  The old estimate held, at the top of its range.
+
 ## v32 &middot; 4 Aug 2026 &middot; Georgi
 
 **Jakob is out. His place is held open, not deleted.**

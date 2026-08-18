@@ -56,7 +56,7 @@ on the headcount. See the open questions.
 | 30 Jul 2026 | **Honshu, not Hokkaido** | 3 half-days on snow is ~15 hours. Hokkaido costs two extra flights or a full day of travel for snow we barely use |
 | 31 Jul 2026 | **Hakuba**, not Nozawa Onsen | Hakuba sits inside the Hida range, the actual Northern Japanese Alps. Nozawa is on Mt Kenashi in the Mikuni range, a different system. Nozawa is cheaper and has a nicer village, but the Alps were the deciding factor |
 | 1 Aug 2026 | **14–23 February, 10 days** | Moved one day later than the first draft so **Valentine's Day is spent in Berlin, not in the air**. Everything else still clears: Chinese New Year, both Japanese holidays, German school holidays and carnival. See "Why these dates" |
-| 1 Aug 2026 | **Valentine's Day, Sun 14 Feb, stays at home** | Georgi and Nadir both wanted it. We fly out that evening after 21:00 |
+| 1 Aug 2026 | **Valentine's Day, Sun 14 Feb, stays at home** | Georgi and Nadir both wanted it. We fly out that evening. ⚠️ Corrected 4 Aug: the latest Berlin to Tokyo departure is **19:20**, not "after 21:00" as this used to claim |
 | 1 Aug 2026 | **In via Nagano, not Matsumoto** | Faster from Tokyo, and it is what makes the late Monday arrival work. Costs Matsumoto Castle. Zenko-ji is close by but not actually built into the plan, only reachable by an early riser before car pickup |
 | 1 Aug 2026 | ~~Group confirmed at four~~ | Superseded 4 Aug |
 | 4 Aug 2026 | **Three confirmed, fourth place left open** | Jakob dropped out. The seat is held open rather than removed, but shared costs now divide by three |
@@ -362,6 +362,86 @@ Nothing is lost either way, because the ¥3,300 is not pre-booked and we are dri
   evenings only, all in January: **11, 17, 24 and 31 January**. Advance booking only, sales
   open September 2026. The village itself is open and deep in snow in February.
   [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/140/)
+
+---
+
+## Flights, real prices
+
+**Searched 4 Aug 2026** on Google Flights, round trip, one adult, economy, prices in EUR. These
+are live fares, not estimates. They will move.
+
+### 🚨 First finding: our "after 21:00" assumption was wrong
+
+The plan said we fly out on the evening of the 14th **after 21:00**. **No Berlin to Tokyo flight
+departs that late.** The latest departure of the day is **19:20**. That still leaves most of
+Valentine's Day at home (out of the door around 17:00), but the wording was fiction and is now
+corrected.
+
+### Departing Sun 14 Feb, returning Mon 22 Feb
+
+| Departure | Arrival | Airline | Route | Price |
+|---|---|---|---|---|
+| **19:20** | **19:45 next day, HND** | **Turkish** | 1 stop, 2 h 15 in IST, 16 h 25 | **€974** |
+| 14:35 | 19:45 next day, HND | Turkish | 1 stop, 6 h 55 in IST, 21 h 10 | €969 |
+| 11:40 | **10:45 next day, HND** | Lufthansa + ANA | 1 stop, 1 h 10 in FRA, **15 h 05** | €1,020 |
+| 09:40 | 10:20 next day, NRT | SWISS + ANA | 1 stop, 1 h 55 in ZRH | €978 |
+| 07:00 | 06:55 next day, HND | Austrian + ANA | 1 stop, 2 h 20 in VIE | €1,021 |
+
+Google rates the current level as **"typical"**, so there is no obvious reason to rush or to wait.
+
+### Departing Mon 15 Feb: this costs a ski day
+
+⚠️ **Berlin to Tokyo always lands the next day.** A morning departure on the 15th therefore arrives
+on the **morning of the 16th**, and the 16th is our **first ski day**. Cheapest options are
+Lufthansa 09:55 → 09:15+1 at **€963** and Turkish 06:35 → 08:40+1 at €965, so it saves about €10
+and costs a morning on the snow. **Not recommended.**
+
+The only 15 Feb departure that still lands the same evening pattern is Turkish 19:20 → 19:10+1 into
+Narita at €1,072, which is the 14th's plan shifted a day, not a cheaper option.
+
+### The return works exactly as the plan needs
+
+| Departure from Tokyo | Arrival in Berlin | Airline | Price, one way |
+|---|---|---|---|
+| **22:05 HND, Mon 22 Feb** | **09:25 Tue 23 Feb** | **Turkish**, 1 stop 2 h 40 IST | €776 |
+| 23:00 NRT | 10:45 next day | LOT, via WAW | €758 |
+| 22:45 HND | 07:50 next day | ANA + Lufthansa | €1,633 |
+
+**Turkish at 22:05 from Haneda is the one.** It gives us the full Tokyo day on the 22nd, the JDM
+car back by the 18:30 store closing, and lands in Berlin on the morning of the 23rd. That is the
+plan as written, confirmed against a real timetable.
+
+### 🚨 The tight link nobody had checked: the last train to Nagano
+
+Landing at Haneda at 19:45 is only useful if we can still reach Nagano that night, and the plan
+assumes we sleep there.
+
+**The last Hokuriku Shinkansen from Tokyo to Nagano is the 22:08 Asama 633.** Before it: 21:28
+Asama 631 and 21:04 Kagayaki 519.
+[JR timetable via NAVITIME](https://japantravel.navitime.com/en/area/jp/timetable/00006668/00000177?direction=down)
+
+Realistic timeline: land 19:45, immigration and bags 45–75 min, out around 20:45–21:00, Haneda to
+Tokyo Station 35–45 min, at the platform 21:30–21:45. **We make the 22:08 with roughly 25 to 40
+minutes to spare.** That works, but it is the last train of the night and there is no second
+chance.
+
+⚠️ **If the flight is late or immigration is slow, there is no train.** The fallback is a night in
+Tokyo and a first train on the 16th, which eats into ski day one. Worth deciding in advance whether
+to accept that risk or to book the calmer arrival instead.
+
+### The honest trade
+
+| | Turkish, out 19:20 | Lufthansa + ANA, out 11:40 |
+|---|---|---|
+| Price | **€974** | €1,020 |
+| Valentine's Day | ✅ at home until ~17:00 | ❌ gone, airport by 09:30 |
+| Lands Haneda | 19:45, evening | **10:45, morning** |
+| Onward that day | Last train, 25–40 min buffer | Relaxed, any train, whole afternoon spare |
+| Total travel time | 16 h 25 | **15 h 05**, the shortest on offer |
+
+**€46 buys a calm arrival and a spare half day; it costs Valentine's Day at home.** Valentine's was
+a group decision, so this is not ours to overturn, but the price of it is now a known number rather
+than an assumption.
 
 ---
 
