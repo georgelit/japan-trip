@@ -33,6 +33,20 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v43 &middot; 22 Aug 2026 &middot; Georgi
+
+**Day 8, Kanazawa → Tokyo: flying checked and rejected.**
+
+Georgi asked whether a flight beats the Shinkansen. Door to door, from a hotel by Kanazawa
+Station to the OnlyJDM branch at Haneda: **the plane takes about 3 h 20, the train about 3 h 15.**
+Komatsu airport sits 45 minutes from Kanazawa by limousine bus (¥1,300), and a domestic flight
+wants an hour at the airport; the Kagayaki leaves from the city centre with a fifteen-minute
+buffer. Fares: train ¥14,380 + ~¥500 ≈ €80; JAL from ¥10,570 + bus ≈ €64, ANA from ¥16,300 +
+bus ≈ €95. So about **€16 either way**, and the train wins on bags, security, seating and landing
+in central Tokyo rather than at the edge. One scenario where the plane would edge ahead, keeping
+the car for Ainokura and dropping it in Kanazawa on Sunday, saves about twenty minutes, not
+enough. **Decision: Shinkansen, as planned.** Added to the day 8 card so it does not get re-asked.
+
 ## v42 &middot; 22 Aug 2026 &middot; Georgi
 
 **Toyama's Friday worked out, the Shinkansen dropped for the Kanazawa hop, and a World Heritage

@@ -672,6 +672,43 @@ Friday.
 **Not decided.** Logged as an open question with the real constraint spelled out, because "it is on
 our Saturday" sounded too good to leave unsaid, and the bus timetable is what makes it hard.
 
+### Kanazawa → Tokyo on day 8: fly, or Shinkansen?
+
+Georgi asked. The answer is counter-intuitive, so here is the arithmetic door to door, from a hotel
+near Kanazawa Station to the OnlyJDM Haneda branch.
+
+| | Shinkansen | Fly from Komatsu |
+|---|---|---|
+| To the station / airport | 10 min walk | **45 min** airport limousine from Kanazawa West Exit, ¥1,300 |
+| Check-in buffer | 15 min before the train | **60 min** before a domestic flight |
+| The leg itself | **2 h 28**, Kagayaki, Kanazawa → Tokyo | **65–80 min** in the air, JAL or ANA, 8 flights a day |
+| Onward to Haneda / OnlyJDM | ~20 min, Monorail or Keikyu | 20 min to get out, then the Haneda branch is there |
+| **Door to door** | **≈ 3 h 15** | **≈ 3 h 20** |
+| **Per person** | ¥14,380 + ~¥500 ≈ **€80** | JAL from ¥10,570 + ¥1,300 ≈ **€64**; ANA from ¥16,300 + ¥1,300 ≈ €95 |
+
+[Komatsu limousine](https://www.hokutetsu.co.jp/en/airport/kanazawa/) ·
+[KMQ–HND flights](https://www.flightconnections.com/flights-from-kmq-to-hnd) ·
+[JAL fares](https://www.jal.co.jp/domestic/ja-jp/flights-from-komatsu-to-tokyo-haneda)
+
+**The plane is not faster.** Komatsu is 45 minutes from Kanazawa in the wrong direction, and a
+domestic flight needs an hour at the airport; the Shinkansen leaves from the middle of the city
+and needs fifteen minutes. Eighty minutes in the air becomes three hours twenty door to door,
+against three hours fifteen on the train. The fare difference is about **€16 either way**
+depending on whether JAL's cheapest seat is still there, which, five months out on a Sunday, it
+may be.
+
+**What the train gives that the plane does not:** no weight limit on the bags, no security line,
+four seats facing each other with a bento and a beer, Wi-Fi, and it lands us in the centre of Tokyo
+rather than at the edge. On a day whose evening is the night drive, arriving relaxed matters more
+than arriving twenty minutes earlier, which we would not anyway.
+
+**One case where the plane would win:** if we kept the car through Saturday for the Ainokura
+light-up and dropped it in Kanazawa on Sunday. Then we are already at a rental desk on the city
+edge with bags, and Komatsu is a 30-minute drive. Even then the saving is about twenty minutes.
+Not enough to change the plan.
+
+**Decision: Shinkansen.** Kagayaki, reserved, ¥14,380, as already in the plan.
+
 ### Skipped, with reasons
 
 - **Unazuki Onsen Snow Carnival**, fireworks on the snow: **Saturday 7 February**, not our dates.
