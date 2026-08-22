@@ -162,8 +162,8 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before | Hakuba |
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
-| 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. Drop the car. Sushi-Ei Sogawa | Toyama |
-| 7 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
+| 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional), sushi | Toyama |
+| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Ainokaze local, ¥1,240, ~57 min**, through train; the Shinkansen saves 35 min for ¥1,620 more and is not worth it). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
 | 9 | Mon 22 Feb | Free day in Tokyo. Car back by 16:00 (24 h) and by 18:30 at the latest. Haneda. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Land Berlin 09:25** | home |
@@ -314,7 +314,7 @@ matter:
 - ⚠️ **Kanazawa is branded "Little Kyoto", not "little Tokyo".** Preserved geisha and samurai
   quarters, gardens, crafts. Livelier and more urban than Takayama, but not a night-life city.
   Nadir asked for city rhythm, and the actual city rhythm on this trip is the Tokyo drive.
-- **Toyama → Kanazawa is 19–22 min** by Shinkansen, and **Toyama → Tokyo is 2 h 06–10** on the
+- **Toyama → Kanazawa is ~57 min and ¥1,240** on the local through train (the Shinkansen does it in 19–22 min for ¥2,860–3,190, not worth it), and **Toyama → Tokyo is 2 h 06–10** on the
   Kagayaki, ¥12,430–12,960 reserved. So the coast leg is genuinely cheap in time.
 - **We avoided Route 148.** The Hakuba to Itoigawa road is a known winter bottleneck: narrow,
   icy, many tunnels, slow behind the plough. Reaching the coast via Okuhida sidesteps it
@@ -364,7 +364,7 @@ Everything in this section has a source. Do not edit these numbers without a new
 | Tokyo → Nagano | 1 h 20–40 Shinkansen, ¥8,000–9,500 | How we come in. [Snow Monkey Resorts](https://www.snowmonkeyresorts.com/access/hokuriku-shinkansen/) |
 | **Okuhida (Hirayu) → Toyama** | **~1 h 30 by car** | Route 471 east from Hirayu, then Route 41. Ploughed but slow in winter |
 | Hirayu → Shirakawa-go | ~2 h 10 by car | Too long to fit alongside the ropeway on day 6 |
-| Toyama → Kanazawa | 19–22 min Shinkansen | ⚠️ fare not yet found, the ¥27,000 rail total above assumes a short-hop price but this leg is not individually sourced |
+| Toyama → Kanazawa | **54–59 min, ¥1,240**, Ainokaze local through train | ✅ sourced. Shinkansen is ¥2,860 unreserved for 23 min, not worth it |
 | Toyama → Tokyo | 2 h 06–10, ¥12,430–12,960 | Kagayaki, reserved |
 | Kanazawa → Tokyo | 2 h 28, ¥14,380 | Kagayaki, reserved |
 
@@ -587,10 +587,96 @@ and works across several Hakuba onsen. Four people over three days will use it.
 |---|---|---|
 | **Tue 16** | Short first day, off around 15:00. **Onsen, then an early dinner in Happo, early night.** | We reached Nagano at 23:40 the night before and were up at 07:00. Do not plan anything |
 | **Thu 18** | Off the snow 12:30, the drive to Okuhida is the afternoon. **The ryokan is the evening**: rotenburo, kaiseki, Nadir's birthday | Arrive by 16:00 so there is rotenburo time before dinner at 18:00 or 18:30, ryokan dinners are at a fixed hour |
-| **Fri 19** | Ryokan morning until check-out, Toyama by mid-afternoon | **Toyama Glass Art Museum** (Kengo Kuma building, closes 18:00 most days, ⚠️ check the day) and **Kansui Park** at dusk, then sushi |
+| **Fri 19** | Ryokan morning until check-out, Toyama by ~13:00 | See the Toyama section below. Iwase and sake first, since it shuts at 17:00; Kansui Park illumination as an optional stop after dark; sushi |
 | **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
 | **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
 | **Mon 22** | Free Tokyo day | **Mogi's call.** He lives there, and Nadir's map has about fifty Tokyo pins to pick from. The JDM car goes back by 16:00 |
+
+---
+
+## Toyama, Friday 19 February: what is actually on
+
+Georgi's call (22 Aug): **the Glass Art Museum is out**, Kansui Park is **an option, not a plan**.
+So what does Toyama offer on a Friday afternoon and evening in February? Checked against the city
+and prefecture tourism sites.
+
+### Toyama → Kanazawa: do not take the Shinkansen
+
+Georgi asked whether the Shinkansen is worth it for this hop. It is not.
+
+| | Fare | Time | Notes |
+|---|---|---|---|
+| **Ainokaze Toyama Railway, local** | **¥1,240** | **54–59 min** | Through-running onto the IR Ishikawa line, **no change at the border**. Roughly every 30 min. [ihoku comparison](https://ihoku.jp/hokuriku/400756.html) |
+| Ainokaze Liner, rapid | ¥1,540 | ~45 min | +¥300 seat fee, **weekday rush hours only**, so not on our Saturday |
+| Hokuriku Shinkansen, unreserved | ¥2,860 | 23 min | Hakutaka or Tsurugi |
+| Hokuriku Shinkansen, reserved | ¥3,190 | 19 min | Kagayaki, reserved only |
+| Highway bus | ¥930 | ~75 min | ¥860 from the machine at Kanazawa Station East. Cheapest, slowest |
+
+**The local train.** It is ¥1,620 cheaper than the Shinkansen per person, **¥6,480 for four**, and
+the difference is 35 minutes on a Saturday morning with nothing pressing. The Shinkansen is worth
+it when it turns a 3-hour trip into one hour; here it turns one hour into twenty minutes.
+
+⚠️ The budget line "Toyama → Kanazawa, Shinkansen" in the money table was an assumption. Corrected
+below to the local fare.
+
+### In the city
+
+| | When | What |
+|---|---|---|
+| **Iwase district and the Masuizumi sake bar** | ⚠️ **Saseki closes at 17:00**, closed Tuesdays | Iwase is the old Kitamaebune shipping port, a preserved merchant street 15 min from the centre by the Portram tram. **Saseki** is Masuda Shuzo's standing bar with about 100 Masuizumi sakes: wooden cup ¥220 plus ¥200–500 a pour, a three-cup flight ¥1,000, **30 minutes all-you-can-drink ¥2,000**. [Toyama tourism](https://www.info-toyama.com/attractions/91033) |
+| **Mitomi** | evening, hours ⚠️ not found | Modern sake bar in the **Maroot** building at Toyama Station, the wider Toyama selection. The fallback if we miss Saseki's 17:00 |
+| **Kansui Park "Sweet Illumination"** | after dark, runs to ~1 March | Tenmon Bridge and the fountain plaza lit up, free, ten minutes from the station. **Option**, worth the walk if we are passing |
+| **Toyama Castle Park light-up** | after dark | The kilometre from the station to the castle is lit through winter. Free, and it is on the way to Sogawa anyway |
+| **Sushi-Ei Sogawa** | dinner | Nadir's pin. 4.3 from 943. In February the counter has **buri, snow crab, shiro-ebi, and kawahagi with its liver**, which the city's own February guide singles out |
+
+**The natural order:** arrive ~13:00, car to Iwase for Saseki **before 17:00**, drop the car, walk
+the lit castle approach at dusk, Kansui Park if anyone wants it, Sushi-Ei for dinner.
+
+⚠️ **Driving rule again:** Saseki is a sake bar. Whoever drives the last leg to the rental return
+does not drink there. Or return the car first and take the Portram to Iwase, which is the cleaner
+plan.
+
+### 🏮 The find: a World Heritage light-up on our Saturday
+
+**The Ainokura gassho-zukuri village is lit up on Saturday 20 and Sunday 21 February 2027**,
+sunset to 20:00, theme "Japanese original landscape floating in a snow field". **No reservation
+and no entry fee** for visitors on foot or in a car; only coaches need to book parking.
+[Gokayama official](https://gokayama-info.jp/archives/8999)
+
+This matters because **we had written off Shirakawa-go's light-up** as unavailable: in 2027 it runs
+four January evenings only, all booked out. Ainokura is the **same kind of village**, one of the
+three gassho settlements in the same UNESCO listing, twenty houses instead of a hundred, and its
+light-up lands on **the exact Saturday we are in Kanazawa**.
+
+**How it would fit:** Kanazawa → Shin-Takaoka by Shinkansen 13 min, then the World Heritage Bus
+58 min to Ainokura-guchi. About 1 h 15 each way.
+
+🚫 **But it does not fit, and here is the exact reason.** The light-up runs from sunset, about
+17:30, to 20:00. **The last World Heritage Bus back from Ainokura-guchi leaves at 16:45.**
+[Kaetsunou Bus timetable](https://www.kaetsunou.co.jp/ol/regular/sekaiisan.html)
+So on public transport you arrive, see the village in daylight, and have to leave before a single
+light comes on. The only way to see the light-up is **by car**, and we drop the car in Toyama on
+Friday.
+
+**Three ways to make it work, none free:**
+- **Keep the car one more day**, drop it in Kanazawa on Sunday instead of Toyama on Friday.
+  Saturday becomes Toyama → Ainokura by road (about 1 h 15 via the Tokai-Hokuriku expressway,
+  Gokayama IC is 15 min from the village) → light-up → Kanazawa by road (about 1 h). Costs one more
+  rental day plus a Kanazawa drop instead of a Toyama drop, and Kanazawa's Saturday afternoon.
+- **A taxi from Johana** for the last leg back, after the light-up. Johana is the railway end; a
+  taxi Ainokura → Johana is about 25 min, then local train to Shin-Takaoka and the Shinkansen.
+  ⚠️ Availability of taxis in a mountain village at 20:00 in February is not something to rely on
+  without booking it in advance.
+- **Skip it.** Keep Kanazawa's evening as planned.
+
+**Not decided.** Logged as an open question with the real constraint spelled out, because "it is on
+our Saturday" sounded too good to leave unsaid, and the bus timetable is what makes it hard.
+
+### Skipped, with reasons
+
+- **Unazuki Onsen Snow Carnival**, fireworks on the snow: **Saturday 7 February**, not our dates.
+- **Ushidake Snow Festa**: 6 February. **Tateyama Foothills fireworks**: 14 February. All before us.
+- **Glass Art Museum**: Georgi's call, out.
 
 ---
 
@@ -697,7 +783,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
 | Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
-| Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~145 | ≈ ¥27,000, only the Kanazawa→Tokyo leg (¥14,380) is individually sourced, see the travel-times table |
+| Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~130 | ≈ ¥24,000: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥1,240 local**, Kanazawa→Tokyo ¥14,380 |
 | **One-way car drop, Nagano → Toyama** | **28–40** | ⚠️ crosses prefectures, ¥20,000–30,000 split four ways |
 | Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |

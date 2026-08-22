@@ -33,6 +33,30 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v42 &middot; 22 Aug 2026 &middot; Georgi
+
+**Toyama's Friday worked out, the Shinkansen dropped for the Kanazawa hop, and a World Heritage
+light-up found on our Saturday, with the catch spelled out.**
+
+- **Toyama, Friday afternoon.** Georgi: the Glass Art Museum is out, Kansui Park is an option only.
+  What is on: **Iwase**, the old port street, and **Saseki**, Masuda Shuzo's standing bar with about
+  100 Masuizumi sakes (¥1,000 flight, ¥2,000 for 30 min all-you-can), **closes 17:00** so it comes
+  first. The castle approach is lit after dark, free, on the way to Sogawa. Kansui Park's "Sweet
+  Illumination" runs to about 1 March. Dinner at Sushi-Ei, where the city's own February guide
+  singles out buri, crab, shiro-ebi and kawahagi liver. Unazuki fireworks (7 Feb), Ushidake (6 Feb)
+  and Tateyama (14 Feb) are all before our dates.
+- **Toyama → Kanazawa: local train, not Shinkansen.** Georgi asked. **Ainokaze through train
+  ¥1,240, ~57 min, no change**, against ¥2,860–3,190 for 19–23 min. ¥6,480 saved for four, 35
+  minutes lost on a Saturday morning with nothing pressing. Budget rail line corrected from ~€145
+  to ~€130, and the old "Toyama→Kanazawa fare not found" flag is closed.
+- 🏮 **Ainokura gassho village is lit up on Sat 20 and Sun 21 Feb**, sunset to 20:00, no booking.
+  It is the same UNESCO listing as Shirakawa-go, whose light-up we cannot get. 🚫 **But the last
+  World Heritage Bus back leaves at 16:45**, before the lights, so it is **only reachable by car**,
+  and we drop the car in Toyama on Friday. Three ways through (keep the car a day and drop in
+  Kanazawa; a pre-booked taxi to Johana; skip it), each costed. **Not decided**, open question.
+- Sources: Gokayama official site for the light-up dates and hours, Kaetsunou Bus for the
+  timetable, ihoku.jp for the rail and bus fare comparison, Toyama city tourism for Saseki.
+
 ## v41 &middot; 22 Aug 2026 &middot; Georgi
 
 **A ryokan is picked, priced for our actual date, and the ropeway comes off the plan.**
