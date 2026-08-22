@@ -33,6 +33,17 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v44 &middot; 22 Aug 2026 &middot; Georgi
+
+**Toyama → Kanazawa: Shinkansen after all, unreserved.** Reverses v42.
+
+In v42 I recommended the ¥1,240 local train over the ¥2,860 Shinkansen, on the grounds that 35
+minutes on a Saturday morning was not worth ¥1,620 each. Georgi overruled it: **the time matters
+more to the group.** Fair, and Saturday in Kanazawa is full anyway. Decision recorded: any Hakutaka
+or Tsurugi, unreserved car, ticket from the machine, 23 minutes. Day card, travel-times table and
+the rail budget line (now ~€139 per person) all updated. The comparison table stays on the page so
+the trade is visible, with the decision stated above it.
+
 ## v43 &middot; 22 Aug 2026 &middot; Georgi
 
 **Day 8, Kanazawa → Tokyo: flying checked and rejected.**
