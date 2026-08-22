@@ -33,6 +33,25 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v40 &middot; 22 Aug 2026 &middot; Georgi
+
+**The afternoons finally have content, and every stop has a food list.**
+
+- **"After 14:00" section.** We ski mornings only and the afternoons were blank. Wednesday after
+  Goryu is worked through hour by hour: onsen at **Mimizuku no Yu** (¥650, 10:00–21:30, open-air
+  bath facing the Hakuba Sanzan), then Happo or Echoland for dinner. Prices and hours sourced from
+  the Happo onsen association. Two practical rules recorded: the Echoland driver does not drink,
+  Japan's limit is effectively zero; and buy the ¥2,000 onsen ticket book, it is worth ¥2,500.
+  The other five afternoons get a line each, with the museum and garden hours flagged for checking.
+- **"What to eat, by place."** Nagano (Shinshu soba, oyaki), Hakuba (basashi, sanzoku-yaki, Shinshu
+  salmon, jizake), Okuhida (Hida beef twice, hoba miso, river fish, and the note that ryokan dinner
+  is at a fixed hour so say it is a birthday when booking), Toyama (shiro-ebi, masu-zushi, winter
+  buri; hotaru-ika flagged as out of season), Kanazawa (snow crab in its last weeks, nodoguro as the
+  one splurge fish, jibuni, gold leaf once for the photo), Tokyo (Mogi's list to write, he lives
+  there). Each dish sits where it actually belongs, nothing repeats around the loop.
+- Nadir's map pins (Chirimen-tei, Sushi-Ei Sogawa, KIRARI, Ramen FeeL) are folded into the right
+  evenings rather than listed separately.
+
 ## v39 &middot; 22 Aug 2026 &middot; Georgi
 
 **Mogi does the whole loop and holds a Japanese driving licence. The car question just got easy.**

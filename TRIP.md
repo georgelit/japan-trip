@@ -515,6 +515,136 @@ than an assumption.
 
 ---
 
+## Afternoons and evenings: what we actually do after 14:00
+
+We ski mornings only. The plan had the afternoons as blanks. This is what goes into them, with
+opening hours and prices where they could be found.
+
+### Day 4, Wednesday, after Goryu: the worked example
+
+Off the snow around 14:00 at Goryu. Then:
+
+| Time | What | Why this, and what it costs |
+|---|---|---|
+| 14:00–14:30 | Lunch at the base, or drive back to Happo (10 min) | Goryu's base has a food court; Happo has more choice |
+| **15:00–16:30** | **Onsen.** Best pick: **Mimizuku no Yu**, Happo, ¥650, open 10:00–21:30. Open-air bath facing the Hakuba Sanzan with Happo-One behind | The view is the point, and mid-afternoon light is the best for it. Alternative: **Happo no Yu**, ¥1,000, 10:00–21:00, bigger. **Obinata no Yu**, ¥650, is the prettiest but closes at 18:00 and sits further out. [Hakuba Happo Onsen](https://hakuba-happo-onsen.jp/english/dayuse/) |
+| 16:30–18:00 | Back to the apartment, coffee, nap. Or **Baisen Coffee** in Happo if anyone wants a cafe | After three hours on the snow and an onsen, nobody will argue with this |
+| **18:30** | **Dinner in Happo or Echoland.** Both clusters of izakaya. Happo is walkable from most Happo lodging; Echoland is the livelier street and needs the car or a taxi | See the food list below for what to order |
+| 21:00 onwards | Echoland bars if there is energy. There usually is not, day 5 starts early | |
+
+⚠️ **Rule: whoever drives to Echoland does not drink.** Japan's limit is effectively zero and
+the penalties are serious, for passengers too. Taxis exist but are scarce on winter evenings;
+ask the lodging to book one.
+
+**Buy the onsen ticket book.** A shared book of bathing tickets is ¥2,000 for ¥2,500 of value
+and works across several Hakuba onsen. Four people over three days will use it.
+
+### The other afternoons, briefly
+
+| Day | After the morning | Notes |
+|---|---|---|
+| **Tue 16** | Short first day, off around 15:00. **Onsen, then an early dinner in Happo, early night.** | We reached Nagano at 23:40 the night before and were up at 07:00. Do not plan anything |
+| **Thu 18** | Off the snow 12:30, the drive to Okuhida is the afternoon. **The ryokan is the evening**: rotenburo, kaiseki, Nadir's birthday | Arrive by 16:00 so there is rotenburo time before dinner at 18:00 or 18:30, ryokan dinners are at a fixed hour |
+| **Fri 19** | Ropeway morning, Toyama by mid-afternoon | **Toyama Glass Art Museum** (Kengo Kuma building, closes 18:00 most days, ⚠️ check the day) and **Kansui Park** at dusk, then sushi |
+| **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
+| **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
+| **Mon 22** | Free Tokyo day | **Mogi's call.** He lives there, and Nadir's map has about fifty Tokyo pins to pick from. The JDM car goes back by 16:00 |
+
+---
+
+## What to eat, by place
+
+Each region on the loop has dishes you cannot get as well anywhere else in Japan. This is the
+short list per stop, with what to order and where the specialty actually belongs.
+
+### Nagano, Monday night and Tuesday morning
+
+We are in Nagano for about nine hours, most of them asleep, so this is a late snack and maybe
+breakfast.
+
+- **Shinshu soba.** Nagano is the soba prefecture; the buckwheat is the reason. Order **zaru soba**,
+  cold, with dashi, grated daikon and spring onion. If anything near the station is still open at
+  midnight it will be a soba or ramen counter.
+- **Oyaki.** Buckwheat dumplings stuffed with **nozawana** (pickled mustard greens), pumpkin, or
+  sweet bean paste. Station kiosks sell them. Breakfast on Tuesday, in the car.
+- **Chirimen-tei Nagano Ekimae** is on Nadir's map and literally in front of the station. Worth a
+  look at whether it is open late.
+
+### Hakuba, three evenings
+
+Hakuba's own cooking is Nagano cooking, plus a lot of international après. The izakaya are the
+thing.
+
+- **Basashi**, horse sashimi. Nagano is one of the two places in Japan where this is normal. Served
+  thin with ginger and garlic soy. Not everyone's dish, but this is the place to try it.
+- **Sanzoku-yaki**, a huge marinated fried chicken thigh, a Shinshu pub staple.
+- **Shinshu salmon** sashimi, a farmed trout-salmon hybrid local to the prefecture.
+- **Nozawana** pickles with everything.
+- **Yakitori and whatever is on the board** at **Asuka** in Happo, the local izakaya people name
+  first. For the birthday-adjacent nights, **Hakuba Hifumi** does a proper multi-course dinner in a
+  ryokan setting.
+- **Local sake:** Nagano is a serious sake prefecture. Ask for a **Shinshu jizake** flight.
+
+### Okuhida, the ryokan night
+
+We do not order here; the kaiseki comes as a set and that is the point. What to expect:
+
+- **Hida beef**, the headline. Top-grade wagyu from the Hida region. At a good ryokan it comes two
+  ways in one meal: as sashimi or lightly seared, and **grilled at the table on a magnolia leaf over
+  sweet miso**.
+- **Hoba miso**, that magnolia-leaf miso itself, warmed at the table with mushrooms and spring
+  onion. The dish the region is known for.
+- **Salt-grilled river fish**, iwana or amago, served whole on a skewer.
+- **Sansai**, mountain vegetables, as tempura or simmered.
+- Ryokan dinners run at a fixed time, usually 18:00 or 18:30, and the kitchen does not wait. Tell
+  them when booking that it is a birthday.
+
+### Toyama, Friday evening
+
+Toyama Bay is deep and cold and sits over a shelf that drops to 1,000 m close to shore, which is
+why the seafood is unusual.
+
+- **Shiro-ebi**, white shrimp, translucent and sweet, served raw as sushi or as a kakiage fritter.
+  Toyama is effectively the only place in Japan that lands them commercially.
+- **Masu-zushi**, pressed trout sushi in a round wooden box lined with bamboo leaves. Toyama's
+  signature bento; the station sells it and it travels well.
+- **Buri**, winter yellowtail, at its fattest in February. Sashimi or shabu-shabu.
+- **Hotaru-ika**, firefly squid: ⚠️ the season is **March to June**, so we will probably miss the
+  fresh ones. Boiled ones are around year-round.
+- **Sushi-Ei Sogawa** is the pin from Nadir's map, central Toyama, 4.3 from 943 reviews.
+
+### Kanazawa, Saturday
+
+The Kaga domain was rich for three centuries and its food is refined rather than rustic.
+
+- **Kanō-gani / zuwai-gani**, snow crab. **November to February is the season**, and we are here
+  in the last weeks of it. At Omicho Market: crab legs grilled at the stall, or a **kaisendon** (rice
+  bowl piled with whatever is freshest) for a late breakfast.
+- **Nodoguro**, blackthroat seaperch, the expensive one. Sweet, oily, dense. Grilled with salt, or
+  as sushi. If there is one splurge fish on the trip, this is it.
+- **Kaga-yasai**, the heirloom local vegetables, usually as a side.
+- **Jibuni**, duck simmered with wheat gluten and vegetables in a thickened dashi, Kanazawa's
+  classic stew. Order it at an izakaya in the evening.
+- **KIRARI** at the station's west exit for conveyor sushi with tablet ordering, from Nadir's map.
+  **Omicho** for the market itself, 09:00–17:00.
+- **Gold leaf on everything**, including ice cream. Kanazawa makes nearly all of Japan's gold leaf.
+  Once, for the photo.
+
+### Tokyo, Sunday night and Monday
+
+**Mogi lives here, so this is his list to write**, not ours. What the rest of us would not want to
+miss: a proper **ramen** counter (Nadir's map has Ramen FeeL and others), **tsukemen**, a standing
+sushi bar, and a **yakitori alley** dinner. On the night drive, Daikoku PA itself has a food court
+that is part of the ritual.
+
+### A pattern worth noticing
+
+The loop goes **mountains → mountains → sea → sea → city**. The food does the same: buckwheat and
+horse in Nagano, beef and river fish in Hida, white shrimp and yellowtail on the coast, crab and
+nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
+
+---
+
 ## Money, per person
 
 ⚠️ Every line here is an estimate except the lift pass and the ropeway.
