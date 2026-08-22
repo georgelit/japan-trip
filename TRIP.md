@@ -20,10 +20,10 @@ facts without checking them.
 | **Georgi** | Skiing since childhood, confident | 🎿 **skis** | Berlin. Triathlete, fine with long days |
 | **Nadir** | Riding since childhood, confident | 🏂 **snowboard** | Co-editor of this page. **Birthday on 18 February** |
 | **Rostik** | **Beginner** | 🏂 **snowboard** | Will learn on his own or with an instructor, so the morning plan does not have to accommodate him |
-| **Mogi** | ❓ not yet known | ❓ | **Lives in Tokyo.** Joined 22 Aug 2026. Does not fly with us: he meets us in Japan, see below |
+| **Mogi** | **Beginner**, about Rostik's level | 🎿 **skis** | **Lives in Tokyo.** Joined 22 Aug 2026. Does not fly with us: he meets us in Japan, see below |
 
-Four again. Georgi, Nadir and Rostik hold **German passports** and fly from Germany; Mogi is
-already there.
+Four again: two on skis, two on boards, and **two beginners**, one of each. Georgi, Nadir and
+Rostik hold **German passports** and fly from Germany; Mogi is already there.
 
 ### Mogi joins from Tokyo
 
@@ -36,8 +36,10 @@ group in three useful ways:
 - **He can do the Tokyo-side legwork.** Picking up the JDM car, knowing the city on days 8 and 9,
   and being the one who actually speaks to OnlyJDM.
 
-⚠️ **Open, and they need an answer from Mogi himself:** skis or snowboard and what level; whether
-he joins for the whole loop or only part of it; and **where he joins**. The natural meeting point
+✅ Skis, beginner, about Rostik's level (Georgi, 22 Aug).
+
+⚠️ **Still open, and only Mogi can answer:** whether he joins for the whole loop or only part of
+it; and **where he joins**. The natural meeting point
 is **Nagano Station on Monday evening**, since the three of us sleep there, but he could also come
 straight to Hakuba on Tuesday morning. Also: does he drive, and does he hold a Japanese licence?
 That would make the car question much simpler.
@@ -245,8 +247,19 @@ bad night, not a ski day.
 
 ### Which resort on which ski day
 
-Two skiers and two boarders, one of the boarders a beginner, and **nobody in the group cares
-about terrain parks** (Georgi, 22 Aug 2026). We ride ordinary groomed runs. That shapes the three
+Two skiers and two boarders, **two of the four beginners** (Rostik on a board, Mogi on skis), and
+**nobody in the group cares about terrain parks** (Georgi, 22 Aug 2026). We ride ordinary groomed
+runs.
+
+**Two beginners is a different shape from one.** Rostik and Mogi can keep each other company on
+the easy terrain while Georgi and Nadir go up the mountain, which takes the pressure off
+everybody. Worth knowing: a beginner on skis and a beginner on a board learn different things on
+the same slope, so the gentle zones need to suit both, and they do at Happo-One and Goryu. A **shared
+private lesson** is possible in principle, since Hakuba schools price by instructor, not per
+person, but the number matters: **Evergreen charges ¥110,000 (≈ €595) for a full-day private for
+1–3 people**, and one instructor cannot teach ski and board technique at the same time. So it
+would be two privates or, far more sensibly, a group lesson each.
+[Evergreen private lessons](https://www.evergreen-skischool.com/private-lessons/) That shapes the three
 days: the earlier draft had built Wednesday around Hakuba47's park and called it "Nadir's day",
 which was a guess about Nadir rather than a fact. Removed.
 
@@ -851,41 +864,46 @@ cost. The 16th breaks the rule the dates were built around.**
 
 ## Open questions
 
-1. 🔴 **Mogi: the basics.** Skis or board, what level, whole loop or part of it, where he joins
-   (Nagano Monday night, or Hakuba Tuesday morning), and **whether he holds a Japanese driving
-   licence**. That last one could make the car question trivial: no translation, no IDP debate.
+1. 🔴 **Mogi: whole loop or part of it, where he joins** (Nagano Monday night, or Hakuba Tuesday
+   morning), and **whether he holds a Japanese driving licence**. That last one could make the car
+   question trivial: no translation, no IDP debate. Skis and level are settled: beginner, on skis.
 
-2. 🟡 **Pre-book the Hakuba rental gear online** for Tuesday pickup. It is the cheapest way to win
+2. 🟡 **Rostik and Mogi: a lesson each, or none?** Both beginners, one on a board and one on skis,
+   so one instructor cannot cover both. ⚠️ Private lessons are expensive: Evergreen is **¥110,000
+   (≈ €595) for a full day**, 1–3 people. A **group lesson each** is the realistic option. Rostik
+   said earlier he would rather teach himself; Mogi has not said. Their call.
+
+3. 🟡 **Pre-book the Hakuba rental gear online** for Tuesday pickup. It is the cheapest way to win
    back twenty minutes on the short first day. Rhythm and Central both take online bookings.
 
-3. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
+4. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
    pins. Day 9 is now a free day and day 8 afternoon is open too. Mogi can sanity-check the picks
    since he lives there.
 
-4. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing. We
+5. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing. We
    now reach Nagano at 23:40 and leave at 08:30, so realistically these are out unless someone
    wants them badly.
 
-5. 🟡 **Ask OnlyJDM three things**, and Mogi is the natural person to do it in Japanese: holiday
+6. 🟡 **Ask OnlyJDM three things**, and Mogi is the natural person to do it in Japanese: holiday
    opening on 23 Feb in case the dates shift, an after-hours return past 18:30, and whether the
    ADAC translation is accepted in place of an IDP for the Germans.
 
-6. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
+7. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
    travels to Hakuba independently by Shinkansen and bus.
 
-7. 🟡 **Do we still fly out on the 14th?** The 15th works but forces a choice between the third
+8. 🟡 **Do we still fly out on the 14th?** The 15th works but forces a choice between the third
    ski day and the Thursday ryokan. The 16th is not advisable. A later window, 26 Feb onwards, is
    analysed separately and costs Nadir's birthday.
 
-8. 🟡 **Shirakawa-go: in or out?** Only possible on day 7 instead of Kanazawa, not as well as.
+9. 🟡 **Shirakawa-go: in or out?** Only possible on day 7 instead of Kanazawa, not as well as.
 
-9. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Costed above. Back to
+10. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Costed above. Back to
    four people now, so the luggage point applies again.
 
-10. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one.
+11. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one.
     Three of the Germans hold translations, and if Mogi has a Japanese licence, two cars is easy.
 
-11. 🟢 **Toyama, Kanazawa and the Tokyo days have named stops but no real planning behind them.**
+12. 🟢 **Toyama, Kanazawa and the Tokyo days have named stops but no real planning behind them.**
     No hours, no order, no reasoning. Kenrokuen is the concrete example: winter is its signature
     season because of **yukitsuri**, the rope rigging on the pines, lit at night through February.
 

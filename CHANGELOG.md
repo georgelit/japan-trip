@@ -33,6 +33,24 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v38 &middot; 22 Aug 2026 &middot; Georgi
+
+**Mogi is a beginner on skis, about Rostik's level. Two beginners now, one on each kind of gear.**
+
+- Header, "who is going" table and the ski-day cards updated: Mogi 🎿, beginner. The Nakiyama and
+  Sakka zones at Happo-One and the Toomi and Iimori zones at Goryu are now "where Rostik and Mogi
+  will be", not just Rostik.
+- **Why two beginners is a different shape from one:** they can keep each other company on the easy
+  terrain while Georgi and Nadir go up, which takes pressure off everyone. Recorded in the resort
+  selection notes.
+- **Lesson question rewritten with a real price.** The first draft implied a shared private lesson
+  was a cheap trick. Checked: **Evergreen charges ¥110,000 (≈ €595) for a full-day private, 1–3
+  people**, and one instructor cannot teach ski and board technique at once anyway. A group lesson
+  each is the realistic option. Rostik's "I'll teach myself" stands; Mogi has not said.
+  [Evergreen](https://www.evergreen-skischool.com/private-lessons/)
+- The top open question for Mogi shrinks to: whole loop or part, where he joins, and whether he
+  holds a Japanese driving licence.
+
 ## v37 &middot; 22 Aug 2026 &middot; Georgi
 
 **Nobody in the group cares about terrain parks. Wednesday rebuilt around groomed cruising.**
