@@ -33,6 +33,26 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v45 &middot; 22 Aug 2026 &middot; Georgi
+
+**Day cards restructured: short plan on top, everything else folds away underneath.**
+
+Georgi's ask: keep the daily plan small enough to read at a glance, and move activities,
+restaurants and reasoning into blocks that open on demand. Done with native `<details>` elements,
+no JavaScript, so they work offline and in both themes.
+
+- Each card is now **two or three sentences plus the night**, and that is all you see by default.
+- Under it, collapsed: **The mountain** (ski days), **The drive**, **Afternoon and evening**,
+  **Food**, and the reasoning blocks (why 10:45, why Shinkansen, why not fly, the ryokan, the
+  Ainokura alternative). Every summary line carries a short hint on the right so you know what is
+  inside before opening it.
+- Content was **moved, not duplicated**: the food and afternoon detail that sat in the
+  "After 14:00" and "What to eat" sections now also lives inside the relevant day. Those sections
+  stay as the cross-trip overview.
+- Cards 1, 3 and 9 had grown to 1,500 characters of visible text. They are now 150 to 250.
+- Rule recorded in `CLAUDE.md`: **new detail goes into a `<details>`, never into the visible
+  paragraph.**
+
 ## v44 &middot; 22 Aug 2026 &middot; Georgi
 
 **Toyama → Kanazawa: Shinkansen after all, unreserved.** Reverses v42.

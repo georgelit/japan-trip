@@ -88,6 +88,13 @@ the reasoning, then summarise both.
 
 ## Layout rules
 
+- **Day cards have two layers.** The visible part is the plan for that day in two or three
+  sentences plus the night. Everything else, the mountain, the drive, activities, food, the
+  reasoning, lives in `<details>` blocks under it, collapsed by default. **When you add detail to a
+  day, put it in a `<details>`, never in the visible paragraph.** The visible paragraph stays short
+  enough to read in one glance on a phone. The summary shows a label and, on the right, a short
+  hint like "3 items" or "why Shinkansen".
+
 - **The page is mostly read on an iPhone.** After any layout change, check it at 375 px wide:
   no horizontal scrolling of the page body, tap targets no smaller than 44 px, tables scroll
   inside their own `.scroll` container rather than pushing the page sideways.
