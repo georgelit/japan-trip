@@ -33,6 +33,26 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v41 &middot; 22 Aug 2026 &middot; Georgi
+
+**A ryokan is picked, priced for our actual date, and the ropeway comes off the plan.**
+
+- **Three candidates from Ikyu**, all checked for **Thu 18 Feb, four adults**, not the "from two,
+  no date" listing prices. Takayama's ¥200 per person per night tax noted.
+- **Recommendation: 穂高荘 山のホテル, Hotakaso Yama no Hotel**, Shinhotaka. **¥90,552 with dinner
+  and breakfast for four, about €122 each.** Riverside open-air bath reached by a little cable car,
+  facing Yarigatake, three private baths, Hida beef kaiseki. Book the 90-day early plan: same
+  price, plus a free private bath session. Window opens around 20 Nov 2026.
+- **匠の宿 深山桜庵 is out**: for 18 Feb only room-only and breakfast plans are on sale, no
+  dinner at all. Without the kaiseki it is a hotel.
+- **寛ぎの舎 游, the best rated (4.83, 7 rooms), is waitlist-only** for 17 and 18 Feb. Logged as a
+  long-shot waitlist entry, not a plan.
+- **The Shinhotaka Ropeway is no longer in the plan.** Georgi's call: the ryokan morning, bath,
+  breakfast, bath, check-out at 10:00 with nobody rushed, is worth more than the 09:00 ropeway.
+  It happens to sit next door to the recommended ryokan, so it stays possible on a clear morning,
+  but day 6 is now written as a ryokan morning. Stats block updated accordingly.
+- Money table: the ryokan line goes from ⚠️ €120–200 to a confirmed **€122**.
+
 ## v40 &middot; 22 Aug 2026 &middot; Georgi
 
 **The afternoons finally have content, and every stop has a food list.**

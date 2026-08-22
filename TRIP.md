@@ -162,7 +162,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before | Hakuba |
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
-| 6 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00, weather permitting. Down by midday, Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. Drop the car. Sushi-Ei Sogawa | Toyama |
+| 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. Drop the car. Sushi-Ei Sogawa | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
 | 9 | Mon 22 Feb | Free day in Tokyo. Car back by 16:00 (24 h) and by 18:30 at the latest. Haneda. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
@@ -178,8 +178,8 @@ road to Toyama:** Route 471 east from Hirayu joins Route 41, and Toyama Intercha
 about **90 minutes**. So the order is Hakuba, south into the mountains, then north-west to the
 sea, and it reads as one continuous arc.
 
-- ✅ **The Shinhotaka Ropeway survives**, and it is the only winter access to the *high central*
-  massif, Hotaka and Yari. See the honesty check below on whether that is worth a morning.
+- ⚠️ **The Shinhotaka Ropeway is no longer in the plan** (22 Aug): the ryokan morning wins. It is
+  next door to the recommended ryokan, so it stays possible on a clear morning, but unplanned.
 - ✅ **The Okuhida ryokan survives**, on Thursday, on Nadir's birthday, at the cheapest night tier.
 - ✅ **Toyama is in**, which Rostik asked for and Nadir originally drew.
 - ✅ **Kanazawa is in**, which fills what was the empty day 8.
@@ -408,10 +408,11 @@ there, not a detour: roughly **2 h 30 to 3 h and ¥3,300** (≈ €18).
 thick fog at −12 °C with nothing visible at all. There are no published closure statistics. It can
 also shut for wind.
 
-**Decision rule (3 Aug 2026): keep it, but demote it.** It is no longer the reason we go to
-Okuhida, the ryokan is. **We look out of the ryokan window on the morning of day 6 and decide
-there.** Clear, we go up. Socked in, we skip it, leave early and get a longer afternoon in Toyama.
-Nothing is lost either way, because the ¥3,300 is not pre-booked and we are driving past regardless.
+**Decision (22 Aug 2026, Georgi): we are not going up.** The ryokan morning is worth more. Bath
+before breakfast, breakfast, bath again, out at the 10:00 check-out with nobody rushed. The ropeway
+stays on this page as a known option, and the fact that 山のホテル sits right next to its base
+station means anyone who wakes up to a clear sky and wants it can walk over for the 09:00 car and
+still make check-out. But it is not in the plan.
 
 
 ### Okuhida, and what we kept from Takayama
@@ -515,6 +516,47 @@ than an assumption.
 
 ---
 
+## The ryokan: three candidates from Ikyu
+
+Checked on **Ikyu.com on 22 Aug 2026** for **Thursday 18 February, four adults, one room**. Ikyu's
+listing prices are "from two people, no date", so every number below was pulled from the actual
+date-and-headcount search, which is the only one that means anything. Prices include tax; Takayama
+city adds a **¥200 per person per night** accommodation tax on top, paid locally.
+
+Three criteria: an open-air bath, a kaiseki dinner with Hida beef (it is Nadir's birthday), and a
+room for four.
+
+| | 穂高荘 山のホテル · Hotakaso Yama no Hotel | 匠の宿 深山桜庵 · Miyama Ouan | 寛ぎの舎 游 · Kutsurogi no Ya Yu |
+|---|---|---|---|
+| Where | Shinhotaka, right at the ropeway | Hirayu, first village off Route 158 | Shin-Hirayu, between the two |
+| Rating | 4.43 (76), baths 4.67 | 4.12 (139) | **4.83 (32)**, food 4.91 |
+| Size | 86 rooms, Nordic-style mountain hotel | 72 rooms, Kyoritsu chain, renovated 2025 | **7 rooms**, family-run |
+| The bath | Riverside open-air bath reached by a **little cable car**, **mixed, facing Yarigatake**, plus three private open-air baths | Large baths, in-room hinoki tubs in the better rooms | Open-air bath, private bath, and rooms with their own rotenburo |
+| Dinner | Kaiseki with Hida beef, **included** | ⚠️ **On 18 Feb only room-only and breakfast plans are on sale, no dinner plan at all** | Hida beef kaiseki, A4 and above, in a private dining room |
+| **18 Feb, 4 people** | **¥90,552 with dinner and breakfast ≈ €489, €122 each** | ¥89,376 room only, ¥93,296 with breakfast, **no dinner** | 🚫 **Waitlist only.** 17 and 18 Feb both closed |
+| Verdict | **✅ Book this one.** Only candidate that actually delivers the birthday dinner and the rotenburo on our date, at a reasonable price | ❌ Without a dinner plan it is a hotel, not the ryokan night we want | ⚠️ Best of the three on paper, but **gone**. Join the waitlist as a long shot |
+
+**Recommendation: 山のホテル, Hotakaso Yama no Hotel.** It is the one where the thing we are paying
+for, dinner and the bath, is actually on sale for the 18th. The cable car down to a river bath
+that looks at Yarigatake is a story in itself.
+
+**Book with the 90-day early plan**: same price, and it throws in **one free private open-air
+bath session**, which is exactly what four people want on a birthday evening. The 90-day window
+opens around **20 November 2026**; the 60-day plan is the fallback.
+
+⚠️ **Check-in is 15:00–18:00 and dinner is at a fixed hour.** Off the snow at 12:30, 2 h 30 drive,
+arrival around 15:30, which leaves time for the bath before dinner. Say it is a birthday when
+booking; Ikyu has a field for it.
+
+⚠️ **寛ぎの舎 游 is worth a waitlist entry anyway.** Seven rooms, 4.83, and the reviews are about
+the owner, not the building. If a room frees up it beats the other two. But do not plan on it.
+
+[Yama no Hotel on Ikyu](https://www.ikyu.com/00030706/) ·
+[Miyama Ouan](https://www.ikyu.com/00001354/) ·
+[Kutsurogi no Ya Yu](https://www.ikyu.com/00030074/)
+
+---
+
 ## Afternoons and evenings: what we actually do after 14:00
 
 We ski mornings only. The plan had the afternoons as blanks. This is what goes into them, with
@@ -545,7 +587,7 @@ and works across several Hakuba onsen. Four people over three days will use it.
 |---|---|---|
 | **Tue 16** | Short first day, off around 15:00. **Onsen, then an early dinner in Happo, early night.** | We reached Nagano at 23:40 the night before and were up at 07:00. Do not plan anything |
 | **Thu 18** | Off the snow 12:30, the drive to Okuhida is the afternoon. **The ryokan is the evening**: rotenburo, kaiseki, Nadir's birthday | Arrive by 16:00 so there is rotenburo time before dinner at 18:00 or 18:30, ryokan dinners are at a fixed hour |
-| **Fri 19** | Ropeway morning, Toyama by mid-afternoon | **Toyama Glass Art Museum** (Kengo Kuma building, closes 18:00 most days, ⚠️ check the day) and **Kansui Park** at dusk, then sushi |
+| **Fri 19** | Ryokan morning until check-out, Toyama by mid-afternoon | **Toyama Glass Art Museum** (Kengo Kuma building, closes 18:00 most days, ⚠️ check the day) and **Kansui Park** at dusk, then sushi |
 | **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
 | **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
 | **Mon 22** | Free Tokyo day | **Mogi's call.** He lives there, and Nadir's map has about fifty Tokyo pins to pick from. The JDM car goes back by 16:00 |
@@ -660,7 +702,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |
 | Hakuba, 2 nights | 120–180 | ⚠️ apartment for four |
-| 🏮 Okuhida ryokan, 1 night with dinner | 120–200 | ⚠️ the one deliberate splurge |
+| 🏮 Okuhida ryokan, 1 night with dinner | **122** | ✅ Yama no Hotel, 18 Feb, four people, Ikyu 22 Aug 2026 |
 | Toyama, 1 night | 60–100 | ⚠️ |
 | Kanazawa, 1 night | 70–110 | ⚠️ |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |

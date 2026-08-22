@@ -82,7 +82,7 @@ the reasoning, then summarise both.
 - **No em dashes as a thought separator.** Use a comma, a colon, brackets, or a new sentence.
 - Money in **euros**, with the yen figure alongside where it helps. Rate in use: €1 ≈ ¥185,
   noted with the date it was checked.
-- Numbers in the header stats block (10 days, 3 ski mornings, 4 of us, 2,156 m, 7 nights, 1 ryokan)
+- Numbers in the header stats block (10 days, 3 ski mornings, 4 of us, 1 rotenburo night, 7 nights, 2 cities by the sea)
   must match the itinerary below them. If you change the route, check the stats block, the
   footer, and `<meta name="description">` at the top of the file.
 
