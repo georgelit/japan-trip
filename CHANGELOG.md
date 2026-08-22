@@ -33,6 +33,23 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v39 &middot; 22 Aug 2026 &middot; Georgi
+
+**Mogi does the whole loop and holds a Japanese driving licence. The car question just got easy.**
+
+- **Whole loop confirmed.** The only thing still open about Mogi is where he joins; Nagano Station on
+  Monday night is the obvious answer and would let him pick the car up at 08:00 on Tuesday.
+- **The licence changes the whole rental picture.** Until now every car on this trip sat on the ADAC
+  translation, with OnlyJDM's "wrong document, no refund" clause hanging over it and a question
+  queued up to ask them whether the translation is accepted at all. **A Japanese licence makes all
+  of that moot**: Mogi rents, any desk in the country accepts it without a second look, and the
+  three Germans with translations share the wheel in the mountains.
+- The OnlyJDM question list shrinks from three items to two (holiday opening on 23 Feb, after-hours
+  return). The translation question is gone unless a German specifically wants to be the named
+  renter.
+- Updated in the "who is going" notes, the locked decisions, the driving facts, the JDM section, the
+  day 2 card, and the open questions, which were renumbered.
+
 ## v38 &middot; 22 Aug 2026 &middot; Georgi
 
 **Mogi is a beginner on skis, about Rostik's level. Two beginners now, one on each kind of gear.**

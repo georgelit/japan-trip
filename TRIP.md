@@ -36,10 +36,16 @@ group in three useful ways:
 - **He can do the Tokyo-side legwork.** Picking up the JDM car, knowing the city on days 8 and 9,
   and being the one who actually speaks to OnlyJDM.
 
-✅ Skis, beginner, about Rostik's level (Georgi, 22 Aug).
+✅ Skis, beginner, about Rostik's level. ✅ **Does the whole loop with us.** ✅ **Holds a Japanese
+driving licence** (all three from Georgi, 22 Aug).
 
-⚠️ **Still open, and only Mogi can answer:** whether he joins for the whole loop or only part of
-it; and **where he joins**. The natural meeting point
+**The licence is the big one.** Every car on this trip can now be rented on a plain Japanese
+licence, with no ADAC translation, no IDP debate, and no risk of OnlyJDM's "wrong document, no
+refund" clause. Mogi is the natural primary driver for the JDM car in Tokyo; in the mountains the
+Germans with translations share the wheel.
+
+⚠️ **Still open:** only **where he joins**. Nagano Station on Monday night is the obvious spot, since
+the three of us sleep there, and it means he could be the one to pick the car up at 08:00. The natural meeting point
 is **Nagano Station on Monday evening**, since the three of us sleep there, but he could also come
 straight to Hakuba on Tuesday morning. Also: does he drive, and does he hold a Japanese licence?
 That would make the car question much simpler.
@@ -61,7 +67,7 @@ That would make the car question much simpler.
 | 4 Aug 2026 | ~~Three confirmed, fourth place left open~~ | Superseded 22 Aug |
 | 22 Aug 2026 | **Mogi takes the fourth place** | Lives in Tokyo, so he meets us in Japan rather than flying. Shared costs divide by four again |
 | 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
-| 31 Jul 2026 | **Rental car** for the second half | Three of us already have translated licences and experience driving in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
+| 31 Jul 2026 | **Rental car** for the second half | Three of us hold ADAC translations, and **Mogi holds a Japanese licence** (22 Aug), so any rental desk is straightforward. Also makes the 10-resort Hakuba Valley pass genuinely usable |
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
 | 1 Aug 2026 | **Takayama is out, Toyama is in** | Rostik has been to Takayama and says it is not worth a stop. Toyama was Nadir's original ask. Okuhida sits on the road north to Toyama, so the ropeway and the ryokan survive and the coast gets added: the A / B fork dissolved |
 | 1 Aug 2026 | **Kanazawa added on day 7** | Fills what had become an empty day 8, and Omicho Market is in snow crab season |
@@ -335,7 +341,8 @@ Everything in this section has a source. Do not edit these numbers without a new
 - Issued by **ADAC Südbayern**, the only licensed office in Europe. €65 in person in Munich,
   €70 by post, **10–14 working days**, and they need the **original licence**, not a copy.
   [ADAC](https://www.adac.de/der-adac/regionalclubs/suedbayern/fuehrerscheinuebersetzung-japan/)
-  → **Three of us already have theirs.** Anyone else who wants to drive needs their own.
+  → **Three of us already have theirs.** And since 22 Aug it matters less: **Mogi holds a
+  Japanese licence**, which every rental desk in the country accepts without a second look.
 - **Route 158 (Matsumoto – Hirayu – Takayama) has never been closed by snow, even in deep
   winter.** It is a narrow mountain pass with a long winding descent past Hirayu.
 - **Snow tyres or chains are required from mid-November to early April.** Winter tyres must
@@ -570,8 +577,9 @@ evening-drive product we want.
 ### What this means for four people
 
 Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all of us fit in
-one car if we want. But **three of us hold the Japanese translation of our licences**, so two
-cars is equally possible and arguably the whole point.
+one car if we want. **Mogi holds a Japanese licence and lives in Tokyo**, so he is the obvious
+renter and primary driver; three of the Germans hold translations, so two cars is equally possible
+and arguably the whole point.
 
 | Shape | Cost | Per person |
 |---|---|---|
@@ -683,7 +691,9 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 #### The licence is not a blocker
 
 ✅ Their terms mention an IDP, but German licences cannot get a Japan-valid one anyway, we
-carry the ADAC Japanese translation instead. Three of us hold it, and the group has rented
+carry the ADAC Japanese translation instead. **And since 22 Aug the cleanest answer is simply
+that Mogi rents it on his Japanese licence.** Three of us hold the translation, and the group has
+rented
 from OnlyJDM before on that same document.
 
 #### One thing left to confirm before booking anything
@@ -864,9 +874,9 @@ cost. The 16th breaks the rule the dates were built around.**
 
 ## Open questions
 
-1. 🔴 **Mogi: whole loop or part of it, where he joins** (Nagano Monday night, or Hakuba Tuesday
-   morning), and **whether he holds a Japanese driving licence**. That last one could make the car
-   question trivial: no translation, no IDP debate. Skis and level are settled: beginner, on skis.
+1. 🟡 **Mogi: where do you join?** Nagano Station on Monday night is the obvious spot, and it would
+   let you be the one who picks the car up at 08:00 on Tuesday. Everything else about you is
+   settled: whole loop, skis, beginner, Japanese licence.
 
 2. 🟡 **Rostik and Mogi: a lesson each, or none?** Both beginners, one on a board and one on skis,
    so one instructor cannot cover both. ⚠️ Private lessons are expensive: Evergreen is **¥110,000
@@ -901,7 +911,7 @@ cost. The 16th breaks the rule the dates were built around.**
    four people now, so the luggage point applies again.
 
 11. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one.
-    Three of the Germans hold translations, and if Mogi has a Japanese licence, two cars is easy.
+    Mogi rents on his Japanese licence, three of the Germans hold translations, so two cars is easy.
 
 12. 🟢 **Toyama, Kanazawa and the Tokyo days have named stops but no real planning behind them.**
     No hours, no order, no reasoning. Kenrokuen is the concrete example: winter is its signature
