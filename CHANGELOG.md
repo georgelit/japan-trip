@@ -33,6 +33,22 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v37 &middot; 22 Aug 2026 &middot; Georgi
+
+**Nobody in the group cares about terrain parks. Wednesday rebuilt around groomed cruising.**
+
+- Georgi: "we are not really park people, we ride ordinary runs." The earlier draft had built
+  **Wednesday around Hakuba47's terrain park** and called it "Nadir's day". That was a guess about
+  Nadir dressed up as a plan, and it is gone.
+- **Wednesday is now Goryu on its own:** long, daily-groomed cruisers from the high plateau, with the
+  wide, gentle Toomi and Iimori zones for Rostik. Hakuba47 stays reachable by the shared gondola for
+  anyone who wants more vertical, but it is no longer the reason to go.
+- **Thursday's options reworded:** Happo-One again, or **Tsugaike**, the valley's cruising resort
+  with wide, mellow groomers, rather than leading with trees and powder. Cortina stays as the
+  deep-snow option if it has dumped.
+  [Snow Monkey Resorts, Hakuba Valley guide](https://www.snowmonkeyresorts.com/smr/hakuba/hakuba-valley-ski-resorts/)
+- Resort selection principle recorded in `TRIP.md` so it does not drift back.
+
 ## v35 &middot; 22 Aug 2026 &middot; Georgi
 
 **Mogi takes the fourth place, Tuesday gets an honest timeline, and the flights are in the plan.**

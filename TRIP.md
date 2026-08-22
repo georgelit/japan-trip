@@ -152,7 +152,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** Out of the door around 16:30. ✈️ **Turkish, BER 19:20**, 2 h 15 in Istanbul | plane |
 | 2 | Mon 15 Feb | ✈️ **Land Haneda 19:45.** Immigration and bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train. In Nagano around 23:40. Mogi meets us here if he is coming for the whole loop | Nagano |
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before | Hakuba |
-| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** Gentle terrain for Rostik, the park for Nadir. Lifts from 08:00, so this is the first full morning | Hakuba |
+| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
 | 6 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00, weather permitting. Down by midday, Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. Drop the car. Sushi-Ei Sogawa | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
@@ -245,13 +245,16 @@ bad night, not a ski day.
 
 ### Which resort on which ski day
 
-Two skiers and two boarders, and one of the boarders is a beginner. That shapes the three days.
+Two skiers and two boarders, one of the boarders a beginner, and **nobody in the group cares
+about terrain parks** (Georgi, 22 Aug 2026). We ride ordinary groomed runs. That shapes the three
+days: the earlier draft had built Wednesday around Hakuba47's park and called it "Nadir's day",
+which was a guess about Nadir rather than a fact. Removed.
 
 | Day | Resort | Why |
 |---|---|---|
 | **Tue 16** | **Happo-One** | The big one, and worth knowing: despite its reputation as a skiers' mountain, Happo-One is rated the **best resort in Hakuba for snowboarders** precisely because it has flowy terrain with **minimal flat sections**. Steepest vertical in the valley, 1,071 m. Rostik's ground is the beginner zones at the base, Nakiyama and Sakka, plus Shirakaba at a maximum of 20° |
-| **Wed 17** | **Goryu + Hakuba47** | These two are **physically connected** by gondola at the top and share one ticket: 24 runs, 14 lifts, 2 gondolas across 3 areas, all inside our Hakuba Valley pass anyway. Goryu has the gentle stuff for Rostik, and **Hakuba47 has what is widely called the best terrain park in Japan**, which is Nadir's day |
-| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or Cortina and Tsugaike at the north end of the valley for trees and deep snow. Half day, off the snow by 12:30 |
+| **Wed 17** | **Goryu** | **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik. It is physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over, but the park there is not our thing and is not the reason to go |
+| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or **Tsugaike**, the valley's cruising resort: wide, mellow groomers with a strong intermediate upper mountain. Cortina next door for trees and deep snow if it has dumped. Half day, off the snow by 12:30 |
 
 Sources: [Burton's guide to Hakuba](https://www.burton.com/en-us/blogs/the-burton-blog/burtons-official-guide-to-snowboarding-hakuba) ·
 [Hakuba47 official](https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/entry-110.html) ·
