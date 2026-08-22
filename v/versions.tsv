@@ -31,3 +31,4 @@
 31	2026-08-05T09:02	Georgi Litvinov	publish.py now refuses to commit if a pull left conflict markers, the cause of the v27 breakage
 32	2026-08-05T20:12	Georgi Litvinov	Jakob is out, his place held open; shared costs now show both the four-way and three-way split
 33	2026-08-18T16:09	Georgi Litvinov	real flight fares for 14-22 Feb; the after-21:00 assumption was wrong and the last train to Nagano is tight
+34	2026-08-22T07:16	Georgi Litvinov	night drive moved to Sunday evening: the 18:30 store closing made the Monday plan impossible

@@ -158,8 +158,8 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, half day until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
 | 6 | Fri 19 Feb | **Shinhotaka Ropeway** at 09:00 when it opens. Down by midday, then Route 471 and Route 41 north to **Toyama** (~1 h 30), passing Takayama without stopping. Drop the car. Toyama Bay sushi, the Kengo Kuma glass museum, Kansui Park | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (Shinkansen 19–22 min). **Omicho Market** in snow crab season, Kenrokuen, the Higashi Chaya geisha quarter | Kanazawa |
-| 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380). Evening in Tokyo | Tokyo |
-| 9 | Mon 22 Feb | 🏎 **The Tokyo drive.** Car around midday, central Tokyo through the evening, drop at Haneda, board | plane |
+| 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Pick the car up around 16:00. 🏎 **The night drive is this evening**, Daikoku from about 20:00 | Tokyo |
+| 9 | Mon 22 Feb | Free day in Tokyo. Car back by 16:00 (24 h) and by 18:30 at the very latest, then Haneda for the 22:05 | plane |
 | 10 | **Tue 23 Feb** | Land in Berlin in the morning | home |
 
 **7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
@@ -524,6 +524,37 @@ published on the public site, they sit inside the booking flow. The group has re
 before, so this is a confirm-at-booking item rather than an unknown.
 
 ---
+
+
+### 🚨 The night drive was scheduled at an impossible time (fixed 22 Aug 2026)
+
+The day cards used to say: pick the car up around midday on day 9, drive through the evening,
+drop it and board. **That cannot happen**, and the contradiction was sitting inside this very
+document.
+
+- **Both OnlyJDM branches close at 18:30.** Late return is ¥6,600 per 30 minutes.
+- **Daikoku PA fills up between 20:00 and 22:00**, weekdays included. Friday and Saturday are the
+  biggest nights, peaking from 21:00 to 02:00, but there is a steady flow of local JDM cars every
+  evening.
+  [Daikoku schedule](https://samuraicarjapanjdm.jp/daikoku-pa-schedule/)
+- So a 7-hour rental returned by 18:30 **cannot reach the meet at all.** Sunset in Tokyo in late
+  February is around 17:30, so it would have bought roughly one hour of dusk and no cars.
+- On top of that, the flight leaves Haneda at 22:05 on the 22nd, so there was never room for a
+  night drive on day 9 anyway.
+
+**The fix: move the drive to the evening of day 8 and take the 24-hour tier.**
+
+| | |
+|---|---|
+| **Day 8, Sun 21** | Into Tokyo early afternoon, car at ~16:00, drive the city, **Daikoku from ~20:00**, back late |
+| **Day 9, Mon 22** | Free day in Tokyo, car back by 16:00, Haneda, 22:05 flight |
+
+**It costs almost nothing.** The R34 is **¥23,800 for 24 hours** against ¥20,800 for 7 hours, so
+about **€16 more for the whole car**, and it turns an impossible plan into a real night out.
+
+⚠️ Sunday night is quieter than Friday or Saturday, but it is the only night we have: Monday is
+the flight. Worth asking OnlyJDM whether an after-hours return can be arranged, which is already
+on the open list.
 
 ### Option: one JDM car for the whole trip
 

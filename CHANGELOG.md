@@ -33,6 +33,32 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v34 &middot; 22 Aug 2026 &middot; Georgi
+
+**The night drive was scheduled at a time it could not happen. Moved to Sunday evening.**
+
+Georgi asked a simple question, "is the Tokyo drive in the plan for the evening?", and the answer
+exposed a contradiction sitting inside this document.
+
+- **What the day cards said:** day 9, Monday 22 Feb, pick the car up around midday, drive through
+  the evening, drop it and fly.
+- **What the same document also said:** both OnlyJDM branches **close at 18:30**, late return
+  ¥6,600 per 30 minutes. Those two statements cannot both be true.
+- **New fact that settles it:** **Daikoku PA fills up between 20:00 and 22:00**, weekdays included.
+  Friday and Saturday are the biggest nights, peaking 21:00 to 02:00.
+  [Daikoku schedule](https://samuraicarjapanjdm.jp/daikoku-pa-schedule/)
+  So a rental returned by 18:30 **cannot reach the meet at all**, and sunset in Tokyo in late
+  February is around 17:30, so it would have bought roughly an hour of dusk and no cars. The 22:05
+  flight on the 22nd left no room either.
+- **Fix: the drive moves to the evening of day 8, Sunday 21 Feb, on the 24-hour tier.** Into Tokyo
+  early afternoon, car at ~16:00, city and Daikoku from ~20:00, car back Monday by 16:00 and by
+  18:30 at the latest, then Haneda.
+- **Day 9 becomes a free day in Tokyo** before the flight, which is a better shape than a rushed car
+  day anyway.
+- **Cost of the fix: about €16.** The R34 is ¥23,800 for 24 hours against ¥20,800 for seven.
+- ⚠️ Sunday is quieter than Friday or Saturday, but it is the only night available: Monday is the
+  flight. The open question about an after-hours return is now worth more than it was.
+
 ## v33 &middot; 4 Aug 2026 &middot; Georgi
 
 **Real flight prices, and two things they broke.**
