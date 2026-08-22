@@ -33,6 +33,28 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v35 &middot; 22 Aug 2026 &middot; Georgi
+
+**Mogi takes the fourth place, Tuesday gets an honest timeline, and the flights are in the plan.**
+
+- **Mogi replaces Jakob.** He **lives in Tokyo**, so he meets us in Japan rather than flying. That
+  changes three things: flights are for three, shared costs divide by four again, and he is the
+  natural person to deal with OnlyJDM in Japanese and to sanity-check the Tokyo days. Every
+  reference to Jakob and to the "open place" is gone from the page and the plan; the changelog
+  keeps the history. **Open, and only he can answer:** skis or board, level, whole loop or part,
+  where he joins, and whether he holds a Japanese driving licence.
+- 🚨 **Tuesday was not realistic.** The card said "on the snow by 10:30" as if it were a target.
+  Sourced the chain: Toyota Rent a Car Nagano opens at **08:00**, an hour to Hakuba, gear for four at
+  Rhythm or NBS, walk to the gondola. **First run around 10:45 is the honest earliest**, and only
+  if nothing slips after landing at 19:45 and reaching Nagano at 23:40 the night before. Tuesday is
+  now written as a **short first day**; Wednesday is the first full morning, lifts from 08:00.
+  Pre-booking gear online is logged as the cheapest way to win back twenty minutes.
+- **Flights are now in the day cards**, not just in a separate section: Turkish BER 19:20 out,
+  HND 22:05 back, €974, with the Haneda-to-last-train chain spelled out on day 2 and a fallback
+  (hotel by Tokyo Station, 06:16 Kagayaki) that still beats the rental opening, so a missed train
+  costs a bad night rather than a ski day.
+- Money table back to the four-way split, the night drive line updated to the 24-hour tier.
+
 ## v34 &middot; 22 Aug 2026 &middot; Georgi
 
 **The night drive was scheduled at a time it could not happen. Moved to Sunday evening.**

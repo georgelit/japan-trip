@@ -1,8 +1,8 @@
 # Japan trip page — how to work on this repo
 
 This repository holds one published page: the plan for a ten-day trip around the Northern
-Japanese Alps, 14–23 February 2027, for Georgi, Nadir and Rostik, with a fourth place held
-open since Jakob dropped out on 4 August 2026.
+Japanese Alps, 14–23 February 2027, for Georgi, Nadir, Rostik and Mogi. Mogi lives in Tokyo
+and meets the others in Japan; he does not fly from Germany.
 
 Live at **https://georgelit.github.io/japan-trip/**
 
@@ -68,8 +68,8 @@ the reasoning, then summarise both.
 
 ## Content rules
 
-- **Headcount is three confirmed plus one open place.** Anything split between us divides by
-  **three**, not four, until the seat is filled. If you touch a shared cost, show both figures.
+- **Headcount is four, but only three fly.** Mogi lives in Tokyo. Shared costs (car, drop fee,
+  apartment, the night drive) divide by **four**; flights are counted for **three**.
 - **Never invent a fact.** Prices, opening hours, driving times, holiday dates, ropeway
   schedules: verified only. This page is used for real planning and real bookings. If you do
   not know something, write that you do not know, or ask the human. A wrong ropeway closing
@@ -82,7 +82,7 @@ the reasoning, then summarise both.
 - **No em dashes as a thought separator.** Use a comma, a colon, brackets, or a new sentence.
 - Money in **euros**, with the yen figure alongside where it helps. Rate in use: €1 ≈ ¥185,
   noted with the date it was checked.
-- Numbers in the header stats block (10 days, 3 ski mornings, 3+1 going, 2,156 m, 7 nights, 1 ryokan)
+- Numbers in the header stats block (10 days, 3 ski mornings, 4 of us, 2,156 m, 7 nights, 1 ryokan)
   must match the itinerary below them. If you change the route, check the stats block, the
   footer, and `<meta name="description">` at the top of the file.
 
