@@ -68,7 +68,7 @@ That would make the car question much simpler.
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
 | 1 Aug 2026 | **Takayama is out, Toyama is in** | Rostik has been to Takayama and says it is not worth a stop. Toyama was Nadir's original ask. Okuhida sits on the road north to Toyama, so the ropeway and the ryokan survive and the coast gets added: the A / B fork dissolved |
 | 1 Aug 2026 | **Kanazawa added on day 7** | Fills what had become an empty day 8, and Omicho Market is in snow crab season |
-| 1 Aug 2026 | **Car dropped in Toyama, not Matsumoto** | Cross-prefecture one-way fee of ¥20,000–30,000 is the price of making it a real circle |
+| 1 Aug 2026 | **Car dropped in Toyama, not Matsumoto** | Cross-prefecture one-way fee, now verified at roughly **¥5,000–15,000** depending on operator, is the price of making it a real circle |
 | 31 Jul 2026 | **No Japan Rail Pass** | ¥50,000 (¥53,000 from 1 Oct 2026) against ~¥20,000 of actual long-distance legs. Saves roughly €160 per person |
 | 31 Jul 2026 | Page and repo in **English** | Common language for all four |
 
@@ -185,9 +185,10 @@ sea, and it reads as one continuous arc.
 - ✅ **Flights are in the plan**: Turkish out 14th 19:20, back 22nd 22:05, €974.
 - ✅ **Takayama is out** as a stop. We only drive through it.
 
-⚠️ **What it costs: a one-way car drop.** We pick up in Nagano and drop in Toyama, which crosses
-prefectures. Quoted drop fees run **¥20,000 to over ¥30,000**, so roughly **€28–40 per person**
-on top. That is the price of the circle, and it is the same price route B would have paid.
+**What it costs: a one-way car drop, and it is cheaper than first written.** Georgi challenged
+the ¥20,000–30,000 figure (23 Aug): the group paid about ¥5,000 with Toyota on a previous trip.
+Checked properly this time, see "The one-way drop fee, verified" below. Realistic range for
+Nagano Station → Toyama Station: **¥5,000–15,000 for the car**, so **€7–20 per person**.
 
 ⚠️ **Shirakawa-go is now optional, not on the way.** Hirayu to Shirakawa-go is about **2 h 10**,
 which does not fit into day 6 alongside the ropeway. It is about an hour from Toyama, so if we
@@ -238,6 +239,25 @@ platform 21:15–21:45. Makes it with 25 to 50 minutes to spare, **and there is 
 If the flight is late, the fallback is a hotel near Tokyo Station and the first Kagayaki at 06:16
 on Tuesday, which reaches Nagano by 07:40, still before the rental opens. So a missed train costs a
 bad night, not a ski day.
+
+### The one-way drop fee, verified
+
+The page said ¥20,000 to over ¥30,000, taken from a general ORIX one-way page. Georgi pushed back:
+the group paid about ¥5,000 with Toyota before. He was right to push, the old number was not for
+these stations or this operator. What the sources actually say, checked 23 Aug 2026:
+
+| Operator | How the fee works | Nagano Station → Toyama Station |
+|---|---|---|
+| **Toyota Rent a Car** | A **zone table**, not per-km. Their official one-way tariff PDF lists fixed yen amounts per area pair: within Toyama, Toyama Area → Takaoka Area is ¥2,200 and → Kurobe Area ¥3,300; Nagano Area within Nagano is ¥2,200. Those are the **intra-prefecture** pages. The cross-prefecture Nagano → Toyama cell is not in the public PDF, it only appears in their online simulator, which needs a station picker the scraper cannot drive. [Toyota tariff PDF](https://rent.toyota.co.jp/global_pdf/onewayprice_eng.pdf) | ⚠️ **Not confirmed from the document.** Given the intra-prefecture cells are ¥1,650–3,300 and Georgi's recollection of ~¥5,000, a cross-prefecture hop of this length is plausibly **¥5,000–8,000**. One phone call to the Nagano shop settles it: **026-228-0100** |
+| **Nippon Rent-A-Car** | **¥880 per 10 km** for passenger cars, ¥1,100 for wagons, free under 20 km. Distance is "by our designated method", which they do not publish. [Nippon one-way](https://www.nipponrentacar.co.jp/en/service/oneway.html) | Road distance Nagano Station → Toyama Station is **167.6 km** (OSRM), so **¥14,960** for a passenger car. Same desk as Toyota in Nagano |
+| ORIX (the old source) | Zone-based, and the ¥20,000–30,000 I quoted was a generic example, not this pair | ❌ Dropped as a source |
+
+**Both stations confirmed for the plan:** Toyota **Nagano Shop** (3 min from the station, one-way
+out of prefecture accepted, tel 026-228-0100) and Toyota **Toyama Station Shop** (5 min walk from
+the station, 08:00–20:00, returns from other prefectures accepted).
+
+**Working figure for the budget: ¥5,000–15,000 for the car, €7–20 per person.** Toyota is very
+likely the cheap end. Nippon is the documented ceiling. Nobody is paying ¥30,000.
 
 ### Why the route runs this way
 
@@ -832,7 +852,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~139 | ≈ ¥25,700: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥2,860 Shinkansen unreserved**, Kanazawa→Tokyo ¥14,380 |
-| **One-way car drop, Nagano → Toyama** | **28–40** | ⚠️ crosses prefectures, ¥20,000–30,000 split four ways |
+| **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
 | Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |
 | Hakuba, 2 nights | 120–180 | ⚠️ apartment for four |
@@ -1010,7 +1030,7 @@ The Civic FD2 and the Fit are front-wheel drive.
 | Premium coverage | ¥12,000 |
 | **Total** | **≈ ¥232,000 ≈ €1,255, or €314 per person** |
 
-Against the current stack (⚠️ est. €110–150 rental + €28–40 one-way drop + ~€145 rail + €28–69
+Against the current stack (⚠️ est. €110–150 rental + €7–20 one-way drop + ~€139 rail + €32–68
 for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** instead would be about
 **€199 per person**, but it is a minivan.
 
@@ -1020,7 +1040,7 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 
 | | Effect |
 |---|---|
-| ✅ **No one-way drop fee** | Saves €28–40 per person. Both their branches are in Tokyo, so there is nothing to pay |
+| ✅ **No one-way drop fee** | Saves €7–20 per person. Both their branches are in Tokyo, so there is nothing to pay |
 | 🚨 **No Shinkansen home** | Both branches are in Tokyo, so the car must come back. **Kanazawa → Tokyo is roughly 6–7 h by expressway (Kan-etsu, then Hokuriku), tolls ¥9,300–12,000** ([Kanazawa Station](https://www.kanazawastation.com/traveling-from-tokyo-to-kanazawa/)). That replaces a 2 h 28 Kagayaki and eats most of day 8 |
 | 🚨 **Mileage limit: 200 km per 24 h**, then ¥55/km (¥165/km for GT-R, RX-7, LC500, Supra) | Our route is ⚠️ roughly **1,150 km**. Eight days gives 1,600 km, so it fits, but the slack is thin and every detour is metered |
 | 🚨 **Both branches close at 18:30** | Late return is **¥6,600 per 30 minutes**. So the night drive cannot end with handing the keys back and boarding. It has to be a **24-hour rental across days 8 and 9**, returned by 18:30 on the 9th, and we fly that night |
