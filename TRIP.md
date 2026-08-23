@@ -38,8 +38,8 @@ group in three useful ways:
 
 ✅ Skis, beginner, about Rostik's level. ✅ **Does the whole loop with us** (Georgi, 22 Aug).
 
-Mogi is the natural renter for the JDM car in Tokyo, being local. In the mountains everyone
-shares the wheel.
+Mogi is one of four, not the Tokyo fixer. Who rents which car, who picks the Tokyo spots and who
+rings OnlyJDM are group jobs, shared out like everything else.
 
 ⚠️ **Still open:** only **where he joins**. Nagano Station on Monday night is the obvious spot, since
 the three of us sleep there, and it means he could be the one to pick the car up at 08:00. The natural meeting point
@@ -620,7 +620,7 @@ with the 15:30 snowmobile if people are awake enough.
 | **Fri 19** | Ryokan morning until check-out, Toyama by ~13:00 | See the Toyama section below. Iwase and sake first, since it shuts at 17:00; Kansui Park illumination as an optional stop after dark; sushi |
 | **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
 | **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
-| **Mon 22** | Free Tokyo day | **Mogi's call.** He lives there, and Nadir's map has about fifty Tokyo pins to pick from. The JDM car goes back by 16:00 |
+| **Mon 22** | Free Tokyo day | **Open, all of us.** Nadir's map has about fifty Tokyo pins to pick from, and Mogi knows the city, so his input is welcome, not his homework. The JDM cars go back by 16:00 |
 
 ---
 
@@ -828,8 +828,8 @@ The Kaga domain was rich for three centuries and its food is refined rather than
 
 ### Tokyo, Sunday night and Monday
 
-**Mogi lives here, so this is his list to write**, not ours. What the rest of us would not want to
-miss: a proper **ramen** counter (Nadir's map has Ramen FeeL and others), **tsukemen**, a standing
+**This list is everyone's to build.** Mogi knows the city and will have opinions, which is useful,
+not a job assignment. What we would not want to miss: a proper **ramen** counter (Nadir's map has Ramen FeeL and others), **tsukemen**, a standing
 sushi bar, and a **yakitori alley** dinner. On the night drive, Daikoku PA itself has a food court
 that is part of the ritual.
 
@@ -879,7 +879,8 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 
 OnlyJDM has two branches, and one of them is **at Haneda Airport**. That turns the last day
 into a straight line with nothing wasted: reach Tokyo, pick the car up, drive through the
-evening, drop it back at Haneda, walk to the terminal, fly. The other branch is **Tokyo North**.
+evening, drop it back at Haneda, walk to the terminal, fly. OnlyJDM also has a Tokyo North branch;
+**we do not use it.** Everything is picked up and returned at Haneda, full stop.
 
 They price in two tiers, **7 hours** and **24 hours**. The 7-hour tier is exactly the
 evening-drive product we want.
@@ -907,37 +908,40 @@ right, and it is now the recommendation. Two cars means two people driving, pass
 Daikoku, two different engines in one night, and the convoy itself is part of the evening. One car
 with four people and bags is a taxi with a spoiler.
 
-24-hour tier, both cars, Haneda branch, OnlyJDM prices read 1 Aug 2026:
+24-hour tier, both cars, **Haneda branch only**, OnlyJDM prices read 1 Aug 2026. Cars that live at
+Tokyo North (the S15, the R32) are struck from the pairings: a second branch would split the
+Monday return, and the whole point of Haneda is that Monday is one stop.
 
 | Pairing | Total, 24 h | Each, four ways | Why this pair |
 |---|---|---|---|
-| **R34 Skyline + Silvia S15** | **¥50,600 ≈ €273** | **≈ €68** | The two icons of the 90s drift era, both manual-available, both cheap. The default |
-| R34 + EVO X | ¥49,600 ≈ €268 | ≈ €67 | If someone wants AWD and a snow-tyre car. Less of a night-drive car |
-| R34 + Supra A80 | ¥60,600 ≈ €327 | ≈ €81 | The Fast & Furious pair. Supra is auto only in their fleet |
-| R34 + **R32 GT-R** | ¥63,600 ≈ €343 | ≈ €85 | Two generations of Skyline in one convoy. ⚠️ R32 is Tokyo North branch, not Haneda, and carries a ¥200,000 deposit |
-| **R35 GT-R** + R34 | ¥80,600 ≈ €435 | ≈ €108 | The one where one car is a genuine 500-plus hp monster. ¥200,000 deposit on the R35 |
+| **R34 Skyline + R34 Skyline** | **¥47,600 ≈ €257** | **≈ €64** | Two of the same icon, Haneda has several R34s in stock (auto and manual). Cheapest pair, and a matched convoy looks the part. **The default** |
+| R34 + EVO X | ¥49,600 ≈ €268 | ≈ €67 | If someone wants AWD. Less of a night-drive car |
+| R34 + **Supra A80** | ¥60,600 ≈ €327 | ≈ €81 | The Fast & Furious pair. Supra is auto only in their fleet |
+| R34 + Civic Type R FL5 | ¥60,600 ≈ €327 | ≈ €81 | Modern manual hot hatch next to the classic |
+| **R35 GT-R** + R34 | ¥80,600 ≈ €435 | ≈ €108 | One genuine 500-plus hp monster. ¥200,000 deposit on the R35 |
 | R35 + RX-7 FD | ¥115,600 ≈ €624 | ≈ €156 | Maximum. Two ¥200,000 deposits |
 
+~~Silvia S15~~ and ~~Skyline GT-R R32~~ are Tokyo North stock and are out for that reason alone.
+
 Against **one R34 for everyone at ¥23,800, ≈ €32 each**. So the default two-car pairing is about
-**€36 more per person** for a night that is twice the car.
+**€32 more per person** for a night that is twice the car.
 
 **Practicalities that come with two cars:**
 - Two named renters, two deposits of ¥50,000 (or ¥200,000 for the GT-Rs and RX-7), two sets of
   paperwork at pickup. Budget thirty minutes at the desk, not fifteen.
-- Pick up both at the **Haneda** branch so the Monday return is still one stop. The R32 and S15
-  live at Tokyo North; if one of them is chosen, that car's pickup and return are at the other
-  branch, which splits the Monday.
+- Both cars from the **Haneda** branch, both back to Haneda. One pickup, one return, one walk to
+  the terminal. Non-negotiable; it is the reason the last day is simple.
 - Mileage cap is per car, 200 km each, so it doubles. Not a constraint on a city night.
 - Fuel: return full, both.
 
-**Decision: two cars, default R34 + S15.** Upgrade pairings are a question of how much someone
-wants the GT-R, not of logistics.
+**Decision: two cars from Haneda, default R34 + R34.** Upgrade pairings are a question of how
+much someone wants the GT-R or the Supra, not of logistics.
 
 ### What this means for four people
 
 Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all of us fit in
-one car if we want. Mogi lives in Tokyo, so he is the obvious renter; everyone can drive, so two
-cars is equally possible and arguably the whole point.
+one car if we want. Everyone can drive and anyone can be the named renter, so two cars is equally
+possible and arguably the whole point.
 
 | Shape | Cost | Per person |
 |---|---|---|
@@ -1242,14 +1246,14 @@ cost. The 16th breaks the rule the dates were built around.**
    back twenty minutes on the short first day. Rhythm and Central both take online bookings.
 
 4. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
-   pins. Day 9 is now a free day and day 8 afternoon is open too. Mogi can sanity-check the picks
-   since he lives there.
+   pins. Day 9 is now a free day and day 8 afternoon is open too. Mogi knows the city, so ask him,
+   but the picking is a group thing.
 
 5. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing. We
    now reach Nagano at 23:40 and leave at 08:30, so realistically these are out unless someone
    wants them badly.
 
-6. 🟡 **Ask OnlyJDM two things**, and Mogi is the natural person to do it in Japanese: holiday
+6. 🟡 **Ask OnlyJDM two things**, whoever gets to it first, their site and email handle English: holiday
    opening on 23 Feb in case the dates shift, and an after-hours return past 18:30.
 
 7. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
