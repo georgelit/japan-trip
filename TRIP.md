@@ -36,13 +36,10 @@ group in three useful ways:
 - **He can do the Tokyo-side legwork.** Picking up the JDM car, knowing the city on days 8 and 9,
   and being the one who actually speaks to OnlyJDM.
 
-✅ Skis, beginner, about Rostik's level. ✅ **Does the whole loop with us.** ✅ **Holds a Japanese
-driving licence** (all three from Georgi, 22 Aug).
+✅ Skis, beginner, about Rostik's level. ✅ **Does the whole loop with us** (Georgi, 22 Aug).
 
-**The licence is the big one.** Every car on this trip can now be rented on a plain Japanese
-licence, with no ADAC translation, no IDP debate, and no risk of OnlyJDM's "wrong document, no
-refund" clause. Mogi is the natural primary driver for the JDM car in Tokyo; in the mountains the
-Germans with translations share the wheel.
+Mogi is the natural renter for the JDM car in Tokyo, being local. In the mountains everyone
+shares the wheel.
 
 ⚠️ **Still open:** only **where he joins**. Nagano Station on Monday night is the obvious spot, since
 the three of us sleep there, and it means he could be the one to pick the car up at 08:00. The natural meeting point
@@ -67,7 +64,7 @@ That would make the car question much simpler.
 | 4 Aug 2026 | ~~Three confirmed, fourth place left open~~ | Superseded 22 Aug |
 | 22 Aug 2026 | **Mogi takes the fourth place** | Lives in Tokyo, so he meets us in Japan rather than flying. Shared costs divide by four again |
 | 1 Aug 2026 | **Ski Tue/Wed/Thu (16–18 Feb)** | Japanese people ski at weekends. Midweek slopes are noticeably emptier |
-| 31 Jul 2026 | **Rental car** for the second half | Three of us hold ADAC translations, and **Mogi holds a Japanese licence** (22 Aug), so any rental desk is straightforward. Also makes the 10-resort Hakuba Valley pass genuinely usable |
+| 31 Jul 2026 | **Rental car** for the second half | Everyone in the group has the paperwork to rent and drive in Japan. Also makes the 10-resort Hakuba Valley pass genuinely usable |
 | 31 Jul 2026 | **All gear rented on site** | Nothing flies with us |
 | 1 Aug 2026 | **Takayama is out, Toyama is in** | Rostik has been to Takayama and says it is not worth a stop. Toyama was Nadir's original ask. Okuhida sits on the road north to Toyama, so the ropeway and the ryokan survive and the coast gets added: the A / B fork dissolved |
 | 1 Aug 2026 | **Kanazawa added on day 7** | Fills what had become an empty day 8, and Omicho Market is in snow crab season |
@@ -335,14 +332,8 @@ Everything in this section has a source. Do not edit these numbers without a new
 
 ### Driving
 
-- ⚠️ **A German International Driving Permit is NOT valid in Japan.** Japan recognises the
-  1949 Geneva Convention; Germany signed the 1968 Vienna Convention. German licence holders
-  need an **official Japanese translation**, carried together with the original licence.
-- Issued by **ADAC Südbayern**, the only licensed office in Europe. €65 in person in Munich,
-  €70 by post, **10–14 working days**, and they need the **original licence**, not a copy.
-  [ADAC](https://www.adac.de/der-adac/regionalclubs/suedbayern/fuehrerscheinuebersetzung-japan/)
-  → **Three of us already have theirs.** And since 22 Aug it matters less: **Mogi holds a
-  Japanese licence**, which every rental desk in the country accepts without a second look.
+- ✅ **Driving paperwork is done** (23 Aug 2026). Everyone in the group holds what they need to
+  rent and drive in Japan. Nothing to arrange.
 - **Route 158 (Matsumoto – Hirayu – Takayama) has never been closed by snow, even in deep
   winter.** It is a narrow mountain pass with a long winding descent past Hirayu.
 - **Snow tyres or chains are required from mid-November to early April.** Winter tyres must
@@ -580,6 +571,25 @@ ask the lodging to book one.
 
 **Buy the onsen ticket book.** A shared book of bathing tickets is ¥2,000 for ¥2,500 of value
 and works across several Hakuba onsen. Four people over three days will use it.
+
+### Evenings in Hakuba beyond onsen and dinner, Tue 16 and Wed 17
+
+Georgi asked (23 Aug) for something other than a bath and an izakaya, within 30 minutes by car.
+Checked against the resorts and operators. Honest summary: **one strong option, one near-miss,
+and a few fillers.**
+
+| | When | Where, cost | Verdict |
+|---|---|---|---|
+| **Night skiing at Goryu** | **every night, 18:00–21:30** (Iimori to 21:20), runs to late March | Toomi and Iimori slopes, a wide 1,000 m groomed run under lights. 10 min from Happo. ⚠️ Night ticket price and valley-pass coverage not yet published for 2026/27 | ✅ **The real one.** Gentle enough for the two beginners, and an evening on a lit piste is a different thing from a morning. Tuesday is too soon after the flight; **Wednesday is the night.** [Hakuba Valley](https://www.hakubavalley.com/info_en/5844/) |
+| Cortina night skiing | 17:00–21:00, **Saturdays only** plus a few set dates (last season: 22 Feb) | ¥2,500 last season, 40 min north | ❌ Not on our weekdays |
+| Jiigatake night skiing | Selected Fri–Sun only | ¥3,300 | ❌ Not on our weekdays |
+| **Snowmobile, Lion Adventure** | last slot **15:30–16:30** | Base of Hakuba47, guided hour along the river and forest, **¥21,000 a head**, book 24 h ahead | ⚠️ Fits Tuesday's early finish. Expensive for an hour, but it is the one motorised thing on offer. [Lion Adventure](https://hakuba.com/experiences/snow-activities/snowmobiling/) |
+| Night snowshoe walk | on request | Operators do them, not a fixed product | ⚠️ Ask the lodging Monday night if anyone wants one |
+| Echoland bars | nightly | **Calico** does pop-ups and live music; most music nights are weekends | On a Tuesday or Wednesday, a bar, not a gig |
+| 🔥 **Happo-One Fire Festival** | **Friday**, once a year: torchlight descent, taiko, fire show, fireworks at the base of Nakiyama, 19:30–20:40 | Free | ⚠️ **We miss it by one day.** It was Fri 21 Feb 2025 and Fri 20 Feb 2026, so 2027 is almost certainly **Fri 19 Feb**, when we are already at the ryokan. 2027 date not yet announced. [2026 programme](https://www.hakubavalley.com/info_en/5982/) |
+
+**Recommendation:** Wednesday is the night-skiing night. Tuesday stays early and quiet, optionally
+with the 15:30 snowmobile if people are awake enough.
 
 ### The other afternoons, briefly
 
@@ -873,9 +883,8 @@ evening-drive product we want.
 ### What this means for four people
 
 Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all of us fit in
-one car if we want. **Mogi holds a Japanese licence and lives in Tokyo**, so he is the obvious
-renter and primary driver; three of the Germans hold translations, so two cars is equally possible
-and arguably the whole point.
+one car if we want. Mogi lives in Tokyo, so he is the obvious renter; everyone can drive, so two
+cars is equally possible and arguably the whole point.
 
 | Shape | Cost | Per person |
 |---|---|---|
@@ -986,11 +995,8 @@ for the Tokyo evening) = **⚠️ €310–405 per person**. An **Odyssey** inst
 
 #### The licence is not a blocker
 
-✅ Their terms mention an IDP, but German licences cannot get a Japan-valid one anyway, we
-carry the ADAC Japanese translation instead. **And since 22 Aug the cleanest answer is simply
-that Mogi rents it on his Japanese licence.** Three of us hold the translation, and the group has
-rented
-from OnlyJDM before on that same document.
+✅ **Licence question closed** (23 Aug). Everyone has the paperwork; the group has rented from
+OnlyJDM before.
 
 #### One thing left to confirm before booking anything
 
@@ -1172,7 +1178,7 @@ cost. The 16th breaks the rule the dates were built around.**
 
 1. 🟡 **Mogi: where do you join?** Nagano Station on Monday night is the obvious spot, and it would
    let you be the one who picks the car up at 08:00 on Tuesday. Everything else about you is
-   settled: whole loop, skis, beginner, Japanese licence.
+   settled: whole loop, skis, beginner.
 
 2. 🟡 **Rostik and Mogi: a lesson each, or none?** Both beginners, one on a board and one on skis,
    so one instructor cannot cover both. ⚠️ Private lessons are expensive: Evergreen is **¥110,000
@@ -1191,8 +1197,7 @@ cost. The 16th breaks the rule the dates were built around.**
    wants them badly.
 
 6. 🟡 **Ask OnlyJDM three things**, and Mogi is the natural person to do it in Japanese: holiday
-   opening on 23 Feb in case the dates shift, an after-hours return past 18:30, and whether the
-   ADAC translation is accepted in place of an IDP for the Germans.
+   opening on 23 Feb in case the dates shift, and an after-hours return past 18:30.
 
 7. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
    travels to Hakuba independently by Shinkansen and bus.
@@ -1207,7 +1212,7 @@ cost. The 16th breaks the rule the dates were built around.**
    four people now, so the luggage point applies again.
 
 11. 🟢 **One car or two for the Tokyo drive?** The R34 and the EVO seat five so we all fit in one.
-    Mogi rents on his Japanese licence, three of the Germans hold translations, so two cars is easy.
+    Everyone can drive, so two cars is easy.
 
 12. 🟢 **Toyama, Kanazawa and the Tokyo days have named stops but no real planning behind them.**
     No hours, no order, no reasoning. Kenrokuen is the concrete example: winter is its signature

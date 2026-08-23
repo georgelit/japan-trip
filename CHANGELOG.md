@@ -33,6 +33,31 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v46 &middot; 23 Aug 2026 &middot; Georgi
+
+**Licence remarks removed; evening options added for the two Hakuba nights.**
+
+- **Driving paperwork is closed.** Everyone in the group has what they need to rent and drive in
+  Japan, so every remark about the ADAC translation, the IDP, and who is allowed to be the named
+  renter came off the page and out of `TRIP.md`. The OnlyJDM question list shrinks to two items:
+  holiday opening on 23 Feb, and an after-hours return. Mogi still rents the Tokyo car, simply
+  because he is local.
+- **Evenings in Hakuba beyond onsen and dinner**, Tue 16 and Wed 17, within 30 minutes by car,
+  checked against the resorts and operators rather than guessed:
+  - ✅ **Night skiing at Goryu is the real option**: it runs **every night 18:00–21:30** on the
+    Toomi and Iimori slopes, a wide 1,000 m groomed run under lights, gentle enough for the two
+    beginners. Ten minutes from Happo. **Wednesday is the night**; Tuesday is too soon after the
+    flight. ⚠️ 2026/27 night ticket price and pass coverage not yet published.
+  - ❌ Cortina (Saturdays only) and Jiigatake (selected Fri–Sun) do not run on our weekdays.
+  - ⚠️ **Snowmobile with Lion Adventure**, last slot 15:30–16:30 at the base of Hakuba47,
+    ¥21,000 a head, 24 h advance booking. Fits Tuesday's early finish if anyone is awake.
+  - Night snowshoe walks exist on request; Echoland on a weekday is a bar, not a gig.
+  - 🔥 **The Happo-One Fire Festival**, torchlight descent, taiko and fireworks, is the one big
+    February night in Hakuba, and **we miss it by one day**: it was Friday 21 Feb 2025 and Friday
+    20 Feb 2026, so 2027 is almost certainly Friday 19 Feb, when we are at the ryokan. Logged so
+    nobody wonders. 2027 date not yet announced.
+- Added as a fold-out block on the day 3 and day 4 cards and as a table in `TRIP.md`.
+
 ## v45 &middot; 22 Aug 2026 &middot; Georgi
 
 **Day cards restructured: short plan on top, everything else folds away underneath.**
