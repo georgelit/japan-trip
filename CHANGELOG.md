@@ -33,6 +33,16 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v47 &middot; 23 Aug 2026 &middot; Georgi
+
+**Two cars for the Tokyo drive, not one.** Georgi: it is way cooler and there is no downside
+except price. Agreed and adopted. Default pairing **R34 Skyline + Silvia S15, ¥50,600 for both on
+the 24-hour tier, about €68 each**, against €32 for one R34. Six pairings priced from the OnlyJDM
+list already on the page, up to R35 + RX-7 at €156 each. Practicalities recorded: two renters and
+two deposits (¥200,000 on the GT-Rs and RX-7), pick both up at Haneda so Monday's return stays one
+stop, the S15 and R32 live at Tokyo North. The "one car or two" open question is closed; "which
+two" is what remains. Also fixed a leftover "ask OnlyJDM three things" that should have read two.
+
 ## v46 &middot; 23 Aug 2026 &middot; Georgi
 
 **Licence remarks removed; evening options added for the two Hakuba nights.**

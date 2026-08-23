@@ -880,6 +880,39 @@ evening-drive product we want.
 | **GT-R R35** | 4 | A | Haneda | ¥50,800 (≈ €275) | ¥56,800 |
 | **RX-7 FD** | 4 | M | Haneda | ¥51,800 (≈ €280) | ¥58,800 |
 
+### Two cars, not one: the proposal
+
+Georgi (23 Aug): **get two cars, it is way cooler and there is no downside except price.** That is
+right, and it is now the recommendation. Two cars means two people driving, passengers swapping at
+Daikoku, two different engines in one night, and the convoy itself is part of the evening. One car
+with four people and bags is a taxi with a spoiler.
+
+24-hour tier, both cars, Haneda branch, OnlyJDM prices read 1 Aug 2026:
+
+| Pairing | Total, 24 h | Each, four ways | Why this pair |
+|---|---|---|---|
+| **R34 Skyline + Silvia S15** | **¥50,600 ≈ €273** | **≈ €68** | The two icons of the 90s drift era, both manual-available, both cheap. The default |
+| R34 + EVO X | ¥49,600 ≈ €268 | ≈ €67 | If someone wants AWD and a snow-tyre car. Less of a night-drive car |
+| R34 + Supra A80 | ¥60,600 ≈ €327 | ≈ €81 | The Fast & Furious pair. Supra is auto only in their fleet |
+| R34 + **R32 GT-R** | ¥63,600 ≈ €343 | ≈ €85 | Two generations of Skyline in one convoy. ⚠️ R32 is Tokyo North branch, not Haneda, and carries a ¥200,000 deposit |
+| **R35 GT-R** + R34 | ¥80,600 ≈ €435 | ≈ €108 | The one where one car is a genuine 500-plus hp monster. ¥200,000 deposit on the R35 |
+| R35 + RX-7 FD | ¥115,600 ≈ €624 | ≈ €156 | Maximum. Two ¥200,000 deposits |
+
+Against **one R34 for everyone at ¥23,800, ≈ €32 each**. So the default two-car pairing is about
+**€36 more per person** for a night that is twice the car.
+
+**Practicalities that come with two cars:**
+- Two named renters, two deposits of ¥50,000 (or ¥200,000 for the GT-Rs and RX-7), two sets of
+  paperwork at pickup. Budget thirty minutes at the desk, not fifteen.
+- Pick up both at the **Haneda** branch so the Monday return is still one stop. The R32 and S15
+  live at Tokyo North; if one of them is chosen, that car's pickup and return are at the other
+  branch, which splits the Monday.
+- Mileage cap is per car, 200 km each, so it doubles. Not a constraint on a city night.
+- Fuel: return full, both.
+
+**Decision: two cars, default R34 + S15.** Upgrade pairings are a question of how much someone
+wants the GT-R, not of logistics.
+
 ### What this means for four people
 
 Most of the fast stuff seats 2 or 4. The **R34 and the EVO seat 5**, so all of us fit in
@@ -1196,7 +1229,7 @@ cost. The 16th breaks the rule the dates were built around.**
    now reach Nagano at 23:40 and leave at 08:30, so realistically these are out unless someone
    wants them badly.
 
-6. 🟡 **Ask OnlyJDM three things**, and Mogi is the natural person to do it in Japanese: holiday
+6. 🟡 **Ask OnlyJDM two things**, and Mogi is the natural person to do it in Japanese: holiday
    opening on 23 Feb in case the dates shift, and an after-hours return past 18:30.
 
 7. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
