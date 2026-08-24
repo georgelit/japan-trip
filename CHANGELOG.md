@@ -33,6 +33,33 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v51 &middot; 25 Aug 2026 &middot; Nadir
+
+**The Emperor's Birthday stops being a headline, and the page's justification folds away.** Both
+Nadir's calls.
+
+- **Emperor's Birthday de-emphasised.** Nadir: it is a nothingburger. He is right for our trip as it
+  now stands, we land in Berlin on the morning of the 23rd and it never touches us. Removed the
+  trivia from the day 10 card, the "not a blocker, arguably a livelier night" hand-wringing from the
+  date-shift analysis, and the repeated naming of it. Where it is still load-bearing, the two
+  date-shift scenarios that would push us onto the 23rd, it now reads as "a national holiday" and
+  keeps only the operational consequence: packed Shinkansen, and OnlyJDM's hours would need
+  checking. **The facts are unchanged, the volume is down.**
+- **Justification moved into collapsible blocks**, extending the v45 day-card pattern to the
+  page-level sections. What stays visible is what we are doing; the reasoning for why we chose it
+  over something else now sits behind a `+`.
+  - **Why exactly these dates**: was two tables, a note block and three subsections. Now a
+    four-line summary, with the six dodged dates, the Valentine's reasoning and the March fallback
+    collapsed.
+  - **Who flies when**: both analyses (Rostik arriving early, departing the 15th or 16th) collapsed
+    behind their conclusions.
+  - **Option: one JDM car for the whole trip**: the verdict and the headline cost stay visible, the
+    car table, the full costing and OnlyJDM's terms fold away.
+- **CSS: the `details`/`summary` styling was scoped to `.day`** and so did not apply anywhere else.
+  Generalised it, same rules, plus a little more top margin on section-level blocks. Checked: 37
+  `<details>` all balanced, HTML parses clean, and all 21 tables are still inside their `.scroll`
+  containers so nothing pushes the page sideways on a phone.
+
 ## v47 &middot; 23 Aug 2026 &middot; Georgi
 
 **Two cars for the Tokyo drive, not one.** Georgi: it is way cooler and there is no downside

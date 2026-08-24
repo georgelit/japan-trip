@@ -85,7 +85,7 @@ directions at once**: crowds in Japan, and ticket prices out of Berlin.
 |---|---|---|
 | **6 Feb** | Chinese New Year (Year of the Fire Goat) | Wave from China, Hong Kong, Taiwan, Singapore. Japanese resorts are their main winter destination. Peak roughly **6–13 Feb** |
 | **11 Feb (Thu)** | National Foundation Day | Many Japanese take the Friday, so it becomes a four-day weekend on the slopes |
-| **23 Feb (Tue)** | The Emperor's Birthday | Lands exactly on a "ski Tuesday" |
+| **23 Feb (Tue)** | The Emperor's Birthday | We land in Berlin that morning, so it does not touch us |
 | Every Sat/Sun | Japanese people ski at weekends | Midweek is much quieter |
 
 ### Avoid, Germany side
@@ -98,13 +98,12 @@ directions at once**: crowds in Japan, and ticket prices out of Berlin.
 ### Result
 
 **1–13 February is the worst possible window**: expensive tickets *and* crowded slopes.
-23 February is a separate no-go.
 
 **14–23 February is clean, and cleaner than the 13–22 draft it replaced.** We fly out on the
 evening of the 14th, land on the 15th with the Chinese wave fully gone, ski Tuesday to
-Thursday, and land back in Berlin on the morning of the 23rd, so the Emperor's Birthday never
-touches us. Mid-February is also the **deepest snow base of the season**: December and January
-snow has settled, spring melt has not started.
+Thursday, and land back in Berlin on the morning of the 23rd. Mid-February is also the
+**deepest snow base of the season**: December and January snow has settled, spring melt has
+not started.
 
 ✅ The one-day shift also removed the old soft spot. The first draft arrived on 14 February,
 still the tail of Chinese New Year week. Arriving on the 15th clears it.
@@ -1201,7 +1200,7 @@ options.** The 14th is a Sunday, and we already fly out that evening, so leaving
 | All weekdays? | ✅ | ✅ still fine |
 | The ryokan | **Thu 18**, cheapest night tier | **Fri 19**, mid tier |
 | Nadir's birthday | **Is the ryokan night** | Becomes a plain ski day again |
-| Tokyo drive day | Mon 22, ordinary weekday | **Tue 23, the Emperor's Birthday** |
+| Tokyo drive day | Mon 22, ordinary weekday | Tue 23, a national holiday |
 | Land in Berlin | Tue 23 | Wed 24 |
 
 **The cost is concrete: you have to give up one of two things.**
@@ -1213,16 +1212,15 @@ options.** The 14th is a Sunday, and we already fly out that evening, so leaving
 - **Keep the Thursday ryokan on the birthday** → we are down to **two ski days**, Wednesday and a
   half-day Thursday, and pick up a spare day in Tokyo instead.
 
-⚠️ Also note the Tokyo drive would land on **23 February, the Emperor's Birthday**. Not a blocker,
-and arguably a livelier night for it, but the roads and the city are busier, and OnlyJDM's
-holiday hours would need checking.
+⚠️ The Tokyo drive would land on the 23rd, a national holiday, so OnlyJDM's hours that day would
+need checking.
 
 #### Departing Tuesday 16 February: not advisable
 
 | | Effect |
 |---|---|
 | ❌ **Ski days become Thu 18, Fri 19, Sat 20** | **Saturday on the slopes.** Keeping ski days off weekends was Nadir's explicit priority |
-| ❌ **The Kanazawa → Tokyo transfer lands on Tue 23** | The Emperor's Birthday. Shinkansen packed on a national holiday |
+| ❌ **The Kanazawa → Tokyo transfer lands on Tue 23** | A national holiday, so the Shinkansen is packed |
 | ⚠️ **First ski day is the day after landing** | Straight from a 15-hour flight onto the mountain |
 | Land in Berlin | Thu 25 |
 
