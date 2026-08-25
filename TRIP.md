@@ -181,7 +181,7 @@ sea, and it reads as one continuous arc.
 - ✅ **Kanazawa is in**, which fills what was the empty day 8.
 - ✅ **Jakob's open seat is filled** by Mogi, 22 Aug. The three-way cost split is gone.
 - ✅ **Tuesday is now an honest timeline**, first run around 10:45, not a wish.
-- ✅ **Flights are in the plan**: Turkish out 14th 19:20, back 22nd 22:05, €974.
+- ✅ **Georgi's flight is BOOKED** (25 Aug 2026): Turkish out 14th 19:20, back 22nd 22:05, €943.05, Eco Fly, through Mytrip. 🚨 **Nadir and Rostik are not booked yet.**
 - ✅ **Takayama is out** as a stop. We only drive through it.
 
 **What it costs: a one-way car drop, and it is cheaper than first written.** Georgi challenged
@@ -221,15 +221,31 @@ first full morning**, lifts from 08:00.
 - **Sleep in Hakuba on Monday instead of Nagano.** Not possible: the last Shinkansen reaches
   Nagano at 23:40 and there is no onward bus at that hour.
 
-### The flights, now part of the plan
+### The flights, booked
 
 | | |
 |---|---|
 | **Out** | **Turkish, BER 19:20 Sun 14 Feb → HND 19:45 Mon 15 Feb**, 2 h 15 in Istanbul, 16 h 25 |
 | **Back** | **Turkish, HND 22:05 Mon 22 Feb → BER 09:25 Tue 23 Feb**, 2 h 40 in Istanbul, 19 h 20 |
-| Price | **€974 round trip**, economy, checked 4 Aug 2026, Google rated it "typical" |
-| Nadir from Leipzig | Same dates, Lufthansa + ANA via Frankfurt, about €1,092 for the 14th evening. Berlin is about €118 cheaper, and Leipzig → Berlin is 1 h 15 by train |
+| **Status** | ✅ **Georgi's ticket BOOKED 25 Aug 2026**, confirmed by Mytrip |
+| Price paid | **€943.05**, economy **Eco Fly**, round trip (fare €139.54 + taxes and fees €803.51) |
+| Booked through | **Mytrip** (OY SRG Finland AB), Turkish Airlines ticket, paid by **Apple Pay** |
+| Flight numbers | **Out: TK1724 + TK198.** **Back: TK199 + TK1721** |
+| Baggage | **1 checked bag 23 kg**, plus cabin bag and personal item. Enough because **all gear is rented on site** |
+| 🚨 **Still to book** | **Nadir and Rostik.** The 25 Aug booking covers **Georgi only, one passenger.** Two seats on this itinerary still have to be bought, and at whatever price the day gives |
+| Nadir from Leipzig | Still open. Turkish has **no Leipzig to Haneda flights at all**, so from LEJ it is Lufthansa + ANA via Frankfurt at about €1,092, against about €943 from Berlin plus a 1 h 15 train |
 | Mogi | No flight. Lives in Tokyo |
+
+**Why Mytrip and not Turkish direct.** Same flights, same Eco Fly fare, €943.34 against €978 on
+turkishairlines.com, so about €35 per person. Checked 24 Aug 2026 across every channel that sells
+this route: Expedia €967, Google Flights €974, Turkish direct €978. There is no cheap agency, the
+whole spread is noise, and **no working coupon exists for this route** (Turkish's German campaigns
+are Türkiye-destination only, the iGraal codes require travel to end by 30 Jan 2027).
+
+⚠️ **What booking through an agency costs us.** Turkish gives a full refund within 24 hours on
+every fare including Eco Fly, but only on bookings made on their own site, so we do not have that.
+More importantly, **a schedule change six months out has to be reissued by Mytrip, not by Turkish**,
+and Turkish will refuse to touch the reservation. If the flight time moves, go to Mytrip first.
 
 🚨 **The single tight link: Haneda 19:45 to the 22:08 Asama.** Realistic chain: off the plane
 ~20:00, immigration and bags 45–75 min, Monorail or Keikyu to Tokyo Station ~20 min, on the
@@ -462,7 +478,7 @@ corrected.
 
 | Departure | Arrival | Airline | Route | Price |
 |---|---|---|---|---|
-| **19:20** | **19:45 next day, HND** | **Turkish** | 1 stop, 2 h 15 in IST, 16 h 25 | **€974** |
+| **19:20** | **19:45 next day, HND** | **Turkish** | 1 stop, 2 h 15 in IST, 16 h 25 | **€943 ✅ booked** |
 | 14:35 | 19:45 next day, HND | Turkish | 1 stop, 6 h 55 in IST, 21 h 10 | €969 |
 | 11:40 | **10:45 next day, HND** | Lufthansa + ANA | 1 stop, 1 h 10 in FRA, **15 h 05** | €1,020 |
 | 09:40 | 10:20 next day, NRT | SWISS + ANA | 1 stop, 1 h 55 in ZRH | €978 |
@@ -510,11 +526,11 @@ chance.
 Tokyo and a first train on the 16th, which eats into ski day one. Worth deciding in advance whether
 to accept that risk or to book the calmer arrival instead.
 
-### The honest trade
+### The honest trade *(settled: the 19:20 was booked on 25 Aug 2026)*
 
 | | Turkish, out 19:20 | Lufthansa + ANA, out 11:40 |
 |---|---|---|
-| Price | **€974** | €1,020 |
+| Price | **€943 ✅ booked** | €1,020 |
 | Valentine's Day | ✅ at home until ~17:00 | ❌ gone, airport by 09:30 |
 | Lands Haneda | 19:45, evening | **10:45, morning** |
 | Onward that day | Last train, 25–40 min buffer | Relaxed, any train, whole afternoon spare |
