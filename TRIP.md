@@ -728,7 +728,7 @@ near Kanazawa Station to the OnlyJDM Haneda branch.
 | To the station / airport | 10 min walk | **45 min** airport limousine from Kanazawa West Exit, ¥1,300 |
 | Check-in buffer | 15 min before the train | **60 min** before a domestic flight |
 | The leg itself | **2 h 28**, Kagayaki, Kanazawa → Tokyo | **65–80 min** in the air, JAL or ANA, 8 flights a day |
-| Onward to Haneda / OnlyJDM | ~20 min, Monorail or Keikyu | 20 min to get out, then the Haneda branch is there |
+| Onward to Haneda / OnlyJDM | ~20 min, Monorail or Keikyu, ⚠️ **plus an unmeasured hop to the branch, which is not at the terminal** | 20 min to get out, same unmeasured hop |
 | **Door to door** | **≈ 3 h 15** | **≈ 3 h 20** |
 | **Per person** | ¥14,380 + ~¥500 ≈ **€80** | JAL from ¥10,570 + ¥1,300 ≈ **€64**; ANA from ¥16,300 + ¥1,300 ≈ €95 |
 
@@ -778,11 +778,17 @@ The shape: **a food experience, a museum, a bath, then souvenirs.**
 | ~11:00 | 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum) | Opens 11:00 on weekdays. **¥380** entry |
 | ~12:45 | 🏎 [**Nissan Global HQ Gallery**](https://www.google.com/maps/search/?api=1&query=Nissan%20Global%20Headquarters%20Gallery%20Yokohama) | **Free.** We arrive in two R34s at Nissan's own headquarters |
 | ~13:45 | ♨️ [**Yokohama Minatomirai Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) | Bath and wind-down before a 12-hour overnight |
-| ~15:15 | Leave for Haneda | ~25 min |
-| **15:45** | **Cars back at Haneda**, inside the 16:00 mark | 18:30 is the hard limit, ¥6,600 per 30 min after |
-| ~16:15 | 🚃 **Keikyu to Higashi-Ginza**, 35 min, ¥550 | Souvenirs. Train, not car: the cars are gone |
+| ~15:15 | Leave for the Haneda area | ~25 min |
+| **15:45** | **Cars back at the OnlyJDM branch**, inside the 16:00 mark | 18:30 is the hard limit, ¥6,600 per 30 min after |
+| 🚨 **?** | **Transfer from the branch to the terminal** | ⚠️ **Unmeasured.** The branch is *not* at the airport, see the drive section. Ask OnlyJDM |
+| ~16:15+ | 🚃 **Keikyu to Higashi-Ginza**, 35 min, ¥550 | Souvenirs. Train, not car: the cars are gone. Time slips by however long the transfer takes |
 | ~19:15 | Train back | ~35 min |
-| ~19:50 | Haneda | ✈️ Turkish **22:05** |
+| ~19:50 | Haneda terminal | ✈️ Turkish **22:05** |
+
+🚨 **The 15:45 → 16:15 gap in this table is fiction until someone asks OnlyJDM where the branch
+actually is.** It was written assuming we hand the keys over and walk into the terminal, which is
+not what happens. The 22:05 flight has enough slack to absorb it, but **the Ginza run is the part
+that gets squeezed**, so confirm before counting on three hours of shopping.
 
 ### The three stops
 
@@ -824,8 +830,12 @@ to **Higashi-Ginza in about 35 minutes for ¥550**, then five minutes on foot to
 - 💡 **Buy the umeshu at Haneda, not in town.** Nadir's list wants *"umeshu small boxes barrel
   aged umeshu"*, and bottles are heavy, breakable and duty-free at the airport. Carrying them
   around Ginza for three hours is pointless.
-- ⚠️ **Bags.** The cars reach Haneda at 15:45 but Turkish check-in for a 22:05 will not be open
-  that early, so the luggage needs a coin locker at the terminal before the Ginza run.
+- 🚨 **Bags, and this got worse.** Turkish check-in for a 22:05 will not be open at 15:45, so the
+  luggage needs a coin locker at the terminal before the Ginza run. But **the cars are handed back
+  at a branch that is not the terminal**, so the bags have to be carried from the branch to the
+  airport first, and only then can they go into a locker. That is an extra leg with four people's
+  luggage, and it is the single most annoying consequence of the branch not being where the page
+  used to claim it was.
 
 ⚠️ **Mileage.** Rough total for the day is **~60 km** (Tokyo → Shin-Yokohama → Yokohama Station
 → Minato Mirai → Haneda), which sits inside what is left of OnlyJDM's **200 km per 24 h** after
@@ -905,13 +915,23 @@ Shop is **[Lion Gear Rental](https://www.google.com/maps/search/?api=1&query=Lio
 | **Helmet** | **2,100** | **€11** |
 | Goggles or gloves | 2,100 | €11 |
 
-### What it costs us
+### Who rents what
 
-| Who | Kit | ¥ | € |
+✅ **Settled by Nadir, 25 Aug 2026.**
+
+- **Georgi and Nadir bring their own ski clothing and their own helmets.** They rent the
+  **hardware only**: board or skis, plus boots.
+- **Rostik and Mogi own nothing and rent the lot**: hardware, boots, clothing, helmet, goggles
+  and gloves.
+
+| Who | Kit | ¥ 3 days | € |
 |---|---|---|---|
-| **Georgi, Nadir** | Standard + boots | 16,500 | **€89** each |
-| **Rostik, Mogi** | Standard + boots + clothing + helmet | 28,400 | **€154** each |
-| | | **Group ¥89,800** | **≈ €486, avg €121** |
+| **Georgi, Nadir** | Standard + boots. Own clothing, own helmet | 16,500 | **€89** each |
+| **Rostik, Mogi** | Standard + boots + clothing + helmet + goggles/gloves | 30,500 | **€165** each |
+| | | **Group ¥94,000** | **≈ €508, avg €127** |
+
+⚠️ If Rostik and Mogi turn out to own goggles and gloves already, drop ¥2,100 each and they are
+at **¥28,400 = €154**. Everything else on their line is genuinely unavoidable.
 
 ### Two corrections to what Nadir remembered
 
@@ -1088,7 +1108,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 |---|---|---|
 | Flight BER ↔ Tokyo, economy | 750–1,000 | ⚠️ not yet checked live |
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
-| Gear rental, 3 days | **89** experienced · **154** beginners | ✅ Lion Gear Rental price list 2026-27. Georgi and Nadir ¥16,500; Rostik and Mogi add clothing and helmet, ¥28,400. See the gear section |
+| Gear rental, 3 days | **89** Georgi/Nadir · **165** Rostik/Mogi | ✅ Lion Gear list 2026-27. Georgi and Nadir bring own clothing and helmets so rent hardware only, ¥16,500. Rostik and Mogi rent everything, ¥30,500. See the gear section |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~139 | ≈ ¥25,700: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥2,860 Shinkansen unreserved**, Kanazawa→Tokyo ¥14,380 |
 | **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
@@ -1116,10 +1136,18 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 
 ### Why the operator choice settles the logistics too
 
-OnlyJDM has two branches, and one of them is **at Haneda Airport**. That turns the last day
-into a straight line with nothing wasted: reach Tokyo, pick the car up, drive through the
-evening, drop it back at Haneda, walk to the terminal, fly. OnlyJDM also has a Tokyo North branch;
-**we do not use it.** Everything is picked up and returned at Haneda, full stop.
+OnlyJDM has two branches. We use the one called **"Haneda Airport Store"** for both cars, both
+ways. The Tokyo North branch we **do not use**, so there is one pickup and one return.
+
+🚨 **The branch is not inside the airport, despite the name.** Nadir flagged this on 25 Aug 2026:
+the return is **in the Haneda area, not at a terminal**. Earlier versions of this page said "drop
+it back at Haneda, walk to the terminal, fly", and **that was wrong**. There is a transfer between
+the drop-off and the terminal, and it has to be budgeted for on the flight day.
+
+⚠️ **Not yet known and worth asking**, since we already have an open question list for OnlyJDM:
+the exact address, how long the transfer to the terminal actually takes, and whether they run any
+shuttle. Their own website names the branch after the airport but publishes no address. **Until
+that is confirmed, treat the last afternoon as having an unmeasured gap in it.**
 
 They price in two tiers, **7 hours** and **24 hours**. The 7-hour tier is exactly the
 evening-drive product we want.
@@ -1492,8 +1520,12 @@ cost. The 16th breaks the rule the dates were built around.**
    now reach Nagano at 23:40 and leave at 08:30, so realistically these are out unless someone
    wants them badly.
 
-6. 🟡 **Ask OnlyJDM two things**, whoever gets to it first, their site and email handle English: holiday
-   opening on 23 Feb in case the dates shift, and an after-hours return past 18:30.
+6. 🚨 **Ask OnlyJDM three things**, whoever gets to it first, their site and email handle English.
+   The first one is new and it is the one that actually affects the flight day:
+   - 🚨 **Where is the "Haneda Airport" branch, exactly?** It is **not in a terminal**. How long is
+     the transfer to departures, and is there a shuttle? The whole last afternoon is timed off this.
+   - Holiday opening on 23 Feb, in case the dates shift.
+   - An after-hours return past 18:30.
 
 7. 🟡 **Does Rostik want extra ski days?** Analysed below: easy at the front of the trip, he
    travels to Hakuba independently by Shinkansen and bus.

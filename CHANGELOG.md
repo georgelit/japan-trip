@@ -33,6 +33,42 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v58 &middot; 26 Aug 2026 &middot; Nadir
+
+**Two facts from Nadir. The second one breaks an assumption the whole last day was built on.**
+
+### 🚨 The JDM car does not come back to the airport
+
+The branch is called **"Haneda Airport Store"**, and this page took that literally. Every version
+since v12 has said some form of *"drop it back at Haneda, walk to the terminal, fly"*, and
+described that as the reason the last day is simple. **Nadir: the return is in the Haneda area,
+not at the airport.** So there is a transfer between handing the keys over and reaching
+departures, and it was never in the plan.
+
+- Corrected in **four places**: the drive section, the two-cars list, the day-9 timeline, and the
+  Kanazawa→Tokyo door-to-door comparison, which quietly assumed "the Haneda branch is there".
+- **The day-9 timeline now carries an explicit 🚨 unmeasured step** between the 15:45 drop-off and
+  the train, rather than a tidy 30-minute gap that does not exist.
+- 🚨 **Luggage got worse, not just slower.** The bags cannot go straight into a terminal coin
+  locker: they come off the cars at the branch, get carried to the airport, and only then go in a
+  locker before the Ginza run. Four people's bags, one extra leg.
+- **The 22:05 flight still absorbs it.** What gets squeezed is the **Ginza souvenir run**, so
+  nobody should count on three hours there until this is confirmed.
+- ⚠️ OnlyJDM's own site names the branch after the airport and **publishes no address**, so this
+  cannot be resolved from the web. It is now the **first** item on the OnlyJDM question list,
+  ahead of the holiday opening and the after-hours return.
+
+### ✅ Who rents what is settled
+
+- **Georgi and Nadir bring their own ski clothing and their own helmets.** They rent hardware
+  only, board or skis plus boots: **¥16,500 = €89** each. Unchanged in price, but it is now a
+  stated fact rather than something this page had assumed.
+- **Rostik and Mogi own nothing and rent everything**, hardware, boots, clothing, helmet, goggles
+  and gloves: **¥30,500 = €165** each, up from the €154 previously shown, which had left goggles
+  and gloves out.
+- Group total **¥94,000 ≈ €508**, average **€127** a head. ⚠️ If the two beginners turn out to own
+  goggles and gloves, they drop to €154; everything else on their line is unavoidable.
+
 ## v57 &middot; 25 Aug 2026 &middot; Nadir
 
 **Real gear prices, a correction Nadir was right about, and the day-9 ramen question answered.**
