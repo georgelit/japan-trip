@@ -155,11 +155,11 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 |---|---|---|---|
 | 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** Out of the door around 16:30. ✈️ **Turkish, BER 19:20**, 2 h 15 in Istanbul | plane |
 | 2 | Mon 15 Feb | ✈️ **Land Haneda 19:45.** Immigration and bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train. In Nagano around 23:40. Mogi meets us here if he is coming for the whole loop | Nagano |
-| 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before | Hakuba |
-| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning | Hakuba |
+| 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
+| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
-| 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional), sushi | Toyama |
-| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI | Kanazawa |
+| 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | Toyama |
+| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
 | 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back at Haneda by 16:00**, then 🚃 Keikyu to Ginza for souvenirs and back. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Land Berlin 09:25** | home |
@@ -833,6 +833,58 @@ Sunday night's Daikoku run. Not unlimited, but not tight either.
 
 ⚠️ **Cost**, per person: about **€30–35** for entry, noodles and the bath, plus parking split
 and the ¥1,100 return train.
+
+---
+
+## Tabelog picks, one per day
+
+Pulled from **Tabelog** on 25 Aug 2026, one place per day where a restaurant actually makes
+sense. Ratings are Tabelog's own, and its scale is harsh: **~3.5 is genuinely good, 3.8+ is
+excellent, 4.0+ is rare.** A 3.6 village restaurant is not mediocre.
+
+⚠️ Prices are Tabelog's own bands, not quotes. Nothing here is booked.
+
+| Day | Place | Tabelog | What | Price |
+|---|---|---|---|---|
+| **3 · Tue 16** · Hakuba | [**グリンデル** (Grindel)](https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%B3%E3%83%87%E3%83%AB%20%E7%99%BD%E9%A6%AC%E6%9D%91) | **3.61** (237) | 洋食, hamburg steak, korokke | ¥1,000–1,999 |
+| **4 · Wed 17** · Hakuba | [**庄屋丸八DINING**](https://www.google.com/maps/search/?api=1&query=%E5%BA%84%E5%B1%8B%E4%B8%B8%E5%85%ABDINING%20%E7%99%BD%E9%A6%AC%E6%9D%91) | 3.35 (85) | 郷土料理, robatayaki, soba | ¥4,000–4,999 |
+| **6 · Fri 19** · Toyama | [**寿司栄 総曲輪店**](https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%8F%B8%E6%A0%84%20%E7%B7%8F%E6%9B%B2%E8%BC%AA%E5%BA%97%20%E5%AF%8C%E5%B1%B1) | **3.61** (503) | 寿司 | ¥3,000–3,999 lunch · ¥6,000–7,999 dinner |
+| **7 · Sat 20** · Kanazawa | [**金澤 鮨 洋次郎**](https://www.google.com/maps/search/?api=1&query=%E9%87%91%E6%BE%A4%20%E9%AE%A8%20%E6%B4%8B%E6%AC%A1%E9%83%8E) | **3.77** (165) | 寿司, 郷土料理, 海鮮 | ¥4,000–4,999 lunch · ¥10,000–14,999 dinner |
+
+### Why these
+
+- **Day 3, グリンデル.** The **highest-rated place in the whole Hakuba–Otari area**, and it is
+  cheap, casual western comfort food. Tuesday is the short first day after landing at 19:45 and
+  reaching Nagano at 23:40, so the plan already says early dinner, early night, do not plan
+  anything. This fits that rather than fighting it.
+- **Day 4, 庄屋丸八DINING.** Wednesday is the first full day, so this is the slot for the actual
+  **local** food the trip's own list wants: 郷土料理 and robatayaki, which is basashi and
+  sanzoku-yaki territory. Lower rating than Grindel, higher ambition.
+  - 🚨 **Clashes with Goryu night skiing** (18:00–21:30). Pick one.
+  - Lighter alternative if the night skiing wins:
+    [**膳**](https://www.google.com/maps/search/?api=1&query=%E8%86%B3%20%E7%99%BD%E9%A6%AC%E6%9D%91),
+    **3.52** (168), soba, ¥1,000–1,999 dinner.
+- **Day 6, 寿司栄 総曲輪店.** This is **already the plan**: it is Nadir's own map pin, and
+  Tabelog confirms it at **3.61 across 503 reviews**, which is a lot of corroboration. No reason
+  to swap it for something worse-known. Toyama's genuinely top-rated places (御料理ふじ居, 4.41)
+  run ¥30,000–39,999 a head, which is not this trip.
+- **Day 7, 金澤 鮨 洋次郎.** Best rating **in a sane price band**. Kanazawa's top four are all
+  ¥40,000–49,999 (片折 4.68, 木佐貫 4.54), roughly a fifth of the whole per-person budget for one
+  dinner. This one does 海鮮 and 郷土料理, which is the snow-crab-season point of being there.
+  **Lunch is the value play** at ¥4,000–4,999.
+
+### Days that deliberately get no pick
+
+Padding these would mean recommending something we cannot actually use.
+
+| Day | Why not |
+|---|---|
+| 1 · Sun 14 | In Berlin, flying at 19:20 |
+| **2 · Mon 15** | ⚠️ **We reach Nagano at 23:40.** Nothing will be open. Konbini or the hotel |
+| **5 · Thu 18** | 🎂 **The ryokan kaiseki is the birthday dinner.** That is the whole point of the night |
+| 8 · Sun 21 | Car at 16:00, Daikoku from 20:00, so the evening is the drive. Tokyo food is **Mogi's call**, he lives there |
+| 9 · Mon 22 | 🍜 **The Ramen Museum mini-bowls are the meal**, several regional styles in one sitting |
+| 10 · Tue 23 | Landing in Berlin |
 
 ---
 

@@ -33,6 +33,41 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v56 &middot; 25 Aug 2026 &middot; Nadir
+
+**One Tabelog-checked restaurant per day, for the days where a restaurant actually makes sense.**
+Queried live off Tabelog.
+
+| Day | Pick | Tabelog |
+|---|---|---|
+| 3 · Tue 16, Hakuba | **グリンデル** (Grindel), 洋食 | **3.61** (237), ¥1,000–1,999 |
+| 4 · Wed 17, Hakuba | **庄屋丸八DINING**, 郷土料理 / robatayaki | 3.35 (85), ¥4,000–4,999 |
+| 6 · Fri 19, Toyama | **寿司栄 総曲輪店**, already Nadir's pin | **3.61** (503) |
+| 7 · Sat 20, Kanazawa | **金澤 鮨 洋次郎**, 寿司 / 郷土料理 / 海鮮 | **3.77** (165) |
+
+- **Tuesday gets the cheap casual one and Wednesday the ambitious one**, deliberately. Tuesday is
+  the short first day after landing at 19:45 and reaching Nagano at 23:40, and the plan already
+  says early dinner, early night. Grindel also happens to be the **highest-rated place in the
+  entire Hakuba–Otari area**. Wednesday is the first full day, so that is where 郷土料理 and
+  robatayaki belong. 🚨 Wednesday **clashes with Goryu night skiing**, flagged on the page, with
+  膳 (3.52, soba) as the lighter alternative.
+- **Toyama: nothing changed, but it is now corroborated.** Sushi-Ei Sogawa was already on the page
+  from Nadir's map as "4.3 from 943". That is the **Google** rating; **Tabelog rates it 3.61 from
+  503**. Both now appear, because they are different platforms rather than a contradiction. No
+  reason to swap out a place with ~1,400 combined reviews.
+- **Price sanity was the binding constraint, not rating.** The genuinely top-rated places in
+  Toyama (御料理ふじ居 4.41) and Kanazawa (片折 4.68, 木佐貫 4.54) run **¥30,000–49,999 a head**,
+  roughly a fifth of the entire per-person trip budget for one dinner. These picks are the best
+  ratings *inside a band this trip can use*.
+- **Six days deliberately get no pick**, each with its reason on the page, because padding them
+  would mean recommending something unusable: day 2 we reach Nagano at **23:40** and nothing is
+  open; day 5 is the **ryokan kaiseki on Nadir's birthday**; day 8 the evening *is* the night
+  drive, and Tokyo food is Mogi's call; day 9 the **Ramen Museum mini-bowls are the meal**; days 1
+  and 10 are Berlin.
+- Tabelog's scale is explained on the page, because it misleads Europeans: **~3.5 is genuinely
+  good, 3.8+ excellent, 4.0+ rare.** A 3.61 village restaurant is not mediocre.
+- ⚠️ Ratings and price bands read 25 Aug 2026. **Nothing is booked.**
+
 ## v55 &middot; 25 Aug 2026 &middot; Georgi
 
 **Repairing this file: four entries were silently lost.**
