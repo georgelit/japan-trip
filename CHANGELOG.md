@@ -33,6 +33,37 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v52 &middot; 25 Aug 2026 &middot; Nadir
+
+**Day 9 has a plan.** It was the last blank day on the page: "free day in Tokyo, nothing planned
+yet". Nadir asked what the cars could actually be used for on the last morning, and the answer
+shaped the whole day.
+
+- **The geography does the deciding.** Haneda, Kawasaki and Yokohama run in a line down the bay,
+  so the day goes **south and ends at the airport**, with nothing doubling back into central Tokyo
+  by car. About **60 km** total, inside what is left of OnlyJDM's 200 km per 24 h after Sunday
+  night's Daikoku run.
+- 🍜 **Shin-Yokohama Ramen Museum** as the food experience. Regional ramen shops in a recreated
+  1958 basement streetscape, and **every shop serves a "mini ramen" at ¥500–800**, so you eat
+  across several styles in one sitting. Nadir makes ramen from scratch, so it doubles as research.
+  **11:00–21:00 weekdays, ¥380**, own car park with validation.
+- 🏎 **Nissan Global HQ Gallery** as the museum. **Free**, 10:00–18:00 weekdays, Heritage Zone of
+  vintage Datsuns and GT-Rs, free Gran Turismo stations. Chosen over the **Cup Noodles Museum**
+  (Nadir's own pin, kept on the page as the alternative) because two noodle museums in one day is
+  too many, and because arriving at Nissan's headquarters in two R34 Skylines is worth doing.
+- ♨️ **Yokohama Minatomirai Manyo Club** as the bath. **Open 24 h, ¥3,500** plus ¥100 bath tax,
+  226 parking spaces at ¥600 for 7 hours. Flagged honestly as the upmarket option: a plain
+  neighbourhood *sentō*, which is what Nadir's `#docodemosento` note points at, is about ¥500 but
+  has neither the parking nor somewhere to sit before a flight.
+- 🚃 **Souvenirs by train, not car.** Nadir's addition. The cars die at Haneda at 16:00, so from
+  there it is **Keikyu direct to Higashi-Ginza, 35 min, ¥550**. **Itoya Ginza is 10:00–20:00 on
+  weekdays**, so a 16:55 arrival leaves about three hours, covering the *"hands, loft, itoya ginza"*
+  line in his notes. Two practical notes recorded: there is an **Itoya inside Haneda** as a
+  fallback, and the **umeshu should be bought duty-free at the airport** rather than carried around
+  Ginza. ⚠️ Turkish check-in will not be open at 15:45, so bags need a coin locker first.
+- Open question 4 rewritten: it claimed day 9 was free. It now points only at the **Sunday
+  afternoon**, which is the genuinely open slot left.
+
 ## v51 &middot; 25 Aug 2026 &middot; Nadir
 
 **The Emperor's Birthday stops being a headline, and the page's justification folds away.** Both

@@ -161,7 +161,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional), sushi | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
-| 9 | Mon 22 Feb | Free day in Tokyo. Car back by 16:00 (24 h) and by 18:30 at the latest. Haneda. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
+| 9 | Mon 22 Feb | Drive south: 🍜 **Shin-Yokohama Ramen Museum**, 🏎 **Nissan HQ Gallery**, ♨️ **Manyo Club** onsen. **Cars back at Haneda by 16:00**, then 🚃 Keikyu to Ginza for souvenirs and back. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Land Berlin 09:25** | home |
 
 **7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
@@ -619,7 +619,7 @@ with the 15:30 snowmobile if people are awake enough.
 | **Fri 19** | Ryokan morning until check-out, Toyama by ~13:00 | See the Toyama section below. Iwase and sake first, since it shuts at 17:00; Kansui Park illumination as an optional stop after dark; sushi |
 | **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
 | **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
-| **Mon 22** | Free Tokyo day | **Open, all of us.** Nadir's map has about fifty Tokyo pins to pick from, and Mogi knows the city, so his input is welcome, not his homework. The JDM cars go back by 16:00 |
+| **Mon 22** | Yokohama by car, then Ginza by train | Ramen Museum, Nissan Gallery, Manyo Club onsen, cars back at Haneda 16:00, souvenirs in Ginza. See the Monday section above |
 
 ---
 
@@ -744,6 +744,79 @@ Not enough to change the plan.
 - **Unazuki Onsen Snow Carnival**, fireworks on the snow: **Saturday 7 February**, not our dates.
 - **Ushidake Snow Festa**: 6 February. **Tateyama Foothills fireworks**: 14 February. All before us.
 - **Glass Art Museum**: Georgi's call, out.
+
+---
+
+## Monday 22 February: the last day, and what the car is for
+
+Proposed by Nadir, 25 Aug 2026. The cars are ours until **16:00** (the 24-hour mark on the
+Sunday 16:00 pickup), so the morning is the last chance to use them, and everything worth
+doing sits on one axis: **Haneda, Kawasaki and Yokohama run in a line down the bay.** So the
+day goes south, then ends at the airport. No going back into central Tokyo by car.
+
+The shape: **a food experience, a museum, a bath, then souvenirs.**
+
+| Time | What | Notes |
+|---|---|---|
+| ~10:00 | Leave Tokyo, bags in the cars | Luggage is not a constraint, Nadir confirmed |
+| ~11:00 | 🍜 **Shin-Yokohama Ramen Museum** | Opens 11:00 on weekdays. **¥380** entry |
+| ~12:45 | 🏎 **Nissan Global HQ Gallery** | **Free.** We arrive in two R34s at Nissan's own headquarters |
+| ~13:45 | ♨️ **Yokohama Minatomirai Manyo Club** | Bath and wind-down before a 12-hour overnight |
+| ~15:15 | Leave for Haneda | ~25 min |
+| **15:45** | **Cars back at Haneda**, inside the 16:00 mark | 18:30 is the hard limit, ¥6,600 per 30 min after |
+| ~16:15 | 🚃 **Keikyu to Higashi-Ginza**, 35 min, ¥550 | Souvenirs. Train, not car: the cars are gone |
+| ~19:15 | Train back | ~35 min |
+| ~19:50 | Haneda | ✈️ Turkish **22:05** |
+
+### The three stops
+
+- 🍜 **Shin-Yokohama Ramen Museum.** A recreated 1958 Tokyo streetscape in a basement, with
+  regional ramen shops from around Japan. The point for us: **every shop serves a "mini ramen"
+  at ¥500–800**, so you can eat across several regional styles in one sitting instead of
+  committing to one bowl. Nadir makes ramen from scratch, so this is research. **11:00–21:00
+  weekdays**, ¥380, open daily except 31 Dec and 1 Jan. **Has its own car park with
+  validation**, 30 minutes free with admission.
+  [Japan Guide](https://www.japan-guide.com/e/e3202.html)
+- 🏎 **Nissan Global HQ Gallery**, seven minutes from Yokohama Station. **Free**, **10:00–18:00
+  on weekdays**. The Heritage Zone is vintage Datsuns, GT-Rs and decades of motorsport
+  machinery, plus free Gran Turismo stations and a Starbucks. Chosen over the Cup Noodles
+  Museum because two noodle museums in one day is too many, and because turning up at Nissan's
+  headquarters in a pair of R34 Skylines is the better version of the joke.
+  [Nissan](https://www.nissan.co.jp/GALLERY/en/HQ/)
+  - ⚠️ **Alternative, if we would rather make a cup than look at cars:** the **Cup Noodles
+    Museum** in Minato Mirai, one of Nadir's own pins. **10:00–18:00, last entry 17:00, closed
+    Tuesdays** so a Monday is fine. Parking first hour free with a ticket, then ¥250 per 30
+    min, and they warn it is limited.
+    [Cup Noodles Museum](https://www.cupnoodles-museum.jp/en/yokohama/guide/admission/)
+- ♨️ **Yokohama Minatomirai Manyo Club.** Real onsen water in Minato Mirai, **open 24 hours**,
+  **¥3,500 plus ¥100 bath tax**. Parking: 226 spaces, **¥600 for 7 hours**, then ¥200 per 40
+  min, capped at ¥1,500. ⚠️ Note this is the upmarket version: a plain neighbourhood *sentō*,
+  which is what Nadir's `#docodemosento` note points at, runs about ¥500, but will not have the
+  parking or the space to sit around in before a flight.
+
+### Souvenirs, then the train
+
+The cars go back at Haneda, so **from there it is the train, not driving**. Keikyu runs direct
+to **Higashi-Ginza in about 35 minutes for ¥550**, then five minutes on foot to Ginza.
+
+**Ginza covers Nadir's souvenir list**, which reads *"hands, loft, itoya ginza, cas:pace"*.
+**Itoya Ginza is open 10:00–20:00 on weekdays**, so a 16:55 arrival leaves about three hours.
+[Itoya](https://www.ito-ya.co.jp/ext/lang/en/information.html)
+
+- ✅ **There is also an Itoya branch inside Haneda Airport**, so if the Ginza run gets squeezed,
+  some of the list is still reachable at the terminal.
+- 💡 **Buy the umeshu at Haneda, not in town.** Nadir's list wants *"umeshu small boxes barrel
+  aged umeshu"*, and bottles are heavy, breakable and duty-free at the airport. Carrying them
+  around Ginza for three hours is pointless.
+- ⚠️ **Bags.** The cars reach Haneda at 15:45 but Turkish check-in for a 22:05 will not be open
+  that early, so the luggage needs a coin locker at the terminal before the Ginza run.
+
+⚠️ **Mileage.** Rough total for the day is **~60 km** (Tokyo → Shin-Yokohama → Yokohama Station
+→ Minato Mirai → Haneda), which sits inside what is left of OnlyJDM's **200 km per 24 h** after
+Sunday night's Daikoku run. Not unlimited, but not tight either.
+
+⚠️ **Cost**, per person: about **€30–35** for entry, noodles and the bath, plus parking split
+and the ¥1,100 return train.
 
 ---
 
@@ -1243,9 +1316,10 @@ cost. The 16th breaks the rule the dates were built around.**
 3. 🟡 **Pre-book the Hakuba rental gear online** for Tuesday pickup. It is the cheapest way to win
    back twenty minutes on the short first day. Rhythm and Central both take online bookings.
 
-4. 🟡 **Nadir: pick the Tokyo days out of your own map.** Central Tokyo holds about fifty of your
-   pins. Day 9 is now a free day and day 8 afternoon is open too. Mogi knows the city, so ask him,
-   but the picking is a group thing.
+4. 🟡 **Nadir: pick the day 8 afternoon out of your own map.** Central Tokyo holds about fifty of
+   your pins, and Sunday afternoon before the night drive is still open. **Day 9 now has a plan**
+   (Yokohama, then Ginza, see the Monday section). Mogi knows the city, so ask him, but the picking
+   is a group thing.
 
 5. 🟢 **Nadir: confirm Togakushi Shrine and Jokoji.** Both near Nagano, both awkward on timing. We
    now reach Nagano at 23:40 and leave at 08:30, so realistically these are out unless someone
