@@ -33,6 +33,61 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v57 &middot; 25 Aug 2026 &middot; Nadir
+
+**Real gear prices, a correction Nadir was right about, and the day-9 ramen question answered.**
+
+### 🚨 Correction: Nagano at 23:40 is not dead
+
+v56 claimed nothing would be open when we reach Nagano. **Nadir did not believe it, and he was
+right.** [らぁめん みそ家](https://tabelog.com/nagano/A2001/A200101/20001391/) runs **11:00–00:00,
+seven days**, by 長野電鉄長野駅, **Tabelog 3.62 from 1,470 reviews**, the most-reviewed ramen shop
+in the city, under ¥999. The claim was asserted without checking, and it is now fixed on the page
+rather than quietly dropped.
+
+⚠️ **The clock is still the real constraint**, just not the one stated: we arrive **23:40** and it
+shuts at **00:00**, so it is a ~20-minute sprint and one delayed Shinkansen ends it. 拉麺 阿吽
+(3.53) closes 22:30 and is out. So konbini or hotel stays the plan, with みそ家 as the upside.
+
+### ✅ Gear rental: the ⚠️ estimate is gone
+
+Nadir found the **Lion Gear Rental** 2026-27 price list (Echo-Land, Hakuba). The long-standing
+"~€85, prices not checked" line is replaced with real, tax-included numbers at €1 ≈ ¥185:
+
+| Who | Kit | ¥ 3 days | € |
+|---|---|---|---|
+| Georgi, Nadir | Standard + boots | 16,500 | **€89** |
+| Rostik, Mogi | + clothing + helmet | 28,400 | **€154** |
+
+**Two corrections to the figures as remembered.** Nadir read it as ~€120 plus €20 for helmet and
+clothes.
+
+1. The **€120 is the Powder & Select tier** (¥22,500), not standard. **Standard is ¥16,500 = €89.**
+   Recommended, because v37 already settled that this group rides ordinary groomed runs; Powder is
+   **€33 a head for gear we will not use**.
+2. 🚨 **€20 for helmet and clothing is too low.** Clothing is ¥9,800 (€53) and a helmet ¥2,100
+   (€11), so **€64**, not €20. The €20 matches helmet + goggles instead. Worth **~€88** across the
+   two beginners, so it is not a rounding error.
+
+Also logged from the small print: 🚨 **gear back by 17:00** or a full extra day is charged; ✅
+**"Swap Free"**, useful with two beginners; a shuttle service; and the shop sits in **Echoland**,
+where a dinner option already is. ⚠️ Lion Gear is a **third shop** alongside the Rhythm and NBS
+already named on the page, and the only one priced. Nothing is booked.
+
+### 🍜 Day 9: the museum is not a tourist trap
+
+Checked whether the Ramen Museum is worth it against its neighbours. **The five best-rated ramen
+shops in all of Shin-Yokohama are the museum's own tenants**, ahead of everything else nearby:
+利尻らーめん味楽 **3.74** (1,972), ロックンスリー **3.68**, 博多一双 **3.66**, 六角家1994+ 3.63,
+龍上海 3.55. Named on the page so we target Rishiri shoyu, Hakata tonkotsu and Yokohama iekei
+rather than picking at random.
+
+**The alternative Nadir asked for is on the page too**, with the honest framing: skipping the
+museum does not get better ramen, because every good ramen shop in the area is inside it. It gets
+something else, so the alternatives are **シャン ド ブレ 3.69** (bakery, best non-museum rating),
+**non dà clair 3.54** (Italian), and **洋食 キムラ 3.49**, 62 m from the station, for when the
+16:00 car return is tight.
+
 ## v56 &middot; 25 Aug 2026 &middot; Nadir
 
 **One Tabelog-checked restaurant per day, for the days where a restaurant actually makes sense.**

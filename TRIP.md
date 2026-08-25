@@ -880,11 +880,110 @@ Padding these would mean recommending something we cannot actually use.
 | Day | Why not |
 |---|---|
 | 1 · Sun 14 | In Berlin, flying at 19:20 |
-| **2 · Mon 15** | ⚠️ **We reach Nagano at 23:40.** Nothing will be open. Konbini or the hotel |
+| **2 · Mon 15** | ✅ **Corrected 25 Aug:** something *is* open. See the Nagano late-arrival note below |
 | **5 · Thu 18** | 🎂 **The ryokan kaiseki is the birthday dinner.** That is the whole point of the night |
 | 8 · Sun 21 | Car at 16:00, Daikoku from 20:00, so the evening is the drive. Tokyo food is **Mogi's call**, he lives there |
-| 9 · Mon 22 | 🍜 **The Ramen Museum mini-bowls are the meal**, several regional styles in one sitting |
+| 9 · Mon 22 | 🍜 **The Ramen Museum mini-bowls are the meal.** Which shops, and the alternative, are below |
 | 10 · Tue 23 | Landing in Berlin |
+
+## Gear rental: real prices at last
+
+✅ **Nadir found the 2026-27 price list**, so the long-standing ⚠️ estimate of ~€85 is gone.
+Shop is **[Lion Gear Rental](https://www.google.com/maps/search/?api=1&query=Lion%20Gear%20Rental%20Echoland%20Hakuba)**, Echo-Land, Hakuba, +81-261-85-2056.
+[Price list](https://rentalhakuba.com/wp-content/uploads/2026/08/price26-27.jpg) · prices are
+**tax included**, converted at €1 ≈ ¥185.
+
+### The 3-day numbers
+
+| Item | ¥ 3 days | € |
+|---|---|---|
+| **Standard**, ski or board **+ boots** | **16,500** | **€89** |
+| Powder & Select, ski or board + boots | 22,500 | €122 |
+| Standard, ski or board only, no boots | 13,500 | €73 |
+| **Clothing**, adult jacket **+** pants | **9,800** | **€53** |
+| Jacket **or** pants alone | 4,900 | €26 |
+| **Helmet** | **2,100** | **€11** |
+| Goggles or gloves | 2,100 | €11 |
+
+### What it costs us
+
+| Who | Kit | ¥ | € |
+|---|---|---|---|
+| **Georgi, Nadir** | Standard + boots | 16,500 | **€89** each |
+| **Rostik, Mogi** | Standard + boots + clothing + helmet | 28,400 | **€154** each |
+| | | **Group ¥89,800** | **≈ €486, avg €121** |
+
+### Two corrections to what Nadir remembered
+
+Nadir read it as "**~€120 for 3 days, €20 more with helmet and clothes**". The list says:
+
+1. ✅ **The €120 is real, but it is the Powder & Select tier** (¥22,500 = €122), not the standard
+   one. **Standard is ¥16,500 = €89.** ⚠️ **Recommendation: standard is enough.** Powder skis exist
+   for deep snow, and v37 settled that this group rides ordinary groomed runs, with Wednesday
+   built around Goryu's cruisers. That is **€33 per person** for nothing we will use.
+2. 🚨 **The €20 for helmet and clothing is too low.** Clothing alone is **¥9,800 = €53**, helmet
+   **¥2,100 = €11**, so **€64 together**, not €20. The €20 figure matches **helmet + goggles**
+   (¥4,200 = €23) rather than helmet + clothing. This matters: it is **€44 per beginner**, ~€88
+   across Rostik and Mogi.
+
+### Practical, from the small print
+
+- 🚨 **Gear must be back by 17:00**, or a full extra day is charged. Thursday we leave for Okuhida
+  at 12:30, so that is fine, but nobody should treat Thursday as an open-ended morning.
+- ✅ **"Swap Free"**, so a board or boot that is not working can be exchanged during the rental.
+  Worth knowing for two beginners.
+- ✅ There is a **shuttle service**, and the shop is in **Echoland**, where the plan already has a
+  dinner option. One trip, both errands.
+- ⚠️ Damage or loss is charged at full replacement cost, checked on return.
+- ⚠️ **This is a different shop from the ones already on this page.** The day-3 timeline still
+  names **Rhythm** (opens 08:00) and **NBS**. Lion Gear is the one we now have real prices for;
+  the others have not been priced. **Nobody has booked anything yet.**
+
+---
+
+### Day 9: which shops inside the Ramen Museum, and the alternative
+
+Checked on Tabelog 25 Aug 2026, and the answer is a strong endorsement of the plan:
+**the five best-rated ramen shops in the whole of Shin-Yokohama are all inside the museum.**
+Searching the area returns the museum's own tenants at the top, ahead of everything else nearby.
+
+| Shop | Tabelog | Style |
+|---|---|---|
+| **[利尻らーめん味楽](https://www.google.com/maps/search/?api=1&query=%E5%88%A9%E5%B0%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E5%91%B3%E6%A5%BD%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8)** | **3.74** (1,972) | Rishiri, Hokkaido. Shoyu with grilled kelp |
+| **[ロックンスリー](https://www.google.com/maps/search/?api=1&query=%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%BC%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8)** | **3.68** (555) | 11:00–21:00 weekdays |
+| **[博多一双](https://www.google.com/maps/search/?api=1&query=%E5%8D%9A%E5%A4%9A%E4%B8%80%E5%8F%8C%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8)** | **3.66** (690) | Hakata tonkotsu |
+| **六角家1994+** | 3.63 (606) | Yokohama iekei, the local style |
+| **龍上海 横浜店** | 3.55 (1,383) | Yamagata miso |
+
+**Two or three mini bowls across these** is the whole point: Rishiri shoyu, Hakata tonkotsu and
+Yokohama iekei are three genuinely different things, and you cannot do that anywhere else.
+
+#### If we skip the museum
+
+⚠️ Note that **every good ramen option in Shin-Yokohama is inside the museum**, so skipping it
+means eating something other than ramen, not better ramen elsewhere.
+
+- 🥖 **[シャン ド ブレ](https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%20%E6%96%B0%E6%A8%AA%E6%B5%9C)**, **Tabelog 3.69** (605), bakery, 585 m from the station. The
+  highest-rated non-museum place in the area. Quick, and it travels, which suits a driving day.
+- 🍝 **non dà clair**, 3.54 (410), Italian and dining bar, 267 m, ¥4,000–4,999. A proper sit-down.
+- 🍽 **洋食 キムラ**, 3.49 (653), in **Cubic Plaza right at the station, 62 m**. Western, hamburg
+  steak, ¥1,000–1,999. The convenient one if we are running late for the 16:00 car return.
+
+### Nagano on the late arrival: there *is* something open
+
+⚠️ **This corrects an earlier claim on this page.** It said nothing would be open at 23:40. Nadir
+did not believe it, checked, and he was right.
+
+- 🍜 **[らぁめん みそ家](https://www.google.com/maps/search/?api=1&query=%E3%82%89%E3%81%81%E3%82%81%E3%82%93%20%E3%81%BF%E3%81%9D%E5%AE%B6%20%E9%95%B7%E9%87%8E)** is open **11:00 – 00:00**, seven days.
+  **Tabelog 3.62 across 1,470 reviews**, which is the most-reviewed ramen shop in Nagano city.
+  Address 南長野末広町1362, by **長野電鉄長野駅**. Dinner under **¥999**.
+- **The catch is the clock, not the opening hours.** We reach Nagano at **23:40** and it shuts at
+  **00:00**. That is roughly a 20-minute window, minus the walk off the platform. Ramen is fast,
+  but this is a sprint, not a sit-down, and one delayed Shinkansen kills it.
+- ❌ **拉麺 阿吽** (3.53) closes **22:30**, so it is out despite being close to the station.
+- ✅ **The honest plan stays: konbini or the hotel**, with みそ家 as the upside if we are on time
+  and anyone still wants a real bowl. Nagano is soba country anyway, and Tuesday morning's oyaki
+  from the station kiosk is the better food memory.
 
 ---
 
@@ -989,7 +1088,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 |---|---|---|
 | Flight BER ↔ Tokyo, economy | 750–1,000 | ⚠️ not yet checked live |
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
-| Ski/board rental, 3 days | ~85 | ⚠️ Hakuba prices not yet checked |
+| Gear rental, 3 days | **89** experienced · **154** beginners | ✅ Lion Gear Rental price list 2026-27. Georgi and Nadir ¥16,500; Rostik and Mogi add clothing and helmet, ¥28,400. See the gear section |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~139 | ≈ ¥25,700: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥2,860 Shinkansen unreserved**, Kanazawa→Tokyo ¥14,380 |
 | **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
