@@ -33,6 +33,39 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v55 &middot; 25 Aug 2026 &middot; Georgi
+
+**Repairing this file: four entries were silently lost.**
+
+v48, v49, v50 and v54 were published to the site but never got an entry here, so between v47 and
+Nadir's v51 the record simply stopped. The cause was a scripting bug on Georgi's side: each new
+entry was inserted by searching for the *previous* version's heading, and v48 never had one, so
+every later insert found no anchor, changed nothing, and still reported success. The four missing
+entries are restored below, written from the actual commits. The lesson, and the reason this entry
+exists: **a silent no-op that prints "ok" is worse than a crash.**
+
+## v54 &middot; 25 Aug 2026 &middot; Georgi
+
+**The first ticket is bought. Turkish is booked, and it is one seat, not three.**
+
+- **Georgi's flight is booked**, 25 Aug 2026, confirmed: Turkish out 14 Feb 19:20 BER, back 22 Feb
+  22:05 HND, **€943.05** round trip, economy **Eco Fly**, through **Mytrip**, paid by Apple Pay.
+  Flight numbers **TK1724 + TK198** out, **TK199 + TK1721** back. Exactly the itinerary this page
+  has carried since 4 Aug, checked minute by minute against the plan before purchase.
+- 🚨 **The booking covers one passenger.** Nadir and Rostik still need tickets on the same
+  itinerary. Whoever books next pays the price of that day, not €943.05.
+- **One checked bag of 23 kg is enough**, because the plan has said since 31 July that all gear is
+  rented on site.
+- **Where to book, checked across every channel on 24 Aug** before buying: Mytrip €943, Expedia
+  €967, Google Flights €974, Turkish direct €978. No cheap agency exists, the spread is noise, and
+  **no working coupon exists for this route**. Turkish's German campaigns are Türkiye-destination
+  only; the iGraal Turkish codes require travel to end by 30 Jan 2027.
+- ⚠️ **What the agency route costs us:** Turkish's 24-hour free refund applies only to bookings made
+  on their own site, so this booking does not have it, and **a schedule change has to be reissued by
+  Mytrip, not by Turkish**. Mytrip states plainly that personal customer support is not available.
+  If the flight time moves, Mytrip is the address.
+- ⚠️ The e-ticket number can take a few days to be issued. Worth checking under "Meine Buchungen".
+
 ## v53 &middot; 25 Aug 2026 &middot; Nadir
 
 **Place names now open in Google Maps.** Nadir's ask: make it possible to check a place yourself
@@ -114,6 +147,53 @@ Nadir's calls.
   Generalised it, same rules, plus a little more top margin on section-level blocks. Checked: 37
   `<details>` all balanced, HTML parses clean, and all 21 tables are still inside their `.scroll`
   containers so nothing pushes the page sideways on a phone.
+
+## v50 &middot; 23 Aug 2026 &middot; Georgi
+
+**Haneda only for the JDM cars, and Mogi is one of four, not the Tokyo fixer.**
+
+- **Branch.** The plan always said Haneda, but the two-car pairings priced in v47 let the Silvia
+  S15 and R32 GT-R in, and both live at OnlyJDM's Tokyo North branch. A second branch splits the
+  Monday return, which defeats the whole reason for Haneda. **Both cars now come from Haneda and
+  go back to Haneda**, the S15 and R32 are struck, and the default pairing becomes **R34 + R34**,
+  ¥47,600 for both on 24 h, about €64 each. Civic Type R FL5 added as a Haneda-stock alternative.
+  The "which branch" open question is gone.
+- **Mogi.** Georgi: do not load him up with Tokyo tasks just because he lives there. Fair. The page
+  had him as the default renter, the writer of the Tokyo food list, the one who picks the Monday
+  plan, the one who sanity-checks Nadir's pins, and the one who rings OnlyJDM in Japanese. All of
+  that is now group work; his local knowledge is welcome input, not his homework. OnlyJDM's site
+  and email handle English, so the call is whoever gets to it first.
+
+## v49 &middot; 23 Aug 2026 &middot; Georgi
+
+**The one-way drop fee was overstated by a factor of three to six. Corrected.**
+
+Georgi: "we used Toyota and it was just 5k yen, verify this." He was right to push. The
+¥20,000–30,000 on the page came from a generic ORIX example, not from Toyota and not for Nagano
+→ Toyama. What the sources actually say:
+
+- **Toyota Rent a Car** prices one-way by a **fixed zone table**, not per km. Their official
+  tariff PDF shows the intra-prefecture cells: Toyama Area → Takaoka ¥2,200, → Kurobe ¥3,300,
+  Nagano Area ¥2,200. The cross-prefecture Nagano → Toyama cell is not in the public PDF; it only
+  appears in their online simulator, behind a popup station picker. Plausibly **¥5,000–8,000**
+  given the neighbouring cells. One call to the Nagano shop (026-228-0100) confirms it.
+- **Nippon Rent-A-Car**, same desk at Nagano Station, publishes **¥880 per 10 km** for passenger
+  cars. Road distance Nagano Station → Toyama Station is 167.6 km, so **¥14,960**. The documented
+  ceiling.
+- **Both stations confirmed:** Toyota Nagano Shop (3 min from the station, cross-prefecture
+  one-way accepted) and Toyota Toyama Station Shop (5 min walk, 08:00–20:00, returns from other
+  prefectures accepted).
+- **Budget line corrected** from €28–40 per person to **€7–20**, and every other mention brought
+  in line.
+- Lesson recorded: a generic operator page is not a source for a specific station pair.
+
+## v48 &middot; 23 Aug 2026 &middot; Georgi
+
+**Stale "one car or two" question card replaced.**
+
+v47 decided two cars for the Tokyo night drive, but the open-questions section still carried the
+card asking whether to take one car or two, so the page contradicted itself. The card now asks the
+question that is actually open: which two cars, and whether anyone wants to pay for a GT-R.
 
 ## v47 &middot; 23 Aug 2026 &middot; Georgi
 
