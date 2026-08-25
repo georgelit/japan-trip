@@ -140,7 +140,7 @@ fallback rather than a plan, but it is a real one and worth keeping on file.
 
 ### The A / B fork is resolved
 
-✅ **1 Aug 2026.** Rostik has been to **Takayama** before and says it is not worth a stop,
+✅ **1 Aug 2026.** Rostik has been to [**Takayama**](https://www.google.com/maps/search/?api=1&query=Takayama%20Gifu) before and says it is not worth a stop,
 so it is out. He wants **Toyama**, which was Nadir's original ask. It turns
 out we do not have to choose between the mountains and the coast: **Okuhida sits on the road
 north to Toyama**, so the ropeway and the ryokan survive and the coast gets added. The two
@@ -159,9 +159,9 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional), sushi | Toyama |
-| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). **Omicho Market** in snow crab season, Kenrokuen, KIRARI | Kanazawa |
+| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
-| 9 | Mon 22 Feb | Drive south: 🍜 **Shin-Yokohama Ramen Museum**, 🏎 **Nissan HQ Gallery**, ♨️ **Manyo Club** onsen. **Cars back at Haneda by 16:00**, then 🚃 Keikyu to Ginza for souvenirs and back. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
+| 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back at Haneda by 16:00**, then 🚃 Keikyu to Ginza for souvenirs and back. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Land Berlin 09:25** | home |
 
 **7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
@@ -287,9 +287,9 @@ which was a guess about Nadir rather than a fact. Removed.
 
 | Day | Resort | Why |
 |---|---|---|
-| **Tue 16** | **Happo-One** | The big one, and worth knowing: despite its reputation as a skiers' mountain, Happo-One is rated the **best resort in Hakuba for snowboarders** precisely because it has flowy terrain with **minimal flat sections**. Steepest vertical in the valley, 1,071 m. Rostik's ground is the beginner zones at the base, Nakiyama and Sakka, plus Shirakaba at a maximum of 20° |
-| **Wed 17** | **Goryu** | **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik. It is physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over, but the park there is not our thing and is not the reason to go |
-| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or **Tsugaike**, the valley's cruising resort: wide, mellow groomers with a strong intermediate upper mountain. Cortina next door for trees and deep snow if it has dumped. Half day, off the snow by 12:30 |
+| **Tue 16** | [**Happo-One**](https://www.google.com/maps/search/?api=1&query=Happo-One%20Ski%20Resort%20Hakuba) | The big one, and worth knowing: despite its reputation as a skiers' mountain, Happo-One is rated the **best resort in Hakuba for snowboarders** precisely because it has flowy terrain with **minimal flat sections**. Steepest vertical in the valley, 1,071 m. Rostik's ground is the beginner zones at the base, Nakiyama and Sakka, plus Shirakaba at a maximum of 20° |
+| **Wed 17** | [**Goryu**](https://www.google.com/maps/search/?api=1&query=Hakuba%20Goryu%20Ski%20Resort) | **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik. It is physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over, but the park there is not our thing and is not the reason to go |
+| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or [**Tsugaike**](https://www.google.com/maps/search/?api=1&query=Tsugaike%20Kogen%20Ski%20Resort), the valley's cruising resort: wide, mellow groomers with a strong intermediate upper mountain. Cortina next door for trees and deep snow if it has dumped. Half day, off the snow by 12:30 |
 
 Sources: [Burton's guide to Hakuba](https://www.burton.com/en-us/blogs/the-burton-blog/burtons-official-guide-to-snowboarding-hakuba) ·
 [Hakuba47 official](https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/entry-110.html) ·
@@ -323,7 +323,7 @@ matter:
   crab season**, with the local snow crab rated among the best in Japan.
   [Japan Guide](https://www.japan-guide.com/e/e4207.html) ·
   [Visit Kanazawa](https://visitkanazawa.jp/en/kanazawa-101/detail_80.html)
-- **Kenrokuen**, one of Japan's three great gardens, opens from **06:00** in winter (1 Nov to
+- [**Kenrokuen**](https://www.google.com/maps/search/?api=1&query=Kenrokuen%20Garden%20Kanazawa), one of Japan's three great gardens, opens from **06:00** in winter (1 Nov to
   28 Feb) via the Renchi-mon and Zuishinzaka gates.
 - ⚠️ Kanazawa's winter illuminations around Omicho, Korimbo and Katamachi run **"until
   mid-February"**, so our 20 February probably misses them. Not verified for 2027.
@@ -427,7 +427,7 @@ still make check-out. But it is not in the plan.
 
 ### Okuhida, and what we kept from Takayama
 
-- **Shinhotaka Ropeway** runs all year. **Winter hours 09:00–16:15 (Dec–Mar)**, last ascent
+- [**Shinhotaka Ropeway**](https://www.google.com/maps/search/?api=1&query=Shinhotaka%20Ropeway) runs all year. **Winter hours 09:00–16:15 (Dec–Mar)**, last ascent
   around 15:30. Observation deck at **2,156 m**, 360° view of the Hida range: Yarigatake,
   Hotaka, Kasagatake, Yakedake. **¥3,300 return** (≈ €18).
   [Official site](https://shinhotaka-ropeway.jp/en/price/) ·
@@ -579,7 +579,7 @@ Off the snow around 14:00 at Goryu. Then:
 | Time | What | Why this, and what it costs |
 |---|---|---|
 | 14:00–14:30 | Lunch at the base, or drive back to Happo (10 min) | Goryu's base has a food court; Happo has more choice |
-| **15:00–16:30** | **Onsen.** Best pick: **Mimizuku no Yu**, Happo, ¥650, open 10:00–21:30. Open-air bath facing the Hakuba Sanzan with Happo-One behind | The view is the point, and mid-afternoon light is the best for it. Alternative: **Happo no Yu**, ¥1,000, 10:00–21:00, bigger. **Obinata no Yu**, ¥650, is the prettiest but closes at 18:00 and sits further out. [Hakuba Happo Onsen](https://hakuba-happo-onsen.jp/english/dayuse/) |
+| **15:00–16:30** | **Onsen.** Best pick: [**Mimizuku no Yu**](https://www.google.com/maps/search/?api=1&query=Mimizuku%20no%20Yu%20Hakuba), Happo, ¥650, open 10:00–21:30. Open-air bath facing the Hakuba Sanzan with Happo-One behind | The view is the point, and mid-afternoon light is the best for it. Alternative: [**Happo no Yu**](https://www.google.com/maps/search/?api=1&query=Happo%20no%20Yu%20Hakuba), ¥1,000, 10:00–21:00, bigger. **Obinata no Yu**, ¥650, is the prettiest but closes at 18:00 and sits further out. [Hakuba Happo Onsen](https://hakuba-happo-onsen.jp/english/dayuse/) |
 | 16:30–18:00 | Back to the apartment, coffee, nap. Or **Baisen Coffee** in Happo if anyone wants a cafe | After three hours on the snow and an onsen, nobody will argue with this |
 | **18:30** | **Dinner in Happo or Echoland.** Both clusters of izakaya. Happo is walkable from most Happo lodging; Echoland is the livelier street and needs the car or a taxi | See the food list below for what to order |
 | 21:00 onwards | Echoland bars if there is energy. There usually is not, day 5 starts early | |
@@ -617,7 +617,7 @@ with the 15:30 snowmobile if people are awake enough.
 | **Tue 16** | Short first day, off around 15:00. **Onsen, then an early dinner in Happo, early night.** | We reached Nagano at 23:40 the night before and were up at 07:00. Do not plan anything |
 | **Thu 18** | Off the snow 12:30, the drive to Okuhida is the afternoon. **The ryokan is the evening**: rotenburo, kaiseki, Nadir's birthday | Arrive by 16:00 so there is rotenburo time before dinner at 18:00 or 18:30, ryokan dinners are at a fixed hour |
 | **Fri 19** | Ryokan morning until check-out, Toyama by ~13:00 | See the Toyama section below. Iwase and sake first, since it shuts at 17:00; Kansui Park illumination as an optional stop after dark; sushi |
-| **Sat 20** | Kanazawa all day | **Omicho Market** 09:00–17:00 for a late breakfast, **Kenrokuen** (the yukitsuri is lit on February evenings, ⚠️ confirm dates), **Higashi Chaya** at dusk |
+| **Sat 20** | Kanazawa all day | [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) 09:00–17:00 for a late breakfast, [**Kenrokuen**](https://www.google.com/maps/search/?api=1&query=Kenrokuen%20Garden%20Kanazawa) (the yukitsuri is lit on February evenings, ⚠️ confirm dates), [**Higashi Chaya**](https://www.google.com/maps/search/?api=1&query=Higashi%20Chaya%20District%20Kanazawa) at dusk |
 | **Sun 21** | Into Tokyo early afternoon | 🏎 the night drive from 16:00 |
 | **Mon 22** | Yokohama by car, then Ginza by train | Ramen Museum, Nissan Gallery, Manyo Club onsen, cars back at Haneda 16:00, souvenirs in Ginza. See the Monday section above |
 
@@ -657,7 +657,7 @@ guaranteed rather than probable on a Saturday morning.
 | **Mitomi** | evening, hours ⚠️ not found | Modern sake bar in the **Maroot** building at Toyama Station, the wider Toyama selection. The fallback if we miss Saseki's 17:00 |
 | **Kansui Park "Sweet Illumination"** | after dark, runs to ~1 March | Tenmon Bridge and the fountain plaza lit up, free, ten minutes from the station. **Option**, worth the walk if we are passing |
 | **Toyama Castle Park light-up** | after dark | The kilometre from the station to the castle is lit through winter. Free, and it is on the way to Sogawa anyway |
-| **Sushi-Ei Sogawa** | dinner | Nadir's pin. 4.3 from 943. In February the counter has **buri, snow crab, shiro-ebi, and kawahagi with its liver**, which the city's own February guide singles out |
+| [**Sushi-Ei Sogawa**](https://www.google.com/maps/search/?api=1&query=Sushi-Ei%20Sogawa%20Toyama) | dinner | Nadir's pin. 4.3 from 943. In February the counter has **buri, snow crab, shiro-ebi, and kawahagi with its liver**, which the city's own February guide singles out |
 
 **The natural order:** arrive ~13:00, car to Iwase for Saseki **before 17:00**, drop the car, walk
 the lit castle approach at dusk, Kansui Park if anyone wants it, Sushi-Ei for dinner.
@@ -759,9 +759,9 @@ The shape: **a food experience, a museum, a bath, then souvenirs.**
 | Time | What | Notes |
 |---|---|---|
 | ~10:00 | Leave Tokyo, bags in the cars | Luggage is not a constraint, Nadir confirmed |
-| ~11:00 | 🍜 **Shin-Yokohama Ramen Museum** | Opens 11:00 on weekdays. **¥380** entry |
-| ~12:45 | 🏎 **Nissan Global HQ Gallery** | **Free.** We arrive in two R34s at Nissan's own headquarters |
-| ~13:45 | ♨️ **Yokohama Minatomirai Manyo Club** | Bath and wind-down before a 12-hour overnight |
+| ~11:00 | 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum) | Opens 11:00 on weekdays. **¥380** entry |
+| ~12:45 | 🏎 [**Nissan Global HQ Gallery**](https://www.google.com/maps/search/?api=1&query=Nissan%20Global%20Headquarters%20Gallery%20Yokohama) | **Free.** We arrive in two R34s at Nissan's own headquarters |
+| ~13:45 | ♨️ [**Yokohama Minatomirai Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) | Bath and wind-down before a 12-hour overnight |
 | ~15:15 | Leave for Haneda | ~25 min |
 | **15:45** | **Cars back at Haneda**, inside the 16:00 mark | 18:30 is the hard limit, ¥6,600 per 30 min after |
 | ~16:15 | 🚃 **Keikyu to Higashi-Ginza**, 35 min, ¥550 | Souvenirs. Train, not car: the cars are gone |
@@ -777,7 +777,7 @@ The shape: **a food experience, a museum, a bath, then souvenirs.**
   weekdays**, ¥380, open daily except 31 Dec and 1 Jan. **Has its own car park with
   validation**, 30 minutes free with admission.
   [Japan Guide](https://www.japan-guide.com/e/e3202.html)
-- 🏎 **Nissan Global HQ Gallery**, seven minutes from Yokohama Station. **Free**, **10:00–18:00
+- 🏎 [**Nissan Global HQ Gallery**](https://www.google.com/maps/search/?api=1&query=Nissan%20Global%20Headquarters%20Gallery%20Yokohama), seven minutes from Yokohama Station. **Free**, **10:00–18:00
   on weekdays**. The Heritage Zone is vintage Datsuns, GT-Rs and decades of motorsport
   machinery, plus free Gran Turismo stations and a Starbucks. Chosen over the Cup Noodles
   Museum because two noodle museums in one day is too many, and because turning up at Nissan's
@@ -835,7 +835,7 @@ breakfast.
   midnight it will be a soba or ramen counter.
 - **Oyaki.** Buckwheat dumplings stuffed with **nozawana** (pickled mustard greens), pumpkin, or
   sweet bean paste. Station kiosks sell them. Breakfast on Tuesday, in the car.
-- **Chirimen-tei Nagano Ekimae** is on Nadir's map and literally in front of the station. Worth a
+- [**Chirimen-tei Nagano Ekimae**](https://www.google.com/maps/search/?api=1&query=Chirimen-tei%20Nagano%20Ekimae) is on Nadir's map and literally in front of the station. Worth a
   look at whether it is open late.
 
 ### Hakuba, three evenings
@@ -849,7 +849,7 @@ thing.
 - **Shinshu salmon** sashimi, a farmed trout-salmon hybrid local to the prefecture.
 - **Nozawana** pickles with everything.
 - **Yakitori and whatever is on the board** at **Asuka** in Happo, the local izakaya people name
-  first. For the birthday-adjacent nights, **Hakuba Hifumi** does a proper multi-course dinner in a
+  first. For the birthday-adjacent nights, [**Hakuba Hifumi**](https://www.google.com/maps/search/?api=1&query=Hakuba%20Hifumi%20restaurant) does a proper multi-course dinner in a
   ryokan setting.
 - **Local sake:** Nagano is a serious sake prefecture. Ask for a **Shinshu jizake** flight.
 
@@ -879,7 +879,7 @@ why the seafood is unusual.
 - **Buri**, winter yellowtail, at its fattest in February. Sashimi or shabu-shabu.
 - **Hotaru-ika**, firefly squid: ⚠️ the season is **March to June**, so we will probably miss the
   fresh ones. Boiled ones are around year-round.
-- **Sushi-Ei Sogawa** is the pin from Nadir's map, central Toyama, 4.3 from 943 reviews.
+- [**Sushi-Ei Sogawa**](https://www.google.com/maps/search/?api=1&query=Sushi-Ei%20Sogawa%20Toyama) is the pin from Nadir's map, central Toyama, 4.3 from 943 reviews.
 
 ### Kanazawa, Saturday
 
@@ -893,7 +893,7 @@ The Kaga domain was rich for three centuries and its food is refined rather than
 - **Kaga-yasai**, the heirloom local vegetables, usually as a side.
 - **Jibuni**, duck simmered with wheat gluten and vegetables in a thickened dashi, Kanazawa's
   classic stew. Order it at an izakaya in the evening.
-- **KIRARI** at the station's west exit for conveyor sushi with tablet ordering, from Nadir's map.
+- [**KIRARI**](https://www.google.com/maps/search/?api=1&query=Kanazawa%20Kaiten%20Zushi%20Kirari) at the station's west exit for conveyor sushi with tablet ordering, from Nadir's map.
   **Omicho** for the market itself, 09:00–17:00.
 - **Gold leaf on everything**, including ice cream. Kanazawa makes nearly all of Japan's gold leaf.
   Once, for the photo.
@@ -1159,20 +1159,20 @@ Filtered to our corridor, here is everything that is actually reachable.
 | Place | Where | Fits |
 |---|---|---|
 | **Sushi-Ei Sogawa shop** | Sogawa, central **Toyama**. Sushi, 4.3 (943) | **Day 6 evening.** Toyama Bay sushi was already the plan, this names the place |
-| **KIRARI** (Kanazawa Kaiten Zushi Kirari) | Conveyor-belt sushi by the **west exit of Kanazawa Station** | **Day 7.** Made-to-order from a tablet, the belt does not revolve so nothing sits around |
-| **Chirimen-tei Nagano Ekimae** | Literally **in front of Nagano Station** | **Night 2.** We already sleep by Nagano Station. Free hit |
-| **Shirakawa-go** | Gifu | Already on the page as the day 7 alternative to Kanazawa |
+| [**KIRARI**](https://www.google.com/maps/search/?api=1&query=Kanazawa%20Kaiten%20Zushi%20Kirari) (Kanazawa Kaiten Zushi Kirari) | Conveyor-belt sushi by the **west exit of Kanazawa Station** | **Day 7.** Made-to-order from a tablet, the belt does not revolve so nothing sits around |
+| [**Chirimen-tei Nagano Ekimae**](https://www.google.com/maps/search/?api=1&query=Chirimen-tei%20Nagano%20Ekimae) | Literally **in front of Nagano Station** | **Night 2.** We already sleep by Nagano Station. Free hit |
+| [**Shirakawa-go**](https://www.google.com/maps/search/?api=1&query=Shirakawa-go%20Gifu) | Gifu | Already on the page as the day 7 alternative to Kanazawa |
 
 ### ⚠️ Near the route, but each needs a decision
 
 | Place | Where | The catch |
 |---|---|---|
-| **Togakushi Shrine Okusha, Zuishinmon** | **Nagano**, about an hour from the city | The cedar avenue is the picture people go for. But we pass through Nagano at night on day 2 and leave early on day 3 |
+| [**Togakushi Shrine Okusha, Zuishinmon**](https://www.google.com/maps/search/?api=1&query=Togakushi%20Shrine%20Okusha) | **Nagano**, about an hour from the city | The cedar avenue is the picture people go for. But we pass through Nagano at night on day 2 and leave early on day 3 |
 | **Jokoji** | Near **Nagano** | Same timing problem |
 
 ### ✅ Decided against, 4 Aug 2026 (Nadir)
 
-- **Unazuki Onsen** — the Kurobe Gorge Railway is shut in winter regardless, and the pins are a
+- [**Unazuki Onsen**](https://www.google.com/maps/search/?api=1&query=Unazuki%20Onsen%20Toyama) — the Kurobe Gorge Railway is shut in winter regardless, and the pins are a
   guideline, not a checklist. We already get mountain scenery from three ski days, not worth a
   detour for the onsen town alone.
 - **Takayama, as a stop of any kind** — settles the conflict below in Rostik's favour. Drive
@@ -1181,7 +1181,7 @@ Filtered to our corridor, here is everything that is actually reachable.
 
 ### ❌ In the list but not reachable on this trip
 
-- **Kamikōchi** — closed 16 November to 16 April. Not a choice, it is shut.
+- [**Kamikōchi**](https://www.google.com/maps/search/?api=1&query=Kamikochi) — closed 16 November to 16 April. Not a choice, it is shut.
 - **Gero Onsen** and **Curegarden Open Air Bath** — about an hour **south** of Takayama, and we
   head north to Toyama. Wrong direction.
 - **Narai-juku, Tsumago-juku, Magome-juku** — the Kiso valley post towns, south of Matsumoto.
@@ -1201,7 +1201,7 @@ one by one, and they are plainly his own food and city spots. **The two Tokyo da
 straight out of this cluster, and Nadir should pick**: it is his taste, and picking for him would
 be guessing.
 
-A few readable ones nearby: **teamLab Planets TOKYO DMM**, **Cup Noodles Museum** (Yokohama),
+A few readable ones nearby: **teamLab Planets TOKYO DMM**, [**Cup Noodles Museum**](https://www.google.com/maps/search/?api=1&query=Cup%20Noodles%20Museum%20Yokohama) (Yokohama),
 **Round 1 Stadium Kawasaki Daishi**, **Cafe Glühwürmchenweg**, **Ramen FeeL**, **Yamagami Station
 (Chairlift)**, **Showa Kinen Park**, **Teuchi Mensai Kamei**.
 

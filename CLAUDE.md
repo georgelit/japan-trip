@@ -77,7 +77,21 @@ the reasoning, then summarise both.
 - **Every unverified number is marked as an estimate** with ⚠️ in `TRIP.md` and stated as an
   estimate on the page. Never quietly promote an estimate to a fact.
 - **Sources belong in `TRIP.md`**, as links, next to the fact they support. The page itself
-  stays clean of link clutter.
+  stays clean of **source** link clutter: no citation links in the prose.
+- **Place names are the exception, and they link to Google Maps.** Nadir asked for this on
+  25 Aug 2026 so anything can be checked on a phone without retyping it. The convention:
+  - The **name itself is the link**, wrapped as
+    `<a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=…">Name</a>`,
+    with `target="_blank" rel="noopener"`. In `TRIP.md` the markdown equivalent,
+    `[**Name**](url)`.
+  - `.loc` is styled as a dotted underline that inherits the text colour, deliberately quiet
+    because there are about fifty of them. The footer explains the convention once.
+  - Use the `?api=1&query=` search form, not coordinates or place IDs: it survives Google
+    changing things and opens the app on a phone.
+  - **This is a hyperlink, not a resource load**, so it does not touch the self-contained rule
+    below. Never turn these into embedded maps or scripts.
+  - Link real, findable places: lodging, resorts, onsen, restaurants, stations, sights. Do not
+    link a region, a road, or an idea.
 - All text in **English**.
 - **No em dashes as a thought separator.** Use a comma, a colon, brackets, or a new sentence.
 - Money in **euros**, with the yen figure alongside where it helps. Rate in use: €1 ≈ ¥185,

@@ -33,6 +33,30 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v53 &middot; 25 Aug 2026 &middot; Nadir
+
+**Place names now open in Google Maps.** Nadir's ask: make it possible to check a place yourself
+without retyping the name into a phone.
+
+- **About 50 links on the page and 30 in `TRIP.md`**, across 30 places: the ryokan, every ski
+  resort we use, the Hakuba onsen, all the named restaurants (Sushi-Ei, KIRARI, Chirimen-tei,
+  Hakuba Hifumi), Omicho Market, Kenrokuen, Higashi Chaya, Iwase, Kansui Park, Toyama Castle,
+  Shirakawa-go, Ainokura, the Shinhotaka Ropeway, Daikoku PA, and the whole day-9 run.
+- **The name itself is the link**, with a dotted underline that inherits the text colour rather
+  than a coloured link or a trail of pin icons. With fifty of them anything louder would wreck
+  the page. One footer line explains the convention.
+- **Uses the `?api=1&query=` Google Maps search form**, not coordinates or place IDs, so it opens
+  the app on a phone and does not rot when Google reorganises.
+- **`CLAUDE.md` updated**, and this matters: the content rules said *"the page stays clean of link
+  clutter"*, so the next person to read that rule would have stripped all of this out as a
+  violation. It now distinguishes **source** links (still `TRIP.md` only) from **place** links
+  (the page, by design), and records the exact convention. Also noted that these are plain
+  hyperlinks, not resource loads, so the self-contained rule is untouched.
+- Done by script with guards rather than by hand: the route map holds `<b>` inside its JavaScript
+  strings, so `<script>` blocks were protected, and nothing already inside an `<a>` was
+  re-wrapped. Verified afterwards: **0 nested anchors, HTML parses clean, script blocks
+  untouched, all tables still inside their `.scroll` containers.**
+
 ## v52 &middot; 25 Aug 2026 &middot; Nadir
 
 **Day 9 has a plan.** It was the last blank day on the page: "free day in Tokyo, nothing planned
