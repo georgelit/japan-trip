@@ -633,6 +633,76 @@ booking; Ikyu has a field for it.
 ⚠️ **寛ぎの舎 游 is worth a waitlist entry anyway.** Seven rooms, 4.83, and the reviews are about
 the owner, not the building. If a room frees up it beats the other two. But do not plan on it.
 
+### Widening the search: Nadir's Shirakawa-go idea, 26 Aug 2026
+
+Nadir asked for more ryokan options, up to **3 hours' drive from Hakuba**, and suggested basing
+near **Shirakawa-go or Hakusan** so the village could be seen on Friday on the way to Toyama.
+
+**Checking that turned up something the page had got stale on.** Open question 9 still says
+Shirakawa-go is impossible because *"Hirayu to Shirakawa-go is about 2 h 10, too long to fit into
+day 6 alongside the ropeway"*. **The ropeway came off the plan in v41.** That reasoning died with
+it and nobody went back to re-check. Friday morning is now a 10:00 ryokan check-out and an
+otherwise empty run to Toyama.
+
+#### The drive numbers
+
+| Leg | Time | Source |
+|---|---|---|
+| **Hakuba → Shirakawa-go** | **2 h 28 – 3 h**, ~180 km, tolls ¥3,100–4,500 | ✅ Inside Nadir's 3 h limit |
+| **Shirakawa-go → Toyama** | **~1 h** | ✅ **Shorter** than Okuhida → Toyama (1 h 30) |
+| Hirayu → Shirakawa-go | 2 h 10 | Already on this page |
+| Gero → Toyama | 2 h 07 | ✅ verified |
+
+#### ❌ Hakusan is out, and not on a judgement call
+
+The **Hakusan Shirakawa-go White Road**, the road that would connect a Hakusan-side onsen to
+Shirakawa-go, is **closed from mid-November to early or mid-June**. In February it is shut. A
+Hakusan base would have to be approached from the Ishikawa side, which is the wrong direction
+entirely. [Official](https://hs-whiteroad.jp/en/faq/)
+
+#### ❌ Gero Onsen is out on both legs
+
+It fails the Thursday limit and worsens the Friday leg: ⚠️ Hakuba → Gero is roughly **3 h 30**
+(Gero sits about an hour south of Takayama, which is itself ~2 h 30 out), and **Gero → Toyama is
+2 h 07**, against 1 h 30 from Okuhida. It is the wrong direction dressed up as an onsen.
+
+#### ✅ Shirakawa-go / Hirase Onsen is real
+
+**Hirase Onsen** (平瀬温泉) sits in Shirakawa village, about 15 minutes from the historic hamlet:
+**8 ryokan and 2 minshuku**, plus the **Shiramizu-no-yu** public bath.
+[Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/50/)
+
+| | Where | Notes |
+|---|---|---|
+| **[白川郷平瀬温泉 お宿 のなか](https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E5%B7%9D%E9%83%B7%E5%B9%B3%E7%80%AC%E6%B8%A9%E6%B3%89%20%E3%81%8A%E5%AE%BF%20%E3%82%86%E3%81%AE%E3%81%95%E3%81%A8)** · Oyado Yunosato | Hirase, Shirakawa village | **100 % free-flowing** hot spring, all-tatami rooms, **Hida beef** and local *kei-chan*. The most ryokan-shaped of the options |
+| **[Hirase Onsen Guesthouse](https://www.google.com/maps/search/?api=1&query=Hirase%20Onsen%20Guesthouse%20Shirakawa)** | Hirase | **Whole-building rental**, which suits four people. Bath 06:00–22:00 |
+| The other 6 ryokan / 2 minshuku | Hirase | ⚠️ Not individually researched. The area is small, so worth asking the tourist association directly |
+
+⚠️ **None of these has been priced for 18 February, and none is confirmed to match Yama no
+Hotel** on a private rotenburo or a proper kaiseki. That matters, because this is the birthday
+night.
+
+### So there are three shapes, not two
+
+| | Thursday drive | Friday drive | Ryokan | Shirakawa-go |
+|---|---|---|---|---|
+| **A. Okuhida, as planned** | 2 h 30 | 1 h 30 | ✅ **Yama no Hotel, priced €122, cable-car river rotenburo, Hida beef kaiseki** | ❌ Not seen |
+| **B. Move to Hirase Onsen** | 2 h 28 – 3 h | **~1 h** | ⚠️ Unpriced, unverified for the date | ✅ Friday morning, right there |
+| **C. Keep Okuhida *and* add Shirakawa-go on Friday** | 2 h 30 | ⚠️ **~3 h 10** (Hirayu → Shirakawa-go 2 h 10, then ~1 h to Toyama) | ✅ **Yama no Hotel** | ✅ Friday midday |
+
+**Recommendation: C, and it is newly possible.** Check out at 10:00, Shirakawa-go by ~12:10, an
+hour or so in the village, Toyama by ~14:30, which still clears **Iwase before it shuts at
+17:00**. It keeps the one ryokan we have actually confirmed for the birthday, and it collects the
+village that has been falling off this page since August.
+
+⚠️ **What C costs:** Friday becomes a real driving day, roughly 3 h 10 against 1 h 30, on winter
+roads where the quoted free-flow times are optimistic. If the weather is bad, drop Shirakawa-go on
+the morning and drive straight to Toyama; nothing is booked around it.
+
+**B is the better answer only if seeing Shirakawa-go properly matters more than the birthday
+ryokan.** ⚠️ The Shirakawa-go winter light-up is unavailable either way: in 2027 it runs four
+January evenings only.
+
 [Yama no Hotel on Ikyu](https://www.ikyu.com/00030706/) ·
 [Miyama Ouan](https://www.ikyu.com/00001354/) ·
 [Kutsurogi no Ya Yu](https://www.ikyu.com/00030074/)
@@ -1711,7 +1781,12 @@ cost. The 16th breaks the rule the dates were built around.**
    ski day and the Thursday ryokan. The 16th is not advisable. A later window, 26 Feb onwards, is
    analysed separately and costs Nadir's birthday.
 
-9. 🟡 **Shirakawa-go: in or out?** Only possible on day 7 instead of Kanazawa, not as well as.
+9. 🚨 **Shirakawa-go: the old reasoning here was stale.** It said "only possible on day 7 instead
+   of Kanazawa", because Friday morning was the ropeway. **The ropeway came off the plan in v41**,
+   so Friday is now free from the 10:00 check-out. Three shapes are laid out in the ryokan
+   section: keep Okuhida as planned, move the ryokan to Hirase Onsen by the village, or
+   **keep Okuhida and take Shirakawa-go on Friday midday**, which is the recommendation. Needs a
+   group decision.
 
 10. 🟡 **One JDM car for the whole trip, or the current three-part stack?** Costed above. Back to
    four people now, so the luggage point applies again.
