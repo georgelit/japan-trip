@@ -153,16 +153,16 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 
 | Day | Date | Plan | Night |
 |---|---|---|---|
-| 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** Out of the door around 16:30. ✈️ **Turkish, BER 19:20**, 2 h 15 in Istanbul | plane |
-| 2 | Mon 15 Feb | ✈️ **Land Haneda 19:45.** Immigration and bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train. In Nagano around 23:40. Mogi meets us here if he is coming for the whole loop | Nagano |
+| 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** ✈️ **Georgi: Turkish, BER 19:20.** ✈️ **Nadir: LH/ANA, LEJ 18:40** | plane |
+| 2 | Mon 15 Feb | ✈️ **Nadir lands 17:55, Georgi lands 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. Mogi meets us here | Nagano |
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
-| 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back at Haneda by 16:00**, then 🚃 Keikyu to Ginza for souvenirs and back. ✈️ **Turkish HND 22:05**, 2 h 40 in Istanbul | plane |
-| 10 | **Tue 23 Feb** | ✈️ **Land Berlin 09:25** | home |
+| 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back by 16:00** at the branch, 🚨 then a transfer to the terminal, then 🚃 Keikyu to Ginza and back. ✈️ **Georgi HND 22:05, Nadir HND 22:45** | plane |
+| 10 | **Tue 23 Feb** | ✈️ **Georgi lands Berlin 09:25, Nadir lands Leipzig 09:45** | home |
 
 **7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
 
@@ -181,7 +181,8 @@ sea, and it reads as one continuous arc.
 - ✅ **Kanazawa is in**, which fills what was the empty day 8.
 - ✅ **Jakob's open seat is filled** by Mogi, 22 Aug. The three-way cost split is gone.
 - ✅ **Tuesday is now an honest timeline**, first run around 10:45, not a wish.
-- ✅ **Georgi's flight is BOOKED** (25 Aug 2026): Turkish out 14th 19:20, back 22nd 22:05, €943.05, Eco Fly, through Mytrip. 🚨 **Nadir and Rostik are not booked yet.**
+- ✅ **Georgi's flight is BOOKED** (25 Aug 2026): Turkish out 14th 19:20, back 22nd 22:05, €943.05, Eco Fly, through Mytrip.
+- ✅ **Nadir's flight is BOOKED** (26 Aug 2026): **Lufthansa/ANA from Leipzig**, out 14th 18:40, **lands HND 17:55**, back 22nd 22:45. Different airline and **~1 h 50 earlier arrival** than Georgi, which changes Monday evening. 🚨 **Rostik is still not booked.**
 - ✅ **Takayama is out** as a stop. We only drive through it.
 
 **What it costs: a one-way car drop, and it is cheaper than first written.** Georgi challenged
@@ -223,18 +224,68 @@ first full morning**, lifts from 08:00.
 
 ### The flights, booked
 
+**Two separate bookings on different airlines.** Georgi flies Turkish out of Berlin, Nadir flies
+Lufthansa/ANA out of Leipzig. They are **not on the same aircraft in either direction**, and the
+times differ enough to matter, see the note below.
+
+#### ✅ Georgi — booked 25 Aug 2026
+
 | | |
 |---|---|
 | **Out** | **Turkish, BER 19:20 Sun 14 Feb → HND 19:45 Mon 15 Feb**, 2 h 15 in Istanbul, 16 h 25 |
 | **Back** | **Turkish, HND 22:05 Mon 22 Feb → BER 09:25 Tue 23 Feb**, 2 h 40 in Istanbul, 19 h 20 |
-| **Status** | ✅ **Georgi's ticket BOOKED 25 Aug 2026**, confirmed by Mytrip |
-| Price paid | **€943.05**, economy **Eco Fly**, round trip (fare €139.54 + taxes and fees €803.51) |
-| Booked through | **Mytrip** (OY SRG Finland AB), Turkish Airlines ticket, paid by **Apple Pay** |
+| Price paid | **€943.05**, economy **Eco Fly** (fare €139.54 + taxes and fees €803.51) |
+| Booked through | **Mytrip** (OY SRG Finland AB), Turkish ticket, paid by **Apple Pay** |
 | Flight numbers | **Out: TK1724 + TK198.** **Back: TK199 + TK1721** |
-| Baggage | **1 checked bag 23 kg**, plus cabin bag and personal item. Enough because **all gear is rented on site** |
-| 🚨 **Still to book** | **Nadir and Rostik.** The 25 Aug booking covers **Georgi only, one passenger.** Two seats on this itinerary still have to be bought, and at whatever price the day gives |
-| Nadir from Leipzig | Still open. Turkish has **no Leipzig to Haneda flights at all**, so from LEJ it is Lufthansa + ANA via Frankfurt at about €1,092, against about €943 from Berlin plus a 1 h 15 train |
-| Mogi | No flight. Lives in Tokyo |
+| Baggage | **1 checked bag 23 kg**, plus cabin bag and personal item |
+
+#### ✅ Nadir — booked 26 Aug 2026, from Leipzig
+
+| | |
+|---|---|
+| **Out** | **LEJ 18:40 Sun 14 Feb → HND 17:55 Mon 15 Feb**, 1 stop, **15 h 15**, economy |
+| **Back** | **HND 22:45 Mon 22 Feb → LEJ 09:45 Tue 23 Feb**, 1 stop, **19 h**, economy |
+| Airline | **Lufthansa, operated by All Nippon Airways** |
+| Flight numbers | **Out: LH157 + LH4912.** **Back: LH4921 + LH152** |
+| Price paid | ⚠️ **Not recorded yet.** The earlier estimate for this routing was ~€1,092 |
+| Baggage | ⚠️ Not confirmed. Worth checking, LH economy fare families differ on checked bags |
+
+✅ **This closes the "Nadir from Leipzig" question.** He flies LEJ, so **no Berlin train** and no
+overnight in Berlin on either end. It costs more than Georgi's Berlin fare, and that was the
+known, accepted trade.
+
+🚨 **Still to book: Rostik.** He is the last one without a ticket.
+**Mogi** needs no flight; he lives in Tokyo.
+
+#### 🚨 The two arrivals are not together, and that changes Monday
+
+| | Georgi | Nadir |
+|---|---|---|
+| **Lands Haneda, Mon 15** | **19:45** | **17:55**, ~1 h 50 earlier |
+| **Leaves Haneda, Mon 22** | **22:05** | **22:45**, 40 min later |
+
+**Monday 15 February is the one to think about.** The whole day-2 plan is built on Georgi's 19:45
+landing feeding the **22:08 Asama**, the last train, reaching Nagano at 23:40 with 25–40 minutes
+of slack and no later option. **Nadir is not in that squeeze.** Landing 17:55 puts him at Tokyo
+Station around 19:10, which is roughly **three earlier Asama departures** before the last one.
+
+Two choices, and it is Nadir's call:
+
+- 🟢 **Go ahead, do not wait.** Reach Nagano around 21:00–21:30, eat a normal dinner instead of
+  the 20-minute midnight ramen sprint, check in, sleep. **Recommended:** Tuesday is already a
+  short, ragged first day, and one person arriving rested is worth more than the group riding the
+  same train.
+- 🟡 **Wait at Haneda for Georgi**, ~1 h 50, and take the 22:08 together. Simpler socially, and
+  nobody is alone if something goes wrong, but it throws away the whole advantage of the earlier
+  flight and puts Nadir into the same 23:40 arrival.
+
+⚠️ Either way, **the group's exposure is unchanged**: it is Georgi's flight that has to hit 19:45
+for the last train to work, and Nadir being early does not fix that. What it does give us is a
+**person already in Nagano** if that chain breaks.
+
+**On the way home**, Nadir's 40 extra minutes are a small cushion on a day 9 that already has an
+unmeasured car-branch transfer in it. Both depart Haneda, so the group stays together until the
+terminal and then splits.
 
 **Why Mytrip and not Turkish direct.** Same flights, same Eco Fly fare, €943.34 against €978 on
 turkishairlines.com, so about €35 per person. Checked 24 Aug 2026 across every channel that sells
@@ -1106,7 +1157,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 
 | Item | € | Note |
 |---|---|---|
-| Flight BER ↔ Tokyo, economy | 750–1,000 | ⚠️ not yet checked live |
+| Flight to Tokyo, economy | **943** Georgi · ⚠️ **~1,092?** Nadir | ✅ Georgi booked at €943.05, Turkish Eco Fly from BER. ✅ Nadir booked LH/ANA from **LEJ**, ⚠️ **price not recorded**, estimate was ~€1,092. 🚨 Rostik not booked. Mogi pays nothing |
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
 | Gear rental, 3 days | **89** Georgi/Nadir · **165** Rostik/Mogi | ✅ Lion Gear list 2026-27. Georgi and Nadir bring own clothing and helmets so rent hardware only, ¥16,500. Rostik and Mogi rent everything, ¥30,500. See the gear section |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |

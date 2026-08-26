@@ -33,6 +33,52 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v59 &middot; 26 Aug 2026 &middot; Nadir
+
+**Nadir's flight is booked, out of Leipzig, and it does not match Georgi's.**
+
+| | Out | Back |
+|---|---|---|
+| **Georgi**, Turkish | BER 19:20 → **HND 19:45** | **HND 22:05** → BER 09:25 |
+| **Nadir**, LH/ANA | LEJ 18:40 → **HND 17:55** | **HND 22:45** → LEJ 09:45 |
+
+Lufthansa marketed, **operated by All Nippon Airways**. **LH157 + LH4912** out, 15 h 15;
+**LH4921 + LH152** back, 19 h. Economy, one stop each way.
+
+- ✅ **The "Nadir from Leipzig" question is closed.** He flies LEJ, so no Berlin train and no
+  overnight in Berlin on either end. It costs more than Georgi's Berlin fare, which was the known
+  and accepted trade.
+- ⚠️ **Price not recorded**, the screenshot did not show one. The budget line carries the old
+  ~€1,092 estimate for this routing with a ⚠️ rather than a made-up number. Baggage allowance is
+  also unconfirmed, and LH economy fare families differ on checked bags, so worth a look.
+- 🚨 **Rostik is now the only one without a ticket.**
+
+### 🚨 What this changes: Monday 15 February
+
+**Nadir lands 17:55, Georgi lands 19:45**, about **1 h 50 apart.** The whole day-2 plan was built
+on the 19:45 landing feeding the **22:08 Asama**, the last train, with 25–40 minutes of slack and
+nothing after it. **Nadir is not in that squeeze at all**: landing 17:55 puts him at Tokyo Station
+around 19:10, roughly three Asama departures before the last one.
+
+Written up as a decision on the day-2 card, with a recommendation rather than a shrug:
+
+- 🟢 **Go ahead, do not wait.** Nagano by ~21:00–21:30, a normal dinner instead of the 20-minute
+  midnight ramen sprint, check in, sleep. Tuesday is already a short ragged first day, and one
+  person arriving rested beats everyone riding the same train.
+- 🟡 **Wait ~1 h 50 at Haneda** and ride the 22:08 together. Simpler socially, throws away the
+  earlier flight.
+
+⚠️ **The group's exposure is unchanged either way:** it is Georgi's flight that must hit 19:45 for
+the last train to work. What the early arrival buys is **somebody already in Nagano** if that
+chain breaks.
+
+**Coming home**, Nadir's 22:45 gives him 40 minutes more than Georgi's 22:05, which is a small
+cushion on a day 9 that already has the unmeasured car-branch transfer in it. Same terminal, then
+the group splits.
+
+Updated in the day-by-day table, the day 1, 2, 9 and 10 cards, the flights section, the money
+table and the closed list.
+
 ## v58 &middot; 26 Aug 2026 &middot; Nadir
 
 **Two facts from Nadir. The second one breaks an assumption the whole last day was built on.**
