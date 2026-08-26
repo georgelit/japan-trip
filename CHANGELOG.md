@@ -33,6 +33,50 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v61 &middot; 26 Aug 2026 &middot; Nadir
+
+**A three-hotel shortlist for every night, filtered on location rather than price.** Nadir's ask,
+to review together later. On the page as a section and as a 🛏 block on each day card.
+
+⚠️ **Names and locations are checked; no live Feb 2027 prices or availability were pulled, and
+nothing is booked.** This is a shortlist to price up, not a recommendation to act on. Okuhida is
+excluded because **Yama no Hotel** is already chosen at ¥90,552.
+
+| Night | First pick | Why it wins |
+|---|---|---|
+| **Nagano**, Mon 15 | Nagano Tokyu REI | **1 min** from the Zenkoji Exit, underground passage |
+| **Hakuba**, Tue+Wed | Hakuba Echoland Apartments | Parking, dry room, same street as gear and dinner |
+| **Toyama**, Fri 19 | Toyama Chitetsu Hotel | **Directly connected** to the station |
+| **Kanazawa**, Sat 20 | Mitsui Garden Hotel | **4 min** to Omicho |
+| **Tokyo**, Sun 21 | Tokyu Stay Kamata | ✅ **Free parking**, Haneda 8 min by train |
+
+### 🚨 The Tokyo night had an unrecorded constraint
+
+**Two rental cars are parked overnight on Sunday.** That was never written down anywhere. Central
+Tokyo hotel parking runs roughly **¥1,000–8,000 per night per car** where it exists at all, and
+frequently it does not.
+
+**The conclusion is to stay south, near Haneda, not in the centre.** It shortens Sunday's 16:00
+pickup, shortens Monday's drive to Shin-Yokohama, and puts the airport minutes from both the car
+return and the flight. **Tokyu Stay Kamata** is the only shortlisted option with **complimentary**
+parking and it sits exactly on that axis.
+
+🚨 Flagged hard: **two spaces, not one.** Advertised free or on-site parking usually means few
+spaces, first-come. ⚠️ And the honest trade is recorded: staying south makes the night drive into
+central Tokyo a there-and-back rather than starting on the doorstep.
+
+### Other reasoning worth keeping
+
+- **Nagano is purely about the 23:40 arrival and the 08:00 car**, both on the **Zenkoji Exit**
+  side. 🚨 Late check-in must be confirmed: 23:40 is past the desk hours of many Japanese business
+  hotels, and being locked out is the one failure that night cannot absorb. Sotetsu Fresa Inn is
+  listed second specifically because it has **self check-in terminals**.
+- **Hakuba favours apartments over hotel rooms**: four people, a kitchen, a **dry room** and
+  **parking**. We have a car, so being slope-side matters less than being next to the Echoland gear
+  shop and the two dinner picks.
+- **Toyama and Kanazawa are both connection-driven**: the car is dropped in Toyama with a
+  Shinkansen the next morning, and Kanazawa's Saturday is walked, not driven.
+
 ## v60 &middot; 26 Aug 2026 &middot; Nadir
 
 **Nadir's fare filled in, and it exposed a stale total.**

@@ -952,6 +952,105 @@ Padding these would mean recommending something we cannot actually use.
 | 9 · Mon 22 | 🍜 **The Ramen Museum mini-bowls are the meal.** Which shops, and the alternative, are below |
 | 10 · Tue 23 | Landing in Berlin |
 
+## Where we sleep: a shortlist per night
+
+Researched **26 Aug 2026** at Nadir's request: three candidates per stay, to review together.
+**Location was the filter, not price**, because several of these nights have a hard connection
+attached and a bad location costs time we do not have.
+
+🚨 **Read this before comparing anything:** the names and locations below are checked, but
+**no live prices or availability for February 2027 have been pulled**, and none of this is
+booked. The ⚠️ bands are the budget's own per-person estimates, not quotes. Treat this as a
+shortlist to price up, which is what it was asked to be.
+
+**Okuhida (Thu 18) is not in this list**: [**Yama no Hotel**](https://www.google.com/maps/search/?api=1&query=%E7%A9%82%E9%AB%98%E8%8D%98%20%E5%B1%B1%E3%81%AE%E3%83%9B%E3%83%86%E3%83%AB%20%E5%A5%A5%E9%A3%9B%E9%A8%A8%E6%B8%A9%E6%B3%89%E9%83%B7)
+is already chosen and priced at ¥90,552 for four with dinner, and the 90-day booking window opens
+around 20 Nov 2026.
+
+### 🌙 Night 1 · Nagano, Mon 15 Feb
+
+**The constraint: Georgi arrives 23:40 and the car is collected at 08:00.** So this has to be
+walking distance from the **Zenkoji Exit**, which is also the side the rental office sits on,
+3 minutes away. Nothing else about this hotel matters.
+
+| | Where | Why |
+|---|---|---|
+| **1. Nagano Tokyu REI Hotel** | **1 min** from the Zenkoji Exit, connected by the underground passage | The shortest possible walk, indoors, at midnight in February |
+| **2. Sotetsu Fresa Inn Nagano-Zenkojiguchi** | **2 min** from the Zenkoji Exit | ✅ Has **self check-in terminals**, which genuinely matters at 23:40 |
+| **3. Hotel New Nagano NEXT** | **2 min** from the Zenkoji Exit | Straightforward fallback if the other two are full |
+
+🚨 **Confirm late check-in when booking.** A 23:40 arrival is past the desk hours of plenty of
+Japanese business hotels, and being locked out is the one failure this night cannot absorb.
+⚠️ Budget line: €50–80 per person.
+
+### 🎿 Nights 2–3 · Hakuba, Tue 16 and Wed 17 Feb
+
+**The constraint: we have a car, so being slope-side matters less than parking and a dry room.**
+Gear comes from **Lion Gear in Echoland**, and both dinner picks are in the village.
+
+| | Where | Why |
+|---|---|---|
+| **1. Hakuba Echoland Apartments** | Centre of **Echoland**, on-site parking, **dry room** | Same street as the gear shop and the restaurants. Best fit for how this trip actually runs |
+| **2. Hakuba Gondola Apartments** | **Opposite the Happo-One gondola**, 2BR sleeps 4, shuttle stop next door | Best for Tuesday, when Happo is the mountain. Rooms sized for exactly four |
+| **3. Gakuto Villas** | Upper Wadano, 2BR, **~7 min walk to the lifts** | The compromise: quieter, still walkable to snow |
+
+⚠️ Apartments beat hotel rooms here: **four people, one kitchen, a dry room and parking** is the
+shape we need for two nights. Budget line: €120–180 per person for both nights.
+
+### 🚄 Night 4 · Toyama, Fri 19 Feb
+
+**The constraint: the car is dropped in Toyama and the Shinkansen leaves next morning.** Station
+side, no exceptions.
+
+| | Where | Why |
+|---|---|---|
+| **1. Toyama Chitetsu Hotel** | **Directly connected** to JR and Dentetsu Toyama Station | Zero walk with luggage, and the tram to Sogawa runs from the same place |
+| **2. Daiwa Roynet Hotel Toyama-Ekimae** | **4 min** walk | Reliable chain, station-front |
+| **3. Hotel JAL City Toyama** | **4 min** walk | Slight step up if the others are tight |
+
+⚠️ Dinner at 寿司栄 総曲輪店 is in **Sogawa**, the city centre, not at the station: a short tram
+ride. Worth knowing but not worth relocating for. Budget line: €60–100 per person.
+
+### 🦀 Night 5 · Kanazawa, Sat 20 Feb
+
+**The constraint: Saturday is walked, not driven** (Omicho, Kenrokuen, Higashi Chaya), and Sunday
+starts with the Kagayaki. The sweet spot is **between the station and Omicho**.
+
+| | Where | Why |
+|---|---|---|
+| **1. Mitsui Garden Hotel Kanazawa** | **4 min** to Omicho Market | Puts the crab breakfast at the end of the corridor |
+| **2. Hotel Nikko Kanazawa** | At the **station**, walkable to Omicho | Best if the Sunday train matters more than the Saturday walking |
+| **3. UAN Kanazawa** | **5 min** to Omicho, next to Kanazawa Castle Park, 15 min to Kenrokuen | The most central for Saturday's actual route |
+
+⚠️ Budget line: €70–110 per person.
+
+### 🏎 Night 6 · Tokyo, Sun 21 Feb — the awkward one
+
+🚨 **This night has a constraint nobody had written down: two rental cars are parked overnight.**
+They are collected around 16:00 Sunday near Haneda, driven to Daikoku, and must be back by 16:00
+Monday. Central Tokyo hotel parking runs roughly **¥1,000 to ¥8,000 per night per car** where it
+exists at all, and it frequently does not.
+
+**So the answer is to stay south, near Haneda, not in the centre.** It shortens the Sunday
+pickup, it shortens Monday's drive to Shin-Yokohama, and it puts the airport minutes away for
+both the car return and the flight.
+
+| | Where | Why |
+|---|---|---|
+| **1. Tokyu Stay Kamata** | 8 min walk from JR Kamata, **Haneda 8 min by train**, ✅ **complimentary parking** | The only candidate that answers the parking problem for free, and it sits exactly on the Sunday-pickup, Monday-drive, evening-flight axis |
+| **2. Urbain Tokyo Haneda Kamata** | Kamata, **on-site parking**, ~15 min drive to Haneda | Same logic, cheaper bracket |
+| **3. Mercure Tokyo Haneda Airport** | **Private parking**, close to the airport | The most airport-shaped option |
+
+🚨 **Two cars, not one.** Wherever "free" or "on-site" parking is advertised, spaces are usually
+few and often first-come. **Confirm two spaces at booking**, or the plan quietly becomes one car
+parked and one hunting a coin lot at midnight.
+
+⚠️ **The trade:** staying south means the Sunday night drive into central Tokyo is a there-and-back
+rather than starting on the doorstep. Given the drive is the point of the evening, that is
+acceptable. Budget line: €60–90 per person.
+
+---
+
 ## Gear rental: real prices at last
 
 ✅ **Nadir found the 2026-27 price list**, so the long-standing ⚠️ estimate of ~€85 is gone.
