@@ -33,6 +33,40 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v60 &middot; 26 Aug 2026 &middot; Nadir
+
+**Nadir's fare filled in, and it exposed a stale total.**
+
+- ✅ **€1,077, Economy Comfort, large checked bag included.** The two ⚠️ gaps left in v59 are
+  closed. The old **€1,092 estimate came in €15 high**, so that research held up well.
+- The **Leipzig premium over Georgi's Berlin fare is €134**, against which Nadir saves the
+  Leipzig–Berlin train and the hassle at both ends. ⚠️ Noted that the two are **not like for
+  like**: Turkish **Eco Fly** is the basic bucket, **Economy Comfort** is a step up.
+
+### 🚨 The single trip total was withdrawn
+
+With a real second fare in, the old **€2,150–2,800** stopped being defensible. It was computed on
+3 Aug off a flight *estimate*, and it sat **below** what the trip actually costs. Recomputed from
+the line items:
+
+**Shared base, everything except flight and gear: €1,322–1,610.**
+
+| | Flight | Gear | Total |
+|---|---|---|---|
+| Georgi | 943 ✅ | 89 | **≈ €2,354–2,642** |
+| Nadir | 1,077 ✅ | 89 | **≈ €2,488–2,776** |
+| Rostik | 🚨 unbooked | 165 | ⚠️ **≈ €2,430–2,852** |
+| Mogi | none | 165 | **≈ €1,487–1,775** |
+
+- One number no longer works, because **flights and gear now differ per person**: two fares are
+  real and different, one is unbooked, and Mogi does not fly at all.
+- 🚨 **Mogi lands about €900 below everyone else**, purely on the flight. Recorded explicitly,
+  because it is the kind of thing that quietly breaks an "everyone pays the same" split.
+- The remaining spread inside each row is **accommodation and the car**, still estimates. Every
+  confirmed line (flights, lift pass, gear, ryokan, rail, drop fee) barely moves.
+- ⚠️ The ropeway's €18 stays in every row even though v41 took it off the plan, since it is
+  decided on the morning and it is small.
+
 ## v59 &middot; 26 Aug 2026 &middot; Nadir
 
 **Nadir's flight is booked, out of Leipzig, and it does not match Georgi's.**

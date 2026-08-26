@@ -247,8 +247,13 @@ times differ enough to matter, see the note below.
 | **Back** | **HND 22:45 Mon 22 Feb → LEJ 09:45 Tue 23 Feb**, 1 stop, **19 h**, economy |
 | Airline | **Lufthansa, operated by All Nippon Airways** |
 | Flight numbers | **Out: LH157 + LH4912.** **Back: LH4921 + LH152** |
-| Price paid | ⚠️ **Not recorded yet.** The earlier estimate for this routing was ~€1,092 |
-| Baggage | ⚠️ Not confirmed. Worth checking, LH economy fare families differ on checked bags |
+| Price paid | **€1,077**, **Economy Comfort** |
+| Baggage | ✅ **Large checked bag included**, so no add-on to buy. Gear is rented on site anyway |
+
+✅ **The €1,092 estimate was good.** Actual €1,077, so it came in **€15 under**. The Leipzig
+premium over Georgi's Berlin fare is **€134**, and against that Nadir saves the Leipzig–Berlin
+train and the hassle at both ends. Note the two are not quite like for like: Georgi's Turkish
+**Eco Fly** is the basic fare bucket, Nadir's **Economy Comfort** is a step up.
 
 ✅ **This closes the "Nadir from Leipzig" question.** He flies LEJ, so **no Berlin train** and no
 overnight in Berlin on either end. It costs more than Georgi's Berlin fare, and that was the
@@ -1157,7 +1162,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 
 | Item | € | Note |
 |---|---|---|
-| Flight to Tokyo, economy | **943** Georgi · ⚠️ **~1,092?** Nadir | ✅ Georgi booked at €943.05, Turkish Eco Fly from BER. ✅ Nadir booked LH/ANA from **LEJ**, ⚠️ **price not recorded**, estimate was ~€1,092. 🚨 Rostik not booked. Mogi pays nothing |
+| Flight to Tokyo, economy | **943** Georgi · **1,077** Nadir | ✅ Georgi €943.05, Turkish **Eco Fly** from BER. ✅ Nadir **€1,077**, LH/ANA **Economy Comfort** from LEJ, large checked bag included. 🚨 Rostik not booked. Mogi pays nothing |
 | Hakuba Valley 3-day pass | **174** | ✅ official, ¥32,200 |
 | Gear rental, 3 days | **89** Georgi/Nadir · **165** Rostik/Mogi | ✅ Lion Gear list 2026-27. Georgi and Nadir bring own clothing and helmets so rent hardware only, ¥16,500. Rostik and Mogi rent everything, ¥30,500. See the gear section |
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
@@ -1172,7 +1177,29 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
 | The Tokyo drive, one car, 24 h | 32–77 | R34 ¥23,800 to R35 ¥56,800, split four ways |
-| **Total** | **≈ €2,150 – 2,800** | ⚠️ recomputed 3 Aug, the old €2,300–3,000 total carried a stale 4-night Hakuba line, a stale 7-day car line and no Nagano line at all |
+| **Total** | **see below** | The single total is gone: flights and gear now differ per person |
+
+### Total, per person
+
+Recomputed **26 Aug 2026**, once Nadir's fare came in. The old single figure of €2,150–2,800 is
+**withdrawn**: it was built on a flight *estimate*, and it sat below what the trip actually costs.
+
+**Shared base, everything except flight and gear: €1,322 – 1,610.**
+
+| | Flight | Gear | **Total** |
+|---|---|---|---|
+| **Georgi** | 943 ✅ | 89 | **≈ €2,354 – 2,642** |
+| **Nadir** | 1,077 ✅ | 89 | **≈ €2,488 – 2,776** |
+| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,430 – 2,852** |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,487 – 1,775** |
+
+- The spread inside each row is **accommodation and the car**, which are still ⚠️ estimates. The
+  confirmed lines (flights, lift pass, gear, ryokan, rail, drop fee) barely move.
+- **Rostik's row assumes he pays roughly what Georgi or Nadir paid.** Booking late may cost more.
+- **Mogi is about €900 cheaper than everyone else**, purely because he does not fly. Worth
+  remembering when anything gets split "evenly".
+- ⚠️ The **ropeway €18 is still in every row**, although v41 took it off the plan in favour of a
+  slow ryokan morning. Left in because it is decided on the day and it is small.
 
 **Where not to save:** the ryokan, and gear rental.
 **Where we already saved:** no JR Pass (≈ €160 per person).
