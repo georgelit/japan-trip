@@ -33,6 +33,56 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v65 &middot; 26 Aug 2026 &middot; Nadir
+
+**Two more areas for the guesthouse search, both from Nadir: Gokayama/Ainokura and
+Hida-Furukawa/Kamioka.**
+
+### 🥇 なかや · Nakaya, Ainokura — Nadir's second link
+
+Sent with 18 February already in it, and arguably a **better match for the Akira description than
+anything in Shirakawa-go**:
+
+- **350 years old, the oldest house in Ainokura.**
+- ✅ **Two guest rooms only**, innkeepers **living under the same roof**. A family home, not an inn.
+- ✅ **Dinner and breakfast around the irori with the other guests.** Communal hearth room, books,
+  hot water always on.
+- ⚠️ Shared toilet, bath and washroom, and with **only two rooms, check it can take four**.
+
+**Ainokura is 23 gassho houses and 6 minshuku**, against roughly a hundred at Ogimachi, so it is
+the quiet one, and it sits **on the Friday road to Toyama**.
+
+✅ **The onsen workaround holds here too:** **くろば温泉 Kuroba Onsen**, **rotenburo plus a sauna**
+facing a mountain-backed reservoir, **10:00–21:00, ¥600**. ⚠️ **Closed Tuesdays**, which does not
+affect our Thursday. Also **五箇山温泉 ごかさんそう** between Ainokura and Shirakawa-go, open to
+non-guests.
+
+### 🛣 Hida-Furukawa and Kamioka: a different strategy
+
+Nadir's point was that these are **more on our road**, and he is right: **Kamioka sits on Route
+471**, which we already drive from Okuhida to Toyama, and **Hida-Furukawa** is just off its R41
+stretch. So this area is the shape that **minimises driving**, rather than the one that collects
+gassho villages.
+
+- **IORI STAY** — six renovated traditional townhouses, each taken exclusively.
+- **Yamanami** — guesthouse in the centre of Furukawa, rustic in a modern setting.
+- **飛騨古川桃源郷温泉** — the only natural hot spring source in Hida-Furukawa; Hotel Kikori sits on it.
+- **八ツ三館 Yatsusankan** — proper old inn, public onsen and kaiseki, the upmarket end.
+- Hida city also has **100-year-old farmhouses converted into inns**.
+
+⚠️ **Two caveats stated rather than buried.** **Hida-Furukawa is ~15 min north of Takayama**,
+which Rostik vetoed; Furukawa is a different, quieter town and the veto does not formally cover
+it, but it should be said out loud. And ⚠️ **drive times from Hakuba and onward to Toyama are not
+verified** for Furukawa or Kamioka, unlike the Shirakawa-go figures.
+
+### The three areas, one line each
+
+| Area | Gets you | Costs you |
+|---|---|---|
+| **Hirase / Shirakawa-go** | Village 15 min away, Friday ~1 h to Toyama, Fujiya at ryokan level | Okuhida and the ropeway |
+| **Gokayama / Ainokura** | The **quietest** gassho village, Nakaya's two-room family house, on the Friday road | Furthest from Hakuba, only 2 rooms |
+| **Hida-Furukawa / Kamioka** | **Shortest driving overall**, already on Route 471 | ❌ **No gassho village**, close to the vetoed town |
+
 ## v64 &middot; 26 Aug 2026 &middot; Nadir
 
 **Guesthouses added as their own category, separate from the ryokan.** Nadir's brief: find places

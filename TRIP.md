@@ -757,6 +757,59 @@ normal here.
 family atmosphere), *Gassho no Yado Magoemon*, and *Shirakawago Guesthouse Kei* in Hatotani
 (budget, kitchen, English spoken, 15 min walk).
 
+### 🥇 Gokayama / Ainokura, including Nadir's second find
+
+Nadir sent **[なかや · Nakaya](https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%82%84%20%E7%9B%B8%E5%80%89%20%E4%BA%94%E7%AE%87%E5%B1%B1)**, again with 18 February in the link. It is arguably a better
+match for the Akira description than anything in Shirakawa-go:
+
+- **350 years old, the oldest house in Ainokura.**
+- ✅ **Two guest rooms only.** The innkeepers **live under the same roof**, so it is a family home
+  rather than an inn.
+- ✅ **Dinner and breakfast around the irori with the other guests**, which is exactly the homestay
+  dinner in the brief. Communal hearth room, books, a pot of hot water always on for tea.
+- ⚠️ Toilet, bath and washroom are **shared**, and with only two rooms, **check it can take four**.
+
+**Ainokura is 23 gassho houses and 6 minshuku**, against roughly a hundred houses at Ogimachi. It
+is the quiet one, and it sits **on the Friday road to Toyama**.
+
+**The onsen problem is solved here too:**
+
+| | | |
+|---|---|---|
+| **[くろば温泉 · Kuroba Onsen](https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%82%8D%E3%81%B0%E6%B8%A9%E6%B3%89%20%E4%BA%94%E7%AE%87%E5%B1%B1)** | ✅ **Rotenburo + sauna**, facing a mountain-backed reservoir | **10:00–21:00**, **¥600**. ⚠️ **Closed Tuesdays** — our Thursday is fine |
+| **五箇山温泉 ごかさんそう** | Hot spring hotel **between Ainokura and Shirakawa-go** | Non-guests can bathe |
+
+### 🛣 Hida-Furukawa and Kamioka: the on-the-road option
+
+Nadir's other suggestion, and the logic is different from the two above. **Kamioka sits on Route
+471**, the road we already drive from Okuhida to Toyama, and **Hida-Furukawa** is just off the
+R41 stretch of it. So this is the shape that **minimises driving** rather than the one that
+collects gassho villages.
+
+| | What |
+|---|---|
+| **[IORI STAY](https://www.google.com/maps/search/?api=1&query=IORI%20STAY%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D)** | **Six renovated traditional townhouses** in the heart of Furukawa, each taken exclusively. Closest thing to having our own old house |
+| **[Yamanami](https://www.google.com/maps/search/?api=1&query=Yamanami%20guesthouse%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D)** | Guesthouse in the **centre of Hida-Furukawa**, futon or western beds, rustic in a modern setting |
+| **[飛騨古川桃源郷温泉](https://www.google.com/maps/search/?api=1&query=%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D%E6%A1%83%E6%BA%90%E9%83%B7%E6%B8%A9%E6%B3%89)** · Togenkyo Onsen | **The only natural hot spring source in Hida-Furukawa.** Hotel Kikori sits on it |
+| **[八ツ三館 · Yatsusankan](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E3%83%84%E4%B8%89%E9%A4%A8%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D)** | A proper old inn, public onsen baths and kaiseki. The upmarket end of this area |
+
+Hida city also has **100-year-old farmhouses converted into inns**, which is the same idea as the
+gassho stays without the UNESCO crowds.
+
+⚠️ **Two honest caveats on this area.** **Hida-Furukawa is about 15 minutes north of Takayama**,
+which Rostik vetoed. Furukawa is a different, quieter town and the veto does not formally cover
+it, but it is worth saying out loud rather than sliding it in. And ⚠️ **exact drive times from
+Hakuba and onward to Toyama have not been verified for Furukawa or Kamioka**, unlike the
+Shirakawa-go numbers.
+
+### So which area, in one line each
+
+| Area | Gets you | Costs you |
+|---|---|---|
+| **Hirase / Shirakawa-go** | Shirakawa-go 15 min away, Friday ~1 h to Toyama, Fujiya at ryokan level | Okuhida and the ropeway |
+| **Gokayama / Ainokura** | The **quietest** gassho village, Nakaya's two-room family house, on the Friday road | Furthest from Hakuba of the three, and only 2 rooms |
+| **Hida-Furukawa / Kamioka** | **Shortest driving overall**, already on our Route 471 | ❌ **No gassho village**, and it is close to the town Rostik vetoed |
+
 ### What to know before comparing these with the ryokan
 
 - **Price is roughly half.** Gassho minshuku run about **¥8,000–20,000 per person** with dinner
