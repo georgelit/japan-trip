@@ -721,6 +721,57 @@ genuinely one of a kind, and Okuhida altogether, which retires the ropeway for g
 ⚠️ In daylight only: the Ainokura light-up runs **Saturday 20 and Sunday 21** evenings, not
 Friday, so this does not solve the light-up question logged elsewhere.
 
+## 🏚 Guesthouses, a separate category from the ryokan
+
+Nadir's brief, 26 Aug 2026: find places like **Akira Adventure Base on Shikoku**, where they
+stayed before. Small outdoor bath, good views, welcoming hosts, homestay-style dinner. His own
+observation is the one that unlocks this: **a guesthouse with no outdoor bath is still fine if
+there is a public or day-use onsen nearby**, and with a car we are not fussy about a few minutes.
+
+**He is right, and this area has two day-use onsen, both with outdoor baths.** That turns a
+gassho farmhouse stay, which normally has only a shared indoor bath, into a real option.
+
+### The two day-use onsen that make this work
+
+| | Where | Outdoor bath | Hours | Price |
+|---|---|---|---|---|
+| **[白川郷の湯](https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E5%B7%9D%E9%83%B7%E3%81%AE%E6%B9%AF)** · Shirakawago no Yu | **Ogimachi, 2 min from the bus terminal**, i.e. in the village | ✅ **Rotenburo over the Shogawa river** | **07:00–21:30**, last entry 21:00 | ¥900 |
+| **[大白川温泉 しらみずの湯](https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E7%99%BD%E5%B7%9D%E6%B8%A9%E6%B3%89%20%E3%81%97%E3%82%89%E3%81%BF%E3%81%9A%E3%81%AE%E6%B9%AF)** · Shiramizu-no-yu | Hirase, by the roadside station, **15 min drive** from the village | ✅ Outdoor bath, plus cypress and bubble baths | from ~11:00 | **¥700** |
+
+✅ **白川郷の湯 is the important one.** It is open until **21:30**, so you can eat a homestay dinner
+around the irori and *then* go and sit in an outdoor bath over the river. It also gives
+**guests of gassho accommodation a ¥100 discount**, which tells you this pairing is completely
+normal here.
+
+### Top 5
+
+| | Where | The bath | Why it is on the list |
+|---|---|---|---|
+| 🥇 **[Salugabamba](https://www.google.com/maps/search/?api=1&query=Salugabamba%20%E7%99%BD%E5%B7%9D%E6%9D%91%20%E5%B9%B3%E7%80%AC)** | Hirase, 1 min from the Hirase-Shirakawaguchi bus stop | ✅ **Own free-flowing outdoor onsen**, plus a **wood-fired sauna** in a converted garage (extra fee, book ahead) | **This is the Akira one.** Hosts **Shoko and Kenji**, repeatedly called the best stay of a Japan trip in reviews. Breakfast from their own and foraged mountain vegetables. Restaurant themed on **fermentation and spices** |
+| 2 **[Kayabuki](https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%84%E3%81%B6%E3%81%8D%20%E7%99%BD%E5%B7%9D%E6%9D%91%20%E9%A3%AF%E5%B3%B6)** · かやぶき | Iijima, **3 min drive / 20 min walk** from the World Heritage site | ✅ **Cypress bath** (indoor) | Gassho farmhouse with **meals included**: wild vegetables and river fish. Quiet countryside rather than the middle of the tourist village |
+| 3 **[Hirase Onsen Guesthouse](https://www.google.com/maps/search/?api=1&query=Hirase%20Onsen%20Guesthouse%20%E7%99%BD%E5%B7%9D%E6%9D%91)** | Hirase | ✅ **Private hot spring bath**, 06:00–22:00 | **Whole-building rental**, 1 to 10+ people, so the four of us get the place to ourselves. **¥12,000–15,000 a night.** ⚠️ Self-catering, no homestay dinner |
+| 4 **[Juemon](https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E5%8F%B3%E3%82%A8%E9%96%80%20%E7%99%BD%E5%B7%9D%E9%83%B7)** · 十右ェ門 | **Ogimachi**, in the village | ❌ Shared indoor only → **白川郷の湯 is 2 min away** | A thatched farmhouse with **nearly 300 years of history**. Dinner around the irori. The classic version of this experience |
+| 5 **[Gassho no Yado Shoshichi](https://www.google.com/maps/search/?api=1&query=%E5%90%88%E6%8E%8C%E3%81%AE%E5%AE%BF%20%E5%BA%84%E4%B8%83%20%E7%9B%B8%E5%80%89)** · 庄七 | **Ainokura, Gokayama**, Toyama side | ❌ Shared indoor only | Ainokura is **20 gassho houses instead of a hundred**, far quieter than Ogimachi, and it sits **on the Friday road to Toyama**. Also the village with the Sat/Sun light-up |
+
+**Also seen, not shortlisted:** *Shimizu*, *Furusato* and *Yoshiro* (Ogimachi gassho, fireplace,
+family atmosphere), *Gassho no Yado Magoemon*, and *Shirakawago Guesthouse Kei* in Hatotani
+(budget, kitchen, English spoken, 15 min walk).
+
+### What to know before comparing these with the ryokan
+
+- **Price is roughly half.** Gassho minshuku run about **¥8,000–20,000 per person** with dinner
+  and breakfast, against ¥22,000+ at Fujiya or Yama no Hotel.
+- **The trade is comfort for character.** Baths and toilets in a gassho house are **shared**, the
+  rooms are tatami with futons, and the building is 200 to 300 years old. That is the point, but
+  it is not a ryokan.
+- 🚨 **They book out early.** Farmhouse stays here are described as genuinely hard to reserve, and
+  most take only a handful of groups a night.
+- ⚠️ **Nothing here is priced or checked for 18 February, or confirmed to sleep four.** Salugabamba's
+  restaurant is closed Sunday and Monday evenings, which does not affect a **Thursday**.
+- 💡 **For a birthday**, a homestay dinner around a 300-year-old hearth and then a river-view
+  rotenburo until 21:30 is a different kind of good from kaiseki and a private bath. Worth
+  deciding which one this trip actually wants.
+
 ### So there are three shapes, not two
 
 | | Thursday drive | Friday drive | Ryokan | Shirakawa-go |

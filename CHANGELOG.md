@@ -33,6 +33,55 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v64 &middot; 26 Aug 2026 &middot; Nadir
+
+**Guesthouses added as their own category, separate from the ryokan.** Nadir's brief: find places
+like **Akira Adventure Base on Shikoku**, where the group stayed before. Small outdoor bath, good
+views, welcoming hosts, homestay dinner.
+
+### ✅ Nadir's workaround is the thing that unlocks this
+
+His own point: **a guesthouse with no outdoor bath is still fine if there is a public or day-use
+onsen nearby**, since we have a car. **Checked, and he is right.** There are two, both with
+outdoor baths:
+
+| | Where | Hours | Price |
+|---|---|---|---|
+| **白川郷の湯** | **Ogimachi, 2 min from the bus terminal**, in the village. **Rotenburo over the Shogawa** | **07:00–21:30** | ¥900 |
+| **大白川温泉 しらみずの湯** | Hirase, by the roadside station, 15 min drive. Outdoor, cypress, bubble | from ~11:00 | **¥700** |
+
+✅ **白川郷の湯 is the one that matters.** Open to **21:30**, so you can eat a homestay dinner
+around the irori and *then* go sit in a river-view outdoor bath. It also gives **gassho guests a
+¥100 discount**, which tells you this pairing is completely normal there. That turns a gassho
+farmhouse stay, which otherwise has only a shared indoor bath, into a real option.
+
+### The top 5
+
+1. 🥇 **Salugabamba**, Hirase — **the Akira one.** Its **own free-flowing outdoor onsen** plus a
+   **wood-fired sauna** in a converted garage. Hosts **Shoko and Kenji**, repeatedly described in
+   reviews as the best stay of a Japan trip. Breakfast from their own and foraged mountain
+   vegetables, and a restaurant themed on **fermentation and spices**.
+2. **Kayabuki**, Iijima — gassho farmhouse, **cypress bath**, meals included, wild vegetables and
+   river fish, 3 min drive from the site and out of the tourist crush.
+3. **Hirase Onsen Guesthouse** — **private hot spring bath**, **whole-building rental** so the
+   four of us are alone, ¥12,000–15,000 a night. ⚠️ Self-catering, no homestay dinner.
+4. **Juemon**, Ogimachi — thatched farmhouse with **nearly 300 years of history**, irori dinner,
+   白川郷の湯 two minutes away.
+5. **Shoshichi**, **Ainokura in Gokayama** — 20 gassho houses instead of a hundred, much quieter,
+   and **on the Friday road to Toyama**.
+
+### How this compares with the ryokan
+
+- **Price is roughly half**: gassho minshuku run **¥8,000–20,000 pp** with dinner and breakfast,
+  against ¥22,000+ at Fujiya or Yama no Hotel.
+- **The trade is comfort for character**: shared baths and toilets, tatami and futons, a 200 to
+  300 year old building.
+- 🚨 **They book out early**, and most take only a handful of groups a night.
+- ⚠️ **Nothing is priced or checked for 18 Feb, or confirmed to sleep four.** Salugabamba's
+  restaurant closes Sunday and Monday evenings, which does not affect a **Thursday**.
+- 💡 Recorded as a genuine fork for the birthday: **a hearth dinner and a river-view rotenburo is
+  a different kind of good from kaiseki and a private bath.**
+
 ## v63 &middot; 26 Aug 2026 &middot; Nadir
 
 **Nadir sent a Google Maps link with 18 February already in it. It turned out to be the best
