@@ -674,7 +674,8 @@ It fails the Thursday limit and worsens the Friday leg: ⚠️ Hakuba → Gero i
 
 | | Where | Notes |
 |---|---|---|
-| **[白川郷平瀬温泉 お宿 のなか](https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E5%B7%9D%E9%83%B7%E5%B9%B3%E7%80%AC%E6%B8%A9%E6%B3%89%20%E3%81%8A%E5%AE%BF%20%E3%82%86%E3%81%AE%E3%81%95%E3%81%A8)** · Oyado Yunosato | Hirase, Shirakawa village | **100 % free-flowing** hot spring, all-tatami rooms, **Hida beef** and local *kei-chan*. The most ryokan-shaped of the options |
+| 🥇 **[藤助の湯 ふじや](https://www.google.com/maps/search/?api=1&query=%E8%97%A4%E5%8A%A9%E3%81%AE%E6%B9%AF%20%E3%81%B5%E3%81%98%E3%82%84%20%E7%99%BD%E5%B7%9D%E6%9D%91%E5%B9%B3%E7%80%AC)** · Tousuke-no-yu Fujiya | 白川村平瀬325-1, tel 05769-5-2611 | **Nadir found this one, 26 Aug.** See the assessment below: it is the strongest alternative on the page |
+| **[白川郷平瀬温泉 お宿 のなか](https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E5%B7%9D%E9%83%B7%E5%B9%B3%E7%80%AC%E6%B8%A9%E6%B3%89%20%E3%81%8A%E5%AE%BF%20%E3%82%86%E3%81%AE%E3%81%95%E3%81%A8)** · Oyado Yunosato | Hirase, Shirakawa village | **100 % free-flowing** hot spring, all-tatami rooms, **Hida beef** and local *kei-chan* |
 | **[Hirase Onsen Guesthouse](https://www.google.com/maps/search/?api=1&query=Hirase%20Onsen%20Guesthouse%20Shirakawa)** | Hirase | **Whole-building rental**, which suits four people. Bath 06:00–22:00 |
 | The other 6 ryokan / 2 minshuku | Hirase | ⚠️ Not individually researched. The area is small, so worth asking the tourist association directly |
 
@@ -682,26 +683,67 @@ It fails the Thursday limit and worsens the Friday leg: ⚠️ Hakuba → Gero i
 Hotel** on a private rotenburo or a proper kaiseki. That matters, because this is the birthday
 night.
 
+#### 🥇 藤助の湯 ふじや (Fujiya), assessed 26 Aug 2026
+
+Nadir sent this one, with the 18 February date already in the link. It is the best alternative
+found so far, and the price is the surprise.
+
+| | |
+|---|---|
+| Where | **白川村平瀬325-1**, Hirase Onsen. **15 min by car to the Shirakawa-go gassho village**, **30 min to Gokayama / Ainokura** |
+| Size | ✅ **11 rooms only**: 8 Japanese, 2 Japanese-Western, and **1 special thatched gassho farmhouse room** |
+| Bath | ✅ **源泉掛け流し**, 100 % free-flowing, no recirculation. ✅ **露天風呂**, open-air bath |
+| Dinner | ✅ **山里料理 served at the irori hearth**, with **Hida beef** on a ceramic plate in at least some plans |
+| Price | **From ¥22,000 per person** with dinner and breakfast; the gassho suite from ¥29,700 |
+| Practical | Check-in **15:00**, check-out **10:00**, parking, wifi |
+
+🚨 **The price is essentially identical to Yama no Hotel.** Ours there is ¥90,552 for four, which
+is **¥22,638 a head**, against Fujiya's **¥22,000+**. Moving to Shirakawa-go is **not** a
+downgrade to save money, which is what I had assumed when writing the three shapes below.
+
+⚠️ **What is still unverified, and it matters:**
+- **Availability for 18 Feb, four people.** Yama no Hotel's ¥90,552 came from a real
+  date-and-headcount search; Fujiya's ¥22,000 is a "from" price off the website.
+- **Private / kashikiri baths.** Yama no Hotel has three; Fujiya is unconfirmed.
+- Whether the **gassho farmhouse room** sleeps four, or is a couple's room.
+
+🚨 **11 rooms against Yama no Hotel's 86.** If we want this, it has to be booked much earlier, and
+a waitlist is not a plan. This is the practical argument for deciding soon rather than later.
+
+**What it wins:** an **irori hearth dinner** is a better birthday story than a hotel dining room;
+Shirakawa-go becomes a 15-minute errand instead of a 2 h 10 detour; and Friday's drive to Toyama
+drops to about an hour.
+**What it loses:** Yama no Hotel's **cable-car river rotenburo facing Yarigatake**, which is
+genuinely one of a kind, and Okuhida altogether, which retires the ropeway for good.
+
+💡 **A bonus this opens up:** from Fujiya, Friday could be **Shirakawa-go (15 min) → Ainokura
+(30 min) → Toyama (~1 h)**, collecting **both** gassho villages in one relaxed morning.
+⚠️ In daylight only: the Ainokura light-up runs **Saturday 20 and Sunday 21** evenings, not
+Friday, so this does not solve the light-up question logged elsewhere.
+
 ### So there are three shapes, not two
 
 | | Thursday drive | Friday drive | Ryokan | Shirakawa-go |
 |---|---|---|---|---|
 | **A. Okuhida, as planned** | 2 h 30 | 1 h 30 | ✅ **Yama no Hotel, priced €122, cable-car river rotenburo, Hida beef kaiseki** | ❌ Not seen |
-| **B. Move to Hirase Onsen** | 2 h 28 – 3 h | **~1 h** | ⚠️ Unpriced, unverified for the date | ✅ Friday morning, right there |
+| **B. Move to Fujiya, Hirase Onsen** | 2 h 28 – 3 h | ✅ **~1 h** | ✅ **Fujiya, ¥22,000+**, irori dinner, rotenburo, 11 rooms. ⚠️ date unverified | ✅ Friday morning, 15 min away, **and Ainokura possible** |
 | **C. Keep Okuhida *and* add Shirakawa-go on Friday** | 2 h 30 | ⚠️ **~3 h 10** (Hirayu → Shirakawa-go 2 h 10, then ~1 h to Toyama) | ✅ **Yama no Hotel** | ✅ Friday midday |
 
-**Recommendation: C, and it is newly possible.** Check out at 10:00, Shirakawa-go by ~12:10, an
-hour or so in the village, Toyama by ~14:30, which still clears **Iwase before it shuts at
-17:00**. It keeps the one ryokan we have actually confirmed for the birthday, and it collects the
-village that has been falling off this page since August.
+**Recommendation, revised 26 Aug: B, now that Fujiya is on the table.** The earlier recommendation
+was C, on the assumption that anything near Shirakawa-go would be a compromise on the ryokan. **At
+¥22,000 against ¥22,638 that assumption was wrong**, and B stops being a trade at all: same money,
+a real free-flowing rotenburo, an irori dinner instead of a hotel dining room, an hour's drive on
+Friday instead of three, and both gassho villages within reach.
 
-⚠️ **What C costs:** Friday becomes a real driving day, roughly 3 h 10 against 1 h 30, on winter
-roads where the quoted free-flow times are optimistic. If the weather is bad, drop Shirakawa-go on
-the morning and drive straight to Toyama; nothing is booked around it.
+**C remains the answer if the deciding factor is Yama no Hotel itself**, specifically the cable-car
+river bath facing Yarigatake. That is a genuinely unique thing and no Hirase ryokan replaces it.
 
-**B is the better answer only if seeing Shirakawa-go properly matters more than the birthday
-ryokan.** ⚠️ The Shirakawa-go winter light-up is unavailable either way: in 2027 it runs four
-January evenings only.
+🚨 **Either way this wants deciding soon.** Fujiya has **11 rooms**, so it goes early, while Yama
+no Hotel's 90-day window opens around **20 November 2026**. The two decisions have different
+clocks.
+
+⚠️ The Shirakawa-go winter light-up is unavailable in every version: in 2027 it runs four January
+evenings only.
 
 [Yama no Hotel on Ikyu](https://www.ikyu.com/00030706/) ·
 [Miyama Ouan](https://www.ikyu.com/00001354/) ·

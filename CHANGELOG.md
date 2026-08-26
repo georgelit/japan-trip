@@ -33,6 +33,47 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v63 &middot; 26 Aug 2026 &middot; Nadir
+
+**Nadir sent a Google Maps link with 18 February already in it. It turned out to be the best
+alternative on the page, and it reverses v62's recommendation.**
+
+**藤助の湯 ふじや · Tousuke-no-yu Fujiya**, 白川村平瀬325-1, Hirase Onsen.
+
+| | |
+|---|---|
+| Where | **15 min to the Shirakawa-go gassho village**, **30 min to Gokayama / Ainokura** |
+| Size | **11 rooms**: 8 Japanese, 2 Japanese-Western, **1 thatched gassho farmhouse room** |
+| Bath | ✅ **源泉掛け流し** free-flowing, no recirculation · ✅ **露天風呂** open-air |
+| Dinner | ✅ **山里料理 at the irori hearth**, Hida beef on a ceramic plate in at least some plans |
+| Price | **From ¥22,000 pp** with dinner and breakfast; gassho suite from ¥29,700 |
+
+### 🚨 Why this flips the recommendation
+
+v62 recommended **C** (keep Okuhida, drive to Shirakawa-go on Friday) on an assumption stated
+openly at the time: that **anything near Shirakawa-go would be a compromise on the ryokan**, and
+the birthday was worth protecting.
+
+**That assumption was wrong.** Yama no Hotel is ¥90,552 for four, which is **¥22,638 a head**.
+Fujiya is **¥22,000+**. Same money. So **B stops being a trade**: same price, a genuine
+free-flowing rotenburo, an irori hearth dinner rather than a hotel dining room, **Friday's drive
+down from ~3 h 10 to about an hour**, and both gassho villages in reach.
+
+**Revised recommendation: B.** C stays the answer only if the deciding factor is Yama no Hotel
+itself, specifically its **cable-car river bath facing Yarigatake**, which no Hirase ryokan
+replaces.
+
+- ⚠️ **Unverified and it matters:** availability for **18 Feb, four people** (Yama no Hotel's
+  figure came from a real date-and-headcount search; Fujiya's ¥22,000 is a website "from" price),
+  whether there are **private baths** (Yama no Hotel has three), and whether the gassho room
+  sleeps four.
+- 🚨 **11 rooms against 86.** Fujiya will go early. Yama no Hotel's 90-day window opens around
+  **20 Nov 2026**. The two options have **different clocks**, which is the practical argument for
+  settling this soon.
+- 💡 **A bonus:** from Fujiya, Friday could run **Shirakawa-go (15 min) → Ainokura (30 min) →
+  Toyama (~1 h)** and collect **both** gassho villages. ⚠️ Daylight only: the Ainokura light-up is
+  Saturday and Sunday evenings, so this does not solve the light-up question logged separately.
+
 ## v62 &middot; 26 Aug 2026 &middot; Nadir
 
 **More ryokan options, as asked. Looking for them exposed a stale assumption that had been
