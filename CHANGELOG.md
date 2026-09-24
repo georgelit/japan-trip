@@ -33,6 +33,44 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v66 &middot; 24 Sep 2026 &middot; Georgi
+
+**Ski days reordered: Tsugaike on Tuesday, Goryu + Hakuba47 on Wednesday, Happo-One on Thursday.**
+
+| Day | Before | Now |
+|---|---|---|
+| **Tue 16** | Happo-One | **Tsugaike** |
+| **Wed 17** | Goryu | **Goryu + Hakuba47** |
+| **Thu 18** | Nadir's choice, Happo again or Tsugaike | **Happo-One**, still Nadir's call |
+
+### Why
+
+- **Happo-One on Tuesday meant two complete beginners starting on the least beginner-friendly
+  mountain in the valley**, jet-lagged, on day one. Two independent Hakuba guides
+  ([Japow Project](https://japowproject.com/en/guides/hakuba-valley-complete-guide),
+  [Living the Dream](https://www.livingthedreamrtw.com/hakuba-ski-resorts)) both name **Tsugaike**
+  first for complete beginners and Goryu as a safe pick for mixed groups; Happo-One is for
+  intermediates and up. The old text said the gentle zones suit beginners "at Happo-One and Goryu";
+  the Happo half of that did not hold up.
+- **Wednesday is the only full day**, so it goes to the one mountain that works for all four at once.
+- **Happo-One is not lost**, it moves to Nadir's birthday morning: rated the best in Hakuba for
+  snowboarders, and by day three the beginners can manage its base zones.
+- **Checked that the order does not hurt Thursday:** from Tsugaike, Happo or Goryu to Okuhida is
+  about the same, ~1 h 40 on a clear road with under 15 min between them (OSRM, no winter allowance).
+  The resort can be chosen on the skiing alone.
+
+### Knock-on edits
+
+- **Tuesday's timeline:** gear at **Lion Gear** in Echoland (the timeline still named Rhythm and NBS,
+  which were never priced), then 9.4 km to Tsugaike, first run **~11:00** instead of 10:45.
+  ⚠️ Lion Gear's opening hours and Tsugaike's lift hours are not checked.
+- Hakuba Gondola Apartments is now "best for Thursday", not Tuesday.
+- Open questions: gear pre-booking now points at Lion Gear (online bookings up to 2 days and 8 hours
+  ahead). **Two new ones:** Nadir confirms Thursday, and a **bad-weather plan** for the ski days.
+- Map pin text updated.
+
+**Not in this version:** the Thursday ryokan. That section is unchanged here.
+
 ## v65 &middot; 26 Aug 2026 &middot; Nadir
 
 **Two more areas for the guesthouse search, both from Nadir: Gokayama/Ainokura and

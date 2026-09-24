@@ -155,9 +155,9 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 |---|---|---|---|
 | 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** ✈️ **Georgi: Turkish, BER 19:20.** ✈️ **Nadir: LH/ANA, LEJ 18:40** | plane |
 | 2 | Mon 15 Feb | ✈️ **Nadir lands 17:55, Georgi lands 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. Mogi meets us here | Nagano |
-| 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear ~10:00. 🎿 **On the snow around 10:45, Happo-One.** A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
-| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu.** Long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi zone for Rostik. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
-| 5 | **Thu 18 Feb** | 🎿 **Day 3, Nadir's pick, until ~12:30.** Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
+| 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear at **Lion Gear in Echoland** ~10:15, then 15 min to Tsugaike. 🎿 **On the snow around 11:00, Tsugaike**, the beginners' mountain, because it is Rostik's and Mogi's first day. A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
+| 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** The only full day, so the one mountain that works for all four: long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi and Iimori zones for Rostik and Mogi. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
+| 5 | **Thu 18 Feb** | 🎿 **Day 3: Happo-One, Nadir's birthday morning** (his call), until ~12:30. Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | 🏮 **Okuhida ryokan with rotenburo** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | Toyama |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
@@ -180,7 +180,7 @@ sea, and it reads as one continuous arc.
 - ✅ **Toyama is in**, which Rostik asked for and Nadir originally drew.
 - ✅ **Kanazawa is in**, which fills what was the empty day 8.
 - ✅ **Jakob's open seat is filled** by Mogi, 22 Aug. The three-way cost split is gone.
-- ✅ **Tuesday is now an honest timeline**, first run around 10:45, not a wish.
+- ✅ **Tuesday is now an honest timeline**, first run around 11:00 at Tsugaike, not a wish.
 - ✅ **Georgi's flight is BOOKED** (25 Aug 2026): Turkish out 14th 19:20, back 22nd 22:05, €943.05, Eco Fly, through Mytrip.
 - ✅ **Nadir's flight is BOOKED** (26 Aug 2026): **Lufthansa/ANA from Leipzig**, out 14th 18:40, **lands HND 17:55**, back 22nd 22:45. Different airline and **~1 h 50 earlier arrival** than Georgi, which changes Monday evening. 🚨 **Rostik is still not booked.**
 - ✅ **Takayama is out** as a stop. We only drive through it.
@@ -195,7 +195,7 @@ which does not fit into day 6 alongside the ropeway. It is about an hour from To
 want it, it becomes a day trip on day 7 **instead of Kanazawa**, not as well as.
 
 
-### Is Tuesday realistic? It was not. Fixed 22 Aug 2026.
+### Is Tuesday realistic? It was not. Fixed 22 Aug 2026, moved to Tsugaike 24 Sep 2026.
 
 The day card used to say "on the snow by 10:30" as if it were a target. Georgi asked whether that
 was real. It was not, and here is the chain, each link sourced:
@@ -205,19 +205,19 @@ was real. It was not, and here is the chain, each link sourced:
 | Nagano rental opens | **08:00** | Toyota Rent a Car Nagano, 3 min from the Zenkoji exit, 08:00–20:00. [Rakuten](https://travel.rakuten.com/cars/default/en-us/nagano/station/4402/) |
 | Paperwork, winter tyres check, load up | 08:00–08:30 | Four people, bags, a car none of us has driven |
 | Nagano → Hakuba | 08:30–09:30 | 45 km, ~1 h on winter roads |
-| Rental gear for four | 09:30–10:15 | Rhythm Happo opens 08:00, NBS 07:30. Boots for four people is not a five-minute job. [Rhythm](https://rhythmjapan.com/rhythm-happo-hakuba) |
-| Walk to Gondola Adam, ticket | 10:15–10:45 | Lifts run 08:00–16:20 in season. [Happo-One](https://www.happo-one.jp/en/news/36515/) |
-| **First run** | **~10:45** | |
+| Rental gear for four | 09:30–10:15 | **Lion Gear, Echoland**, the shop we have real prices for. Boots for four people is not a five-minute job. ⚠️ Opening hours are not published on their site, confirm when booking. Online bookings are accepted up to 2 days and 8 hours ahead. [Lion Gear](https://rentalhakuba.com/) |
+| Drive to Tsugaike, park, ticket | 10:15–11:00 | Echoland → Tsugaike base, **9.4 km, ~15 min** on a clear road (OSRM, no winter allowance). ⚠️ Tsugaike lift hours not checked yet |
+| **First run** | **~11:00** | |
 
-So **10:45 is the honest earliest**, not 10:30, and only if nothing slips. After landing at 19:45
+So **11:00 is the honest earliest** at Tsugaike (it was 10:45 when Tuesday was Happo-One, walkable from Echoland), and only if nothing slips. After landing at 19:45
 the night before and reaching Nagano around 23:40, nothing slipping is optimistic.
 
-**What that means:** Tuesday is a **short first day**, roughly 10:45 to 15:00, and that is fine.
+**What that means:** Tuesday is a **short first day**, roughly 11:00 to 15:00, and that is fine.
 Nobody needs a full day on the snow twelve hours after a fifteen-hour flight. **Wednesday is the
 first full morning**, lifts from 08:00.
 
 **Two ways to buy back Tuesday morning, neither taken:**
-- **Book gear online the night before** and pick it up fitted. Rhythm and Central both do this.
+- **Book gear online the night before** and pick it up fitted. Lion Gear takes online bookings up to 2 days and 8 hours ahead.
   Saves maybe 20 minutes. Worth doing regardless.
 - **Sleep in Hakuba on Monday instead of Nagano.** Not possible: the last Shinkansen reaches
   Nagano at 23:40 and there is no onward bus at that hour.
@@ -348,7 +348,7 @@ runs.
 **Two beginners is a different shape from one.** Rostik and Mogi can keep each other company on
 the easy terrain while Georgi and Nadir go up the mountain, which takes the pressure off
 everybody. Worth knowing: a beginner on skis and a beginner on a board learn different things on
-the same slope, so the gentle zones need to suit both, and they do at Happo-One and Goryu. A **shared
+the same slope, so the gentle zones need to suit both. They do at **Tsugaike** and **Goryu**. Happo-One has beginner zones at the base, but the beginner guides are clear that it is **not a first-day mountain**, see below. A **shared
 private lesson** is possible in principle, since Hakuba schools price by instructor, not per
 person, but the number matters: **Evergreen charges ¥110,000 (≈ €595) for a full-day private for
 1–3 people**, and one instructor cannot teach ski and board technique at the same time. So it
@@ -359,13 +359,23 @@ which was a guess about Nadir rather than a fact. Removed.
 
 | Day | Resort | Why |
 |---|---|---|
-| **Tue 16** | [**Happo-One**](https://www.google.com/maps/search/?api=1&query=Happo-One%20Ski%20Resort%20Hakuba) | The big one, and worth knowing: despite its reputation as a skiers' mountain, Happo-One is rated the **best resort in Hakuba for snowboarders** precisely because it has flowy terrain with **minimal flat sections**. Steepest vertical in the valley, 1,071 m. Rostik's ground is the beginner zones at the base, Nakiyama and Sakka, plus Shirakaba at a maximum of 20° |
-| **Wed 17** | [**Goryu**](https://www.google.com/maps/search/?api=1&query=Hakuba%20Goryu%20Ski%20Resort) | **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik. It is physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over, but the park there is not our thing and is not the reason to go |
-| **Thu 18** | **Nadir's choice** | It is his birthday. Happo-One again, or [**Tsugaike**](https://www.google.com/maps/search/?api=1&query=Tsugaike%20Kogen%20Ski%20Resort), the valley's cruising resort: wide, mellow groomers with a strong intermediate upper mountain. Cortina next door for trees and deep snow if it has dumped. Half day, off the snow by 12:30 |
+| **Tue 16** | [**Tsugaike**](https://www.google.com/maps/search/?api=1&query=Tsugaike%20Kogen%20Ski%20Resort) | **Rostik's and Mogi's first day**, so the beginners' mountain. Both Hakuba guides we checked name it first for complete beginners: **very wide, almost flat greens at the base**, and a **green run from the top** with its own lift, so the gradient builds gently. Ski schools with English-speaking instructors are based here, if Mogi wants a lesson. 15 min by car from Echoland. For Georgi and Nadir it is a short, jet-lagged day on a decent intermediate upper mountain, which is all Tuesday is anyway |
+| **Wed 17** | [**Goryu + Hakuba47**](https://www.google.com/maps/search/?api=1&query=Hakuba%20Goryu%20Ski%20Resort) | **The only full day**, so the one mountain that works for all four of us at once. **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik and Mogi on their second day. Physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over; the park there is not our thing and is not the reason to go |
+| **Thu 18** | [**Happo-One**](https://www.google.com/maps/search/?api=1&query=Happo-One%20Ski%20Resort%20Hakuba), **Nadir's call** | His birthday, so the **biggest mountain in the valley**: steepest vertical, 1,071 m, and despite its reputation as a skiers' mountain it is rated the **best resort in Hakuba for snowboarders**, flowy terrain with **minimal flat sections**. By day three the beginners can manage its base zones, Nakiyama and Sakka, plus Shirakaba at a maximum of 20°. Walkable from Echoland. Half day, off the snow by 12:30. Still Nadir's pick: Tsugaike again, or Cortina for trees and deep snow if it has dumped |
+
+**Why this order (Georgi, 24 Sep 2026).** The previous table had Happo-One on Tuesday. That put two
+complete beginners on the least beginner-friendly mountain in the valley, jet-lagged, on their very
+first day. Both guides agree: Tsugaike is the first answer for complete beginners, Goryu a safe one
+for mixed groups, Happo-One a mountain for intermediates and up. Flipping the order keeps Happo-One
+and gives it to Nadir's birthday. Checked that it costs nothing on Thursday: from Tsugaike, Happo or
+Goryu the drive to Okuhida is about the same, ~1 h 40 on a clear road with under 15 min between them
+(OSRM, no winter allowance), so the Thursday resort can be chosen on the skiing alone.
 
 Sources: [Burton's guide to Hakuba](https://www.burton.com/en-us/blogs/the-burton-blog/burtons-official-guide-to-snowboarding-hakuba) ·
 [Hakuba47 official](https://www.hakuba47.co.jp/winter/en/tickets/lift_tickets_info/entry-110.html) ·
-[Goryu 47 combined area](https://goryu47.com/en/)
+[Goryu 47 combined area](https://goryu47.com/en/) ·
+[Japow Project, Hakuba Valley guide](https://japowproject.com/en/guides/hakuba-valley-complete-guide) ·
+[Living the Dream: start at Tsugaike](https://www.livingthedreamrtw.com/hakuba-ski-resorts)
 
 ### The Thursday ryokan move (rewritten 1 Aug 2026)
 
@@ -461,9 +471,13 @@ Everything in this section has a source. Do not edit these numbers without a new
 - **Hakuba Valley as a whole:** 133 km, 109 lifts, 960 ha across 10 resorts. The valley is
   40 km long, so realistically **one or two resorts per day**, not more.
   [Snow Monkey Resorts](https://www.snowmonkeyresorts.com/smr/hakuba/hakuba-valley-ski-resorts/)
-- Beginner terrain for Rostik: **Shirakaba** slope (max gradient 20°), plus the **Nakiyama**
+- Beginner terrain at Happo-One, for Thursday: **Shirakaba** slope (max gradient 20°), plus the **Nakiyama**
   and **Sakka** beginner zones with the ski school office at the base of Nakiyama.
   [happo-one.jp](https://www.happo-one.jp/en/gelande/)
+- **Tsugaike, for Tuesday:** named first for complete beginners by both guides we checked: wide,
+  near-flat greens at the base, a green run from the top with its own lift, and a forest trail back
+  down that crosses red runs, so watch the crossings. ⚠️ Lift hours, vertical and 2026/27 details not
+  checked. [Living the Dream](https://www.livingthedreamrtw.com/hakuba-ski-resorts) · [Japow Project](https://japowproject.com/en/guides/hakuba-valley-complete-guide)
 
 ### Is the ropeway actually worth a morning?
 
@@ -1207,7 +1221,7 @@ Gear comes from **Lion Gear in Echoland**, and both dinner picks are in the vill
 | | Where | Why |
 |---|---|---|
 | **1. Hakuba Echoland Apartments** | Centre of **Echoland**, on-site parking, **dry room** | Same street as the gear shop and the restaurants. Best fit for how this trip actually runs |
-| **2. Hakuba Gondola Apartments** | **Opposite the Happo-One gondola**, 2BR sleeps 4, shuttle stop next door | Best for Tuesday, when Happo is the mountain. Rooms sized for exactly four |
+| **2. Hakuba Gondola Apartments** | **Opposite the Happo-One gondola**, 2BR sleeps 4, shuttle stop next door | Best for Thursday, when Happo is the mountain. Rooms sized for exactly four |
 | **3. Gakuto Villas** | Upper Wadano, 2BR, **~7 min walk to the lifts** | The compromise: quieter, still walkable to snow |
 
 ⚠️ Apartments beat hotel rooms here: **four people, one kitchen, a dry room and parking** is the
@@ -1326,9 +1340,9 @@ Nadir read it as "**~€120 for 3 days, €20 more with helmet and clothes**". T
 - ✅ There is a **shuttle service**, and the shop is in **Echoland**, where the plan already has a
   dinner option. One trip, both errands.
 - ⚠️ Damage or loss is charged at full replacement cost, checked on return.
-- ⚠️ **This is a different shop from the ones already on this page.** The day-3 timeline still
-  names **Rhythm** (opens 08:00) and **NBS**. Lion Gear is the one we now have real prices for;
-  the others have not been priced. **Nobody has booked anything yet.**
+- ✅ **The day-3 timeline now uses Lion Gear too** (24 Sep 2026). It used to name Rhythm and NBS,
+  which were never priced. ⚠️ Lion Gear's opening hours are not on its site. **Nobody has booked
+  anything yet.**
 
 ---
 
@@ -1902,7 +1916,7 @@ cost. The 16th breaks the rule the dates were built around.**
    said earlier he would rather teach himself; Mogi has not said. Their call.
 
 3. 🟡 **Pre-book the Hakuba rental gear online** for Tuesday pickup. It is the cheapest way to win
-   back twenty minutes on the short first day. Rhythm and Central both take online bookings.
+   back twenty minutes on the short first day. Lion Gear takes online bookings up to 2 days and 8 hours ahead.
 
 4. 🟡 **Nadir: pick the day 8 afternoon out of your own map.** Central Tokyo holds about fifty of
    your pins, and Sunday afternoon before the night drive is still open. **Day 9 now has a plan**
@@ -1943,6 +1957,13 @@ cost. The 16th breaks the rule the dates were built around.**
 12. 🟢 **Toyama, Kanazawa and the Tokyo days have named stops but no real planning behind them.**
     No hours, no order, no reasoning. Kenrokuen is the concrete example: winter is its signature
     season because of **yukitsuri**, the rope rigging on the pines, lit at night through February.
+
+13. 🟡 **Nadir: Thursday is proposed as Happo-One.** It is your birthday morning, so your call.
+    Tsugaike again, or Cortina if it has dumped, are the alternatives. The drive to the ryokan is
+    about the same from any of them.
+
+14. 🟡 **Bad-weather plan for the ski days.** If the upper lifts close in a storm, where do we go
+    instead? ⚠️ Nothing checked yet, no wind-hold data found so far.
 
 ### Closed
 
