@@ -33,6 +33,34 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v67 &middot; 28 Sep 2026 &middot; Georgi
+
+**Hakuba is booked: From P, a sauna dome in Echoland, Tue 16 → Thu 18 Feb, ¥162,000 paid.**
+
+| | |
+|---|---|
+| Where | **From P**, Hokujo 3020-45, Echoland, same block as Lion Gear |
+| What | Sauna glamping: a private **7 m dome** with the **Square sauna** option |
+| Check-in / out | from 18:00 per the confirmation / by 10:00 |
+| Price | **¥162,000 incl. tax, paid** (≈ €876, ≈ €219 each split four ways), no meals |
+| Extra | Hakuba accommodation tax, cash at check-in, amount not stated |
+| Cancellation | 20 % from 14 days, 50 % from 7, 80 % from 3, 100 % on the day |
+
+🚨 **Booked for 3 adults, not 4.** New open question 15: is Mogi in the dome, and does it take four?
+
+### Knock-on edits
+
+- **Money:** Hakuba line €120–180 (estimate) → **€219** (real). Shared base now **€1,421–1,649**,
+  every per-person total moves up by €39–99.
+- The Hakuba shortlist (Echoland Apartments, Gondola Apartments, Gakuto Villas) is retired;
+  Gondola Apartments was already sold out for our dates.
+- **Correction of v66:** it said Happo-One is "walkable from Echoland". It is not: ~4 km to the Adam
+  gondola, ~50 min on foot. The old "walk to the gondola" was from a rental shop in Happo village.
+  Now says it is a short drive.
+
+History of the booking: Booking.com 26 Sep (Family Room with Sauna, ¥167,076), cancelled free on
+27 Sep, rebooked direct with the property on 28 Sep. Booking references are kept off this page.
+
 ## v66 &middot; 24 Sep 2026 &middot; Georgi
 
 **Ski days reordered: Tsugaike on Tuesday, Goryu + Hakuba47 on Wednesday, Happo-One on Thursday.**

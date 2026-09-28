@@ -209,7 +209,7 @@ was real. It was not, and here is the chain, each link sourced:
 | Drive to Tsugaike, park, ticket | 10:15–11:00 | Echoland → Tsugaike base, **9.4 km, ~15 min** on a clear road (OSRM, no winter allowance). ⚠️ Tsugaike lift hours not checked yet |
 | **First run** | **~11:00** | |
 
-So **11:00 is the honest earliest** at Tsugaike (it was 10:45 when Tuesday was Happo-One, walkable from Echoland), and only if nothing slips. After landing at 19:45
+So **11:00 is the honest earliest** at Tsugaike (it was 10:45 when Tuesday was Happo-One, with the gear from a shop in Happo village), and only if nothing slips. After landing at 19:45
 the night before and reaching Nagano around 23:40, nothing slipping is optimistic.
 
 **What that means:** Tuesday is a **short first day**, roughly 11:00 to 15:00, and that is fine.
@@ -361,7 +361,7 @@ which was a guess about Nadir rather than a fact. Removed.
 |---|---|---|
 | **Tue 16** | [**Tsugaike**](https://www.google.com/maps/search/?api=1&query=Tsugaike%20Kogen%20Ski%20Resort) | **Rostik's and Mogi's first day**, so the beginners' mountain. Both Hakuba guides we checked name it first for complete beginners: **very wide, almost flat greens at the base**, and a **green run from the top** with its own lift, so the gradient builds gently. Ski schools with English-speaking instructors are based here, if Mogi wants a lesson. 15 min by car from Echoland. For Georgi and Nadir it is a short, jet-lagged day on a decent intermediate upper mountain, which is all Tuesday is anyway |
 | **Wed 17** | [**Goryu + Hakuba47**](https://www.google.com/maps/search/?api=1&query=Hakuba%20Goryu%20Ski%20Resort) | **The only full day**, so the one mountain that works for all four of us at once. **Long, immaculately groomed cruisers** descending from a high plateau through tree-lined runs, groomed every day, with wide gentle slopes in the **Toomi** and **Iimori** zones for Rostik and Mogi on their second day. Physically connected to Hakuba47 by gondola on the same ticket, so anyone who wants more vertical can cross over; the park there is not our thing and is not the reason to go |
-| **Thu 18** | [**Happo-One**](https://www.google.com/maps/search/?api=1&query=Happo-One%20Ski%20Resort%20Hakuba), **Nadir's call** | His birthday, so the **biggest mountain in the valley**: steepest vertical, 1,071 m, and despite its reputation as a skiers' mountain it is rated the **best resort in Hakuba for snowboarders**, flowy terrain with **minimal flat sections**. By day three the beginners can manage its base zones, Nakiyama and Sakka, plus Shirakaba at a maximum of 20°. Walkable from Echoland. Half day, off the snow by 12:30. Still Nadir's pick: Tsugaike again, or Cortina for trees and deep snow if it has dumped |
+| **Thu 18** | [**Happo-One**](https://www.google.com/maps/search/?api=1&query=Happo-One%20Ski%20Resort%20Hakuba), **Nadir's call** | His birthday, so the **biggest mountain in the valley**: steepest vertical, 1,071 m, and despite its reputation as a skiers' mountain it is rated the **best resort in Hakuba for snowboarders**, flowy terrain with **minimal flat sections**. By day three the beginners can manage its base zones, Nakiyama and Sakka, plus Shirakaba at a maximum of 20°. A short drive from Echoland, ~4 km to the Adam gondola (not walkable with gear, ~50 min on foot). Half day, off the snow by 12:30. Still Nadir's pick: Tsugaike again, or Cortina for trees and deep snow if it has dumped |
 
 **Why this order (Georgi, 24 Sep 2026).** The previous table had Happo-One on Tuesday. That put two
 complete beginners on the least beginner-friendly mountain in the valley, jet-lagged, on their very
@@ -1197,6 +1197,8 @@ shortlist to price up, which is what it was asked to be.
 is already chosen and priced at ¥90,552 for four with dinner, and the 90-day booking window opens
 around 20 Nov 2026.
 
+✅ **Hakuba (Tue 16, Wed 17) is booked**: From P, see its section below. Its shortlist is retired.
+
 ### 🌙 Night 1 · Nagano, Mon 15 Feb
 
 **The constraint: Georgi arrives 23:40 and the car is collected at 08:00.** So this has to be
@@ -1213,19 +1215,32 @@ walking distance from the **Zenkoji Exit**, which is also the side the rental of
 Japanese business hotels, and being locked out is the one failure this night cannot absorb.
 ⚠️ Budget line: €50–80 per person.
 
-### 🎿 Nights 2–3 · Hakuba, Tue 16 and Wed 17 Feb
+### 🎿 Nights 2–3 · Hakuba, Tue 16 and Wed 17 Feb: ✅ booked
 
-**The constraint: we have a car, so being slope-side matters less than parking and a dry room.**
-Gear comes from **Lion Gear in Echoland**, and both dinner picks are in the village.
+✅ **Booked and paid by Georgi on 28 Sep 2026: [**From P**](https://www.google.com/maps/search/?api=1&query=From%20P%20Hakuba), Echoland**, directly with the
+property. It is **sauna glamping**: a private dome with its own outdoor sauna.
+[From P](https://fromp-hakuba.jp/en/) · [Hakuba village page](https://www.vill.hakuba.nagano.jp/activities/fromp-hakuba/)
 
-| | Where | Why |
-|---|---|---|
-| **1. Hakuba Echoland Apartments** | Centre of **Echoland**, on-site parking, **dry room** | Same street as the gear shop and the restaurants. Best fit for how this trip actually runs |
-| **2. Hakuba Gondola Apartments** | **Opposite the Happo-One gondola**, 2BR sleeps 4, shuttle stop next door | Best for Thursday, when Happo is the mountain. Rooms sized for exactly four |
-| **3. Gakuto Villas** | Upper Wadano, 2BR, **~7 min walk to the lifts** | The compromise: quieter, still walkable to snow |
+| | |
+|---|---|
+| What | **7 m dome**, booked with the **Square sauna** option. Each dome is let to one group only; air-conditioned, double-insulated for winter, and the sauna domes have their own cold plunge (sauna until 21:00) |
+| Dates | **Tue 16 Feb → Thu 18 Feb 2027**, 2 nights |
+| Check-in | The confirmation says **from 18:00**. ⚠️ The property's general note says 15:00–19:00 and "after 19:00, tell us in advance". Front desk 08:00–20:00, in the **dark blue building**. Luggage can be left before check-in if we ask in advance |
+| Check-out | **By 10:00**. Late check-out costs ¥6,000 an hour |
+| Price | **¥162,000 total, tax included, already paid** (≈ €876, **≈ €219 each** split four ways). No meals booked |
+| Not included | **Hakuba accommodation tax**, new since 1 Jun 2026, paid **in cash at check-in**. ⚠️ Amount not stated |
+| Cancellation | 20 % from 14 days before, 50 % from 7 days, 80 % from 3 days, 100 % on the day or no-show |
+| Contact | 0261-72-3780 (Japanese) · info@frompbow.com |
+| Where | Hokujo 3020-45, **Echoland**, the same block as Lion Gear. By car: Goryu ~9 min, Tsugaike ~15 min, Happo village 1 km, Happo's Adam gondola ~4 km |
 
-⚠️ Apartments beat hotel rooms here: **four people, one kitchen, a dry room and parking** is the
-shape we need for two nights. Budget line: €120–180 per person for both nights.
+🚨 **Booked for 3 adults, not 4.** To sort out: is Mogi in this dome, and does the 7 m dome take
+four? Ask the property by email, the phone line is Japanese only.
+⚠️ **Not stated anywhere we found:** what beds are in the dome, and whether it has its own toilet
+and shower or uses a shared building.
+
+History: first booked on Booking.com on 26 Sep (Family Room with Sauna, ¥167,076), cancelled free
+of charge on 27 Sep, rebooked direct on 28 Sep. The earlier shortlist (Echoland Apartments, Hakuba
+Gondola Apartments, Gakuto Villas) is retired; Gondola Apartments was already sold out for our dates.
 
 ### 🚄 Night 4 · Toyama, Fri 19 Feb
 
@@ -1499,7 +1514,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
 | Nagano, 1 night | 50–80 | ⚠️ not yet checked |
 | Tokyo, 1 night | 60–90 | ⚠️ |
-| Hakuba, 2 nights | 120–180 | ⚠️ apartment for four |
+| Hakuba, 2 nights | **219** | ✅ From P, booked and paid 28 Sep 2026: ¥162,000 for the dome, split four ways. ⚠️ Hakuba accommodation tax extra, cash at check-in |
 | 🏮 Okuhida ryokan, 1 night with dinner | **122** | ✅ Yama no Hotel, 18 Feb, four people, Ikyu 22 Aug 2026 |
 | Toyama, 1 night | 60–100 | ⚠️ |
 | Kanazawa, 1 night | 70–110 | ⚠️ |
@@ -1510,17 +1525,17 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 
 ### Total, per person
 
-Recomputed **26 Aug 2026**, once Nadir's fare came in. The old single figure of €2,150–2,800 is
+Recomputed **26 Aug 2026**, once Nadir's fare came in. **Updated 28 Sep 2026** with the real Hakuba price. The old single figure of €2,150–2,800 is
 **withdrawn**: it was built on a flight *estimate*, and it sat below what the trip actually costs.
 
-**Shared base, everything except flight and gear: €1,322 – 1,610.**
+**Shared base, everything except flight and gear: €1,421 – 1,649.**
 
 | | Flight | Gear | **Total** |
 |---|---|---|---|
-| **Georgi** | 943 ✅ | 89 | **≈ €2,354 – 2,642** |
-| **Nadir** | 1,077 ✅ | 89 | **≈ €2,488 – 2,776** |
-| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,430 – 2,852** |
-| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,487 – 1,775** |
+| **Georgi** | 943 ✅ | 89 | **≈ €2,453 – 2,681** |
+| **Nadir** | 1,077 ✅ | 89 | **≈ €2,587 – 2,815** |
+| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,529 – 2,891** |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,586 – 1,814** |
 
 - The spread inside each row is **accommodation and the car**, which are still ⚠️ estimates. The
   confirmed lines (flights, lift pass, gear, ryokan, rail, drop fee) barely move.
@@ -1965,8 +1980,12 @@ cost. The 16th breaks the rule the dates were built around.**
 14. 🟡 **Bad-weather plan for the ski days.** If the upper lifts close in a storm, where do we go
     instead? ⚠️ Nothing checked yet, no wind-hold data found so far.
 
+15. 🚨 **Georgi and Mogi: From P is booked for 3 adults, not 4.** Is Mogi in the dome, and does
+    the 7 m dome take four? Ask the property by email before anything else about Hakuba.
+
 ### Closed
 
+- ✅ **Hakuba is booked** (28 Sep 2026): From P, a sauna dome in Echoland, 2 nights, ¥162,000 paid.
 - ✅ **Takayama is out, for good** (1 Aug, Rostik; reconfirmed 4 Aug, Nadir, closing the onsen-stop
   suggestion from his map). Drive through only.
 - ✅ **Unazuki Onsen is out** (4 Aug, Nadir). The Kurobe Gorge Railway is shut in winter regardless,
