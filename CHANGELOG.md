@@ -33,6 +33,67 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v68 &middot; 29 Sep 2026 &middot; Nadir
+
+**Three nights booked, and the ryokan choice is settled — but it reverses a decision this page
+made in August, and the reason for that decision is still unresolved.**
+
+| Night | Booked | Per person | Estimate was |
+|---|---|---|---|
+| **Nagano**, Mon 15 | Sotetsu Fresa Inn, €63 twin, free cancellation | **€32** | 50–80 ✅ under |
+| **Okuhida**, Thu 18 | 匠の宿 深山桜庭 **Miyama-ouan**, ¥128,000 **for four** | **€173** | 122 🚨 over |
+| **Toyama**, Fri 19 | Dormy Inn Tsurugi-no-Yu, ¥34,200 twin, breakfast incl. | **€92** | 60–100 ✅ top of range |
+
+### 🚨 The ryokan: this page had ruled Miyama-ouan out
+
+In August the Ikyu check found *"on 18 Feb only room-only and breakfast plans are on sale, no
+dinner plan at all"*, and the recorded verdict was *"without a dinner plan it is a hotel, not the
+ryokan night we want"*. The criteria were an open-air bath, **a kaiseki dinner with Hida beef
+because it is Nadir's birthday**, and a room for four.
+
+Nadir has now booked exactly that hotel, and **the confirmation says nothing about meals**.
+⚠️ The price does not settle it: ¥128,000 is **¥34,704 above** August's breakfast-only quote of
+¥93,296, which could be dinner for four at ~¥8,700 a head **or** simply the Deluxe 45 m² room.
+Logged as **open question 0**, because it is the birthday.
+
+✅ **What is good:** Hirayu is the first village off Route 158, so Thursday's drive is shorter than
+to Shinhotaka and Friday's Hirayu → Toyama is the 1 h 30 already in the table. The room has its
+own **private bath in Shigaraki ware**, 45 m², renovated 2025.
+
+**What it closes:** **Okuhida wins.** Fujiya, Hirase and the entire guesthouse category (v62–v65)
+become history. 🚨 **And Shirakawa-go is no longer next door** — from Hirayu it is 2 h 10, so the
+only remaining route to the village is **Option C**, the Friday detour at ~3 h 10 of driving.
+Yama no Hotel's recommendation is struck through rather than deleted.
+
+### 🚨 Hakuba is booked for three, and the €219 figure assumed four
+
+v67 recorded ¥162,000 as "≈ €219 each split four ways", but the booking is **for 3 adults**. As it
+stands it is **¥54,000 = €292 each**; €219 is only true if a fourth is added to the same dome.
+Both numbers are now on the page.
+
+### 🚨 Two people have no bed on three nights
+
+Every booking so far covers fewer than four: **Nagano** and **Toyama** are twins for Nadir and
+Georgi, **Hakuba** is for three, and only the **ryokan** is for four. That is **two without a bed
+in Nagano, two in Toyama, one in Hakuba**, none of it priced. New open question.
+
+### Totals
+
+Base rises to **€1,559–1,704** as booked (€1,486–1,631 if the dome takes a fourth). Per person, as
+booked: **Georgi €2,591–2,736 · Nadir €2,725–2,870 · Rostik €2,667–2,812 · Mogi €1,724–1,869.**
+⚠️ **Accommodation is running over estimate**, mostly Hakuba. ⚠️ Mogi's row is the least
+trustworthy: if the dome holds Georgi, Nadir and Rostik, his two Hakuba nights are missing
+entirely.
+
+### Also noted
+
+✅ **Toyama is not the station-side pick the shortlist recommended, and that is fine.** Dormy Inn
+is in **Otemachi**, 1.2 km / ~15 min walk, **or a ~4 min tram — and the hotel gives guests free
+tram tickets**. It sits next to **Sogawa**, where the Sushi-Ei dinner is. The shortlist had
+optimised for Saturday morning's train and under-weighted the whole Friday evening. It also has a
+**natural hot spring and sauna**, so there is an onsen on the Friday regardless.
+⚠️ **The €1 ≈ ¥185 rate is from 31 July** and real money is now moving through it.
+
 ## v67 &middot; 28 Sep 2026 &middot; Georgi
 
 **Hakuba is booked: From P, a sauna dome in Echoland, Tue 16 → Thu 18 Feb, ¥162,000 paid.**
