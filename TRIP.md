@@ -153,15 +153,15 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 
 | Day | Date | Plan | Night |
 |---|---|---|---|
-| 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** ✈️ **Georgi: Turkish, BER 19:20.** ✈️ **Nadir: LH/ANA, LEJ 18:40** | plane |
-| 2 | Mon 15 Feb | ✈️ **Nadir lands 17:55, Georgi lands 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. Mogi meets us here | ✅ Nagano, Sotetsu Fresa Inn |
+| 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** ✈️ **Georgi: Turkish, BER 19:20.** ✈️ **Nadir: LH/ANA, LEJ 18:40.** ✈️ **Rostik: Etihad, BER 10:00**, he leaves in the morning | plane |
+| 2 | Mon 15 Feb | ✈️ **Rostik lands NRT 11:40, Nadir HND 17:55, Georgi HND 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. **Rostik comes in from Narita and can be in Nagano in the afternoon**, ⚠️ his room there is not booked. Mogi meets us here | ✅ Nagano, Sotetsu Fresa Inn |
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear at **Lion Gear in Echoland** ~10:15, then 15 min to Tsugaike. 🎿 **On the snow around 11:00, Tsugaike**, the beginners' mountain, because it is Rostik's and Mogi's first day. A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** The only full day, so the one mountain that works for all four: long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi and Iimori zones for Rostik and Mogi. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3: Happo-One, Nadir's birthday morning** (his call), until ~12:30. Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | ✅ 🏮 **Miyama-ouan, Hirayu** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | ✅ Toyama, Dormy Inn |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | Kanazawa |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
-| 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back by 16:00** at the branch, 🚨 then a transfer to the terminal, then 🚃 Keikyu to Ginza and back. ✈️ **Georgi HND 22:05, Nadir HND 22:45** | plane |
+| 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back by 16:00** at the branch, 🚨 then a transfer to the terminal, then 🚃 Keikyu to Ginza and back. ✈️ **Georgi HND 22:05, Nadir HND 22:45**, ⚠️ Rostik's return leg is not known yet | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Georgi lands Berlin 09:25, Nadir lands Leipzig 09:45** | home |
 
 **7 nights:** Nagano ×1, Hakuba ×2, Okuhida ×1, Toyama ×1, Kanazawa ×1, Tokyo ×1.
@@ -182,7 +182,8 @@ sea, and it reads as one continuous arc.
 - ✅ **Jakob's open seat is filled** by Mogi, 22 Aug. The three-way cost split is gone.
 - ✅ **Tuesday is now an honest timeline**, first run around 11:00 at Tsugaike, not a wish.
 - ✅ **Georgi's flight is BOOKED** (25 Aug 2026): Turkish out 14th 19:20, back 22nd 22:05, €943.05, Eco Fly, through Mytrip.
-- ✅ **Nadir's flight is BOOKED** (26 Aug 2026): **Lufthansa/ANA from Leipzig**, out 14th 18:40, **lands HND 17:55**, back 22nd 22:45. Different airline and **~1 h 50 earlier arrival** than Georgi, which changes Monday evening. 🚨 **Rostik is still not booked.**
+- ✅ **Nadir's flight is BOOKED** (26 Aug 2026): **Lufthansa/ANA from Leipzig**, out 14th 18:40, **lands HND 17:55**, back 22nd 22:45. Different airline and **~1 h 50 earlier arrival** than Georgi, which changes Monday evening.
+- ✅ **Rostik's flight is BOOKED** (seen 24 Oct 2026): **Etihad, BER 10:00 Sun 14 Feb → NRT 11:40 Mon 15 Feb**, 1 stop. **All three of us now have tickets.** ⚠️ He lands at **Narita, not Haneda**, and about **six hours before Georgi**, which changes Monday for him.
 - ✅ **Takayama is out** as a stop. We only drive through it.
 
 **What it costs: a one-way car drop, and it is cheaper than first written.** Georgi challenged
@@ -224,9 +225,10 @@ first full morning**, lifts from 08:00.
 
 ### The flights, booked
 
-**Two separate bookings on different airlines.** Georgi flies Turkish out of Berlin, Nadir flies
-Lufthansa/ANA out of Leipzig. They are **not on the same aircraft in either direction**, and the
-times differ enough to matter, see the note below.
+**Three separate bookings on three airlines.** Georgi flies Turkish out of Berlin, Nadir flies
+Lufthansa/ANA out of Leipzig, Rostik flies Etihad out of Berlin. Nobody is **on the same aircraft
+as anyone else**, the arrival times differ by hours, and **Rostik lands at a different airport**,
+see the note below.
 
 #### ✅ Georgi — booked 25 Aug 2026
 
@@ -259,15 +261,43 @@ train and the hassle at both ends. Note the two are not quite like for like: Geo
 overnight in Berlin on either end. It costs more than Georgi's Berlin fare, and that was the
 known, accepted trade.
 
-🚨 **Still to book: Rostik.** He is the last one without a ticket.
+#### ✅ Rostik — booked, seen 24 Oct 2026, into Narita
+
+| | |
+|---|---|
+| **Out** | **Etihad, BER 10:00 Sun 14 Feb → NRT 11:40 Mon 15 Feb**, 1 stop, **17 h 40** |
+| **Back** | ⚠️ **Not known yet.** The booking screen only showed the outbound |
+| Airport | 🚨 **Narita (NRT)**, not Haneda. The only one of us who does not land at HND |
+| Booked through | An online agency, **booking ID 3346220266**, 1 passenger |
+| Included | Seats allocated, luggage allowance, **Fullflex cancellation** |
+| Status | ⚠️ **"Processing"** on the screen seen 24 Oct: the agency had not yet confirmed the booking. Flight numbers, the stopover airport and the fare are still unknown |
+
+⚠️ **Open on this ticket:** the return date and time, the stopover, the flight numbers, and
+whether the booking has since been confirmed. Everything in the table above is what the booking
+screen showed, nothing is from a ticket.
+
+✅ **All three tickets are now bought.**
 **Mogi** needs no flight; he lives in Tokyo.
 
-#### 🚨 The two arrivals are not together, and that changes Monday
+#### 🚨 The three arrivals are not together, and that changes Monday
 
-| | Georgi | Nadir |
-|---|---|---|
-| **Lands Haneda, Mon 15** | **19:45** | **17:55**, ~1 h 50 earlier |
-| **Leaves Haneda, Mon 22** | **22:05** | **22:45**, 40 min later |
+| | Georgi | Nadir | Rostik |
+|---|---|---|---|
+| **Lands Mon 15** | **HND 19:45** | **HND 17:55**, ~1 h 50 earlier | 🚨 **NRT 11:40**, ~8 h earlier, different airport |
+| **Leaves Haneda, Mon 22** | **22:05** | **22:45**, 40 min later | ⚠️ return not known yet |
+
+**Rostik is in Japan half a day before anyone else.** Landing at Narita at 11:40 he is through the
+airport in the early afternoon with the whole day to cross Tokyo and ride north, so he can be in
+Nagano in daylight, eat properly and sleep, while the other two are still in the air. He is also
+the only one who has to **get from Narita rather than Haneda**: Narita → Tokyo Station, then the
+Shinkansen to Nagano. ⚠️ Not yet checked against a timetable, and no connection is booked.
+
+Two things follow:
+- 🟢 **His room in Nagano is now the urgent one**, not a detail. He arrives first and would be
+  checking in alone in the afternoon, see the Nagano night below.
+- 🟢 **A person on the ground in Nagano by Monday evening is the group's insurance** if Georgi's
+  19:45 landing misses the last Asama. That used to be the argument for Nadir going ahead; Rostik
+  now covers it by default.
 
 **Monday 15 February is the one to think about.** The whole day-2 plan is built on Georgi's 19:45
 landing feeding the **22:08 Asama**, the last train, reaching Nagano at 23:40 with 25–40 minutes
@@ -1259,6 +1289,11 @@ chosen for the **self check-in terminals**, which is what makes a **23:40 arriva
 🚨 **Rostik and Mogi have no room this night.** Book them into the same hotel: splitting the
 group across two hotels at 23:40 in February, with an 08:00 car collection the next morning, is
 the kind of small mess that costs the morning.
+🚨 **Rostik's room is the urgent one.** With the Etihad booking he lands at Narita at **11:40 on
+the 15th** and can reach Nagano in the afternoon, hours before the twin room is occupied. He needs
+his own bed that night, booked under his own name, with a normal afternoon check-in rather than
+the 23:40 one the rest of the plan is built around. Mogi, as of 28 Sep, probably only joins on the
+19th, so he may not need this night at all.
 ⚠️ Confirm it is a **twin**, not a semi-double. Budget chains default to small doubles.
 
 The shortlist that led here:
@@ -2090,6 +2125,13 @@ cost. The 16th breaks the rule the dates were built around.**
 15. 🚨 **Georgi and Mogi: From P is booked for 3 adults, not 4.** Is Mogi in the dome, and does
     the 7 m dome take four? Ask the property by email before anything else about Hakuba.
 
+16. 🚨 **Rostik: your Etihad booking, the missing half.** The screen seen on 24 Oct showed only
+    **BER 10:00 on the 14th → NRT 11:40 on the 15th**, 1 stop, status still "Processing". Three
+    things the plan needs from you: **when do you fly back**, has the agency **confirmed** the
+    booking, and how do you get **from Narita to Nagano** on Monday afternoon. You land about
+    eight hours before Georgi and at the other airport, so Monday is your own run, and you need a
+    bed in Nagano in your own name, see question 0b.
+
 ### Closed
 
 - ✅ **Hakuba is booked** (28 Sep 2026): From P, a sauna dome in Echoland, 2 nights, ¥162,000 paid.
@@ -2103,6 +2145,7 @@ cost. The 16th breaks the rule the dates were built around.**
 - ✅ **The Shinhotaka Ropeway stays**, which was the thing route B would have cost us.
 - ✅ **Day 8 has a job again:** Kanazawa in the morning, Tokyo in the evening.
 - ✅ **The Tokyo drive.** Self-drive with OnlyJDM, central Tokyo, evening, 7-hour tier.
+- ✅ **All three flights are bought** (Rostik's Etihad booking seen 24 Oct 2026). Only its return leg and confirmation are still open, see question 16.
 - ✅ **Group confirmed at four.**
 - ✅ **Valentine's Day is spent in Berlin.** We fly out that evening.
 - ✅ **Ski days are Tuesday, Wednesday, Thursday**, no weekends.

@@ -33,6 +33,34 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v69 &middot; 24 Oct 2026 &middot; Georgi
+
+**Rostik's ticket is bought, so all three flights are now booked. It is Etihad, it leaves Berlin
+in the morning, and it lands at Narita, not Haneda.**
+
+| | Rostik, out |
+|---|---|
+| Flight | **Etihad, BER 10:00 Sun 14 Feb → NRT 11:40 Mon 15 Feb**, 1 stop, 17 h 40 |
+| Included | Seats allocated, luggage allowance, Fullflex cancellation |
+| Status | ⚠️ "Processing" on the booking screen seen 24 Oct, 1 passenger |
+
+Everything above comes from the booking screen Georgi was shown, nothing from a ticket. The
+**return leg, the stopover, the flight numbers and the price are not known**, and the agency had
+not confirmed the booking yet. Logged as **open question 16**.
+
+### What it changes in the plan
+
+- **Monday is no longer a two-arrival day.** Rostik is through Narita in the early afternoon,
+  about eight hours before Georgi and from the other airport, so he crosses Tokyo and rides north
+  in daylight. The day-2 card and the arrivals table now carry all three.
+- 🚨 **His Nagano room moved up the list.** The twin that is booked covers Nadir and Georgi. Rostik
+  arrives first and would be checking in alone in the afternoon, so he needs his own bed in his own
+  name, with a normal check-in rather than the 23:40 one the rest of the night is built around.
+- 🟢 **The group gains a safety net.** Somebody is in Nagano on Monday evening whatever happens to
+  the 19:45 landing and the last Asama. That used to be the argument for Nadir going ahead.
+- ⚠️ **The budget is unchanged.** His flight price is unknown, so his row keeps the old estimate
+  and is marked as such instead of being quietly turned into a fact.
+
 ## v68 &middot; 29 Sep 2026 &middot; Nadir
 
 **Three nights booked, and the ryokan choice is settled — but it reverses a decision this page

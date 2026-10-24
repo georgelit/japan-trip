@@ -1,0 +1,1940 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Japan 2027 &middot; Hakuba, Okuhida, Toyama, Kanazawa</title>
+<meta name="description" content="Ten days around the Northern Japanese Alps, 14-23 February 2027. Three ski mornings in Hakuba, the Shinhotaka Ropeway, an Okuhida ryokan, then Toyama, Kanazawa and a night drive through Tokyo.">
+<meta name="theme-color" content="#f2f0ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14171c" media="(prefers-color-scheme: dark)">
+<style>
+  :root {
+    --paper:#f2f0ec; --card:#fbfaf8; --ink:#1c2126; --ink-soft:#525d68; --ink-faint:#949ea8;
+    --rule:#d5d2cb; --sat:#a8452f;
+    --tokyo:#3f5fa8; --snow:#2b7f96; --alps:#b06a1f;
+    --serif: ui-serif,"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans: ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    --mono: ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --paper:#14171c; --card:#1d2229; --ink:#e9e6e1; --ink-soft:#a6b0ba; --ink-faint:#6c7883;
+            --rule:#2e353e; --sat:#e0836a; --tokyo:#8aa4e0; --snow:#5fc0d8; --alps:#e0a656; }
+  }
+  :root[data-theme="dark"] { --paper:#14171c; --card:#1d2229; --ink:#e9e6e1; --ink-soft:#a6b0ba;
+    --ink-faint:#6c7883; --rule:#2e353e; --sat:#e0836a; --tokyo:#8aa4e0; --snow:#5fc0d8; --alps:#e0a656; }
+  :root[data-theme="light"] { --paper:#f2f0ec; --card:#fbfaf8; --ink:#1c2126; --ink-soft:#525d68;
+    --ink-faint:#949ea8; --rule:#d5d2cb; --sat:#a8452f; --tokyo:#3f5fa8; --snow:#2b7f96; --alps:#b06a1f; }
+
+  * { box-sizing:border-box; }
+  html { -webkit-text-size-adjust:100%; scroll-behavior:smooth; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:var(--sans);
+         font-size:16px; line-height:1.62; -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:820px; margin:0 auto;
+          padding:0 max(20px,env(safe-area-inset-left)) 80px max(20px,env(safe-area-inset-right)); }
+  a { color:var(--sat); text-underline-offset:2px; }
+  /* place names: click through to Google Maps. Kept quiet, there are a lot of them */
+  a.loc { color:inherit; text-decoration:underline; text-decoration-style:dotted;
+          text-decoration-color:var(--sat); text-underline-offset:3px; }
+  a.loc:hover, a.loc:focus { color:var(--sat); text-decoration-style:solid; }
+
+  /* header */
+  header.top { padding:44px 0 26px; border-bottom:1px solid var(--rule); }
+  .eyebrow { font-family:var(--mono); font-size:12px; letter-spacing:.16em; text-transform:uppercase;
+             color:var(--ink-faint); margin:0 0 12px; display:flex; flex-wrap:wrap; gap:10px;
+             align-items:center; justify-content:space-between; }
+  .ver { color:var(--ink-faint); }
+  h1 { font-family:var(--serif); font-weight:600; letter-spacing:-.02em;
+       font-size:clamp(32px,7vw,54px); line-height:1.02; margin:0 0 16px; }
+  h1 em { font-style:normal; color:var(--sat); }
+  .lede { color:var(--ink-soft); margin:0; max-width:62ch; font-size:17px; }
+
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(110px,1fr)); gap:1px;
+           background:var(--rule); border:1px solid var(--rule); border-radius:3px;
+           margin:26px 0 0; overflow:hidden; }
+  .stat { background:var(--card); padding:13px 14px; }
+  .stat b { display:block; font-family:var(--serif); font-size:23px; line-height:1.15; font-weight:600; }
+  .stat span { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+               color:var(--ink-faint); }
+
+  /* sections */
+  section { padding-top:42px; }
+  h2 { font-family:var(--serif); font-size:clamp(23px,4.4vw,31px); font-weight:600; letter-spacing:-.015em;
+       margin:0 0 6px; line-height:1.15; }
+  .sub { color:var(--ink-faint); font-family:var(--mono); font-size:12px; letter-spacing:.12em;
+         text-transform:uppercase; margin:0 0 20px; }
+  h3 { font-size:17px; margin:26px 0 8px; }
+  h4 { font-size:15px; margin:20px 0 6px; color:var(--ink-soft); }
+  p { margin:0 0 14px; max-width:66ch; }
+  ul { margin:0 0 14px; padding-left:20px; max-width:66ch; }
+  li { margin-bottom:6px; }
+
+  /* days */
+  .day { background:var(--card); border:1px solid var(--rule); border-left:4px solid var(--rule);
+         border-radius:3px; padding:16px 18px; margin-bottom:12px; }
+  .day.t { border-left-color:var(--tokyo); }
+  .day.s { border-left-color:var(--snow); }
+  .day.a { border-left-color:var(--alps); }
+  .day-h { display:flex; flex-wrap:wrap; gap:6px 12px; align-items:baseline; margin-bottom:8px; }
+  .day-n { font-family:var(--mono); font-size:11px; letter-spacing:.12em; text-transform:uppercase;
+           color:var(--ink-faint); }
+  .day-d { font-family:var(--serif); font-size:20px; font-weight:600; }
+  .day.t .day-d { color:var(--tokyo); } .day.s .day-d { color:var(--snow); } .day.a .day-d { color:var(--alps); }
+  .day-t { font-family:var(--mono); font-size:12px; color:var(--ink-faint); margin-left:auto; }
+  .day p { margin:0 0 8px; }
+  .day p:last-child { margin-bottom:0; }
+  .bed { font-family:var(--mono); font-size:12px; color:var(--ink-faint); margin-top:10px;
+         padding-top:9px; border-top:1px solid var(--rule); }
+
+  /* tables */
+  .scroll { overflow-x:auto; -webkit-overflow-scrolling:touch; margin:0 0 16px;
+            border:1px solid var(--rule); border-radius:3px; background:var(--card); }
+  table { border-collapse:collapse; width:100%; font-size:15px; min-width:min(100%,460px); }
+  th, td { text-align:left; padding:10px 13px; border-bottom:1px solid var(--rule); vertical-align:top; }
+  th { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+       color:var(--ink-faint); font-weight:400; white-space:nowrap; }
+  tr:last-child td { border-bottom:none; }
+  td.num { font-variant-numeric:tabular-nums; white-space:nowrap; }
+
+  .note { background:var(--card); border:1px solid var(--rule); border-left:4px solid var(--sat);
+          border-radius:3px; padding:14px 17px; margin:0 0 16px; }
+  .note p:last-child { margin-bottom:0; }
+  .note b { color:var(--sat); }
+
+  .q { background:var(--card); border:1px solid var(--rule); border-radius:3px;
+       padding:14px 17px; margin-bottom:10px; }
+  .q b { display:block; margin-bottom:4px; }
+  .q .who { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+            color:var(--sat); }
+
+
+  /* route map */
+  #routemap { height:460px; border:1px solid var(--rule); border-radius:3px; background:var(--card); }
+  #routemap.ready + .mapfall { display:none; }
+  .mapfall { font-size:13px; color:var(--ink-faint); margin-top:10px; }
+  .leaflet-container { font-family:var(--sans); background:var(--card); }
+  .leaflet-popup-content { font-size:14px; }
+  .leaflet-popup-content b { display:block; font-size:15px; }
+  .maplinks { display:flex; flex-wrap:wrap; gap:10px; margin:0 0 16px; }
+  .btn { display:inline-block; border:1px solid var(--rule); border-radius:3px; padding:9px 14px;
+         font-family:var(--mono); font-size:12px; letter-spacing:.06em; text-decoration:none;
+         color:var(--ink-soft); background:var(--card); min-height:40px; }
+  .btn:hover { border-color:var(--sat); color:var(--sat); }
+  .mapkey { list-style:none; padding:0; margin:14px 0 12px; display:flex; flex-direction:column; gap:8px; }
+  .mapkey li { display:flex; gap:10px; align-items:baseline; font-size:14px; color:var(--ink-soft); margin:0; }
+  .sw { flex:0 0 24px; height:5px; border-radius:2px; transform:translateY(-3px); }
+  .sw-rail { background:repeating-linear-gradient(90deg,#1d4ed8 0 7px,transparent 7px 11px); }
+  .sw-ski { background:#0e7490; } .sw-alp { background:#ea580c; }
+  .sw-opt { background:repeating-linear-gradient(90deg,#6b7280 0 4px,transparent 4px 8px); }
+  .mapnote { font-size:13px; color:var(--ink-faint); }
+
+
+  /* collapsible detail blocks, in day cards and in sections */
+  details { margin-top:10px; border-top:1px solid var(--rule); padding-top:8px; }
+  details + details { border-top:1px dashed var(--rule); }
+  summary { cursor:pointer; list-style:none; font-family:var(--mono); font-size:12px;
+            letter-spacing:.08em; text-transform:uppercase; color:var(--ink-soft);
+            display:flex; align-items:center; gap:8px; min-height:34px; user-select:none; }
+  summary::-webkit-details-marker { display:none; }
+  summary::before { content:"+"; display:inline-block; width:16px; text-align:center;
+                    font-weight:700; color:var(--sat); }
+  details[open] summary::before { content:"–"; }
+  summary .n { margin-left:auto; color:var(--ink-faint); letter-spacing:0; text-transform:none; font-size:11px; text-align:right; }
+  details > p, details > ul { margin-top:8px; font-size:15px; }
+  details ul { padding-left:18px; }
+  details li { margin-bottom:5px; }
+  details .why { color:var(--ink-faint); font-size:13px; }
+  /* section-level blocks sit a little further from the text above them */
+  section > details { margin-top:16px; }
+
+  /* footer + controls */
+  footer { margin-top:52px; padding-top:22px; border-top:1px solid var(--rule);
+           font-family:var(--mono); font-size:12px; color:var(--ink-faint); }
+  footer a { color:var(--ink-faint); }
+  .themebtn { font-family:var(--mono); font-size:11px; letter-spacing:.1em; text-transform:uppercase;
+              background:none; border:1px solid var(--rule); color:var(--ink-faint); cursor:pointer;
+              padding:7px 11px; border-radius:3px; min-height:34px; }
+  #upd { position:fixed; left:50%; transform:translateX(-50%); bottom:calc(16px + env(safe-area-inset-bottom));
+         background:var(--sat); color:var(--paper); border:none; border-radius:999px; padding:12px 20px;
+         font-family:var(--mono); font-size:13px; cursor:pointer; display:none; z-index:9;
+         box-shadow:0 4px 18px rgba(0,0,0,.28); min-height:44px; }
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="archived"><span>Archived version v69 from 24.10 21:17</span><span><a href="../">Open current &rarr;</a> &middot; <a href="./">all versions</a></span></div>
+
+  <header class="top">
+    <p class="eyebrow"><span>Northern Japanese Alps &middot; 14&ndash;23 Feb 2027</span><span class="ver">v69 &middot; 24.10 21:17</span></p>
+    <h1>Ten days around the <em>Japanese Alps</em></h1>
+    <p class="lede">Three ski mornings in Hakuba, the one ropeway that still reaches the high Alps in
+      winter, a night in an Okuhida ryokan, then out to the coast for Toyama and Kanazawa.<br>
+      <b>Georgi</b> 🎿 &middot; <b>Nadir</b> 🏂 &middot; <b>Rostik</b> 🏂 &middot; <b>Mogi</b> 🎿 from Tokyo</p>
+
+    <div class="stats">
+      <div class="stat"><b>10</b><span>days</span></div>
+      <div class="stat"><b>3</b><span>ski mornings</span></div>
+      <div class="stat"><b>4</b><span>of us</span></div>
+      <div class="stat"><b>1</b><span>rotenburo night</span></div>
+      <div class="stat"><b>7</b><span>nights</span></div>
+      <div class="stat"><b>2</b><span>cities by the sea</span></div>
+    </div>
+  </header>
+
+  <section id="plan">
+    <h2>The plan, day by day</h2>
+    <p class="sub">Sunday 14 February &rarr; Tuesday 23 February 2027</p>
+
+    <div class="note">
+      <p>🗼 <b>Mogi took the fourth place on 22 August. He lives in Tokyo</b>, so he does not fly
+        with us, he meets us in Japan. Flights are for three; everything shared divides by four
+        again. He is also the natural person to deal with OnlyJDM and to sanity-check the Tokyo days.</p>
+      <p>He is on <b>skis, a beginner, about Rostik&rsquo;s level</b>, does the <b>whole loop</b> with us.
+        He is the natural renter for the JDM car in Tokyo, being local. &#9888; Still open: only where he joins.
+        Nagano on Monday night is the obvious spot, and it would let him pick the car up at 08:00.</p>
+    </div>
+    <div class="note">
+      <p><b>The mountains-or-coast question is settled, and the answer was "both".</b> Rostik has been
+        to <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Takayama%20Gifu" target="_blank" rel="noopener">Takayama</a></b> and says it is not worth a stop, so it is out. He wants <b>Toyama</b>, which
+        was Nadir's original ask. It turns out we never had to choose: <b>Okuhida sits on the road north
+        to Toyama</b>, so the ropeway and the ryokan survive and the coast gets added on top.</p>
+    </div>
+    <p>Tokyo, Nagano, Hakuba, Okuhida, Toyama, Kanazawa, back to Tokyo. A real circle around the
+      Northern Alps with no backtracking, and Takayama is only ever driven through.</p>
+
+
+    <div id="routemap" role="img" aria-label="Map of the route around the Northern Japanese Alps"></div>
+    <p class="mapfall" id="mapfall">Loading the map. If it stays blank you are probably offline: the route is
+      Tokyo, Nagano, Hakuba, Matsumoto, Okuhida, Takayama, Toyama, Kanazawa, back to Tokyo.</p>
+
+    <ul class="mapkey">
+      <li><span class="sw sw-rail"></span><b>Hokuriku Shinkansen</b>, the spine. Used three times: in on day 2, Toyama&nbsp;&rarr;&nbsp;Kanazawa on day 7, Kanazawa&nbsp;&rarr;&nbsp;Tokyo on day 8</li>
+      <li><span class="sw sw-ski"></span><b>Car, to the snow.</b> Nagano&nbsp;&rarr;&nbsp;Hakuba, <b>45&nbsp;km</b></li>
+      <li><span class="sw sw-alp"></span><b>Car, the mountain loop.</b> Hakuba&nbsp;&rarr;&nbsp;Matsumoto&nbsp;&rarr;&nbsp;Okuhida&nbsp;&rarr;&nbsp;past Takayama&nbsp;&rarr;&nbsp;Toyama, <b>237&nbsp;km</b></li>
+      <li><span class="sw sw-opt"></span><b>Optional.</b> Shirakawa-go is a day&nbsp;7 alternative to Kanazawa, not an extra</li>
+    </ul>
+
+    <p class="maplinks">
+      <a class="btn" target="_blank" rel="noopener"
+         href="https://www.google.com/maps/dir/?api=1&amp;origin=36.6485,138.1942&amp;destination=36.6959,137.2137&amp;waypoints=36.6983,137.8622%7C36.2381,137.9720%7C36.1940,137.4700%7C36.1461,137.2523&amp;travelmode=driving">Open the car loop in Google Maps &rarr;</a>
+      <a class="btn" target="_blank" rel="noopener" href="https://maps.app.goo.gl/AvZ3JBsUUWzSE9kW6">Nadir&rsquo;s pin list &rarr;</a>
+    </p>
+
+    <p class="mapnote">The driving line follows <b>real roads</b>, not straight lines. Distances are real;
+      the times below the map are OSRM free-flow estimates and <b>do not allow for winter</b>, so the
+      planning figures in the day cards are the slower, sourced ones. The Shinkansen line is drawn
+      through its actual stations but is indicative, not the exact track.</p>
+
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 1</span><span class="day-d">Sun 14 Feb</span><span class="day-t">💝 &rarr; departure</span></div>
+      <p><b>Valentine's Day at home.</b> Three bookings, three airlines: ✈️ <b>Georgi, Turkish, BER 19:20</b>,
+        lands Haneda 19:45 next day. ✈️ <b>Nadir, Lufthansa/ANA, LEJ 18:40</b>, lands
+        <b>17:55</b> next day. ✈️ <b>Rostik, Etihad, BER 10:00</b> in the morning, lands
+        <b>Narita 11:40</b> next day.</p>
+      <div class="bed">Night: on the plane</div>
+      <details><summary>The flights<span class="n">three bookings</span></summary>
+        <ul>
+          <li>✅ <b>Georgi, booked 25 Aug 2026:</b> <b>&euro;943.05</b> round trip, economy <b>Eco Fly</b>,
+            through <b>Mytrip</b>, paid by Apple Pay. <b>TK1724 + TK198</b> out, <b>TK199 + TK1721</b> back.
+            One checked bag of 23 kg, enough because all gear is rented on site.</li>
+          <li>✅ <b>Nadir, booked 26 Aug 2026, from Leipzig:</b> <b>&euro;1,077</b>, <b>Economy Comfort</b>,
+            <b>Lufthansa operated by All Nippon Airways</b>. <b>LH157 + LH4912</b> out (LEJ 18:40 &rarr;
+            HND 17:55, 15 h 15), <b>LH4921 + LH152</b> back (HND 22:45 &rarr; LEJ 09:45, 19 h).
+            <b>Large checked bag included.</b> ✅ Closes the Leipzig question: no Berlin train, no
+            overnight either end. The &euro;1,092 estimate came in <b>&euro;15 high</b>; the Leipzig
+            premium over Georgi's Berlin fare is <b>&euro;134</b>, and it is not quite like for like,
+            Eco Fly being the basic bucket and Economy Comfort a step up.</li>
+          <li>✅ <b>Rostik, booked, seen 24 Oct 2026:</b> <b>Etihad</b>, <b>BER 10:00 Sun 14 Feb &rarr;
+            NRT 11:40 Mon 15 Feb</b>, 1 stop, 17 h 40, seats and luggage included, <b>Fullflex
+            cancellation</b>. 🚨 He is the only one landing at <b>Narita</b>, and about six hours
+            before Georgi. &#9888; The booking screen still said <b>&ldquo;Processing&rdquo;</b> and showed
+            only the outbound, so the <b>return, the stopover, the flight numbers and the price are
+            not known yet</b>. ✅ All three tickets are now bought.
+            <b>Mogi</b> does not fly, he is in Tokyo.</li>
+          <li>19:20 is the latest Berlin to Tokyo departure of the day, so the &ldquo;after 21:00&rdquo; in
+            the first draft was fiction.</li>
+        </ul>
+      </details>
+      <details><summary>Why this date<span class="n">the short version</span></summary>
+        <p class="why">The whole trip moved one day later than the first draft so that nobody spends
+          Valentine's Day over Siberia. It still clears Chinese New Year, the 11 Feb holiday, the 23 Feb
+          holiday, Berlin's Winterferien and carnival. Full reasoning in &ldquo;Why exactly these dates&rdquo; below.</p>
+      </details>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 2</span><span class="day-d">Mon 15 Feb</span><span class="day-t">arrival</span></div>
+      <p>✈️ <b>Rostik lands Narita 11:40, Nadir Haneda 17:55, Georgi Haneda 19:45.</b> Georgi goes
+        straight on: immigration, bags, train to Tokyo Station, and the <b>22:08 Asama 633</b>, the
+        last train, Nagano around 23:40. <b>Nadir is not in that squeeze</b> and can take an earlier
+        Asama. <b>Rostik has the whole afternoon</b> to come in from Narita. Mogi meets us here.</p>
+      <div class="bed">✅ Night: <b>Sotetsu Fresa Inn Nagano-Zenkojiguchi</b>, booked</div>
+      <details><summary>🛏 Hotel ✅ booked<span class="n">€63 twin, 2 of 4</span></summary>
+        <p>✅ <b>Sotetsu Fresa Inn Nagano-Zenkojiguchi</b>, booked by Nadir. <b>15 → 16 Feb</b>, <b>&euro;63 for
+          a twin covering Nadir and Georgi</b> (≈ &euro;32 each), <b>free cancellation</b>, confirmed. This was
+          shortlist #2, chosen for the <b>self check-in terminals</b> — which is exactly what makes a
+          <b>23:40 arrival</b> safe.</p>
+        <p>🚨 <b>Rostik and Mogi have no room this night.</b> Same hotel if possible: splitting the group
+          across two hotels at 23:40 in February, with an 08:00 car collection next morning, is the kind of
+          small mess that costs you the morning. &#9888; Confirm it is a <b>twin</b>, not a semi-double.</p>
+        <p>🚨 <b>Rostik's room is the urgent one.</b> His Etihad flight lands at <b>Narita 11:40</b>,
+          so he can be in Nagano in the afternoon, hours before the twin is occupied. He needs his own
+          bed in his own name, with a normal afternoon check-in. Mogi, as things stand, probably only
+          joins on the 19th and may not need this night at all.</p>
+        <p class="why">The shortlist that led here:</p>
+        <p class="why">Georgi arrives <b>23:40</b> and the car goes at <b>08:00</b>, from an office 3 min
+          from the <b>Zenkoji Exit</b>. Walking distance from that exit is the only thing that matters.</p>
+        <ul>
+          <li><b>1. Nagano Tokyu REI Hotel</b> &middot; <b>1 min</b>, connected by the underground passage.
+            The shortest possible walk, indoors, at midnight in February.</li>
+          <li><b>2. Sotetsu Fresa Inn Nagano-Zenkojiguchi</b> &middot; <b>2 min</b>. ✅ Has
+            <b>self check-in terminals</b>, which genuinely matters at 23:40.</li>
+          <li><b>3. Hotel New Nagano NEXT</b> &middot; <b>2 min</b>. Fallback if the others are full.</li>
+        </ul>
+        <p class="why">🚨 <b>Confirm late check-in.</b> 23:40 is past the desk hours of plenty of Japanese
+          business hotels, and being locked out is the one failure this night cannot absorb.
+          &#9888; Feb 2027 prices not checked, nothing booked.</p>
+      </details>
+      <details><summary>We arrive apart<span class="n">11:40, 17:55, 19:45</span></summary>
+        <p>🚨 <b>Rostik is in Japan half a day before anyone else</b>, and at the other airport.
+          Through Narita in the early afternoon, he has time to cross Tokyo and ride north in
+          daylight, eat properly and sleep. &#9888; The Narita to Nagano run is not checked against a
+          timetable and nothing is booked. It also means the group has <b>somebody in Nagano on
+          Monday evening</b> whatever happens to the later flights.</p>
+        <p>Landing <b>17:55</b> puts Nadir at Tokyo Station around 19:10, which is roughly <b>three
+          earlier Asama departures</b> before the last one.</p>
+        <ul>
+          <li>🟢 <b>Go ahead, do not wait.</b> Nagano by ~21:00&ndash;21:30, a normal dinner instead of the
+            20-minute midnight ramen sprint, check in, sleep. <b>Recommended</b>: Tuesday is already a
+            short, ragged first day, and one person arriving rested beats everyone riding the same train.</li>
+          <li>🟡 <b>Wait at Haneda for Georgi</b>, about 1 h 50, and ride the 22:08 together. Simpler
+            socially, but it throws away the earlier flight and puts Nadir into the same 23:40 arrival.</li>
+        </ul>
+        <p class="why">&#9888; The group's exposure is unchanged either way: it is <b>Georgi's</b> flight
+          that has to hit 19:45 for the last train to work. What Nadir's early arrival buys is
+          <b>somebody already in Nagano</b> if that chain breaks.</p>
+      </details>
+      <details><summary>The tight link<span class="n">25&ndash;50 min slack</span></summary>
+        <ul>
+          <li>Off the plane ~20:00, immigration and bags 45&ndash;75 min, Monorail or Keikyu to Tokyo Station
+            ~20 min, on the platform 21:15&ndash;21:45. Before the 22:08 there is a 21:28 and a 21:04.</li>
+          <li>🚨 <b>There is no later train.</b> If the flight is late: a hotel by Tokyo Station and the
+            06:16 Kagayaki on Tuesday, which reaches Nagano by 07:40, still before the car rental opens.
+            A missed train costs a bad night, not a ski day.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">open until midnight</span></summary>
+        <ul>
+          <li>✅ 🍜 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%82%89%E3%81%81%E3%82%81%E3%82%93%20%E3%81%BF%E3%81%9D%E5%AE%B6%20%E9%95%B7%E9%87%8E" target="_blank" rel="noopener">らぁめん みそ家</a></b> is open <b>11:00&ndash;00:00</b>, seven days, by
+            長野電鉄長野駅. <b>Tabelog 3.62 from 1,470 reviews</b>, the most-reviewed ramen shop in the city,
+            under &yen;999. <b>This page previously said nothing would be open. That was wrong.</b>
+            <br>&#9888; <b>The clock is the problem, not the opening hours.</b> We arrive <b>23:40</b> and it
+            shuts at <b>00:00</b>: about twenty minutes, minus the walk off the platform. Ramen is fast, but
+            one late Shinkansen kills it. 拉麺 阿吽 (3.53) closes 22:30 and is out.</li>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Chirimen-tei%20Nagano%20Ekimae" target="_blank" rel="noopener">Chirimen-tei Nagano Ekimae</a></b>, from Nadir's map, literally in front of the station.
+            &#9888; Hours not confirmed.</li>
+          <li><b>Shinshu soba</b>, cold, with dashi, grated daikon and spring onion. Nagano is the soba prefecture.</li>
+          <li>Grab <b>oyaki</b> from a station kiosk for Tuesday breakfast in the car: buckwheat dumplings
+            stuffed with nozawana pickled greens, pumpkin or sweet bean.</li>
+        </ul>
+      </details>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 3</span><span class="day-d">Tue 16 Feb</span><span class="day-t">🎿 🏂 Tsugaike</span></div>
+      <p><b>Car at 08:00</b> when the rental opens, Hakuba by 09:30, gear at Lion Gear by 10:15, <b>first run around
+        11:00</b> at <a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Tsugaike%20Kogen%20Ski%20Resort" target="_blank" rel="noopener">Tsugaike</a>, the beginners' mountain for Rostik's and Mogi's first day. A short first day, off around 15:00, then onsen and an early night.</p>
+      <div class="bed">Night: ✅ <a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=From%20P%20Hakuba" target="_blank" rel="noopener">From P</a>, Echoland &middot; sauna dome, booked</div>
+      <details><summary>🛏 Where we sleep<span class="n">✅ booked</span></summary>
+        <p class="why"><b>From P</b>, Echoland: <b>sauna glamping</b>, a private <b>7 m dome</b> with its own
+          <b>square sauna</b>, booked and paid by Georgi on 28 Sep. Same block as Lion Gear.</p>
+        <ul>
+          <li><b>Tue 16 &rarr; Thu 18 Feb</b>, 2 nights. Check-in <b>from 18:00</b> per the confirmation, out by
+            <b>10:00</b>. Front desk 08:00&ndash;20:00 in the dark blue building.</li>
+          <li><b>&yen;162,000 total, paid.</b> 🚨 <b>Booked for 3, so &yen;54,000 = about &euro;292 each</b>
+            as it stands; the &euro;219 quoted earlier assumed four people and is only true if a fourth is
+            added to the same dome. No meals booked. Hakuba accommodation tax extra, cash at check-in.</li>
+          <li>Cancellation: 20&nbsp;% from 14 days before, 50&nbsp;% from 7 days, 80&nbsp;% from 3 days, 100&nbsp;% on the day.</li>
+          <li>By car: Goryu ~9 min, Tsugaike ~15 min, Happo's Adam gondola ~4 km.</li>
+          <li>🚨 <b>Booked for 3 adults, not 4.</b> Is Mogi in the dome, and does it take four? &#9888; Beds and
+            whether the dome has its own toilet and shower are not stated anywhere we found.</li>
+        </ul>
+      </details>
+      <details><summary>The mountain<span class="n">Tsugaike</span></summary>
+        <ul>
+          <li>The resort Hakuba beginner guides name first: <b>very wide, almost flat greens at the base</b>,
+            and a <b>green run from the top</b> with its own lift, so the gradient builds gently.</li>
+          <li><b>Rostik and Mogi</b>, first day on snow, one on a board and one on skis: this is where that day
+            should be. Ski schools with English-speaking instructors work here, if Mogi wants a lesson.</li>
+          <li>For Georgi and Nadir, a short jet-lagged day on a decent intermediate upper mountain. Happo-One
+            comes on Thursday.</li>
+          <li>&#9888; Tsugaike lift hours for 2026/27 not checked yet.</li>
+        </ul>
+      </details>
+      <details><summary>Why 11:00 and not earlier<span class="n">the honest chain</span></summary>
+        <p class="why">The rental opens at 08:00, not before. Paperwork and winter-tyre check to 08:30, 45 km
+          on winter roads to 09:30, boots and boards for four at Lion Gear in Echoland to 10:15, then 9.4 km
+          to Tsugaike, about 15 min on a clear road. And we got to Nagano at 23:40 the night before.
+          &#9888; Lion Gear does not publish its opening hours, so confirm when booking. <b>Pre-booking the
+          gear online wins back maybe twenty minutes</b> and is worth doing: Lion Gear takes bookings up to
+          2 days and 8 hours ahead.</p>
+      </details>
+      <details><summary>Afternoon and evening<span class="n">onsen, Happo</span></summary>
+        <ul>
+          <li><b>Onsen.</b> <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Mimizuku%20no%20Yu%20Hakuba" target="_blank" rel="noopener">Mimizuku no Yu</a></b>, &yen;650, 10:00&ndash;21:30, open-air bath facing the Hakuba
+            Sanzan. Buy the <b>&yen;2,000 ticket book</b> here, it is worth &yen;2,500 across several onsen.</li>
+          <li><b>Early dinner in Happo</b>, walkable from most Happo lodging. <b>Asuka</b> is the izakaya
+            people name first.</li>
+          <li>Early night. Nothing else. Wednesday is the first full morning.</li>
+        </ul>
+      </details>
+      <details><summary>Evening options beyond onsen and dinner<span class="n">car, ≤30 min</span></summary>
+        <ul>
+          <li><b>Night skiing at Goryu</b>, the one thing that runs <b>every night</b>: <b>18:00&ndash;21:30</b>,
+            Toomi and Iimori slopes, a wide 1,000 m run under lights. Gentle enough for Rostik and Mogi to
+            join without stress. 10 min from Happo. &#9888; Night ticket price and whether the valley pass
+            covers it: not published yet for 2026/27, check at the desk. Last season Cortina charged
+            &yen;2,500 for its night sessions.</li>
+          <li><b>Cortina night skiing</b>, 17:00&ndash;21:00, <b>Saturdays only</b> plus a few set dates. Not on
+            our weekdays. Noted so nobody drives up there for nothing.</li>
+          <li><b>Snowmobile, Lion Adventure</b>, at the base of Hakuba47: one-hour guided runs along the river
+            and through the forest, last slot <b>15:30&ndash;16:30</b>, &yen;21,000 a head, book 24 h ahead.
+            Fits Tuesday's early finish, not really an &ldquo;evening&rdquo; but it is the closest thing to
+            a motorised sunset.</li>
+          <li><b>Night snowshoe walks</b>: operators run them on request, not a fixed product. Ask the
+            lodging on Monday night if anyone wants one for Wednesday.</li>
+          <li><b>Echoland bars</b>: <b>Calico</b> does pop-ups and live music, others run music nights mostly
+            at weekends. On a Tuesday or Wednesday expect a normal bar, not a gig.</li>
+          <li>&#9888; <b>The Happo-One Fire Festival</b>, torchlight descent, taiko, fireworks at the base of
+            Nakiyama, is the one big Hakuba night of February. It was <b>Friday 21 Feb 2025</b> and
+            <b>Friday 20 Feb 2026</b>, so 2027 almost certainly means <b>Friday 19 Feb</b>: the day we are
+            already at the ryokan. We miss it by one day. 2027 date not announced yet.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">Tabelog 3.61</span></summary>
+        <ul>
+          <li>🍽 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%82%B0%E3%83%AA%E3%83%B3%E3%83%87%E3%83%AB%20%E7%99%BD%E9%A6%AC%E6%9D%91" target="_blank" rel="noopener">グリンデル</a></b> (Grindel), <b>Tabelog 3.61</b> from 237 reviews,
+            &yen;1,000&ndash;1,999. The <b>highest-rated place in the whole Hakuba&ndash;Otari area</b>, and
+            it is cheap, casual western food: hamburg steak and korokke. Which is exactly right tonight,
+            after landing at 19:45 and reaching Nagano at 23:40.</li>
+          <li><b>Basashi</b>, horse sashimi. Nagano is one of two places in Japan where this is normal. Thin, ginger and garlic soy.</li>
+          <li><b>Sanzoku-yaki</b>, a huge marinated fried chicken thigh, the Shinshu pub staple.</li>
+          <li><b>Shinshu salmon</b> sashimi, a trout-salmon hybrid farmed only here. <b>Nozawana</b> pickles with everything.</li>
+          <li>Ask for a <b>Shinshu jizake</b> flight. Nagano is a serious sake prefecture.</li>
+        </ul>
+      </details>
+    </div>
+
+    <div class="day s">
+      <div class="day-h"><span class="day-n">Day 4</span><span class="day-d">Wed 17 Feb</span><span class="day-t">🎿 🏂 Goryu + Hakuba47</span></div>
+      <p><b>The only full day</b>, on the mountain that works for all four of us. Lifts from 08:00 at <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba%20Goryu%20Ski%20Resort" target="_blank" rel="noopener">Goryu</a></b>: long, daily-groomed cruisers from the
+        high plateau. Off around 14:00, onsen, dinner in Happo or Echoland.</p>
+      <div class="bed">Night: ✅ <a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=From%20P%20Hakuba" target="_blank" rel="noopener">From P</a>, Echoland &middot; sauna dome, booked</div>
+      <details><summary>The mountain<span class="n">Goryu + 47</span></summary>
+        <ul>
+          <li>Immaculately groomed cruisers descending through tree-lined runs, groomed every day. Exactly
+            our kind of skiing: nobody in this group cares about parks.</li>
+          <li>The <b>Toomi</b> and <b>Iimori</b> zones are wide and gentle, where Rostik and Mogi will be.</li>
+          <li>Connected to <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba47%20Winter%20Sports%20Park" target="_blank" rel="noopener">Hakuba47</a></b> by a gondola on the same ticket for anyone who wants more vertical.
+            Its terrain park is not the reason to go.</li>
+          <li>The pass covers ten resorts, 133 km, but the valley is 40 km long: one or two a day, no more.</li>
+        </ul>
+      </details>
+      <details><summary>Afternoon and evening, hour by hour<span class="n">the worked example</span></summary>
+        <ul>
+          <li><b>14:00</b> lunch at the base, or back to Happo in ten minutes.</li>
+          <li><b>15:00</b> onsen. <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Mimizuku%20no%20Yu%20Hakuba" target="_blank" rel="noopener">Mimizuku no Yu</a></b> again, or <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Happo%20no%20Yu%20Hakuba" target="_blank" rel="noopener">Happo no Yu</a></b> (&yen;1,000, bigger, to 21:00), or
+            <b>Obinata no Yu</b> (&yen;650, the prettiest, but shuts at 18:00 and sits further out).</li>
+          <li><b>16:30</b> apartment, coffee, nap. <b>Baisen Coffee</b> in Happo if anyone wants a cafe.</li>
+          <li><b>18:30</b> dinner. <b>Happo</b> is walkable; <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Echoland%20Hakuba" target="_blank" rel="noopener">Echoland</a></b> is the livelier street, more bars,
+            needs the car or a taxi.</li>
+          <li><b>21:00</b> Echoland bars if there is energy. There usually is not, Thursday starts early.</li>
+        </ul>
+        <p class="why">&#9888; Whoever drives to Echoland does not drink. Japan's limit is effectively zero and
+          the penalties are serious, passengers included. Taxis are scarce on winter evenings, ask the
+          lodging to book one.</p>
+      </details>
+      <details><summary>Evening options beyond onsen and dinner<span class="n">car, ≤30 min</span></summary>
+        <ul>
+          <li><b>Night skiing at Goryu</b>, the one thing that runs <b>every night</b>: <b>18:00&ndash;21:30</b>,
+            Toomi and Iimori slopes, a wide 1,000 m run under lights. Gentle enough for Rostik and Mogi to
+            join without stress. 10 min from Happo. &#9888; Night ticket price and whether the valley pass
+            covers it: not published yet for 2026/27, check at the desk. Last season Cortina charged
+            &yen;2,500 for its night sessions.</li>
+          <li><b>Cortina night skiing</b>, 17:00&ndash;21:00, <b>Saturdays only</b> plus a few set dates. Not on
+            our weekdays. Noted so nobody drives up there for nothing.</li>
+          <li><b>Snowmobile, Lion Adventure</b>, at the base of Hakuba47: one-hour guided runs along the river
+            and through the forest, last slot <b>15:30&ndash;16:30</b>, &yen;21,000 a head, book 24 h ahead.
+            Fits Tuesday's early finish, not really an &ldquo;evening&rdquo; but it is the closest thing to
+            a motorised sunset.</li>
+          <li><b>Night snowshoe walks</b>: operators run them on request, not a fixed product. Ask the
+            lodging on Monday night if anyone wants one for Wednesday.</li>
+          <li><b>Echoland bars</b>: <b>Calico</b> does pop-ups and live music, others run music nights mostly
+            at weekends. On a Tuesday or Wednesday expect a normal bar, not a gig.</li>
+          <li>&#9888; <b>The Happo-One Fire Festival</b>, torchlight descent, taiko, fireworks at the base of
+            Nakiyama, is the one big Hakuba night of February. It was <b>Friday 21 Feb 2025</b> and
+            <b>Friday 20 Feb 2026</b>, so 2027 almost certainly means <b>Friday 19 Feb</b>: the day we are
+            already at the ryokan. We miss it by one day. 2027 date not announced yet.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">the local one</span></summary>
+        <ul>
+          <li>🍽 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%BA%84%E5%B1%8B%E4%B8%B8%E5%85%ABDINING%20%E7%99%BD%E9%A6%AC%E6%9D%91" target="_blank" rel="noopener">庄屋丸八DINING</a></b>, <b>Tabelog 3.35</b> from 85, &yen;4,000&ndash;4,999.
+            郷土料理 and robatayaki, so this is the night for the <b>actual local food</b>: basashi and
+            sanzoku-yaki territory. Lower rated than Tuesday's Grindel, more ambitious.
+            <br>🚨 <b>Clashes with Goryu night skiing</b> (18:00&ndash;21:30). Pick one. If the skiing wins,
+            <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E8%86%B3%20%E7%99%BD%E9%A6%AC%E6%9D%91" target="_blank" rel="noopener">膳</a></b> is soba, <b>Tabelog 3.52</b>, &yen;1,000&ndash;1,999.</li>
+          <li><b>Asuka</b>, Happo, the local izakaya. <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba%20Hifumi%20restaurant" target="_blank" rel="noopener">Hakuba Hifumi</a></b> for a proper multi-course dinner in a
+            ryokan setting, if anyone wants a nicer night out.</li>
+          <li>Same list as Tuesday: basashi, sanzoku-yaki, Shinshu salmon, jizake. Try what was skipped.</li>
+        </ul>
+      </details>
+    </div>
+
+    <div class="day a">
+      <div class="day-h"><span class="day-n">Day 5</span><span class="day-d">Thu 18 Feb</span><span class="day-t">🎂 Nadir's day</span></div>
+      <p><b>Happo-One for the birthday morning</b>, Nadir's call, off the snow by <b>12:30</b>. Route 158 through the Abo Tunnel to
+        <b>Okuhida</b>, about 2 h 30, in by 15:30. Rotenburo, then <b>the birthday dinner is the ryokan
+        kaiseki.</b></p>
+      <div class="bed">✅ Night: 🏮 <a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%8C%A0%E3%81%AE%E5%AE%BF%20%E6%B7%B1%E5%B1%B1%E6%A1%9C%E5%BA%B5%20%E5%B9%B3%E6%B9%AF" target="_blank" rel="noopener">Miyama-ouan</a>, Hirayu &middot; &yen;128,000 for four, <b>booked</b></div>
+      <details><summary>The mountain<span class="n">Happo-One</span></summary>
+        <ul>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Happo-One%20Ski%20Resort%20Hakuba" target="_blank" rel="noopener">Happo-One</a></b>, the biggest mountain in the valley: 52 km of runs, 21 lifts,
+            1,071 m of vertical, the 1998 Olympic downhill. Lifts 08:00&ndash;16:20.</li>
+          <li>Despite its reputation as a skiers' mountain it is rated the <b>best in Hakuba for snowboarders</b>:
+            the terrain flows, almost no flat sections to skate across.</li>
+          <li><b>Rostik and Mogi</b>, on day three: the base zones <b>Nakiyama</b> and <b>Sakka</b>, plus the
+            <b>Shirakaba</b> slope, max 20&deg;. About 4 km from Echoland by car, not walkable with gear.</li>
+          <li>Still Nadir's call: <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Tsugaike%20Kogen%20Ski%20Resort" target="_blank" rel="noopener">Tsugaike</a></b> again, or <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba%20Cortina%20Ski%20Resort" target="_blank" rel="noopener">Cortina</a></b> for trees and deep snow if it has dumped.</li>
+          <li>Half day only. The drive is the afternoon, and check-in is 15:00&ndash;18:00.</li>
+        </ul>
+      </details>
+      <details><summary>The drive<span class="n">Route 158</span></summary>
+        <ul>
+          <li>Hakuba &rarr; Matsumoto &rarr; Route 158 through the Abo Tunnel &rarr; Hirayu. Never closed by
+            snow even in deep winter, but a narrow pass with a long winding descent. No hurry.</li>
+          <li>Winter tyres are mandatory on this road from mid-November. They were booked with the car.</li>
+        </ul>
+      </details>
+      <details><summary>The ryokan<span class="n">Yama no Hotel</span></summary>
+        <ul>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E7%A9%82%E9%AB%98%E8%8D%98%20%E5%B1%B1%E3%81%AE%E3%83%9B%E3%83%86%E3%83%AB%20%E5%A5%A5%E9%A3%9B%E9%A8%A8%E6%B8%A9%E6%B3%89%E9%83%B7" target="_blank" rel="noopener">穂高荘 山のホテル</a></b>, Shinhotaka. Riverside open-air bath reached by a <b>little cable car</b>,
+            facing Yarigatake, plus three private open-air baths. Rating 4.43, baths 4.67.</li>
+          <li><b>&yen;90,552 for four with dinner and breakfast, about &euro;122 each</b>, checked on Ikyu for
+            our date. Book the <b>90-day early plan</b>: same price plus one free private bath session. The
+            window opens around <b>20 November</b>. Say it is a birthday.</li>
+          <li>Dinner is at a fixed hour, 18:00 or 18:30, and the kitchen does not wait. Bath first.</li>
+          <li>The other two candidates, Miyama Ouan (no dinner plan on sale for our date) and Kutsurogi no Ya Yu
+            (waitlist only), are in the ryokan section below.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">the kaiseki</span></summary>
+        <p>We do not order here, the set menu is the point. Expect <b>Hida beef</b> twice, lightly seared and
+          <b>grilled at the table on a magnolia leaf over sweet miso</b>; <b>hoba miso</b> on its own with
+          mushrooms; <b>salt-grilled river fish</b>, iwana or amago, whole on a skewer; <b>sansai</b> mountain
+          vegetables as tempura. Local sake with it.</p>
+      </details>
+    </div>
+
+    <div class="day a">
+      <div class="day-h"><span class="day-n">Day 6</span><span class="day-d">Fri 19 Feb</span><span class="day-t">ryokan &rarr; Toyama</span></div>
+      <p><b>The ryokan all morning</b>: bath, breakfast, bath, out at the 10:00 check-out with nobody rushed.
+        Then north to <b>Toyama</b>, about 1 h 30, in by 13:00. Iwase and sake before 17:00, drop the car,
+        sushi.</p>
+      <div class="bed">✅ Night: <b>Dormy Inn Toyama Tsurugi-no-Yu</b>, booked</div>
+      <details><summary>🛏 Hotel ✅ booked<span class="n">onsen + sauna</span></summary>
+        <p>✅ <b>Dormy Inn Toyama Natural Hot Spring Tsurugi-no-Yu</b>, booked by Nadir.
+          <b>19 → 20 Feb</b>, non-smoking twin, 17 m², <b>&yen;34,200 tax included, breakfast included,
+          on-site payment</b>. Covers <b>Nadir and Georgi</b>, ≈ <b>&euro;92 each</b>.</p>
+        <p>✅ <b>It has a natural hot spring bath and a sauna</b>, so there is an onsen on the Friday
+          whatever happens with the ryokan night.</p>
+        <p>&#9888; <b>Not the station-side pick this shortlist recommended, and that is fine.</b> It is in
+          <b>Otemachi</b>, 1.2 km and ~15 min walk from Toyama Station, <b>or a ~4 min tram</b> — and
+          <b>the hotel gives guests free tram tickets</b>. In exchange it sits centrally, next to
+          <b>Sogawa</b> where the Sushi-Ei dinner is. The shortlist optimised for Saturday morning's train
+          and under-weighted the whole Friday evening.</p>
+        <p>🚨 <b>Rostik and Mogi have no room this night either.</b></p>
+        <p class="why">The shortlist that led here:</p>
+        <p class="why">The car is dropped here and the <b>Shinkansen leaves next morning</b>, so this is a
+          station-side night, no exceptions.</p>
+        <ul>
+          <li><b>1. Toyama Chitetsu Hotel</b> &middot; <b>directly connected</b> to JR and Dentetsu Toyama
+            Station. Zero walk with luggage, and the Sogawa tram runs from the same place.</li>
+          <li><b>2. Daiwa Roynet Hotel Toyama-Ekimae</b> &middot; <b>4 min</b> walk, reliable chain.</li>
+          <li><b>3. Hotel JAL City Toyama</b> &middot; <b>4 min</b> walk, a slight step up.</li>
+        </ul>
+        <p class="why">&#9888; Dinner at 寿司栄 総曲輪店 is in <b>Sogawa</b>, the centre, not at the station:
+          a short tram ride. Worth knowing, not worth relocating for.</p>
+      </details>
+      <details><summary>The ropeway, if anyone wants it<span class="n">not in the plan</span></summary>
+        <p class="why">The <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shinhotaka%20Ropeway" target="_blank" rel="noopener">Shinhotaka Ropeway</a></b> is next door to the ryokan: 09:00 first car, 2,156 m deck,
+          the high Hotaka and Yari massif that Hakuba cannot show you. It came off the plan because the ryokan
+          morning is worth more. Anyone who wakes to a clear sky can walk over for the 09:00 car and still make
+          check-out. &yen;3,300. In fog it shows nothing.</p>
+      </details>
+      <details><summary>The drive<span class="n">Route 471 and 41</span></summary>
+        <p>East out of Hirayu on Route 471, then Route 41 north. We pass Takayama without stopping, Rostik has
+          been and says skip it. About 1 h 30 to Toyama. <b>Drop the car in Toyama</b>; this is a cross-prefecture
+          one-way drop, roughly <b>&yen;5,000&ndash;15,000</b> depending on operator, the price of the loop. The Shinkansen takes over from here.</p>
+      </details>
+      <details><summary>Afternoon and evening<span class="n">Iwase first</span></summary>
+        <ul>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Iwase%20Toyama" target="_blank" rel="noopener">Iwase</a></b>, the old Kitamaebune port street, 15 min from the centre by the Portram tram. Go here
+            <b>first</b>, because <b>Saseki closes at 17:00</b>.</li>
+          <li><b>Saseki</b>, Masuda Shuzo's standing bar: about 100 Masuizumi sakes, wooden cup &yen;220 plus
+            &yen;200&ndash;500 a pour, three-cup flight &yen;1,000, <b>30 min all-you-can &yen;2,000</b>.
+            &#9888; Return the car first and take the tram, so nobody drives after.</li>
+          <li>After dark: the kilometre from the station to <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Toyama%20Castle" target="_blank" rel="noopener">Toyama Castle</a></b> is lit all winter, free, on the
+            way to Sogawa. <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Fugan%20Canal%20Kansui%20Park%20Toyama" target="_blank" rel="noopener">Kansui Park</a></b> illumination if anyone fancies it, option not plan.</li>
+          <li><b>Mitomi</b> in the Maroot building at the station: the wider Toyama sake selection, the fallback
+            if Saseki's 17:00 is missed. Hours not found.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">Toyama Bay</span></summary>
+        <ul>
+          <li>🍽 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%AF%BF%E5%8F%B8%E6%A0%84%20%E7%B7%8F%E6%9B%B2%E8%BC%AA%E5%BA%97%20%E5%AF%8C%E5%B1%B1" target="_blank" rel="noopener">Sushi-Ei Sogawa</a></b> (寿司栄 総曲輪店), Nadir's pin, <b>Google 4.3</b> from 943
+            and <b>Tabelog 3.61</b> from 503, two platforms agreeing it is good. &yen;3,000&ndash;3,999 lunch,
+            &yen;6,000&ndash;7,999 dinner. Toyama's genuinely top-rated places run &yen;30,000+ a head, so this
+            is the right call, not a compromise. In February the counter has <b>buri</b> (winter
+            yellowtail, fattest now), <b>snow crab</b>, <b>shiro-ebi</b> and <b>kawahagi with its liver</b>,
+            which the city's own February guide singles out.</li>
+          <li><b>Shiro-ebi</b>, white shrimp, translucent and sweet, raw or as a kakiage fritter. Toyama is
+            effectively the only place that lands them.</li>
+          <li><b>Masu-zushi</b>, pressed trout in a round wooden box, the station sells it. Good for the train tomorrow.</li>
+          <li>&#9888; <b>Hotaru-ika</b>, firefly squid, is March to June. We will miss the fresh ones.</li>
+        </ul>
+      </details>
+    </div>
+
+    <div class="day a">
+      <div class="day-h"><span class="day-n">Day 7</span><span class="day-d">Sat 20 Feb</span><span class="day-t">Kanazawa</span></div>
+      <p><b>Shinkansen, unreserved, &yen;2,860, 23 min</b> to Kanazawa. <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Omicho%20Market%20Kanazawa" target="_blank" rel="noopener">Omicho Market</a></b> for a late
+        breakfast in snow crab season, <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kenrokuen%20Garden%20Kanazawa" target="_blank" rel="noopener">Kenrokuen</a></b>, <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Higashi%20Chaya%20District%20Kanazawa" target="_blank" rel="noopener">Higashi Chaya</a></b> at dusk, dinner.</p>
+      <div class="bed">Night: Kanazawa</div>
+      <details><summary>🛏 Hotel shortlist<span class="n">station &harr; Omicho</span></summary>
+        <p class="why">Saturday is <b>walked, not driven</b> (Omicho, Kenrokuen, Higashi Chaya), and Sunday
+          opens with the Kagayaki. The sweet spot is <b>between the station and Omicho</b>.</p>
+        <ul>
+          <li><b>1. Mitsui Garden Hotel Kanazawa</b> &middot; <b>4 min</b> to Omicho Market. Puts the crab
+            breakfast at the end of the corridor.</li>
+          <li><b>2. Hotel Nikko Kanazawa</b> &middot; at the <b>station</b>, still walkable to Omicho. Pick
+            this if Sunday's train matters more than Saturday's walking.</li>
+          <li><b>3. UAN Kanazawa</b> &middot; <b>5 min</b> to Omicho, beside Kanazawa Castle Park, 15 min to
+            Kenrokuen. The most central for Saturday's actual route.</li>
+        </ul>
+      </details>
+      <details><summary>Getting there<span class="n">why Shinkansen</span></summary>
+        <p class="why">Any Hakutaka or Tsurugi, unreserved car, ticket from the machine, several an hour. The
+          local Ainokaze train is &yen;1,240 but takes an hour; Georgi decided the time matters more, and
+          Saturday here is full.</p>
+      </details>
+      <details><summary>The day<span class="n">in order</span></summary>
+        <ul>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Omicho%20Market%20Kanazawa" target="_blank" rel="noopener">Omicho Market</a></b>, 09:00&ndash;17:00, Kanazawa's food market since the Edo period. Late breakfast:
+            crab legs grilled at the stall, or a <b>kaisendon</b> rice bowl.</li>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kenrokuen%20Garden%20Kanazawa" target="_blank" rel="noopener">Kenrokuen</a></b>, one of Japan's three great gardens, from 06:00 in winter. <b>Winter is its
+            signature season</b> because of <b>yukitsuri</b>, the rope rigging that holds the pines under snow,
+            lit on February evenings. &#9888; Confirm the light-up dates.</li>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Higashi%20Chaya%20District%20Kanazawa" target="_blank" rel="noopener">Higashi Chaya</a></b>, the preserved geisha quarter, at dusk.</li>
+          <li>&#9888; Kanazawa's reputation is &ldquo;Little Kyoto&rdquo;, not little Tokyo: refined, not a
+            night-life city. The city rhythm on this trip is Sunday's drive.</li>
+        </ul>
+      </details>
+      <details><summary>The alternative: Ainokura light-up<span class="n">by car only</span></summary>
+        <p class="why">The World Heritage gassho village in Gokayama is lit up sunset to 20:00 on exactly this
+          Saturday, no booking. But <b>the last bus back leaves at 16:45</b>, before the lights, so it only
+          works if we keep the car a day longer and drop it in Kanazawa on Sunday. Open question, full trade in
+          its own section below.</p>
+      </details>
+      <details><summary>Food<span class="n">Kaga cuisine</span></summary>
+        <ul>
+          <li>🍽 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E9%87%91%E6%BE%A4%20%E9%AE%A8%20%E6%B4%8B%E6%AC%A1%E9%83%8E" target="_blank" rel="noopener">金澤 鮨 洋次郎</a></b>, <b>Tabelog 3.77</b> from 165. 寿司, 郷土料理 and 海鮮, which is
+            the snow-crab point of being here. <b>&yen;4,000&ndash;4,999 at lunch</b> against
+            &yen;10,000&ndash;14,999 at dinner, so lunch is the value play. Kanazawa's top four are all
+            &yen;40,000&ndash;49,999 a head, about a fifth of the per-person budget for one meal.</li>
+          <li><b>Snow crab.</b> November to February is the season and we are in its last weeks.</li>
+          <li><b>Nodoguro</b>, blackthroat seaperch: sweet, oily, dense, and expensive. Grilled with salt or as
+            sushi. <b>If there is one splurge fish on the trip, this is it.</b></li>
+          <li><b>Jibuni</b>, duck simmered with wheat gluten in thickened dashi, Kanazawa's classic stew. Evening,
+            at an izakaya.</li>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kanazawa%20Kaiten%20Zushi%20Kirari" target="_blank" rel="noopener">KIRARI</a></b> by the station's west exit, from Nadir's map: conveyor sushi ordered from a tablet,
+            the belt does not revolve so nothing sits around.</li>
+          <li><b>Gold leaf</b> on everything including ice cream. Kanazawa makes nearly all of Japan's. Once,
+            for the photo.</li>
+        </ul>
+      </details>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 8</span><span class="day-d">Sun 21 Feb</span><span class="day-t">🏎 the night drive</span></div>
+      <p>Kanazawa morning, <b>Kagayaki to Tokyo</b> 2 h 28, in the city early afternoon. <b>Car at 16:00</b>,
+        central Tokyo, <b>Daikoku PA from about 20:00</b>. Back late, car stays overnight.</p>
+      <div class="bed">Night: Tokyo</div>
+      <details><summary>🛏 Hotel shortlist<span class="n">🚨 two cars to park</span></summary>
+        <p class="why">🚨 <b>A constraint nobody had written down: two rental cars sit here overnight.</b>
+          Central Tokyo hotel parking runs roughly <b>&yen;1,000&ndash;8,000 per night per car</b> where it
+          exists at all, and often it does not.</p>
+        <p class="why"><b>So we stay south, near Haneda, not in the centre.</b> It shortens Sunday's pickup,
+          shortens Monday's drive to Shin-Yokohama, and puts the airport minutes away for both the car
+          return and the flight.</p>
+        <ul>
+          <li><b>1. Tokyu Stay Kamata</b> &middot; 8 min walk from JR Kamata, <b>Haneda 8 min by train</b>,
+            ✅ <b>complimentary parking</b>. The only candidate that solves the parking problem for free, and
+            it sits exactly on the pickup&ndash;drive&ndash;flight axis.</li>
+          <li><b>2. Urbain Tokyo Haneda Kamata</b> &middot; Kamata, <b>on-site parking</b>, ~15 min drive to
+            Haneda. Same logic, cheaper bracket.</li>
+          <li><b>3. Mercure Tokyo Haneda Airport</b> &middot; <b>private parking</b>, closest to the airport.</li>
+        </ul>
+        <p class="why">🚨 <b>Two cars, not one.</b> Where &ldquo;free&rdquo; or &ldquo;on-site&rdquo; parking
+          is advertised the spaces are usually few and first-come. <b>Confirm two spaces at booking</b>, or
+          this quietly becomes one car parked and one hunting a coin lot at midnight.
+          <br>&#9888; <b>The trade:</b> staying south makes the night drive into central Tokyo a there-and-back
+          rather than starting on the doorstep. The drive is the point of the evening, so that is acceptable.</p>
+      </details>
+      <details><summary>Why not fly<span class="n">checked</span></summary>
+        <p class="why">Komatsu airport is 45 minutes from Kanazawa in the wrong direction and a domestic flight
+          wants an hour at the airport. Door to door: <b>3 h 20 by plane, 3 h 15 by train</b>, fare about
+          &euro;16 either way. The train wins on bags, security, four seats together, and landing in central Tokyo.</p>
+      </details>
+      <details><summary>The drive<span class="n">OnlyJDM, 24 h</span></summary>
+        <ul>
+          <li>Self-drive with <b>OnlyJDM</b>, who we have rented from before. <b>Haneda branch, both cars,
+            nothing from Tokyo North.</b> Who signs the rental paperwork is a group job, not Mogi's by default.</li>
+          <li><b>24-hour tier</b>, not the 7-hour one: both branches close at 18:30 and Daikoku only fills up
+            20:00&ndash;22:00, so a short rental never reaches the meet. R34 Skyline &yen;23,800 for 24 h, about
+            &euro;32 each; R35 GT-R &yen;56,800; EVO X &yen;25,800.</li>
+          <li><b>Two cars, not one.</b> Decided 23 Aug: it is way cooler and the only downside is price.
+            Default pairing <b>R34 + R34</b>, &yen;47,600 for both on 24 h, about <b>&euro;64 each</b> against
+            &euro;32 for one. Two drivers, passengers swap at Daikoku, a matched convoy. Upgrade pairings and
+            deposits in the drive section below.</li>
+          <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Daikoku%20Parking%20Area%20Yokohama" target="_blank" rel="noopener">Daikoku Parking Area</a></b> is in Nadir's own map. Sunday is quieter than Friday or Saturday, but it
+            is the only night we have, and there is a steady flow of local JDM cars every evening.</li>
+          <li>Daikoku PA has a food court that is part of the ritual.</li>
+        </ul>
+      </details>
+      <details><summary>Food<span class="n">everyone's list</span></summary>
+        <p>Everyone builds this one; Mogi knows the city so his opinion counts, but it is not his job. What we
+          would not want to miss on one of the two Tokyo days: a proper <b>ramen</b> counter (Nadir's map has
+          Ramen FeeL), <b>tsukemen</b>, a standing sushi bar, a <b>yakitori alley</b>.</p>
+      </details>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 9</span><span class="day-d">Mon 22 Feb</span><span class="day-t">Yokohama &rarr; ✈️ home</span></div>
+      <p><b>The cars go south one last time:</b> 🍜 ramen museum, 🏎 Nissan gallery, ♨️ onsen, all in
+        Yokohama. <b>Back at Haneda by 16:00</b>, then the train into Ginza for souvenirs and back.
+        ✈️ <b>Georgi HND 22:05</b> (Turkish), <b>Nadir HND 22:45</b> (LH/ANA). Same terminal, then we split. &#9888; <b>Rostik's return is not known yet</b>, and he flew in through Narita.</p>
+      <div class="bed">Night: on the plane</div>
+      <details><summary>The run<span class="n">hour by hour</span></summary>
+        <div class="scroll"><table>
+          <tr><th>Time</th><th>What</th></tr>
+          <tr><td class="num">~10:00</td><td>Leave Tokyo, bags in the cars</td></tr>
+          <tr><td class="num">~11:00</td><td>🍜 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shin-Yokohama%20Ramen%20Museum" target="_blank" rel="noopener">Shin-Yokohama Ramen Museum</a></b>, opens 11:00 on weekdays</td></tr>
+          <tr><td class="num">~12:45</td><td>🏎 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Nissan%20Global%20Headquarters%20Gallery%20Yokohama" target="_blank" rel="noopener">Nissan Global HQ Gallery</a></b>, free</td></tr>
+          <tr><td class="num">~13:45</td><td>♨️ <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Yokohama%20Minatomirai%20Manyo%20Club" target="_blank" rel="noopener">Manyo Club</a></b>, bath and wind-down</td></tr>
+          <tr><td class="num">~15:15</td><td>Leave for the Haneda area, ~25 min</td></tr>
+          <tr><td class="num"><b>15:45</b></td><td><b>Cars back at the branch</b>, inside the 16:00 mark</td></tr>
+          <tr><td class="num">🚨 <b>?</b></td><td><b>Transfer to the terminal.</b> &#9888; Unmeasured, the branch is not at the airport</td></tr>
+          <tr><td class="num">~16:15+</td><td>🚃 Keikyu to Higashi-Ginza, 35 min, &yen;550. Souvenirs</td></tr>
+          <tr><td class="num">~19:50</td><td>Back at Haneda terminal</td></tr>
+        </table></div>
+        <p class="why">Everything sits on one axis: Haneda, Kawasaki and Yokohama run in a line down the
+          bay, so the day goes south and ends near the airport. Nothing doubles back into central Tokyo by
+          car. &#9888; About <b>60 km</b> in total, inside what is left of the 200 km per 24 h after
+          Sunday night.</p>
+        <p class="why">🚨 <b>The gap between 15:45 and the train is fiction until someone asks OnlyJDM where
+          the branch actually is.</b> This was written assuming we hand the keys over and walk into
+          departures, which is not what happens. The 22:05 has enough slack to absorb it, but
+          <b>the Ginza run is what gets squeezed</b>, so confirm before counting on three hours of shopping.</p>
+      </details>
+      <details><summary>The three stops<span class="n">food, cars, bath</span></summary>
+        <p>🍜 <b>Shin-Yokohama Ramen Museum.</b> A recreated 1958 streetscape in a basement with regional
+          ramen shops from around Japan, and <b>every shop serves a &ldquo;mini ramen&rdquo; at
+          &yen;500&ndash;800</b>, so you eat across several regional styles instead of committing to one
+          bowl. <b>11:00&ndash;21:00 weekdays, &yen;380</b>, own car park with validation.</p>
+        <p class="why">✅ <b>Tabelog settles whether the museum is a tourist trap: it is not.</b> The
+          <b>five best-rated ramen shops in all of Shin-Yokohama are its own tenants</b>, ahead of
+          everything else in the area. Worth targeting:
+          <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%88%A9%E5%B0%BB%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E5%91%B3%E6%A5%BD%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8" target="_blank" rel="noopener">利尻らーめん味楽</a></b> <b>3.74</b> (1,972 reviews), Hokkaido shoyu with grilled kelp;
+          <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%BC%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8" target="_blank" rel="noopener">ロックンスリー</a></b> <b>3.68</b>;
+          <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%9A%E5%A4%9A%E4%B8%80%E5%8F%8C%20%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8" target="_blank" rel="noopener">博多一双</a></b> <b>3.66</b>, Hakata tonkotsu; and <b>六角家1994+</b> 3.63 for
+          Yokohama iekei, the local style. Rishiri, Hakata and iekei in one sitting is three genuinely
+          different bowls.</p>
+        <p class="why">&#9888; <b>If we skip the museum, we are not eating better ramen elsewhere</b>, because
+          every good ramen shop in the area is inside it. Skipping means eating something else:
+          <b>シャン ド ブレ</b> <b>3.69</b> (605), a bakery 585 m out and the best-rated non-museum place;
+          <b>non dà clair</b> 3.54, Italian, &yen;4,000&ndash;4,999; or <b>洋食 キムラ</b> 3.49 in Cubic
+          Plaza <b>62 m from the station</b>, hamburg steak, &yen;1,000&ndash;1,999, which is the one to take
+          if we are tight on the 16:00 car return.</p>
+        <p>🏎 <b>Nissan Global HQ Gallery.</b> <b>Free</b>, 10:00&ndash;18:00 on weekdays. Vintage Datsuns,
+          GT-Rs, decades of motorsport machinery, free Gran Turismo stations. We turn up at Nissan's own
+          headquarters in a pair of R34 Skylines, which is the better version of the joke.</p>
+        <p class="why">&#9888; Alternative: the <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Cup%20Noodles%20Museum%20Yokohama" target="_blank" rel="noopener">Cup Noodles Museum</a></b> in Minato Mirai, one of Nadir's own
+          pins, 10:00&ndash;18:00, closed Tuesdays so a Monday works. Two noodle museums in one day is a lot,
+          and Nissan is free.</p>
+        <p>♨️ <b>Yokohama Minatomirai Manyo Club.</b> Real onsen water, <b>open 24 hours</b>,
+          <b>&yen;3,500</b> plus &yen;100 bath tax, 226 parking spaces at &yen;600 for 7 hours. The upmarket
+          version: a plain neighbourhood <em>sent&#333;</em> is about &yen;500 but has neither the parking
+          nor the space to sit around in before a flight.</p>
+      </details>
+      <details><summary>Souvenirs, then the train<span class="n">Ginza, 3 hours</span></summary>
+        <p>The cars go back at Haneda, so from there it is the train. <b>Keikyu runs direct to
+          Higashi-Ginza in about 35 minutes for &yen;550</b>, then five minutes on foot.</p>
+        <p>Ginza covers the list: <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Itoya%20Ginza" target="_blank" rel="noopener">Itoya</a> is open 10:00&ndash;20:00 on weekdays</b>, so a 16:55 arrival
+          leaves about three hours, and Loft and Hands are the same errand.</p>
+        <ul>
+          <li>✅ There is also an <b>Itoya branch inside Haneda</b>, so a squeezed Ginza run is not fatal.</li>
+          <li>💡 <b>Buy the umeshu at Haneda, not in town.</b> Bottles are heavy, breakable and duty-free at
+            the airport.</li>
+          <li>🚨 <b>Bags, and this got worse.</b> Turkish check-in will not be open at 15:45, so the luggage
+            wants a coin locker at the terminal before the Ginza run. But <b>the cars go back at a branch
+            that is not the terminal</b>, so four people's bags have to be carried from the branch to the
+            airport first, and only then into a locker. That extra leg is the most annoying consequence of
+            the branch not being where this page used to say it was.</li>
+        </ul>
+      </details>
+      <details><summary>Getting out<span class="n">the hard limit</span></summary>
+        <p class="why">Return by 16:00 is the 24-hour mark; <b>18:30 is when the branch closes</b> and late
+          return costs &yen;6,600 per 30 minutes. The 22:05 leaves plenty of room even with the Ginza
+          detour.</p>
+      </details>
+    </div>
+
+    <div class="day t">
+      <div class="day-h"><span class="day-n">Day 10</span><span class="day-d">Tue 23 Feb</span><span class="day-t">home</span></div>
+      <p>✈️ <b>Georgi lands Berlin 09:25, Nadir lands Leipzig 09:45.</b></p>
+      <div class="bed">7 nights: Nagano &times;1, Hakuba &times;2, Okuhida &times;1, Toyama &times;1, Kanazawa &times;1, Tokyo &times;1</div>
+      <details><summary>Tuesday<span class="n">a warning</span></summary>
+        <p class="why">It is a working day, and we land at half past nine. After an overnight with a stop and
+          eight hours of time difference, nobody should plan on it.</p>
+      </details>
+    </div>
+  </section>
+
+
+  <section id="routeb">
+    <h2>Why the merge works</h2>
+    <p class="sub">mountains and coast were never mutually exclusive</p>
+
+    <p>What made the two look like an either-or was an assumption that the coast is only reachable
+      from Hakuba along <b>Route 148</b> through Itoigawa, a known winter bottleneck: narrow, icy, lots
+      of tunnels, slow behind the plough. It is not the only way.</p>
+
+    <p><b>Okuhida is on the road to Toyama.</b> Route 471 east out of Hirayu joins Route 41, and Toyama
+      Interchange to Hirayu is about <b>90 minutes</b>. So the shape is Hakuba, south into the mountains
+      for the ropeway and the ryokan, then north-west to the sea. One continuous arc, and it sidesteps
+      Route 148 completely.</p>
+
+    <div class="scroll"><table>
+      <tr><th>Kept</th><th>Gained</th><th>Dropped</th></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shinhotaka%20Ropeway" target="_blank" rel="noopener">Shinhotaka Ropeway</a></b>, the only winter access to the high Hotaka and Yari massif</td><td><b>Toyama</b>, which Rostik asked for and Nadir originally drew</td><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Takayama%20Gifu" target="_blank" rel="noopener">Takayama</a></b> as a stop. Rostik has been, it is not worth it. We drive through</td></tr>
+      <tr><td>The <b>Okuhida rotenburo ryokan</b>, on Thursday, on Nadir's birthday</td><td><b>Kanazawa</b>, which fills what had become an empty day 8</td><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shirakawa-go%20Gifu" target="_blank" rel="noopener">Shirakawa-go</a></b> is no longer on the way. See the open questions</td></tr>
+      <tr><td>Three ski mornings, all weekdays</td><td>A route that is <b>actually a circle</b></td><td>Matsumoto Castle, already dropped when we switched to the Nagano entry</td></tr>
+    </table></div>
+
+    <div class="note">
+      <p><b>What the circle costs: a one-way car drop, and it is cheaper than first written.</b> Georgi
+        challenged the old &yen;20,000&ndash;30,000: the group paid about &yen;5,000 with Toyota before. Checked
+        properly on 23 Aug. <b>Toyota</b> uses a fixed zone table (its intra-prefecture cells around Toyama
+        and Nagano are &yen;1,650&ndash;3,300), so a cross-prefecture hop is plausibly <b>&yen;5,000&ndash;8,000</b>;
+        the exact Nagano&nbsp;&rarr;&nbsp;Toyama cell only lives in their simulator, one call to the Nagano
+        shop (026-228-0100) settles it. <b>Nippon</b>, same desk, publishes &yen;880 per 10 km: 168 km by road,
+        so <b>&yen;14,960</b>. Working range <b>&yen;5,000&ndash;15,000 for the car, &euro;7&ndash;20 each</b>.
+        Both stations confirmed: Nagano Shop 3 min from the station, Toyama Station Shop 5 min, 08:00&ndash;20:00,
+        cross-prefecture returns accepted at both.</p>
+    </div>
+
+    <h3>Numbers on the coast leg</h3>
+    <div class="scroll"><table>
+      <tr><th>Leg</th><th>Time</th><th>Fare</th></tr>
+      <tr><td>Okuhida (Hirayu) &rarr; Toyama, by car</td><td class="num">~1 h 30</td><td>Route 471 then 41</td></tr>
+      <tr><td>Toyama &rarr; Kanazawa</td><td class="num">19&ndash;22 min</td><td class="num">&#9888; fare not found</td></tr>
+      <tr><td>Toyama &rarr; Tokyo</td><td class="num">2 h 06&ndash;10</td><td class="num">&yen;12,430&ndash;12,960</td></tr>
+      <tr><td>Kanazawa &rarr; Tokyo</td><td class="num">2 h 28</td><td class="num">&yen;14,380</td></tr>
+    </table></div>
+
+    <p>&#9888; One honest note on Kanazawa: Nadir asked for city rhythm, and Kanazawa's actual
+      reputation is <b>&ldquo;Little Kyoto&rdquo;</b>, not little Tokyo. Preserved geisha and samurai
+      quarters, gardens, crafts. Livelier than Takayama, but the real city rhythm on this trip is the
+      Tokyo drive.</p>
+  </section>
+
+  <section id="dates">
+    <h2>Why exactly these dates</h2>
+    <p class="sub">clean window, both ends</p>
+
+    <p><b>14&ndash;23 February dodges everything that matters.</b> We miss the Chinese New Year wave
+      (peak 6&ndash;13 Feb), both Japanese holidays, and the German school and carnival price spikes.
+      Ski days are Tuesday to Thursday, no weekends. Mid-February is also the <b>deepest snow base of
+      the season</b>: December and January snow has settled, the spring melt has not started.</p>
+
+    <details><summary>The six things we dodged<span class="n">two tables</span></summary>
+      <p class="why"><b>Japan side</b></p>
+      <div class="scroll"><table>
+        <tr><th>Date</th><th>What</th><th>Effect</th></tr>
+        <tr><td class="num"><b>6 Feb</b></td><td>Chinese New Year, Year of the Fire Goat</td><td>Wave from China, Hong Kong, Taiwan, Singapore. Japanese resorts are their main winter destination. Peak roughly 6&ndash;13 Feb</td></tr>
+        <tr><td class="num"><b>11 Feb</b> (Thu)</td><td>National Foundation Day</td><td>Many take the Friday too, so it becomes a four-day weekend on the slopes</td></tr>
+        <tr><td class="num"><b>23 Feb</b> (Tue)</td><td>The Emperor's Birthday</td><td>We land in Berlin that morning, so it does not touch us</td></tr>
+        <tr><td class="num">Sat &amp; Sun</td><td>Japanese people ski at weekends</td><td>Midweek is much quieter for the same money</td></tr>
+      </table></div>
+      <p class="why"><b>Germany side</b></p>
+      <div class="scroll"><table>
+        <tr><th>Date</th><th>What</th><th>Effect</th></tr>
+        <tr><td class="num"><b>1&ndash;6 Feb</b></td><td>Berlin Winterferien</td><td>Price spike on departures from BER</td></tr>
+        <tr><td class="num"><b>4&ndash;10 Feb</b></td><td>Carnival: Weiberfastnacht 4th, Rosenmontag 8th, Ash Wednesday 10th</td><td>School holidays in several states, another price spike</td></tr>
+      </table></div>
+      <p class="why">The one-day shift from the original 13&ndash;22 draft also removed a soft spot: that
+        version landed on 14 February, still the tail of Chinese New Year week. Arriving on the 15th
+        clears it.</p>
+    </details>
+
+    <details><summary>Why we moved a day: Valentine's Day<span class="n">why the 14th</span></summary>
+      <p class="why">Sunday 14 February. Under the first draft it was spent in the air. Georgi and Nadir
+        both wanted it at home instead, so the whole trip shifted one day later and we fly out that
+        evening.</p>
+      <p class="why">Worth knowing, since it came up: <b>Japan's 14 February is not a date-night occasion
+        at all.</b> It is one-directional chocolate giving, often <em>giri-choco</em>, &ldquo;obligation
+        chocolate&rdquo; for coworkers, with the reciprocal falling on White Day, 14 March. So there was
+        nothing to stay for on the Japanese side either.</p>
+    </details>
+
+    <details><summary>The March fallback<span class="n">not needed</span></summary>
+      <p class="why">Georgi raised March in case February could not be squared with Valentine's Day. It
+        could, so this is a fallback rather than a plan. <b>Clean window: Sat 6 &rarr; Mon 15 March
+        2027</b>, skiing Tue 9, Wed 10, Thu 11.</p>
+      <div class="scroll"><table>
+        <tr><th>For</th><th>Against</th></tr>
+        <tr><td>No Valentine's conflict at all</td><td><b>Nadir's birthday is not on the trip</b></td></tr>
+        <tr><td>Nearest Japanese holiday is the Vernal Equinox, Sun 21 March, safely after us</td><td>Powder quality drops. March is spring snow, not midwinter</td></tr>
+        <tr><td>Base still deep: mid-March 2026 measured about <b>215 cm</b> at the Hakuba summit</td><td>Lower slopes soften first, so the good runs concentrate up high</td></tr>
+        <tr><td>Fewer crowds and cheaper accommodation than February</td><td></td></tr>
+        <tr><td><b>Firm in the morning, slush by afternoon</b>, and we only ski mornings, so the pattern suits us almost exactly</td><td></td></tr>
+      </table></div>
+    </details>
+  </section>
+
+
+  <section id="flights">
+    <h2>Flights, real prices</h2>
+    <p class="sub">searched 4 Aug 2026 &middot; round trip, one adult, economy</p>
+
+    <div class="note">
+      <p>🚨 <b>First finding: our &ldquo;after 21:00&rdquo; assumption was fiction.</b> No Berlin to
+        Tokyo flight departs that late. The last one of the day goes at <b>19:20</b>. That still leaves
+        most of Valentine's Day at home, out of the door around 17:00, but the wording was wrong and
+        is now fixed everywhere.</p>
+    </div>
+
+    <h3>Out Sun 14 Feb, back Mon 22 Feb</h3>
+    <div class="scroll"><table>
+      <tr><th>Out</th><th>Lands</th><th>Airline</th><th>Route</th><th>Price</th></tr>
+      <tr><td class="num"><b>19:20</b></td><td class="num"><b>19:45+1 HND</b></td><td><b>Turkish</b></td><td>1 stop, 2 h 15 IST, 16 h 25</td><td class="num"><b>✅ &euro;974</b></td></tr>
+      <tr><td class="num">14:35</td><td class="num">19:45+1 HND</td><td>Turkish</td><td>1 stop, 6 h 55 IST, 21 h 10</td><td class="num">&euro;969</td></tr>
+      <tr><td class="num">11:40</td><td class="num"><b>10:45+1 HND</b></td><td>Lufthansa + ANA</td><td>1 stop, 1 h 10 FRA, <b>15 h 05</b></td><td class="num">&euro;1,020</td></tr>
+      <tr><td class="num">09:40</td><td class="num">10:20+1 NRT</td><td>SWISS + ANA</td><td>1 stop, 1 h 55 ZRH</td><td class="num">&euro;978</td></tr>
+      <tr><td class="num">07:00</td><td class="num">06:55+1 HND</td><td>Austrian + ANA</td><td>1 stop, 2 h 20 VIE</td><td class="num">&euro;1,021</td></tr>
+    </table></div>
+    <p>Google rates the current level as <b>&ldquo;typical&rdquo;</b>, so there is no reason to panic-book
+      and no reason to wait either.</p>
+
+    <h3>Out Mon 15 Feb: this costs a ski day</h3>
+    <p>&#9888; <b>Berlin to Tokyo always lands the next day.</b> A morning departure on the 15th arrives
+      on the <b>morning of the 16th</b>, and the 16th is our <b>first ski day</b>. The cheapest are
+      Lufthansa 09:55&nbsp;&rarr;&nbsp;09:15+1 at <b>&euro;963</b> and Turkish 06:35 at &euro;965: about
+      &euro;10 saved, a morning on the snow lost. <b>Not recommended.</b></p>
+
+    <h3>The return works exactly as the plan needs</h3>
+    <div class="scroll"><table>
+      <tr><th>Leaves Tokyo</th><th>Lands Berlin</th><th>Airline</th><th>One way</th></tr>
+      <tr><td class="num"><b>22:05 HND, Mon 22</b></td><td class="num"><b>09:25 Tue 23</b></td><td><b>Turkish</b>, 2 h 40 IST</td><td class="num">&euro;776</td></tr>
+      <tr><td class="num">23:00 NRT</td><td class="num">10:45+1</td><td>LOT via Warsaw</td><td class="num">&euro;758</td></tr>
+      <tr><td class="num">22:45 HND</td><td class="num">07:50+1</td><td>ANA + Lufthansa</td><td class="num">&euro;1,633</td></tr>
+    </table></div>
+    <p><b>Turkish at 22:05 from Haneda is the one.</b> Full Tokyo day on the 22nd, the JDM car back
+      before the 18:30 store closing, home on the morning of the 23rd. The plan as written, now
+      confirmed against a real timetable.</p>
+
+    <h3>🚨 The tight link nobody had checked</h3>
+    <div class="note">
+      <p>Landing at 19:45 only helps if we can still reach Nagano, and the plan has us sleeping there.
+        <b>The last Shinkansen from Tokyo to Nagano is the 22:08 Asama 633.</b> Before it, 21:28 and 21:04.</p>
+      <p>Land 19:45, immigration and bags 45&ndash;75 min, out by 20:45&ndash;21:00, Haneda to Tokyo
+        Station 35&ndash;45 min, on the platform 21:30&ndash;21:45. <b>We make it with 25 to 40 minutes
+        to spare</b>, and there is no later train.</p>
+      <p>&#9888; <b>If the flight is late, there is no train.</b> The fallback is a night in Tokyo and a
+        first train on the 16th, which eats into ski day one.</p>
+    </div>
+
+    <h3>The honest trade</h3>
+    <div class="scroll"><table>
+      <tr><th></th><th>Turkish, out 19:20</th><th>Lufthansa + ANA, out 11:40</th></tr>
+      <tr><td>Price</td><td class="num"><b>✅ &euro;943 booked</b></td><td class="num">&euro;1,020</td></tr>
+      <tr><td>Valentine's Day</td><td>✅ at home until ~17:00</td><td>❌ gone, airport by 09:30</td></tr>
+      <tr><td>Lands Haneda</td><td>19:45, evening</td><td><b>10:45, morning</b></td></tr>
+      <tr><td>Onward that day</td><td>Last train, 25&ndash;40 min buffer</td><td>Any train, half a day spare</td></tr>
+      <tr><td>Door to door</td><td>16 h 25</td><td><b>15 h 05</b>, shortest on offer</td></tr>
+    </table></div>
+    <p><b>&euro;46 buys a calm arrival and a spare half day, and it costs Valentine's Day at home.</b>
+      Valentine's was a group decision, so this is not ours to overturn, but its price is now a number
+      rather than an assumption.</p>
+  </section>
+
+
+
+  <section id="ryokan">
+    <h2>🏮 The ryokan night: ✅ booked</h2>
+    <p class="sub">匠の宿 深山桜庭 Miyama-ouan &middot; Hirayu &middot; booked by Nadir 24 Sep 2026</p>
+
+    <div class="scroll"><table>
+      <tr><td><b>Where</b></td><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%8C%A0%E3%81%AE%E5%AE%BF%20%E6%B7%B1%E5%B1%B1%E6%A1%9C%E5%BA%B5%20%E5%B9%B3%E6%B9%AF" target="_blank" rel="noopener">匠の宿 深山桜庭 · Miyama-ouan</a></b>, Gifu, Takayama City, <b>Okuhida Onsen Village Hirayu</b></td></tr>
+      <tr><td><b>Dates</b></td><td><b>Thu 18 → Fri 19 Feb</b>, 1 night. 🎂 Nadir's birthday</td></tr>
+      <tr><td><b>Room</b></td><td><b>Renovated Japanese-Western room, 45 m², own private bath in Shigaraki ware.</b> Marked <em>Deluxe</em></td></tr>
+      <tr><td><b>For</b></td><td>✅ <b>Four people</b></td></tr>
+      <tr><td><b>Price</b></td><td><b>&yen;128,000 tax included</b> ≈ &euro;692, <b>≈ &euro;173 each</b>. On-site payment, nothing charged yet</td></tr>
+    </table></div>
+
+    <div class="note">
+      <p>🚨 <b>The one thing to confirm: is dinner included?</b> The confirmation names the plan and the
+        room but <b>says nothing about meals</b>, and that matters more here than anywhere else.</p>
+      <p><b>This page had previously ruled Miyama-ouan out, and that was the reason.</b> The August check
+        found <em>&ldquo;on 18 Feb only room-only and breakfast plans are on sale, no dinner plan at
+        all&rdquo;</em>, and the verdict recorded was <em>&ldquo;without a dinner plan it is a hotel, not the
+        ryokan night we want&rdquo;</em>. The criteria were an open-air bath, <b>a kaiseki dinner with Hida
+        beef because it is Nadir's birthday</b>, and a room for four.</p>
+      <p>&#9888; <b>The price does not settle it.</b> &yen;128,000 is <b>&yen;34,704 above</b> August's
+        breakfast-only quote of &yen;93,296 — which could be dinner for four at ~&yen;8,700 a head, or simply
+        the Deluxe 45 m² room. <b>Ask the property.</b> If there is no dinner, the birthday meal needs
+        solving separately and Hirayu is a small village.</p>
+    </div>
+
+    <p>✅ <b>What is settled and good:</b> <b>Hirayu is the first village off Route 158</b>, so Thursday's
+      drive is shorter than it would have been to Shinhotaka, and Friday's <b>Hirayu &rarr; Toyama is the
+      1 h 30</b> already in the travel table. The in-room private bath covers that criterion, and the
+      building was renovated in 2025.</p>
+
+    <div class="note">
+      <p><b>What this booking closes: Okuhida wins.</b> The candidate comparison below, and all the
+        Shirakawa-go, Hirase and guesthouse research further down, is now <b>history rather than live
+        options</b>. Kept so the reasoning can be re-read.</p>
+      <p>🚨 <b>One live consequence: Shirakawa-go is no longer next door.</b> Basing at Hirase would
+        have put the village 15 minutes away. From Hirayu it is <b>2 h 10</b>, so the only remaining way to
+        see it is <b>Option C</b>: the Friday detour, about <b>3 h 10</b> of driving to reach Toyama via the
+        village. That is now a real decision.</p>
+    </div>
+
+    <h3>The original three candidates, for the record</h3>
+
+    <p>Ikyu's listing prices say &ldquo;from two people, no date&rdquo;, so every number here comes
+      from the actual search for our date and headcount. Prices include tax; Takayama city adds
+      &yen;200 per person per night on top, paid locally.</p>
+
+    <div class="scroll"><table>
+      <tr><th></th><th>Yama no Hotel<br><span class="mp-dim">穂高荘 山のホテル</span></th><th>Miyama Ouan<br><span class="mp-dim">匠の宿 深山桜庵</span></th><th>Kutsurogi no Ya Yu<br><span class="mp-dim">寛ぎの舎 游</span></th></tr>
+      <tr><td>Where</td><td>Shinhotaka, at the ropeway</td><td>Hirayu, first village off Route 158</td><td>Shin-Hirayu, in between</td></tr>
+      <tr><td>Rating</td><td>4.43 (76), baths 4.67</td><td>4.12 (139)</td><td><b>4.83 (32)</b>, food 4.91</td></tr>
+      <tr><td>Size</td><td>86 rooms, Nordic-style mountain hotel</td><td>72 rooms, chain, renovated 2025</td><td><b>7 rooms</b>, family-run</td></tr>
+      <tr><td>The bath</td><td>Riverside open-air bath reached by a <b>little cable car</b>, facing Yarigatake, plus three private ones</td><td>Big baths, hinoki tubs in the better rooms</td><td>Open-air, private, and rooms with their own rotenburo</td></tr>
+      <tr><td>Dinner</td><td>Hida beef kaiseki, <b>included</b></td><td>&#9888; <b>No dinner plan on sale for 18 Feb</b>, room-only or breakfast</td><td>Hida beef kaiseki in a private room</td></tr>
+      <tr><td><b>18 Feb, four</b></td><td class="num"><b>&yen;90,552</b> with dinner and breakfast<br>&asymp; <b>&euro;489, &euro;122 each</b></td><td class="num">&yen;89,376 room only<br>&yen;93,296 breakfast only</td><td class="num">🚫 <b>Waitlist.</b> 17 and 18 Feb both closed</td></tr>
+      <tr><td>Verdict</td><td>✅ <b>Book this one</b></td><td>❌ Without dinner it is a hotel, not a ryokan night</td><td>&#9888; Best on paper, but gone. Waitlist as a long shot</td></tr>
+    </table></div>
+
+    <div class="note">
+      <p>❌ <b>Superseded 28 Sep 2026.</b> The recommendation here was <b>Yama no Hotel</b>, because it was
+        the only candidate selling dinner on the 18th. <b>Nadir booked Miyama-ouan instead</b>, see the top
+        of this section. Left in place because the dinner question it raises is exactly the one still open
+        on the actual booking.</p>
+    </div>
+
+    <h3>Nadir's Shirakawa-go idea, and a stale assumption it exposed</h3>
+    <p>Nadir asked for more ryokan options within <b>3 hours of Hakuba</b>, based near
+      <b>Shirakawa-go or Hakusan</b>, so the village could be seen on Friday on the way to Toyama.</p>
+    <div class="note">
+      <p>🚨 <b>Checking it found something stale.</b> This page still said Shirakawa-go was impossible
+        because <em>&ldquo;Hirayu to Shirakawa-go is 2 h 10, too long to fit beside the ropeway&rdquo;</em>.
+        <b>The ropeway came off the plan in v41.</b> That reasoning died with it and nobody re-checked.
+        Friday morning is now a 10:00 check-out and an otherwise empty run to Toyama.</p>
+    </div>
+    <div class="scroll"><table>
+      <tr><th>Leg</th><th>Time</th><th></th></tr>
+      <tr><td><b>Hakuba &rarr; Shirakawa-go</b></td><td class="num"><b>2 h 28 &ndash; 3 h</b>, ~180 km, tolls &yen;3,100&ndash;4,500</td><td>✅ Inside the 3 h limit</td></tr>
+      <tr><td><b>Shirakawa-go &rarr; Toyama</b></td><td class="num"><b>~1 h</b></td><td>✅ <b>Shorter</b> than Okuhida &rarr; Toyama (1 h 30)</td></tr>
+      <tr><td>Hirayu &rarr; Shirakawa-go</td><td class="num">2 h 10</td><td></td></tr>
+      <tr><td>Gero &rarr; Toyama</td><td class="num">2 h 07</td><td>❌ Worse than Okuhida</td></tr>
+    </table></div>
+    <ul>
+      <li>❌ <b>Hakusan is out, and not on a judgement call.</b> The <b>Hakusan Shirakawa-go White Road</b>,
+        the road that would link a Hakusan onsen to the village, is <b>closed mid-November to early or mid
+        June</b>. In February it is shut, so Hakusan would have to be reached from the Ishikawa side, which
+        is the wrong direction entirely.</li>
+      <li>❌ <b>Gero Onsen fails both legs.</b> &#9888; Hakuba &rarr; Gero is roughly <b>3 h 30</b>, over the
+        limit, and Gero &rarr; Toyama is <b>2 h 07</b> against 1 h 30 from Okuhida. Wrong direction dressed
+        up as an onsen.</li>
+      <li>✅ <b>Hirase Onsen is real.</b> In Shirakawa village, ~15 min from the hamlet: <b>8 ryokan and 2
+        minshuku</b> plus the Shiramizu-no-yu public bath. Also <b>お宿 のなか / Oyado Yunosato</b>,
+        100 % free-flowing, all-tatami, Hida beef and local <em>kei-chan</em>, and <b>Hirase Onsen
+        Guesthouse</b>, whole-building rental.</li>
+    </ul>
+
+    <h4>🥇 藤助の湯 ふじや &middot; Fujiya, sent by Nadir</h4>
+    <p>Nadir sent this one with <b>18 February already in the link</b>. It is the strongest alternative
+      found, and the price is the surprise.</p>
+    <div class="scroll"><table>
+      <tr><td><b>Where</b></td><td>白川村平瀬325-1, Hirase Onsen. <b>15 min to the Shirakawa-go gassho village</b>, <b>30 min to Gokayama / Ainokura</b></td></tr>
+      <tr><td><b>Size</b></td><td>✅ <b>11 rooms only</b>: 8 Japanese, 2 Japanese-Western, and <b>1 special thatched gassho farmhouse room</b></td></tr>
+      <tr><td><b>Bath</b></td><td>✅ <b>源泉掛け流し</b>, 100 % free-flowing, no recirculation. ✅ <b>露天風呂</b>, open-air</td></tr>
+      <tr><td><b>Dinner</b></td><td>✅ <b>山里料理 at the irori hearth</b>, <b>Hida beef</b> on a ceramic plate in at least some plans</td></tr>
+      <tr><td><b>Price</b></td><td><b>From &yen;22,000 per person</b> with dinner and breakfast; gassho suite from &yen;29,700</td></tr>
+    </table></div>
+    <div class="note">
+      <p>🚨 <b>The price is essentially identical to Yama no Hotel.</b> Ours there is &yen;90,552 for four,
+        which is <b>&yen;22,638 a head</b>, against Fujiya's <b>&yen;22,000+</b>. Moving to Shirakawa-go is
+        <b>not</b> a downgrade to save money, which is exactly what the shapes below had assumed.</p>
+      <p>&#9888; <b>Still unverified, and it matters:</b> availability for 18 Feb for four (Yama no Hotel's
+        number came from a real date-and-headcount search, Fujiya's is a &ldquo;from&rdquo; price); whether
+        there are <b>private baths</b> (Yama no Hotel has three); and whether the gassho room sleeps four.</p>
+      <p>🚨 <b>11 rooms against 86.</b> If we want this it has to be booked much earlier, and a waitlist is
+        not a plan.</p>
+    </div>
+    <p>💡 <b>A bonus it opens up:</b> from Fujiya, Friday could be <b>Shirakawa-go (15 min) &rarr; Ainokura
+      (30 min) &rarr; Toyama (~1 h)</b>, collecting <b>both</b> gassho villages in one relaxed morning.
+      &#9888; Daylight only: the Ainokura light-up is Saturday and Sunday evenings, not Friday.</p>
+
+    <h3>🏚 Guesthouses, a separate category from the ryokan</h3>
+    <p>Nadir's brief: places like <b>Akira Adventure Base on Shikoku</b>, where they stayed before. Small
+      outdoor bath, good views, welcoming hosts, homestay dinner. His own observation unlocks it:
+      <b>a guesthouse with no outdoor bath is still fine if there is a day-use onsen nearby</b>, and with a
+      car we are not fussy about a few minutes.</p>
+    <div class="note">
+      <p>✅ <b>He is right, and this area has two day-use onsen, both with outdoor baths.</b> That turns a
+        gassho farmhouse stay, which normally has only a shared indoor bath, into a real option.</p>
+    </div>
+    <div class="scroll"><table>
+      <tr><th></th><th>Where</th><th>Outdoor bath</th><th>Hours</th><th>Price</th></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E7%99%BD%E5%B7%9D%E9%83%B7%E3%81%AE%E6%B9%AF" target="_blank" rel="noopener">白川郷の湯</a></b></td><td><b>Ogimachi, 2 min from the bus terminal</b>, in the village</td><td>✅ <b>Rotenburo over the Shogawa</b></td><td class="num"><b>07:00&ndash;21:30</b></td><td class="num">&yen;900</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%A4%A7%E7%99%BD%E5%B7%9D%E6%B8%A9%E6%B3%89%20%E3%81%97%E3%82%89%E3%81%BF%E3%81%9A%E3%81%AE%E6%B9%AF" target="_blank" rel="noopener">しらみずの湯</a></b></td><td>Hirase, by the roadside station, <b>15 min drive</b></td><td>✅ Outdoor, cypress, bubble</td><td class="num">from ~11:00</td><td class="num"><b>&yen;700</b></td></tr>
+    </table></div>
+    <p>✅ <b>白川郷の湯 is the important one.</b> Open until <b>21:30</b>, so you can eat a homestay dinner
+      around the irori and <em>then</em> sit in an outdoor bath over the river. It gives <b>guests of gassho
+      accommodation a &yen;100 discount</b>, which tells you the pairing is completely normal here.</p>
+
+    <h4>Top 5</h4>
+    <div class="scroll"><table>
+      <tr><th></th><th>Where</th><th>The bath</th><th>Why it is on the list</th></tr>
+      <tr><td>🥇 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Salugabamba%20%E7%99%BD%E5%B7%9D%E6%9D%91%20%E5%B9%B3%E7%80%AC" target="_blank" rel="noopener">Salugabamba</a></b></td><td>Hirase, 1 min from the bus stop</td><td>✅ <b>Own free-flowing outdoor onsen</b> + <b>wood-fired sauna</b> in a converted garage (extra fee, book ahead)</td><td><b>This is the Akira one.</b> Hosts <b>Shoko and Kenji</b>, repeatedly called the best stay of a Japan trip in reviews. Breakfast from their own and foraged mountain vegetables. Restaurant themed on <b>fermentation and spices</b></td></tr>
+      <tr><td>2 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%81%8B%E3%82%84%E3%81%B6%E3%81%8D%20%E7%99%BD%E5%B7%9D%E6%9D%91%20%E9%A3%AF%E5%B3%B6" target="_blank" rel="noopener">Kayabuki</a></b> &middot; かやぶき</td><td>Iijima, <b>3 min drive</b> from the site</td><td>✅ <b>Cypress bath</b>, indoor</td><td>Gassho farmhouse with <b>meals included</b>: wild vegetables and river fish. Quiet countryside rather than the middle of the tourist village</td></tr>
+      <tr><td>3 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hirase%20Onsen%20Guesthouse%20%E7%99%BD%E5%B7%9D%E6%9D%91" target="_blank" rel="noopener">Hirase Onsen Guesthouse</a></b></td><td>Hirase</td><td>✅ <b>Private hot spring bath</b>, 06:00&ndash;22:00</td><td><b>Whole-building rental</b>, so the four of us get the place to ourselves. <b>&yen;12,000&ndash;15,000 a night.</b> &#9888; Self-catering, no homestay dinner</td></tr>
+      <tr><td>4 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%8D%81%E5%8F%B3%E3%82%A8%E9%96%80%20%E7%99%BD%E5%B7%9D%E9%83%B7" target="_blank" rel="noopener">Juemon</a></b> &middot; 十右ェ門</td><td><b>Ogimachi</b>, in the village</td><td>❌ Shared indoor &rarr; <b>白川郷の湯 2 min away</b></td><td>A thatched farmhouse with <b>nearly 300 years of history</b>. Dinner around the irori. The classic version of this experience</td></tr>
+      <tr><td>5 <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%90%88%E6%8E%8C%E3%81%AE%E5%AE%BF%20%E5%BA%84%E4%B8%83%20%E7%9B%B8%E5%80%89" target="_blank" rel="noopener">Shoshichi</a></b> &middot; 庄七</td><td><b>Ainokura, Gokayama</b>, Toyama side</td><td>❌ Shared indoor</td><td>Ainokura is <b>20 gassho houses instead of a hundred</b>, far quieter than Ogimachi, and it sits <b>on the Friday road to Toyama</b>. Also the village with the Sat/Sun light-up</td></tr>
+    </table></div>
+    <p>Also seen, not shortlisted: <em>Shimizu</em>, <em>Furusato</em>, <em>Yoshiro</em>, <em>Magoemon</em>,
+      and <em>Shirakawago Guesthouse Kei</em> in Hatotani (budget, kitchen, English spoken, 15 min walk).</p>
+
+    <h4>🥇 Gokayama / Ainokura, including Nadir's second find</h4>
+    <p>Nadir sent <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%81%AA%E3%81%8B%E3%82%84%20%E7%9B%B8%E5%80%89%20%E4%BA%94%E7%AE%87%E5%B1%B1" target="_blank" rel="noopener">なかや · Nakaya</a></b>, again with 18 February in the link. It is arguably a
+      <b>better match for the Akira description</b> than anything in Shirakawa-go.</p>
+    <ul>
+      <li><b>350 years old, the oldest house in Ainokura.</b></li>
+      <li>✅ <b>Two guest rooms only</b>, and the innkeepers <b>live under the same roof</b>, so it is a
+        family home rather than an inn.</li>
+      <li>✅ <b>Dinner and breakfast around the irori with the other guests</b>, exactly the homestay dinner
+        in the brief. Communal hearth room, books, a pot of hot water always on.</li>
+      <li>&#9888; Toilet, bath and washroom are <b>shared</b>, and with only two rooms, <b>check it can take
+        four</b>.</li>
+    </ul>
+    <p><b>Ainokura is 23 gassho houses and 6 minshuku</b>, against roughly a hundred at Ogimachi. It is the
+      quiet one, and it sits <b>on the Friday road to Toyama</b>. The onsen problem is solved here too:</p>
+    <div class="scroll"><table>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E3%81%8F%E3%82%8D%E3%81%B0%E6%B8%A9%E6%B3%89%20%E4%BA%94%E7%AE%87%E5%B1%B1" target="_blank" rel="noopener">くろば温泉</a></b></td><td>✅ <b>Rotenburo + sauna</b>, facing a mountain-backed reservoir</td><td class="num"><b>10:00&ndash;21:00</b>, <b>&yen;600</b>. &#9888; <b>Closed Tuesdays</b>, our Thursday is fine</td></tr>
+      <tr><td><b>五箇山温泉 ごかさんそう</b></td><td>Hot spring hotel <b>between Ainokura and Shirakawa-go</b></td><td>Non-guests can bathe</td></tr>
+    </table></div>
+
+    <h4>🛣 Hida-Furukawa and Kamioka: the on-the-road option</h4>
+    <p>Nadir's other suggestion, and the logic is different. <b>Kamioka sits on Route 471</b>, the road we
+      already drive from Okuhida to Toyama, and <b>Hida-Furukawa</b> is just off the R41 stretch of it. So
+      this is the shape that <b>minimises driving</b> rather than the one that collects gassho villages.</p>
+    <div class="scroll"><table>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=IORI%20STAY%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D" target="_blank" rel="noopener">IORI STAY</a></b></td><td><b>Six renovated traditional townhouses</b> in the heart of Furukawa, each taken exclusively. The closest thing to having our own old house</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Yamanami%20guesthouse%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D" target="_blank" rel="noopener">Yamanami</a></b></td><td>Guesthouse in the <b>centre of Hida-Furukawa</b>, futon or western beds, rustic in a modern setting</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D%E6%A1%83%E6%BA%90%E9%83%B7%E6%B8%A9%E6%B3%89" target="_blank" rel="noopener">飛騨古川桃源郷温泉</a></b></td><td><b>The only natural hot spring source in Hida-Furukawa.</b> Hotel Kikori sits on it</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%85%AB%E3%83%84%E4%B8%89%E9%A4%A8%20%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D" target="_blank" rel="noopener">八ツ三館 · Yatsusankan</a></b></td><td>A proper old inn, public onsen baths and kaiseki. The upmarket end of this area</td></tr>
+    </table></div>
+    <p>&#9888; <b>Two honest caveats.</b> <b>Hida-Furukawa is about 15 minutes north of Takayama</b>, which
+      Rostik vetoed. Furukawa is a different, quieter town and the veto does not formally cover it, but that
+      is worth saying out loud rather than sliding it in. And &#9888; <b>drive times from Hakuba and onward
+      to Toyama are not verified</b> for Furukawa or Kamioka, unlike the Shirakawa-go numbers.</p>
+
+    <h4>So which area, in one line each</h4>
+    <div class="scroll"><table>
+      <tr><th>Area</th><th>Gets you</th><th>Costs you</th></tr>
+      <tr><td><b>Hirase / Shirakawa-go</b></td><td>Shirakawa-go 15 min away, Friday ~1 h to Toyama, Fujiya at ryokan level</td><td>Okuhida and the ropeway</td></tr>
+      <tr><td><b>Gokayama / Ainokura</b></td><td>The <b>quietest</b> gassho village, Nakaya's two-room family house, on the Friday road</td><td>Furthest from Hakuba, and only 2 rooms</td></tr>
+      <tr><td><b>Hida-Furukawa / Kamioka</b></td><td><b>Shortest driving overall</b>, already on our Route 471</td><td>❌ <b>No gassho village</b>, and close to the town Rostik vetoed</td></tr>
+    </table></div>
+    <ul>
+      <li><b>Price is roughly half.</b> Gassho minshuku run about <b>&yen;8,000&ndash;20,000 per person</b>
+        with dinner and breakfast, against &yen;22,000+ at Fujiya or Yama no Hotel.</li>
+      <li><b>The trade is comfort for character.</b> Baths and toilets are <b>shared</b>, rooms are tatami
+        with futons, the building is 200 to 300 years old. That is the point, but it is not a ryokan.</li>
+      <li>🚨 <b>They book out early.</b> Farmhouse stays here are described as genuinely hard to reserve, and
+        most take only a handful of groups a night.</li>
+      <li>&#9888; <b>Nothing here is priced or checked for 18 February, or confirmed to sleep four.</b>
+        Salugabamba's restaurant is closed Sunday and Monday evenings, which does not affect a
+        <b>Thursday</b>.</li>
+      <li>💡 <b>For a birthday</b>, a homestay dinner around a 300-year-old hearth and then a river-view
+        rotenburo until 21:30 is a different kind of good from kaiseki and a private bath. Worth deciding
+        which one this trip actually wants.</li>
+    </ul>
+
+    <h4>Three shapes, not two</h4>
+    <div class="scroll"><table>
+      <tr><th></th><th>Thu drive</th><th>Fri drive</th><th>Ryokan</th><th>Shirakawa-go</th></tr>
+      <tr><td><b>A.</b> Okuhida as planned</td><td class="num">2 h 30</td><td class="num">1 h 30</td><td>✅ <b>Yama no Hotel</b>, priced &euro;122</td><td>❌ not seen</td></tr>
+      <tr><td><b>B.</b> Move to <b>Fujiya</b>, Hirase Onsen</td><td class="num">2 h 28&ndash;3 h</td><td class="num">✅ <b>~1 h</b></td><td>✅ <b>&yen;22,000+</b>, irori dinner, rotenburo, 11 rooms. &#9888; date unverified</td><td>✅ Friday morning, 15 min, <b>plus Ainokura</b></td></tr>
+      <tr><td><b>C.</b> Okuhida <em>and</em> Shirakawa-go Friday</td><td class="num">2 h 30</td><td class="num">&#9888; <b>~3 h 10</b></td><td>✅ <b>Yama no Hotel</b></td><td>✅ Friday midday</td></tr>
+    </table></div>
+    <div class="note">
+      <p><b>Recommendation, revised 26 Aug: B, now that Fujiya is on the table.</b> The earlier
+        recommendation here was C, on the assumption that anything near Shirakawa-go would be a compromise on
+        the ryokan. <b>At &yen;22,000 against &yen;22,638 that assumption was wrong</b>, and B stops being a
+        trade at all: same money, a real free-flowing rotenburo, an irori dinner instead of a hotel dining
+        room, an hour's drive on Friday instead of three, and both gassho villages within reach.</p>
+      <p><b>C remains the answer if the deciding factor is Yama no Hotel itself</b>, specifically the
+        cable-car river bath facing Yarigatake. That is genuinely one of a kind and no Hirase ryokan
+        replaces it.</p>
+      <p>🚨 <b>Either way this wants deciding soon.</b> Fujiya has <b>11 rooms</b> so it goes early, while
+        Yama no Hotel's 90-day window opens around <b>20 November 2026</b>. Different clocks.</p>
+    </div>
+  </section>
+
+  <section id="afternoons">
+    <h2>After 14:00</h2>
+    <p class="sub">we ski mornings only &middot; this is the other half of every day</p>
+
+    <h3>Wednesday, after Goryu: the worked example</h3>
+    <div class="scroll"><table>
+      <tr><th>Time</th><th>What</th><th>Why</th></tr>
+      <tr><td class="num">14:00</td><td>Lunch at the base, or back to Happo in 10 min</td><td>Happo has more choice</td></tr>
+      <tr><td class="num"><b>15:00</b></td><td><b>Onsen. Mimizuku no Yu</b>, Happo, &yen;650, 10:00&ndash;21:30</td><td>Open-air bath facing the Hakuba Sanzan with Happo-One behind. Mid-afternoon light is the best for it. Alternatives: Happo no Yu &yen;1,000, bigger; Obinata no Yu &yen;650, prettiest, but shuts at 18:00</td></tr>
+      <tr><td class="num">16:30</td><td>Apartment, coffee, nap. Or Baisen Coffee in Happo</td><td>Nobody argues with this after snow and a bath</td></tr>
+      <tr><td class="num"><b>18:30</b></td><td><b>Dinner in Happo or Echoland</b></td><td>Both are izakaya clusters. Happo is walkable; Echoland is the livelier street and needs the car or a taxi</td></tr>
+      <tr><td class="num">21:00</td><td>Echoland bars, if there is energy</td><td>There usually is not. Thursday starts early</td></tr>
+    </table></div>
+    <div class="note">
+      <p>&#9888; <b>Whoever drives to Echoland does not drink.</b> Japan's limit is effectively zero
+        and the penalties are serious, for passengers too. Taxis are scarce on winter evenings, so ask
+        the lodging to book one.</p>
+      <p><b>Buy the onsen ticket book:</b> &yen;2,000 for &yen;2,500 of bathing across several Hakuba
+        onsen. Four people over three days will use it.</p>
+    </div>
+
+    <h3>The other afternoons</h3>
+    <div class="scroll"><table>
+      <tr><th>Day</th><th>After the morning</th></tr>
+      <tr><td><b>Tue 16</b></td><td>Short first day, off around 15:00. Onsen, early dinner in Happo, early night. We reached Nagano at 23:40 the night before. Plan nothing</td></tr>
+      <tr><td><b>Thu 18</b></td><td>Off at 12:30, the drive is the afternoon, <b>the ryokan is the evening</b>. Arrive by 16:00 so there is rotenburo time before dinner, which runs at a fixed hour, 18:00 or 18:30</td></tr>
+      <tr><td><b>Fri 19</b></td><td>Ryokan until the 10:00 check-out, Toyama by ~13:00. <b>Iwase and the Saseki sake bar before it shuts at 17:00</b>, drop the car, the lit castle approach at dusk, Kansui Park as an option, Sushi-Ei for dinner</td></tr>
+      <tr><td><b>Sat 20</b></td><td>Kanazawa all day: <b>Omicho</b> 09:00&ndash;17:00 for a late breakfast, <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kenrokuen%20Garden%20Kanazawa" target="_blank" rel="noopener">Kenrokuen</a></b> (the yukitsuri is lit on February evenings, &#9888; confirm dates), <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Higashi%20Chaya%20District%20Kanazawa" target="_blank" rel="noopener">Higashi Chaya</a></b> at dusk</td></tr>
+      <tr><td><b>Sun 21</b></td><td>🏎 The night drive from 16:00</td></tr>
+      <tr><td><b>Mon 22</b></td><td><b>Open, all of us.</b> Nadir's map has about fifty Tokyo pins; Mogi's local knowledge is welcome, not his homework. Cars back by 16:00</td></tr>
+    </table></div>
+  </section>
+
+  <section id="food">
+    <h2>What to eat, by place</h2>
+    <p class="sub">each stop has something you cannot get as well anywhere else</p>
+
+    <h3>Nagano &middot; Monday night, Tuesday morning</h3>
+    <ul>
+      <li><b>Shinshu soba.</b> Nagano is the soba prefecture. Order <b>zaru soba</b>, cold, with dashi,
+        grated daikon and spring onion. Whatever is open near the station at midnight will be a soba or
+        ramen counter.</li>
+      <li><b>Oyaki.</b> Buckwheat dumplings stuffed with <b>nozawana</b> pickled greens, pumpkin or
+        sweet bean. Station kiosks sell them. Tuesday breakfast, in the car.</li>
+    </ul>
+
+    <h3>Hakuba &middot; three evenings</h3>
+    <ul>
+      <li><b>Basashi</b>, horse sashimi. Nagano is one of two places in Japan where this is normal.
+        Thin, with ginger and garlic soy. This is the place to try it.</li>
+      <li><b>Sanzoku-yaki</b>, a huge marinated fried chicken thigh, the Shinshu pub staple.</li>
+      <li><b>Shinshu salmon</b> sashimi, a trout-salmon hybrid farmed only here.</li>
+      <li><b>Asuka</b> in Happo is the izakaya people name first. <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba%20Hifumi%20restaurant" target="_blank" rel="noopener">Hakuba Hifumi</a></b> does a proper
+        multi-course dinner in a ryokan setting.</li>
+      <li><b>Shinshu jizake.</b> Nagano is a serious sake prefecture. Ask for a flight.</li>
+    </ul>
+
+    <h3>Okuhida &middot; the ryokan night</h3>
+    <p>We do not order here, the kaiseki comes as a set and that is the point. Expect:</p>
+    <ul>
+      <li><b>Hida beef</b>, the headline, top-grade wagyu from the Hida region. At a good ryokan it comes
+        twice in one meal: lightly seared, and <b>grilled at the table on a magnolia leaf over sweet miso</b>.</li>
+      <li><b>Hoba miso</b>, that magnolia-leaf miso itself, with mushrooms and spring onion. The dish
+        the region is known for.</li>
+      <li><b>Salt-grilled river fish</b>, iwana or amago, whole on a skewer. <b>Sansai</b> mountain
+        vegetables as tempura.</li>
+      <li>Dinner runs at a fixed hour and the kitchen does not wait. <b>Tell them when booking that
+        it is a birthday.</b></li>
+    </ul>
+
+    <h3>Toyama &middot; Friday evening</h3>
+    <p>Toyama Bay drops to 1,000 m close to shore, which is why the seafood is unusual.</p>
+    <ul>
+      <li><b>Shiro-ebi</b>, white shrimp, translucent and sweet, raw as sushi or as a kakiage fritter.
+        Toyama is effectively the only place in Japan that lands them.</li>
+      <li><b>Masu-zushi</b>, pressed trout sushi in a round wooden box lined with bamboo leaves.
+        Toyama's signature; the station sells it.</li>
+      <li><b>Buri</b>, winter yellowtail, fattest in February. Sashimi or shabu-shabu.</li>
+      <li>&#9888; <b>Hotaru-ika</b>, firefly squid, is a March to June thing. We will miss the fresh ones.</li>
+      <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Sushi-Ei%20Sogawa%20Toyama" target="_blank" rel="noopener">Sushi-Ei Sogawa</a></b>, central Toyama, from Nadir's map.</li>
+    </ul>
+
+    <h3>Kanazawa &middot; Saturday</h3>
+    <p>The Kaga domain was rich for three centuries and its food is refined rather than rustic.</p>
+    <ul>
+      <li><b>Snow crab.</b> <b>November to February is the season</b> and we are in its last weeks.
+        At Omicho: legs grilled at the stall, or a <b>kaisendon</b> rice bowl for a late breakfast.</li>
+      <li><b>Nodoguro</b>, blackthroat seaperch, the expensive one: sweet, oily, dense. Grilled with
+        salt or as sushi. <b>If there is one splurge fish on the trip, this is it.</b></li>
+      <li><b>Jibuni</b>, duck simmered with wheat gluten in thickened dashi, Kanazawa's classic stew.
+        Evening, at an izakaya.</li>
+      <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kanazawa%20Kaiten%20Zushi%20Kirari" target="_blank" rel="noopener">KIRARI</a></b> at the station's west exit for tablet-ordered sushi. <b>Gold leaf</b> on
+        everything including ice cream: once, for the photo.</li>
+    </ul>
+
+    <h3>Tokyo &middot; Sunday night, Monday</h3>
+    <p><b>This list is everyone's to build.</b> Mogi knows the city and will have opinions, which is
+      useful, not a job assignment. What we would not want to miss: a proper <b>ramen</b> counter, <b>tsukemen</b>, a standing sushi bar, a
+      <b>yakitori alley</b>. And Daikoku PA itself has a food court that is part of the ritual.</p>
+
+    <div class="note">
+      <p><b>A pattern worth noticing.</b> The loop goes mountains, mountains, sea, sea, city. The food
+        does the same: buckwheat and horse in Nagano, beef and river fish in Hida, white shrimp and
+        yellowtail on the coast, crab and nodoguro in Kanazawa, then whatever Tokyo does best.
+        Nothing repeats.</p>
+    </div>
+  </section>
+
+  <section id="money">
+    <h2>What it costs</h2>
+    <p class="sub">per person &middot; €1 ≈ ¥185, checked 31 Jul 2026</p>
+
+    <p>Everything below is an estimate except the two lines marked as confirmed. Nothing here has
+      been booked yet.</p>
+
+    <div class="scroll"><table>
+      <tr><th>Item</th><th>€</th><th>Note</th></tr>
+      <tr><td>Flight to Tokyo, economy</td><td class="num"><b>943</b> / <b>1,077</b></td><td>✅ Georgi <b>&euro;943.05</b>, Turkish <b>Eco Fly</b> from BER. ✅ Nadir <b>&euro;1,077</b>, LH/ANA <b>Economy Comfort</b> from <b>Leipzig</b>, large checked bag included. ✅ Rostik <b>booked</b> (Etihad from BER into <b>Narita</b>, seen 24 Oct 2026), &#9888; <b>price not known</b>, so his row still carries the estimate. Mogi pays nothing here</td></tr>
+      <tr><td><b>Hakuba Valley 3-day pass</b></td><td class="num"><b>174</b></td><td>✅ confirmed, ¥32,200, official 2026/27 price</td></tr>
+      <tr><td>Gear rental, 3 days</td><td class="num"><b>89</b> / <b>165</b></td><td>✅ Lion Gear price list. <b>&euro;89</b> Georgi and Nadir, who bring their own clothing and helmets and rent hardware only. <b>&euro;165</b> Rostik and Mogi, who rent everything</td></tr>
+      <tr><td>Car, 4 days with winter tyres, split four ways</td><td class="num">70&ndash;100</td><td>Tue 16 to Fri 19, recomputed from the old 7-day figure, plus fuel and tolls</td></tr>
+      <tr><td>Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo</td><td class="num">~139</td><td>≈ ¥27,000, only Kanazawa→Tokyo is individually sourced</td></tr>
+      <tr><td><b>One-way car drop, Nagano → Toyama</b></td><td class="num"><b>7&ndash;20</b></td><td>✅ verified 23 Aug: Toyota zone table, Nippon &yen;880/10 km. &yen;5,000&ndash;15,000 for the car</td></tr>
+      <tr><td>Nagano, 1 night</td><td class="num"><b>32</b></td><td>✅ Sotetsu Fresa Inn, booked by Nadir. &euro;63 twin covering Nadir and Georgi, free cancellation</td></tr>
+      <tr><td>Tokyo, 1 night</td><td class="num">60&ndash;90</td><td></td></tr>
+      <tr><td>Hakuba, 2 nights</td><td class="num"><b>292</b><br><span class="mp-dim">219 if a 4th joins</span></td><td>🚨 From P, booked and paid 28 Sep, &yen;162,000. <b>Booked for 3, so &yen;54,000 = &euro;292 each</b> as it stands; &euro;219 only if a fourth is added to the same dome. Accommodation tax extra, cash at check-in</td></tr>
+      <tr><td>🏮 Okuhida ryokan, 1 night</td><td class="num"><b>173</b></td><td>✅ <b>匠の宿 深山桜庭 Miyama-ouan</b>, booked by Nadir 24 Sep, &yen;128,000 <b>for four</b>, on-site payment. 🚨 Dinner not confirmed</td></tr>
+      <tr><td>Toyama, 1 night</td><td class="num"><b>92</b></td><td>✅ Dormy Inn Toyama Tsurugi-no-Yu, booked by Nadir. &yen;34,200 twin covering Nadir and Georgi, breakfast included</td></tr>
+      <tr><td>Kanazawa, 1 night</td><td class="num">70&ndash;110</td><td></td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shinhotaka%20Ropeway" target="_blank" rel="noopener">Shinhotaka Ropeway</a></b></td><td class="num"><b>18</b></td><td>✅ confirmed, ¥3,300 return</td></tr>
+      <tr><td>Food and onsen</td><td class="num">~400</td><td>roughly €45 a day</td></tr>
+      <tr><td>The Tokyo drive, one car, 24 h</td><td class="num">32&ndash;77</td><td>see the drive section</td></tr>
+      <tr><td><b>Total</b></td><td class="num">see below</td><td>One figure no longer works: flights and gear differ per person</td></tr>
+    </table></div>
+
+    <h3>Total, per person</h3>
+    <p>Recomputed <b>26 August</b>, once Nadir's fare came in, and <b>28 September</b> with the real Hakuba price. The old single figure of
+      &euro;2,150&ndash;2,800 is <b>withdrawn</b>: it was built on a flight estimate and sat below what the
+      trip actually costs.</p>
+    <div class="note">
+      <p>🚨 <b>Two sets of numbers, because Hakuba is booked for three people, not four.</b> As it
+        stands the dome splits &yen;162,000 three ways at <b>&euro;292 each</b>; it only becomes
+        <b>&euro;219</b> if a fourth person is added to the same booking.</p>
+      <p><b>Shared base, everything except flight and gear: &euro;1,559&ndash;1,704</b> as booked, or
+        <b>&euro;1,486&ndash;1,631</b> if the dome takes a fourth.</p>
+    </div>
+    <div class="scroll"><table>
+      <tr><th></th><th>Flight</th><th>Gear</th><th>Total, as booked</th><th>If Hakuba takes a 4th</th></tr>
+      <tr><td><b>Georgi</b></td><td class="num">943 ✅</td><td class="num">89</td><td class="num"><b>&asymp; &euro;2,591&ndash;2,736</b></td><td class="num">&asymp; &euro;2,518&ndash;2,663</td></tr>
+      <tr><td><b>Nadir</b></td><td class="num">1,077 ✅</td><td class="num">89</td><td class="num"><b>&asymp; &euro;2,725&ndash;2,870</b></td><td class="num">&asymp; &euro;2,652&ndash;2,797</td></tr>
+      <tr><td><b>Rostik</b></td><td class="num">✅ booked, &#9888; price n/k</td><td class="num">165</td><td class="num">&#9888; <b>&asymp; &euro;2,667&ndash;2,812</b></td><td class="num">&asymp; &euro;2,594&ndash;2,739</td></tr>
+      <tr><td><b>Mogi</b></td><td class="num">none</td><td class="num">165</td><td class="num"><b>&asymp; &euro;1,724&ndash;1,869</b></td><td class="num">&asymp; &euro;1,651&ndash;1,796</td></tr>
+    </table></div>
+    <p>🚨 <b>Mogi's row is the least trustworthy of the four.</b> If the three in the dome are Georgi,
+      Nadir and Rostik, then <b>Mogi has no Hakuba bed at all</b> and his row is missing two nights nobody
+      has priced. The same applies to Rostik and Mogi on the <b>Nagano and Toyama</b> nights, both of which
+      are twins covering Nadir and Georgi only.</p>
+    <p>&#9888; <b>Accommodation is running over estimate.</b> Hakuba was estimated &euro;120&ndash;180 and is
+      &euro;292 as booked; the ryokan was &euro;122 and is &euro;173. Nagano came in well under at
+      &euro;32, which does not cover it. The spread left in each row is now only <b>Kanazawa, Tokyo, the car
+      and the Tokyo drive</b>.</p>
+
+    <p><b>No Japan Rail Pass.</b> It costs ¥50,000, and ¥53,000 from 1 October 2026, while our actual
+      long-distance legs come to about ¥20,000. Skipping it saves roughly €160 each.</p>
+  </section>
+
+  <section id="practical">
+    <h2>Things that will bite if we forget them</h2>
+    <p class="sub">checked against official sources</p>
+
+    <div class="note">
+      <p><b>Driving paperwork is done.</b> Everyone in the group holds what they need to rent and drive
+        in Japan. Nothing to arrange, nothing to confirm at the desk.</p>
+    </div>
+
+    <ul>
+      <li><b>Winter tyres must be booked with the car.</b> Rental companies will not fit them on
+        arrival. Snow tyres or chains are required on Route 158 from mid-November to early April.</li>
+      <li><b>No car rental exists in Okuhida or Hirayu.</b> Nearest offices are downtown Takayama,
+        Matsumoto or Toyama, which is why we drop in Toyama.</li>
+      <li><b>No visa for German passports.</b> Visa-free up to 90 days. JESTA, Japan's ESTA equivalent,
+        only starts in fiscal year 2028, so it does not touch this trip.</li>
+      <li><b>The Shirakawa-go winter light-up is not available to us.</b> In 2027 it runs on four
+        evenings only, all in January: the 11th, 17th, 24th and 31st, advance booking only. The village
+        itself is open and deep in snow in February, just without the illumination.</li>
+      <li><b>The car is done by day 6.</b> We drop it in Toyama and the Shinkansen takes over, so no
+        mountain road is driven anywhere near the flight day.</li>
+    </ul>
+  </section>
+
+
+  <section id="drive">
+    <h2>🏎 The Tokyo drive</h2>
+    <p class="sub">decided &middot; self-drive, central Tokyo, evening</p>
+
+    <p><b>Settled.</b> Not a chauffeured tour: we drive it ourselves. Operator is <b>OnlyJDM</b>, who we
+      have rented from once before. That trip went <em>out</em> of Tokyo. This time the point is
+      <b>central Tokyo and the busy districts at night</b>.</p>
+
+    <div class="note">
+      <p><b>One branch, both cars, both ways.</b> We use OnlyJDM's <b>&ldquo;Haneda Airport Store&rdquo;</b>
+        for pickup and return. They also have a Tokyo North branch; <b>we do not use it.</b></p>
+      <p>🚨 <b>The branch is not inside the airport, despite the name.</b> Nadir flagged this on 25 August:
+        the return is <b>in the Haneda area, not at a terminal</b>. This page used to say &ldquo;drop it
+        back at Haneda, walk to the terminal, fly&rdquo;, and <b>that was wrong</b>. There is a transfer
+        between the drop-off and departures, and the flight day has to allow for it.</p>
+      <p>&#9888; <b>Still unknown:</b> the exact address, how long that transfer takes, and whether there
+        is a shuttle. Their own site names the branch after the airport but publishes no address. It is now
+        the <b>first</b> question on the OnlyJDM list.</p>
+    </div>
+
+    <p>They price in two tiers, <b>7 hours</b> and 24 hours. The 7-hour tier is exactly the
+      evening-drive product.</p>
+
+    <div class="scroll"><table>
+      <tr><th>Car</th><th>Seats</th><th>Box</th><th>Store</th><th>7 h</th></tr>
+      <tr><td><b>Skyline R34</b></td><td class="num">5</td><td>auto</td><td>Haneda</td><td class="num"><b>&yen;20,800</b> &asymp; &euro;112</td></tr>
+      <tr><td>Skyline R34</td><td class="num">5</td><td>manual</td><td>Haneda</td><td class="num">&yen;32,800</td></tr>
+      <tr><td><b>Silvia S15</b></td><td class="num">4</td><td>manual</td><td>Tokyo North</td><td class="num">&yen;23,800</td></tr>
+      <tr><td>EVO X</td><td class="num">5</td><td>auto</td><td>Haneda</td><td class="num">&yen;23,800</td></tr>
+      <tr><td><b>Supra A80</b></td><td class="num">4</td><td>auto</td><td>Haneda</td><td class="num">&yen;32,800</td></tr>
+      <tr><td>Civic Type R FL5</td><td class="num">4</td><td>manual</td><td>Haneda</td><td class="num">&yen;32,800</td></tr>
+      <tr><td><b>Skyline GT-R R32</b></td><td class="num">4</td><td>manual</td><td>Tokyo North</td><td class="num">&yen;36,800</td></tr>
+      <tr><td><b>GT-R R35</b></td><td class="num">4</td><td>auto</td><td>Haneda</td><td class="num">&yen;50,800 &asymp; &euro;275</td></tr>
+      <tr><td><b>RX-7 FD</b></td><td class="num">4</td><td>manual</td><td>Haneda</td><td class="num">&yen;51,800</td></tr>
+    </table></div>
+    <p>&#9888; Prices read off the site on 1 August 2026. They will move, re-check at booking.</p>
+
+    <h3>Two cars, not one</h3>
+    <p><b>Georgi's call, 23 Aug: get two, it is way cooler and there is no downside except price.</b>
+      Two people driving, passengers swapping at Daikoku, two different engines in one night, and the
+      convoy itself is part of the evening. One car with four people and bags is a taxi with a spoiler.</p>
+    <div class="scroll"><table>
+      <tr><th>Pairing</th><th>Both, 24 h</th><th>Each</th><th>Why</th></tr>
+      <tr><td><b>R34 + R34</b></td><td class="num"><b>&yen;47,600</b></td><td class="num"><b>&euro;64</b></td><td>Two of the icon, Haneda has several in stock. A matched convoy. <b>The default</b></td></tr>
+      <tr><td>R34 + EVO X</td><td class="num">&yen;49,600</td><td class="num">&euro;67</td><td>If someone wants AWD. Less of a night car</td></tr>
+      <tr><td>R34 + Supra A80</td><td class="num">&yen;60,600</td><td class="num">&euro;81</td><td>The Fast &amp; Furious pair</td></tr>
+      <tr><td>R34 + Civic Type R FL5</td><td class="num">&yen;60,600</td><td class="num">&euro;81</td><td>Modern manual hot hatch next to the classic</td></tr>
+      <tr><td>R35 GT-R + R34</td><td class="num">&yen;80,600</td><td class="num">&euro;108</td><td>One genuine 500+ hp monster. &yen;200,000 deposit</td></tr>
+      <tr><td>R35 + RX-7 FD</td><td class="num">&yen;115,600</td><td class="num">&euro;156</td><td>Maximum. Two big deposits</td></tr>
+    </table></div>
+    <p>Against one R34 for everyone at &yen;23,800, about &euro;32 each. The default pair is roughly
+      <b>&euro;32 more per person</b> for a night that is twice the car. <b>Silvia S15 and R32 GT-R are
+      out</b>: they live at the Tokyo North branch, and a second branch would split the Monday.</p>
+    <ul>
+      <li>Two named renters, two deposits, two sets of paperwork: thirty minutes at the desk, not fifteen.</li>
+      <li><b>Both cars from the same branch, both back to it.</b> One pickup, one return, no split.
+        🚨 But <b>not a walk to the terminal</b>: the branch is in the Haneda area, not in the airport, so
+        budget a transfer on the flight day.</li>
+      <li>Mileage cap is 200 km per car, so it doubles. Return both full.</li>
+    </ul>
+    <p>Cheap next to everything else on this trip. &#9888; Licence requirements, insurance, deposit and
+      minimum age are not published on the public site, they sit inside the booking flow. We have rented
+      here before, so that is a confirm-at-booking item rather than an unknown.</p>
+
+    <h3>Option: one JDM car for the whole trip</h3>
+    <p>&#9888; <b>Not decided, but Nadir is leaning towards it.</b> One snow-tyre JDM car from Haneda on
+      arrival, kept the whole trip, replacing the rental car plus the coastal Shinkansen plus the
+      separate sports-car evening. Costed at <b>&asymp; &euro;314 each</b> against &#9888;
+      &euro;310&ndash;405 for the current stack, so <b>not more expensive, and one contract instead of
+      three</b>. The catch is day 8: the car must come back to Tokyo, which replaces a 2 h 28 Kagayaki
+      with a 6&ndash;7 h drive.</p>
+
+    <details><summary>The full costing and what it changes<span class="n">cars, caps, terms</span></summary>
+      <p class="why"><b>Snow tyres are mandatory, not optional.</b> OnlyJDM require them on every vehicle
+        from December to March, &yen;2,000 per day. Eleven of their 51 cars are already equipped; these
+        are the <b>all-wheel-drive</b> ones, the only ones worth taking into the mountains:</p>
+      <div class="scroll"><table>
+        <tr><th>Car</th><th>Seats</th><th>Box</th><th>24 h</th></tr>
+        <tr><td><b>EVO X</b> &middot; one is literally named <em>Ruler of the Mountain Pass</em></td><td class="num">5</td><td>auto</td><td class="num">&yen;25,800</td></tr>
+        <tr><td>EVO IX</td><td class="num">5</td><td>manual</td><td class="num">&yen;29,800</td></tr>
+        <tr><td>EVO VIII</td><td class="num">5</td><td>manual</td><td class="num">&yen;29,000</td></tr>
+        <tr><td>GR Yaris</td><td class="num">4</td><td>manual</td><td class="num">&yen;25,000</td></tr>
+        <tr><td>GT-R R35</td><td class="num">4</td><td>auto</td><td class="num">&yen;56,800</td></tr>
+        <tr><td>Odyssey, the practical answer</td><td class="num">7</td><td>auto</td><td class="num">&yen;15,000</td></tr>
+      </table></div>
+      <p class="why">&#9888; The <b>GR86</b> is snow-tyre listed too but it is <b>rear-wheel drive</b>, so
+        not for these roads. The Civic FD2 and the Fit are front-wheel drive.</p>
+      <p class="why"><b>The costing.</b> EVO X for 8 days, day 2 to day 9, with their 15 % long-term
+        discount: base &yen;175,440, snow tyres &yen;16,000, ETC and second driver &yen;28,800, coverage
+        &yen;12,000. Total <b>&asymp; &yen;232,000</b>, about <b>&euro;314 per person</b>. An Odyssey
+        instead would be about &euro;199 each, but it is a minivan.</p>
+      <div class="scroll"><table>
+        <tr><th></th><th>Effect</th></tr>
+        <tr><td>✅ <b>No one-way drop fee</b></td><td>Saves &euro;7&ndash;20 each. Both their branches are in Tokyo, so there is nothing to pay</td></tr>
+        <tr><td>🚨 <b>No Shinkansen home</b></td><td>The car must come back to Tokyo. <b>Kanazawa &rarr; Tokyo is roughly 6&ndash;7 h by expressway, tolls &yen;9,300&ndash;12,000</b> (<a href="https://www.kanazawastation.com/traveling-from-tokyo-to-kanazawa/">Kanazawa Station</a>). That replaces a 2 h 28 Kagayaki and eats most of day 8</td></tr>
+        <tr><td>🚨 <b>Mileage capped at 200 km per 24 h</b></td><td>Then &yen;55/km, or &yen;165/km on the GT-R, RX-7, LC500 and Supra. Our route is &#9888; roughly 1,150 km against a 1,600 km allowance: it fits, but the slack is thin and every detour is metered</td></tr>
+        <tr><td>🚨 <b>Both branches close at 18:30</b></td><td>Late return is <b>&yen;6,600 per 30 minutes</b>. So the night drive cannot end with handing the keys over and boarding. It becomes a <b>24-hour rental across days 8 and 9</b>, back by 18:30 on the 9th, and we fly that night</td></tr>
+        <tr><td>&#9888; <b>Luggage</b></td><td>Four people with ten days of bags in an EVO is tight. Mogi packs light since he comes from home, which helps a little</td></tr>
+      </table></div>
+      <p class="why">✅ <b>Licence question closed.</b> Everyone has the paperwork. <b>One thing left to
+        confirm:</b> whether an after-hours return past 18:30 can be arranged, and at what price.</p>
+      <p class="why">Their other terms: refundable deposit <b>&yen;50,000</b> (&yen;200,000 for GT-R,
+        RX-7, LC500), minimum age <b>23</b>, licence held <b>3 years or more</b>, second driver
+        &yen;3,000/day, ETC &yen;600/day, coverage &yen;3,000 or &yen;12,000, <b>GPS and dashcams facing
+        in and out</b>, track use forbidden, and no free cancellation for weather.</p>
+    </details>
+  </section>
+
+
+  <section id="whoflies">
+    <h2>Who flies when</h2>
+    <p class="sub">both analysed, neither decided</p>
+
+    <p><b>Extra ski days for Rostik: easy, at the front only.</b> We leave Hakuba on day 5 and never
+      come back, so extra days at the back would mean splitting off mid-trip. Nothing shared has to
+      change, and Monday 15 is the good one to add.</p>
+    <p><b>A later departure: the 14th stays best.</b> The 15th is a genuine fallback with a known cost.
+      The 16th puts skiing on a Saturday and is not advisable.</p>
+
+    <details><summary>Rostik arriving earlier<span class="n">what it costs</span></summary>
+      <p class="why"><b>Why the front and not the back.</b> The group leaves Hakuba on <b>day 5, Thursday
+        18 February</b>, and does not come back: from there it is Okuhida, Toyama, Kanazawa, Tokyo. Extra
+        days at the front just means being in Hakuba before the rest of us turn up.</p>
+      <p class="why"><b>Nothing shared has to change.</b> Hakuba nights are per night, lift passes are per
+        day, and <b>Tokyo &rarr; Nagano &rarr; Hakuba needs no car</b>: Shinkansen 77&ndash;95 min, then
+        the Alpico bus about an hour.</p>
+      <div class="scroll"><table>
+        <tr><th>What it costs them</th><th></th></tr>
+        <tr><td>Extra Hakuba nights</td><td class="num">&#9888; ~&euro;60&ndash;90 each per night</td></tr>
+        <tr><td>Extra lift days</td><td>1 day &yen;11,100 &middot; 2 days &yen;21,800 &middot; 3 days &yen;32,200. The multi-day rate barely discounts, so a 4th day is near full price</td></tr>
+        <tr><td>Extra gear rental</td><td class="num">&#9888; ~&yen;5,500 per day</td></tr>
+        <tr><td>Their own flight</td><td>Separate booking</td></tr>
+      </table></div>
+      <p class="why">&#9888; Arriving before the 14th means giving up Valentine's Day at home. Personal
+        call, not a group one. Weekends are busy on the slopes, so an extra <b>Monday 15</b> is the good
+        one: a quiet weekday, and the group lands that evening anyway.</p>
+    </details>
+
+    <details><summary>Flying out on the 15th or 16th instead<span class="n">the trade</span></summary>
+      <p class="why">The thing that is <em>not</em> a reason either way: <b>Valentine's Day is satisfied by
+        all three options.</b> The 14th is a Sunday and we already fly out that evening.</p>
+      <p class="why"><b>Out on Monday 15: workable, at a price.</b></p>
+      <div class="scroll"><table>
+        <tr><th></th><th>Now, out on the 14th</th><th>Out on the 15th</th></tr>
+        <tr><td>Ski days</td><td>Tue 16, Wed 17, Thu 18</td><td>Wed 17, Thu 18, Fri 19</td></tr>
+        <tr><td>All weekdays?</td><td>✅</td><td>✅ still fine</td></tr>
+        <tr><td>The ryokan</td><td><b>Thu 18</b>, cheapest tier</td><td><b>Fri 19</b>, mid tier</td></tr>
+        <tr><td>Nadir's birthday</td><td><b>Is the ryokan night</b></td><td>Back to a plain ski day</td></tr>
+        <tr><td>Tokyo drive day</td><td>Mon 22, ordinary weekday</td><td>Tue 23, a national holiday</td></tr>
+        <tr><td>Land in Berlin</td><td>Tue 23</td><td>Wed 24</td></tr>
+      </table></div>
+      <p class="why"><b>One of two things has to go.</b> Keep three ski days and the ryokan slides to
+        Friday, which costs the cheapest tier (Mon&ndash;Thu runs 15&ndash;30 % below Saturday) and stops
+        Nadir's birthday being the ryokan night. Or keep the Thursday ryokan and drop to <b>two ski
+        days</b>, picking up a spare Tokyo day instead.</p>
+      <p class="why"><b>Out on Tuesday 16: not advisable.</b> Ski days become Thu 18, Fri 19, <b>Sat
+        20</b>, and keeping skiing off weekends was Nadir's explicit priority. The Kanazawa &rarr; Tokyo
+        transfer would land on Tue 23, a national holiday, with packed Shinkansen. First ski day would be
+        the day after landing. Home Thu 25.</p>
+    </details>
+  </section>
+
+
+  <section id="maplist">
+    <h2>Nadir's map list</h2>
+    <p class="sub">615 places, filtered to what we can actually reach</p>
+
+    <p><b>The list:</b> <em>Nadirs japan map</em>, a shared Google Maps list with <b>615 places</b>
+      covering the whole of Japan. All of it has been read, through Georgi's signed-in Chrome, and
+      filtered <b>by map geography</b> rather than by name: a keyword sweep over all 615 names returned
+      only 13 hits and most were false positives, because Japanese restaurant names give no location
+      away. It is a <b>general Japan wishlist collected over time</b>, not a shortlist for this trip: the overwhelming majority sits in
+      Hokkaido, Tohoku, Kansai, Shikoku, Kyushu and the Ogasawara Islands. Filtered to our corridor,
+      this is everything reachable.</p>
+
+    <h3>✅ Straight onto the plan, no cost</h3>
+    <div class="scroll"><table>
+      <tr><th>Place</th><th>Where</th><th>Fits</th></tr>
+      <tr><td><b>Sushi-Ei Sogawa shop</b></td><td>Sogawa, central <b>Toyama</b>. Sushi, 4.3 (943)</td><td><b>Day 6 evening.</b> Toyama Bay sushi was already the plan, this names the place</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kanazawa%20Kaiten%20Zushi%20Kirari" target="_blank" rel="noopener">KIRARI</a></b> (Kanazawa Kaiten Zushi)</td><td>Conveyor-belt sushi by the <b>west exit of Kanazawa Station</b></td><td><b>Day 7.</b> Made to order from a tablet, the belt does not revolve so nothing sits around</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Chirimen-tei%20Nagano%20Ekimae" target="_blank" rel="noopener">Chirimen-tei Nagano Ekimae</a></b></td><td>Literally <b>in front of Nagano Station</b></td><td><b>Night 2.</b> We already sleep by Nagano Station. Free hit</td></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Shirakawa-go%20Gifu" target="_blank" rel="noopener">Shirakawa-go</a></b></td><td>Gifu</td><td>Already on this page as the day 7 alternative to Kanazawa</td></tr>
+    </table></div>
+
+    <h3>&#9888; Near the route, each needs a decision</h3>
+    <div class="scroll"><table>
+      <tr><th>Place</th><th>Where</th><th>The catch</th></tr>
+      <tr><td><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Togakushi%20Shrine%20Okusha" target="_blank" rel="noopener">Togakushi Shrine Okusha, Zuishinmon</a></b></td><td><b>Nagano</b>, about an hour from the city</td><td>The cedar avenue is the picture people go for. But we reach Nagano at night on day 2 and leave early on day 3</td></tr>
+      <tr><td>Jokoji</td><td>Near <b>Nagano</b></td><td>Same timing problem</td></tr>
+    </table></div>
+
+    <h3>✅ Decided against, 4 Aug 2026 (Nadir)</h3>
+    <ul>
+      <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Unazuki%20Onsen%20Toyama" target="_blank" rel="noopener">Unazuki Onsen</a></b> — the Kurobe Gorge Railway is shut in winter regardless, and the pins
+        are a guideline, not a checklist. Three ski days already cover the mountain scenery.</li>
+      <li><b>Takayama, as a stop of any kind</b> — settles the conflict below in Rostik's favour.
+        Drive through only. Sakurajaya, Center4 Hamburgers and Hida no Sato fall away with it.</li>
+    </ul>
+
+    <h3>❌ In the list but not reachable</h3>
+    <ul>
+      <li><b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Kamikochi" target="_blank" rel="noopener">Kamikōchi</a></b> — closed 16 November to 16 April. Not a choice, it is shut.</li>
+      <li><b>Gero Onsen</b> and <b>Curegarden Open Air Bath</b> — about an hour <b>south</b> of
+        Takayama, and we head north to Toyama. Wrong direction.</li>
+      <li><b>Narai-juku, Tsumago-juku, Magome-juku</b> — Kiso valley post towns, south of Matsumoto.</li>
+      <li><b>Villa Azalea</b> — near Matsumoto, and we no longer stop there.</li>
+      <li><b>Yubatake</b> — Kusatsu Onsen in Gunma, the wrong side of Nagano.</li>
+    </ul>
+    <p>&#9888; Worth noting: <b>there is nothing pinned in Hakuba itself.</b> There is a small food
+      cluster <b>north-east of Nagano city</b> (Shokudo Yoroshiki Hi, Fukutora, Ramen Tokumi, Soba
+      Yariya, then Crumpet Cafe and Yubatake), but that is the axis towards Kusatsu and we go the other
+      way, west to Hakuba.</p>
+
+    <h3>🏎 One hit that lands perfectly</h3>
+    <div class="note">
+      <p><b>Daikoku Parking Area is in the list.</b> That is the expressway car-meet spot, and it is
+        exactly where the <b>day 9 Tokyo drive</b> was already pointed. Nothing to decide, it just
+        confirms the plan.</p>
+    </div>
+
+    <h3>Tokyo is where the rest of his list actually is</h3>
+    <p>Central Tokyo carries a <b>dense cluster of roughly fifty pins</b>, far too packed to read off
+      the map one by one, and they are plainly his own food and city spots. <b>The two Tokyo days
+      should be built straight out of that cluster, and Nadir should pick</b>: it is his taste, and
+      choosing for him would be guessing.</p>
+    <p>A few readable ones nearby: <b>teamLab Planets TOKYO DMM</b>, <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Cup%20Noodles%20Museum%20Yokohama" target="_blank" rel="noopener">Cup Noodles Museum</a></b>
+      (Yokohama), <b>Round 1 Stadium Kawasaki Daishi</b>, <b>Cafe Glühwürmchenweg</b>, <b>Ramen
+      FeeL</b>, <b>Yamagami Station (Chairlift)</b>, <b>Showa Kinen Park</b>, <b>Teuchi Mensai
+      Kamei</b>.</p>
+
+    <h3>A conflict inside the group, resolved</h3>
+    <div class="note">
+      <p><b>Nadir:</b> <em>"shirakawago could be on the way back and takayama as onsen option or
+        something."</em> <b>Rostik has been to Takayama and says skip it entirely.</b></p>
+      <p>✅ <b>Settled 4 Aug 2026: Nadir agreed, no Takayama stop.</b> Drive through only, per
+        Rostik. The pin list is a guideline, not a mandate, and it does not override this.</p>
+      <p>&#9888; Also, on Shirakawa-go being &ldquo;on the way back&rdquo;: it is not. From Toyama it is
+        roughly an hour <b>south-west</b>, and Tokyo is east. A detour in the opposite direction, which
+        is why it sits as a day 7 alternative to Kanazawa rather than a stop en route.</p>
+    </div>
+  </section>
+
+
+  <section id="ainokura">
+    <h2>🏮 A World Heritage light-up on our Saturday</h2>
+    <p class="sub">Ainokura, Gokayama &middot; 20&ndash;21 Feb 2027 &middot; not decided</p>
+
+    <p>We wrote off Shirakawa-go's winter light-up early: in 2027 it runs four January evenings, all
+      booked out. But <b><a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Ainokura%20Gassho-zukuri%20Village" target="_blank" rel="noopener">Ainokura</a></b>, one of the three gassho-zukuri villages in the same UNESCO
+      listing, twenty houses instead of a hundred, is lit up <b>sunset to 20:00 on Saturday 20 and Sunday
+      21 February</b>. No booking, no entry fee. That is the exact Saturday we are in Kanazawa.</p>
+
+    <div class="note">
+      <p>🚫 <b>The catch is the bus.</b> Kanazawa to Ainokura is 1 h 15 by Shinkansen plus the World
+        Heritage Bus, but <b>the last bus back leaves Ainokura at 16:45</b>, before a single light comes on.
+        On public transport you see the village in daylight and leave. <b>The light-up is only reachable by
+        car</b>, and we drop ours in Toyama on Friday.</p>
+    </div>
+
+    <div class="scroll"><table>
+      <tr><th>Way to make it work</th><th>What it costs</th></tr>
+      <tr><td><b>Keep the car one more day</b>, drop it in Kanazawa on Sunday. Saturday: Toyama &rarr; Ainokura by road (~1 h 15, Gokayama IC is 15 min from the village) &rarr; light-up &rarr; Kanazawa (~1 h)</td><td>One more rental day, a Kanazawa drop instead of Toyama, and Kanazawa's Saturday afternoon. Kenrokuen and dinner become Sunday morning and a late supper</td></tr>
+      <tr><td>Bus there, <b>pre-booked taxi</b> from Ainokura to Johana station after the light-up, then train</td><td>&#9888; Relies on a mountain-village taxi at 20:00 in February. Only with a firm booking</td></tr>
+      <tr><td><b>Skip it.</b> Kanazawa's evening as planned</td><td>Nothing. Kenrokuen's lit yukitsuri is a lesser but real consolation</td></tr>
+    </table></div>
+    <p>Logged as an open question. &ldquo;It is on our Saturday&rdquo; was too good not to say, and
+      the 16:45 bus is what makes it hard.</p>
+  </section>
+
+  <section id="open">
+    <h2>Still open</h2>
+    <p class="sub">nothing structural left, just detail</p>
+
+    <div class="q"><span class="who">🚨 Nadir</span><b>Does the Miyama-ouan booking include dinner?</b>
+      It is <b>Nadir's birthday</b>, and a kaiseki dinner with Hida beef was one of the three criteria for
+      this night. The confirmation names the plan and the room but <b>says nothing about meals</b> — and
+      this page had previously rejected this very hotel because no dinner plan was on sale for the 18th.
+      <b>Ask the property.</b> If the answer is no, the birthday meal needs solving separately and Hirayu is
+      a small village.</div>
+
+    <div class="q"><span class="who">🚨 all of us</span><b>Beds for Rostik and Mogi on three nights.</b>
+      Every booking so far covers fewer than four people. <b>Nagano</b> and <b>Toyama</b> are twins for Nadir
+      and Georgi; <b>Hakuba</b> is booked for three. Only the <b>ryokan</b> is for four. So that is
+      <b>two people without a bed in Nagano, two in Toyama, and one in Hakuba</b> — none of it priced.</div>
+
+    <div class="q"><span class="who">Mogi</span><b>Where do you join?</b>
+      Nagano Station on Monday night is the obvious spot, and it would let you be the one who picks
+      the car up at 08:00 on Tuesday. Everything else about you is settled: whole loop, skis, beginner.</div>
+
+    <div class="q"><span class="who">Rostik &amp; Mogi</span><b>A lesson each, or none?</b>
+      Both beginners, one on a board and one on skis, so one instructor cannot cover both.
+      &#9888; Privates are expensive here: Evergreen charges about <b>&euro;595 for a full day</b>, 1 to 3
+      people. A <b>group lesson each</b> is the realistic option. Rostik said he would rather teach
+      himself; Mogi has not said. Your call.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Pre-book the Hakuba rental gear online for Tuesday.</b>
+      Cheapest way to win back twenty minutes on the short first day. Lion Gear takes online bookings
+      up to 2 days and 8 hours ahead. ✅ <b>We now have real prices</b>, from <b>Lion Gear Rental</b> in Echoland. ✅ <b>Who rents what is settled:</b> <b>Georgi and Nadir bring their own ski clothing and
+      helmets</b> and rent hardware only, <b>&yen;16,500 (&euro;89)</b> for board or skis plus boots over
+      three days. <b>Rostik and Mogi own nothing and rent the lot</b>, hardware, boots, clothing, helmet,
+      goggles and gloves, <b>&yen;30,500 (&euro;165)</b>. Which shop we actually use is still open, only
+      Lion Gear has been priced.
+      <br>&#9888; <b>Standard, not Powder &amp; Select</b>, which is &yen;22,500. Powder skis are for deep
+      snow and we settled on groomed cruising, so that tier is &euro;33 a head for nothing.
+      <br>🚨 <b>Gear must be back by 17:00</b> or a full extra day is charged.</div>
+
+    <div class="q"><span class="who">Nadir</span><b>Pick the Sunday afternoon out of your own map.</b>
+      Central Tokyo holds about fifty of your pins, and day 8 before the night drive is still open.
+      <b>Day 9 now has a plan</b>, Yokohama then Ginza. Your taste, so you choose rather than us
+      guessing.</div>
+
+    <div class="q"><span class="who">Nadir</span><b>Confirm Togakushi Shrine and Jokoji.</b>
+      Both near Nagano, both awkward on timing: we pass through at night on day 2 and leave early on
+      day 3. Unazuki Onsen and Takayama are settled, see Closed below.</div>
+
+    <div class="q"><span class="who">🚨 all of us</span><b>Ask OnlyJDM three things.</b>
+      Whoever gets to it first; their site and email handle English. The first one is new and it is the one
+      that actually moves the flight day.
+      <br>🚨 <b>Where exactly is the &ldquo;Haneda Airport&rdquo; branch?</b> It is <b>not in a terminal</b>.
+      How long is the transfer to departures, and is there a shuttle? The whole last afternoon, and the
+      luggage plan, is timed off this.
+      <br>&middot; Holiday opening on <b>23 February</b>, in case the dates shift.
+      <br>&middot; An after-hours return past 18:30.</div>
+
+    <div class="q"><span class="who">Rostik</span><b>Do you want extra ski days?</b>
+      Analysed above. Easy to bolt on at the <b>front</b> of the trip, nothing shared has to change, and
+      you would travel to Hakuba independently by Shinkansen and bus. Needs an answer from you two.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Do we still fly out on the 14th?</b>
+      Analysed above. The 15th works but forces a choice between the third ski day and keeping the
+      ryokan on Thursday for Nadir's birthday. The 16th pushes skiing onto a Saturday and is not
+      advisable.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Saturday: Kanazawa, or the Ainokura light-up by car?</b>
+      See the section above. Lit gassho village in snow, the thing Shirakawa-go cannot give us, against
+      one more rental day and Kanazawa's afternoon. The last bus back is 16:45, so it is car or nothing.</div>
+
+    <div class="q"><span class="who">🚨 all of us</span><b>Shirakawa-go: the old reasoning here was stale.</b>
+      This said &ldquo;only possible on day 7 instead of Kanazawa&rdquo;, because Friday morning was the
+      ropeway. <b>The ropeway came off the plan in v41</b>, so Friday is now free from the 10:00 check-out
+      and nobody went back to re-check. Three shapes now, set out in the ryokan section: keep Okuhida as
+      planned, move the ryokan to <b>Hirase Onsen</b> beside the village, or <b>keep Okuhida and take
+      Shirakawa-go on Friday midday</b>, which is the recommendation. Needs a group decision.
+      &#9888; The winter light-up is unavailable in every version: in 2027 it runs four evenings only, all
+      in January.</div>
+
+    <div class="q"><span class="who">all of us</span><b>One JDM car for the whole trip, or the current three-part stack?</b>
+      Costed just above. It comes out roughly level on money and simpler on admin, but it trades a
+      2 h 28 Shinkansen for a 5 h 30 drive on day 8 and puts four people and all the luggage in one car.
+      One thing left to confirm with the operator: whether the car can come back after 18:30.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Which two cars?</b>
+      Two cars is decided, both from Haneda. Default is R34 + R34 at about &euro;64 each. What is left:
+      does anyone want to pay for the GT-R or the Supra.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Toyama, Kanazawa and the Tokyo evening of day 8 have named stops, not a real plan.</b>
+      Toyama Bay sushi, the glass museum, Kansui Park, Omicho Market, Kenrokuen, Higashi Chaya, an empty Tokyo
+      evening: a name list, not hours, order or a reason for each. Kenrokuen is the clearest example of what is
+      missing: it is not just "one of Japan's three great gardens", winter is its signature season because of
+      <b>yukitsuri</b>, the rope rigging that protects the pine trees from snow, illuminated at night through
+      February.</div>
+
+    <div class="q"><span class="who">Nadir</span><b>Thursday is proposed as Happo-One.</b>
+      It is your birthday morning, so your call. Tsugaike again, or Cortina if it has dumped, are the
+      alternatives. The drive to the ryokan is about the same from any of them.</div>
+
+    <div class="q"><span class="who">all of us</span><b>Bad-weather plan for the ski days.</b>
+      If the upper lifts close in a storm, where do we go instead? Nothing checked yet.</div>
+
+    <div class="q"><span class="who">🚨 Georgi &amp; Mogi</span><b>From P is booked for 3 adults, not 4.</b>
+      Is Mogi in the dome, and does the 7 m dome take four? Ask the property by email, the phone line is
+      Japanese only.</div>
+
+    <div class="q"><span class="who">🚨 Rostik</span><b>Your Etihad booking, the missing half.</b>
+      The screen seen on 24 Oct showed only <b>BER 10:00 on the 14th &rarr; Narita 11:40 on the 15th</b>,
+      1 stop, status still <b>&ldquo;Processing&rdquo;</b>. Three things the plan needs from you:
+      <b>when do you fly back</b>, has the agency <b>confirmed</b> the booking, and how do you get
+      <b>from Narita to Nagano</b> on Monday afternoon. You land about eight hours before Georgi and at
+      the other airport, so Monday is your own run, and you need a bed in Nagano in your own name.</div>
+
+    <h3>Closed</h3>
+    <ul>
+      <li>✅ <b>All three flights are bought</b>, Rostik's seen 24 Oct 2026. Only its return leg and
+        confirmation are still open.</li>
+      <li>✅ <b>Hakuba is booked</b> (28 Sep 2026): From P, a sauna dome in Echoland, 2 nights, &yen;162,000 paid.</li>
+      <li>✅ <b>Takayama is out, for good</b>, Rostik has been and says it is not worth a stop,
+        Nadir reconfirmed it 4 Aug, closing the onsen-stop suggestion from his map. We drive through it.</li>
+      <li>✅ <b>Unazuki Onsen is out</b> (4 Aug, Nadir). The gorge railway is shut in winter anyway,
+        and three ski days already cover the mountain scenery.</li>
+      <li>✅ <b>Toyama is in</b>, and <b>Kanazawa</b> with it.</li>
+      <li>✅ <b>The mountains-or-coast fork is dissolved.</b> Okuhida is on the road to Toyama, so there
+        was never a real choice to make.</li>
+      <li>✅ <b>The Shinhotaka Ropeway stays</b>, which is what the coast-only route would have cost us.</li>
+      <li>✅ <b>Day 8 has a job again.</b></li>
+      <li>✅ <b>The Tokyo drive.</b> Self-drive with OnlyJDM, central Tokyo, evening, 7-hour tier.</li>
+      <li>✅ <b>Four of us again:</b> Mogi, who lives in Tokyo, took the fourth place on 22 Aug. Whole loop.</li>
+      <li>✅ <b>Driving paperwork:</b> everyone has what they need. Closed.</li>
+      <li>✅ <b>Georgi's flight is booked</b> (25 Aug 2026): Turkish out 14 Feb 19:20, back 22 Feb 22:05,
+        &euro;943.05, Eco Fly, through Mytrip.</li>
+      <li>✅ <b>Nadir's flight is booked</b> (26 Aug 2026): <b>LH/ANA from Leipzig</b>, out 14 Feb 18:40,
+        <b>lands Haneda 17:55</b>, back 22 Feb 22:45. Closes the Leipzig question.</li>
+      <li>✅ <b>Rostik's flight is booked</b> (seen 24 Oct 2026): <b>Etihad</b>, out 14 Feb 10:00 from
+        Berlin, <b>lands Narita 11:40</b> on the 15th, 1 stop. <b>All three tickets are bought.</b>
+        &#9888; The return leg, the price and the agency's confirmation are still open.</li>
+      <li>✅ <b>Tuesday is an honest timeline now</b>, first run around 11:00 at Tsugaike, not a wish.</li>
+      <li>✅ <b>Valentine's Day is spent in Berlin.</b></li>
+      <li>✅ <b>Ski days are Tuesday, Wednesday, Thursday</b>, no weekends.</li>
+      <li>✅ <b>The ryokan is on a Thursday</b>, cheapest night tier, and it is Nadir's birthday.</li>
+      <li>✅ <b>Nagano, not Matsumoto, as the way in.</b></li>
+      <li>✅ <b>Rostik: no ski school.</b></li>
+      <li>✅ <b>March is documented as a fallback</b> but is not needed.</li>
+    </ul>
+  </section>
+
+  <footer>
+    Planning page for Georgi, Nadir, Rostik and Mogi &middot;
+    <a href="./">version 69 &middot; 24.10 21:17</a> &middot;
+    full decision log and sources live in <code>TRIP.md</code> in the repo
+    <p style="margin-top:10px">Place names with a <a class="loc" href="https://www.google.com/maps/search/?api=1&amp;query=Hakuba" target="_blank" rel="noopener">dotted underline</a> open in Google Maps.</p>
+    <p style="margin-top:14px"><button class="themebtn" id="tt">theme</button></p>
+  </footer>
+</div>
+
+<button id="upd">A newer version is out &middot; refresh</button>
+
+<script>
+(function () {
+  var VLOG = './versions.tsv';
+  var root = document.documentElement;
+
+  // theme toggle, remembered locally
+  try {
+    var saved = localStorage.getItem('theme');
+    if (saved) root.setAttribute('data-theme', saved);
+  } catch (e) {}
+  document.getElementById('tt').addEventListener('click', function () {
+    var now = root.getAttribute('data-theme');
+    if (!now) {
+      now = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    var next = now === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e) {}
+  });
+
+  // GitHub Pages caches HTML for ~10 minutes, so check the version log directly
+  var stamp = document.querySelector('.ver');
+  var mine = stamp ? parseInt((stamp.textContent.match(/\d+/) || [0])[0], 10) : 0;
+  fetch(VLOG + '?t=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { return r.ok ? r.text() : ''; })
+    .then(function (txt) {
+      var lines = txt.trim().split('\n').filter(Boolean);
+      if (!lines.length) return;
+      var latest = parseInt(lines[lines.length - 1].split('\t')[0], 10);
+      if (latest > mine) {
+        var b = document.getElementById('upd');
+        b.style.display = 'block';
+        b.addEventListener('click', function () { location.reload(true); });
+      }
+    })
+    .catch(function () {});
+})();
+</script>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function () {
+  if (!window.L) return;
+  var CAR_SKI = [[36.6485,138.1941],[36.6493,138.1904],[36.6495,138.1865],[36.65,138.1828],[36.6542,138.1817],[36.6567,138.1777],[36.6593,138.1742],[36.6613,138.1707],[36.6615,138.167],[36.6651,138.1634],[36.6656,138.1597],[36.6656,138.1555],[36.6658,138.1516],[36.6685,138.1479],[36.6681,138.1443],[36.6657,138.1407],[36.664,138.1372],[36.6632,138.1335],[36.6637,138.1299],[36.6652,138.1263],[36.6664,138.122],[36.6679,138.1182],[36.6677,138.1146],[36.6691,138.1109],[36.671,138.1074],[36.6722,138.1036],[36.6728,138.0993],[36.6706,138.0956],[36.6705,138.092],[36.6696,138.0883],[36.6703,138.0847],[36.6704,138.0812],[36.6714,138.0777],[36.6713,138.0739],[36.6699,138.0701],[36.6692,138.0665],[36.6692,138.063],[36.6703,138.0589],[36.6696,138.055],[36.6715,138.0512],[36.6713,138.0474],[36.6723,138.0437],[36.6732,138.0402],[36.6726,138.0364],[36.6731,138.0328],[36.6736,138.0291],[36.6739,138.0256],[36.6768,138.0207],[36.6787,138.0172],[36.6806,138.0131],[36.6809,138.0093],[36.681,138.0056],[36.6813,138.0019],[36.6794,137.9982],[36.6791,137.9941],[36.677,137.9903],[36.6785,137.9867],[36.6823,137.984],[36.682,137.9804],[36.6819,137.9768],[36.6818,137.9721],[36.6838,137.9683],[36.6859,137.9647],[36.6874,137.9612],[36.6885,137.9576],[36.6884,137.9533],[36.6887,137.9494],[36.6895,137.9457],[36.6885,137.9419],[36.6849,137.9403],[36.6814,137.9376],[36.6778,137.9357],[36.6742,137.9347],[36.6718,137.931],[36.6681,137.9281],[36.6648,137.9245],[36.6611,137.922],[36.6587,137.9181],[36.6555,137.9144],[36.652,137.9128],[36.6502,137.9092],[36.6538,137.9061],[36.6573,137.9048],[36.6592,137.9013],[36.6586,137.8977],[36.6611,137.8942],[36.6599,137.8906],[36.6595,137.8871],[36.6583,137.8835],[36.6618,137.8803],[36.6654,137.8806],[36.6689,137.8802],[36.6725,137.8819],[36.6761,137.8823],[36.6801,137.8816],[36.683,137.8781],[36.6866,137.8751],[36.6901,137.8726],[36.6938,137.8726],[36.6974,137.8691],[36.698,137.8655],[36.6982,137.8624]];
+  var CAR_ALP = [[36.6982,137.8624],[36.6947,137.8622],[36.6908,137.8603],[36.6849,137.8573],[36.6812,137.8553],[36.677,137.8531],[36.6735,137.8509],[36.6699,137.8507],[36.6659,137.849],[36.6621,137.8489],[36.6584,137.8482],[36.6546,137.8471],[36.65,137.8457],[36.6464,137.8444],[36.6425,137.8447],[36.639,137.8448],[36.6351,137.8447],[36.6316,137.8448],[36.6277,137.8436],[36.6248,137.8471],[36.6253,137.851],[36.6229,137.8549],[36.6214,137.8588],[36.6177,137.8614],[36.6141,137.8615],[36.6093,137.8586],[36.6057,137.8554],[36.6033,137.8518],[36.6001,137.848],[36.5963,137.8464],[36.5925,137.844],[36.589,137.8421],[36.5854,137.8412],[36.5817,137.8398],[36.5782,137.8384],[36.5745,137.8384],[36.5708,137.8383],[36.5672,137.8408],[36.5636,137.8436],[36.56,137.8438],[36.5562,137.8431],[36.5526,137.8427],[36.5488,137.8443],[36.5449,137.8453],[36.5414,137.8427],[36.5376,137.8443],[36.5338,137.8463],[36.53,137.8483],[36.5264,137.8502],[36.5228,137.852],[36.5184,137.8507],[36.5143,137.8521],[36.5105,137.8533],[36.5069,137.8544],[36.5033,137.8553],[36.4992,137.8587],[36.4964,137.8627],[36.4926,137.8593],[36.4902,137.8557],[36.4872,137.8516],[36.4835,137.852],[36.48,137.8506],[36.4764,137.8488],[36.4726,137.8483],[36.4688,137.849],[36.4652,137.8495],[36.4613,137.8503],[36.4576,137.851],[36.4533,137.8519],[36.4498,137.8528],[36.4453,137.8552],[36.441,137.8567],[36.4368,137.8566],[36.4366,137.8606],[36.432,137.8641],[36.4281,137.8654],[36.4243,137.8667],[36.4202,137.868],[36.4161,137.8684],[36.4115,137.8677],[36.4079,137.8674],[36.4043,137.8673],[36.4005,137.8671],[36.3967,137.868],[36.3916,137.8699],[36.3877,137.8709],[36.3828,137.8716],[36.379,137.8718],[36.3752,137.8756],[36.3711,137.88],[36.3672,137.8841],[36.3636,137.8873],[36.3587,137.8918],[36.3559,137.8955],[36.3528,137.899],[36.3494,137.9033],[36.3475,137.9075],[36.343,137.9064],[36.339,137.9052],[36.3348,137.9048],[36.3312,137.9055],[36.3275,137.908],[36.3243,137.9116],[36.3224,137.9156],[36.3181,137.9192],[36.3146,137.9201],[36.3107,137.9205],[36.3069,137.9215],[36.3033,137.9229],[36.2998,137.924],[36.2962,137.9264],[36.2924,137.9277],[36.2888,137.9282],[36.2847,137.9299],[36.2809,137.9313],[36.2768,137.9313],[36.273,137.9308],[36.2695,137.9312],[36.2656,137.9328],[36.262,137.9348],[36.2583,137.935],[36.2546,137.9359],[36.251,137.9363],[36.2474,137.9363],[36.2438,137.9374],[36.2403,137.9381],[36.2366,137.938],[36.233,137.9404],[36.2311,137.9441],[36.2317,137.9479],[36.2319,137.9518],[36.2317,137.9555],[36.2357,137.9564],[36.2372,137.9603],[36.2373,137.9638],[36.2373,137.9676],[36.238,137.9714],[36.2372,137.9677],[36.2372,137.964],[36.2372,137.9603],[36.2369,137.9567],[36.2334,137.9564],[36.2318,137.9524],[36.2317,137.9483],[36.231,137.9441],[36.2303,137.9401],[36.2297,137.9363],[36.2282,137.9327],[36.2273,137.9287],[36.2263,137.9232],[36.2256,137.9195],[36.2242,137.9156],[36.2236,137.912],[36.2214,137.9078],[36.2189,137.9041],[36.2175,137.9002],[36.2161,137.8966],[36.2136,137.8928],[36.2117,137.889],[36.2099,137.8854],[36.2087,137.8812],[36.2075,137.8763],[36.2066,137.8727],[36.2056,137.8688],[36.2047,137.8653],[36.2034,137.8617],[36.2021,137.8581],[36.201,137.8541],[36.2,137.8506],[36.1987,137.8465],[36.1975,137.8426],[36.1964,137.839],[36.1953,137.8354],[36.1933,137.8305],[36.1917,137.8259],[36.1902,137.822],[36.1896,137.8184],[36.1871,137.8128],[36.1853,137.8089],[36.184,137.8045],[36.1836,137.8009],[36.1821,137.7966],[36.1831,137.7931],[36.1842,137.7893],[36.1823,137.7853],[36.1801,137.7818],[36.1765,137.781],[36.1724,137.7792],[36.17,137.7753],[36.1675,137.7716],[36.1648,137.768],[36.1634,137.7644],[36.1606,137.7606],[36.1576,137.7569],[36.1551,137.7532],[36.1527,137.7496],[36.1491,137.7478],[36.1468,137.7442],[36.143,137.7412],[36.1396,137.7377],[36.1378,137.734],[36.1364,137.7299],[36.1356,137.7263],[36.1316,137.7243],[36.131,137.7207],[36.1346,137.718],[36.1358,137.714],[36.136,137.7105],[36.1374,137.7046],[36.1386,137.7009],[36.1456,137.6936],[36.1468,137.69],[36.1509,137.683],[36.156,137.6785],[36.1594,137.6749],[36.1613,137.6712],[36.1636,137.6676],[36.1649,137.6638],[36.1641,137.6603],[36.1632,137.6566],[36.1643,137.6529],[36.1678,137.6511],[36.1699,137.6476],[36.17,137.6439],[36.1739,137.641],[36.1765,137.6372],[36.1786,137.6319],[36.1821,137.6286],[36.1859,137.6269],[36.1898,137.6245],[36.1934,137.6248],[36.1963,137.6212],[36.1969,137.6174],[36.2007,137.6123],[36.2032,137.6087],[36.2047,137.6052],[36.2084,137.6058],[36.2047,137.6031],[36.2018,137.5995],[36.1951,137.5856],[36.1937,137.5817],[36.193,137.5781],[36.193,137.5734],[36.1934,137.5621],[36.1928,137.5583],[36.1887,137.5536],[36.1851,137.5515],[36.1831,137.5477],[36.1827,137.5441],[36.1862,137.5457],[36.1835,137.5418],[36.1811,137.5139],[36.1808,137.5104],[36.1773,137.508],[36.1738,137.5044],[36.1741,137.5008],[36.1702,137.5004],[36.1733,137.4968],[36.177,137.4942],[36.1786,137.4901],[36.1784,137.4865],[36.1787,137.4824],[36.1799,137.4787],[36.1803,137.4752],[36.1828,137.4713],[36.1837,137.4676],[36.187,137.4712],[36.1885,137.4747],[36.1906,137.4712],[36.1944,137.4732],[36.198,137.4729],[36.1971,137.4694],[36.1936,137.4689],[36.19,137.4686],[36.1865,137.4659],[36.1829,137.4637],[36.1794,137.4631],[36.1763,137.4596],[36.1754,137.4559],[36.175,137.4523],[36.1724,137.4487],[36.1701,137.4451],[36.1694,137.4414],[36.1704,137.4378],[36.1713,137.4342],[36.1716,137.4307],[36.1731,137.4271],[36.1739,137.4235],[36.1759,137.4188],[36.1775,137.4144],[36.1773,137.4108],[36.1772,137.4073],[36.1775,137.4036],[36.1766,137.4],[36.175,137.3964],[36.1757,137.3929],[36.1759,137.3892],[36.1749,137.3855],[36.1755,137.382],[36.1751,137.3785],[36.1752,137.3735],[36.1749,137.3687],[36.1745,137.365],[36.1734,137.3612],[36.1722,137.3537],[36.1711,137.3494],[36.1706,137.3457],[36.1703,137.342],[36.1696,137.338],[36.1694,137.3343],[36.1689,137.3287],[36.1692,137.3247],[36.1699,137.32],[36.1705,137.3165],[36.17,137.312],[36.1696,137.3084],[36.1654,137.307],[36.1618,137.3074],[36.1592,137.3032],[36.1574,137.2997],[36.1569,137.2961],[36.1549,137.2924],[36.153,137.2861],[36.1506,137.2824],[36.1494,137.2789],[36.1495,137.2752],[36.1475,137.2715],[36.1461,137.2679],[36.144,137.2644],[36.1439,137.2608],[36.1428,137.2569],[36.1468,137.254],[36.1468,137.249],[36.1468,137.2455],[36.1503,137.2451],[36.1545,137.2443],[36.1581,137.2437],[36.1616,137.2425],[36.1624,137.2388],[36.1638,137.2351],[36.1661,137.2312],[36.1685,137.2277],[36.1723,137.225],[36.1763,137.225],[36.1878,137.2325],[36.1921,137.2354],[36.1956,137.2363],[36.1992,137.2344],[36.2015,137.2308],[36.2042,137.2269],[36.206,137.222],[36.2077,137.2172],[36.2089,137.213],[36.2112,137.2092],[36.2149,137.2052],[36.217,137.2013],[36.2184,137.1974],[36.2202,137.1938],[36.2255,137.1885],[36.2285,137.1849],[36.2302,137.1814],[36.2345,137.1784],[36.2381,137.1754],[36.2418,137.1731],[36.2454,137.1702],[36.2468,137.1664],[36.2504,137.1674],[36.2542,137.1714],[36.256,137.1764],[36.257,137.18],[36.2583,137.1847],[36.2595,137.1885],[36.2607,137.1921],[36.2613,137.1957],[36.262,137.1998],[36.2621,137.2034],[36.2632,137.2074],[36.2637,137.212],[36.2642,137.2159],[36.265,137.2196],[36.2641,137.2231],[36.2648,137.2279],[36.2659,137.2324],[36.2676,137.2366],[36.2689,137.2407],[36.2718,137.2442],[36.2755,137.2459],[36.2793,137.2486],[36.284,137.25],[36.2879,137.2524],[36.2917,137.2535],[36.2954,137.2537],[36.2995,137.2526],[36.3046,137.2514],[36.3082,137.2527],[36.3118,137.2549],[36.3145,137.2605],[36.3159,137.2645],[36.3165,137.2691],[36.3167,137.2728],[36.3193,137.2765],[36.3202,137.281],[36.3232,137.2856],[36.3247,137.2898],[36.3284,137.292],[36.3322,137.2944],[36.3358,137.2943],[36.3395,137.2947],[36.3437,137.295],[36.3473,137.2936],[36.3504,137.2901],[36.3547,137.2878],[36.359,137.2882],[36.3628,137.286],[36.3665,137.2846],[36.3701,137.2829],[36.3731,137.2794],[36.3766,137.2777],[36.3802,137.2799],[36.3831,137.2763],[36.3871,137.2764],[36.3906,137.277],[36.3932,137.2806],[36.3958,137.285],[36.3987,137.2887],[36.4023,137.2924],[36.4047,137.2959],[36.4085,137.2961],[36.4111,137.2925],[36.4146,137.2907],[36.4184,137.2883],[36.4219,137.2857],[36.4256,137.2834],[36.4292,137.2797],[36.4328,137.2781],[36.4365,137.2742],[36.4403,137.2742],[36.4442,137.2736],[36.448,137.2725],[36.4503,137.2685],[36.4505,137.2647],[36.4528,137.2555],[36.4555,137.2519],[36.4597,137.2487],[36.4682,137.2431],[36.472,137.24],[36.474,137.2365],[36.4777,137.2335],[36.4816,137.235],[36.4852,137.2379],[36.4896,137.2374],[36.4932,137.2362],[36.4969,137.2363],[36.5015,137.234],[36.5051,137.2319],[36.509,137.2289],[36.5128,137.2283],[36.5164,137.2301],[36.5199,137.231],[36.5234,137.2319],[36.5277,137.2327],[36.5314,137.2359],[36.535,137.2369],[36.5388,137.2351],[36.5425,137.2325],[36.5461,137.2303],[36.5498,137.2284],[36.5534,137.2251],[36.5554,137.2215],[36.5576,137.2179],[36.5614,137.2145],[36.5654,137.2117],[36.5692,137.2103],[36.5735,137.2093],[36.5788,137.2068],[36.5823,137.2063],[36.5872,137.2056],[36.5917,137.2046],[36.5956,137.2038],[36.5996,137.2035],[36.6034,137.2033],[36.6083,137.2043],[36.6122,137.2048],[36.616,137.2052],[36.6196,137.2054],[36.6232,137.2049],[36.6268,137.2046],[36.63,137.2083],[36.6343,137.2091],[36.6392,137.2093],[36.643,137.2094],[36.6468,137.2095],[36.6504,137.2096],[36.6544,137.2096],[36.659,137.2097],[36.6629,137.2098],[36.6666,137.21],[36.6707,137.2104],[36.6743,137.2106],[36.679,137.211],[36.6827,137.2116],[36.6862,137.212],[36.6898,137.2123],[36.6938,137.2128],[36.696,137.2142]];
+  // Hokuriku Shinkansen, drawn through its actual stations
+  var RAIL = [[35.6812,139.7671],[35.9063,139.6240],[36.3220,139.0120],[36.3430,138.6350],
+              [36.4010,138.2490],[36.6485,138.1942],[36.8540,138.3620],[37.1480,138.2360],
+              [37.0370,137.8580],[36.8600,137.4800],[36.6959,137.2137],[36.7290,137.0100],[36.5780,136.6486]];
+  var css = getComputedStyle(document.documentElement);
+  function c(n, f) { return (css.getPropertyValue(n) || '').trim() || f; }
+
+  var map = L.map('routemap', { scrollWheelZoom: false });
+  // CARTO basemaps: labels are in Latin script, unlike the default OSM tiles which use local names
+  function isDark() {
+    var t = document.documentElement.getAttribute('data-theme');
+    if (t) return t === 'dark';
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+  function tileUrl() {
+    return 'https://{s}.basemaps.cartocdn.com/rastertiles/' + (isDark() ? 'dark_all' : 'voyager') +
+           '/{z}/{x}/{y}{r}.png';
+  }
+  var tiles = L.tileLayer(tileUrl(), {
+    maxZoom: 18, detectRetina: true, subdomains: 'abcd',
+    referrerPolicy: 'strict-origin-when-cross-origin',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(map);
+  var tt = document.getElementById('tt');
+  if (tt) tt.addEventListener('click', function () { setTimeout(function () { tiles.setUrl(tileUrl()); }, 0); });
+
+  // bright map-specific colours, the page palette is too muted to read over a basemap
+  var C = { rail: '#1d4ed8', ski: '#0e7490', alp: '#ea580c', opt: '#6b7280' };
+  var CASE = isDark() ? '#0b0e12' : '#ffffff';
+
+  function route(coords, colour, weight, dash, popup) {
+    L.polyline(coords, { color: CASE, weight: weight + 5, opacity: .9, lineCap: 'round', lineJoin: 'round' }).addTo(map);
+    var l = L.polyline(coords, { color: colour, weight: weight, opacity: 1, dashArray: dash,
+                                 lineCap: 'round', lineJoin: 'round' }).addTo(map);
+    if (popup) l.bindPopup(popup);
+    return l;
+  }
+
+  route(RAIL, C.rail, 5, '14 9',
+    '<b>Hokuriku Shinkansen</b>Tokyo &rarr; Nagano on day 2, Toyama &rarr; Kanazawa on day 7, Kanazawa &rarr; Tokyo on day 8.');
+  route(CAR_SKI, C.ski, 6, null, '<b>Nagano &rarr; Hakuba</b>Car, 45 km. Day 3.');
+  route(CAR_ALP, C.alp, 6, null,
+    '<b>The mountain loop</b>Hakuba &rarr; Matsumoto &rarr; Route 158 &rarr; Okuhida, then north past Takayama to Toyama. 237 km of real road, days 5 and 6.');
+  L.polyline([[36.6959,137.2137],[36.2573,136.9063]], { color: C.opt, weight: 3, dashArray: '5 7', opacity: .95 }).addTo(map);
+
+  var stops = [
+    [35.6812,139.7671,'Tokyo',C.rail,9,'Land day 2. Back days 8 and 9, and the 🏎 night drive.'],
+    [36.6485,138.1942,'Nagano',C.rail,7,'Night 2. We pick the car up here.'],
+    [36.6983,137.8622,'Hakuba',C.ski,10,'🎿 Days 3 to 5, three ski mornings. Tsugaike, then Goryu + Hakuba47, then Happo-One.'],
+    [36.2381,137.9720,'Matsumoto',C.alp,5,'Driven through on day 5. No stop since we come in via Nagano.'],
+    [36.1940,137.4700,'Okuhida',C.alp,10,'🏮 Ryokan with rotenburo, night 5. 🎂 Nadir&rsquo;s birthday.'],
+    [36.2830,137.5670,'Shinhotaka Ropeway',C.alp,5,'2,156 m. Day 6 at 09:00, weather permitting. The only winter access to the high Hotaka and Yari massif.'],
+    [36.1461,137.2523,'Takayama',C.alp,5,'Driven through, no stop. Rostik has been and says skip it.'],
+    [36.6959,137.2137,'Toyama','#b91c1c',10,'Night 6. Car dropped here, the Shinkansen takes over. Sushi-Ei Sogawa.'],
+    [36.5780,136.6486,'Kanazawa','#b91c1c',10,'Night 7. Omicho Market in snow crab season, Kenrokuen, KIRARI.'],
+    [36.2573,136.9063,'Shirakawa-go',C.opt,6,'Optional, and it replaces Kanazawa on day 7 rather than adding to it.']
+  ];
+  stops.forEach(function (s) {
+    L.circleMarker([s[0], s[1]], {
+      radius: s[4] / 2 + 3, color: CASE, weight: 3, fillColor: s[3], fillOpacity: 1
+    }).addTo(map).bindPopup('<b>' + s[2] + '</b>' + s[5]);
+  });
+
+  map.fitBounds(L.polyline(RAIL.concat(CAR_ALP)).getBounds(), { padding: [30, 30] });
+  document.getElementById('routemap').classList.add('ready');
+})();
+</script>
+</body>
+</html>
