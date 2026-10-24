@@ -41,6 +41,9 @@ group in three useful ways:
 Mogi is one of four, not the Tokyo fixer. Who rents which car, who picks the Tokyo spots and who
 rings OnlyJDM are group jobs, shared out like everything else.
 
+✅ **From the start, confirmed again in Oct 2026** (Nadir agreed it with him). An earlier note that
+he might only join on 19 Feb is void.
+
 ⚠️ **Still open:** only **where he joins**. Nagano Station on Monday night is the obvious spot, since
 the three of us sleep there, and it means he could be the one to pick the car up at 08:00. The natural meeting point
 is **Nagano Station on Monday evening**, since the three of us sleep there, but he could also come
@@ -1330,8 +1333,9 @@ property. It is **sauna glamping**: a private dome with its own outdoor sauna.
 | Contact | 0261-72-3780 (Japanese) · info@frompbow.com |
 | Where | Hokujo 3020-45, **Echoland**, the same block as Lion Gear. By car: Goryu ~9 min, Tsugaike ~15 min, Happo village 1 km, Happo's Adam gondola ~4 km |
 
-🚨 **Booked for 3 adults, not 4.** To sort out: is Mogi in this dome, and does the 7 m dome take
-four? Ask the property by email, the phone line is Japanese only.
+🟡 **Booked for 3 adults, Mogi goes in as the fourth** (decided 24 Oct 2026). Georgi writes to the
+property on 25 Oct to add a fourth adult and ask the extra cost. Until they answer, both price
+figures stay on the page.
 ⚠️ **Not stated anywhere we found:** what beds are in the dome, and whether it has its own toilet
 and shower or uses a shared building.
 
@@ -2061,11 +2065,12 @@ cost. The 16th breaks the rule the dates were built around.**
 0b. 🚨 **Beds for Rostik and Mogi on three nights.** Every accommodation booked so far covers
    fewer than four people: **Nagano** and **Toyama** are twins for Nadir and Georgi, and **Hakuba**
    is booked for three. Only the **ryokan** is for four. So there are **two people without a bed in
-   Nagano, two without one in Toyama**, and **one without one in Hakuba**. None of this is priced.
+   Nagano, two without one in Toyama**, and **one in Hakuba**, which is being solved by adding Mogi
+   to the dome (see 15). None of this is priced.
 
-1. 🟡 **Mogi: where do you join?** Nagano Station on Monday night is the obvious spot, and it would
-   let you be the one who picks the car up at 08:00 on Tuesday. Everything else about you is
-   settled: whole loop, skis, beginner.
+1. 🟡 **Mogi: where exactly do you join on Monday?** ✅ You are with us **from the start** (agreed
+   with Nadir, Oct 2026): whole loop, skis, beginner. Nagano Station on Monday night is the obvious
+   spot, and it would let you be the one who picks the car up at 08:00 on Tuesday.
 
 2. 🟡 **Rostik and Mogi: a lesson each, or none?** Both beginners, one on a board and one on skis,
    so one instructor cannot cover both. ⚠️ Private lessons are expensive: Evergreen is **¥110,000
@@ -2122,8 +2127,9 @@ cost. The 16th breaks the rule the dates were built around.**
 14. 🟡 **Bad-weather plan for the ski days.** If the upper lifts close in a storm, where do we go
     instead? ⚠️ Nothing checked yet, no wind-hold data found so far.
 
-15. 🚨 **Georgi and Mogi: From P is booked for 3 adults, not 4.** Is Mogi in the dome, and does
-    the 7 m dome take four? Ask the property by email before anything else about Hakuba.
+15. 🟡 **From P: Mogi goes in as the fourth** (decided 24 Oct 2026). Georgi emails the property on
+    25 Oct to add a fourth adult, and asks the extra cost, the beds, and whether the dome has its own
+    toilet and shower. Until they answer, the budget keeps both numbers: €292 as booked, €219 with four.
 
 16. 🚨 **Rostik: your Etihad booking, the missing half.** The screen seen on 24 Oct showed only
     **BER 10:00 on the 14th → NRT 11:40 on the 15th**, 1 stop, status still "Processing". Three

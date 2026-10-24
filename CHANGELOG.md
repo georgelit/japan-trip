@@ -33,6 +33,21 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v70 &middot; 24 Oct 2026 &middot; Georgi
+
+**Mogi is with us from the start, and he goes into the Hakuba dome as the fourth.**
+
+- ✅ **Mogi joins from day one**, agreed between Nadir and Mogi in October. A passing idea that he
+  might only join on 19 Feb never reached this page and is now void. Open question 1 narrows to
+  *where exactly on Monday*, most likely Nagano Station in the evening.
+- 🟡 **From P (question 15): decided, Mogi is the fourth in the dome.** Georgi emails the property
+  on 25 Oct to add a fourth adult and asks the extra cost, the beds, and whether the dome has its own
+  toilet and shower.
+- ⚠️ **The budget is unchanged on purpose.** It keeps both Hakuba figures, €292 as booked and €219
+  with four, until the property answers with a price for the fourth guest.
+- The beds question (0b) now says Hakuba's missing bed is being solved this way; Nagano and Toyama
+  still lack two beds each.
+
 ## v69 &middot; 24 Oct 2026 &middot; Georgi
 
 **Rostik's ticket is bought, so all three flights are now booked. It is Etihad, it leaves Berlin
