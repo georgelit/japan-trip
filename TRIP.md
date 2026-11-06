@@ -659,7 +659,11 @@ than an assumption.
 | Price | **¥128,000 total, tax included** ≈ €692, **≈ €173 each**. **On-site payment**, so nothing charged yet |
 | Changes | A Changes/Cancellations option exists on the booking |
 
-🚨 **The one thing to confirm: is dinner included?** The confirmation names the plan and the
+✅ **Dinner is included, confirmed by Nadir on 6 Nov 2026:** a **Hida Beef Grilled Kaiseki**, charcoal-grilled Hida beef, so the birthday criterion is met. Two sittings, **17:30 or 20:00**, and the ryokan does **not take reservations for them**: guests are seated in order of check-in, and once 17:30 is full the rest eat at 20:00. Nadir gave **16:00** as our arrival, so we should get 17:30. **Do not be late on Thursday:** Happo until ~12:30 plus ~2 h 30 of driving is ~15:00, which leaves an hour of slack.
+
+History, the question this answered:
+
+~~The one thing to confirm: is dinner included?~~ The confirmation names the plan and the
 room but **says nothing about meals**, and that matters more here than it would anywhere else:
 
 - **This page had previously ruled Miyama-ouan out, and that was the reason.** The August Ikyu
@@ -1346,8 +1350,10 @@ Gondola Apartments, Gakuto Villas) is retired; Gondola Apartments was already so
 ### 🚄 Night 4 · Toyama, Fri 19 Feb: ✅ booked
 
 ✅ **Dormy Inn Toyama Natural Hot Spring Tsurugi-no-Yu**, booked by Nadir. Reservation
-**2026092919504056**. **19 → 20 Feb**, non-smoking twin, 17 m², **¥34,200 tax included, breakfast
-included, on-site payment**. Covers **Nadir and Georgi**, ≈ **€92 each**.
+**2026092919504056**. **19 → 20 Feb**, **two** non-smoking twins, 17 m², **¥34,200 tax included for both
+rooms** (¥17,100 a room), **breakfast included, on-site payment**. Covers **all four**, ≈ **€46 each**.
+✅ Corrected 6 Nov 2026 by Nadir: this page had read ¥34,200 as one twin. It is two, and today the same
+room with breakfast costs ¥19,800, so the early booking is the cheaper one.
 
 ✅ **It has a natural hot spring bath and a sauna**, so there is an onsen on the Friday whatever
 happens with the ryokan night.
@@ -1358,7 +1364,7 @@ happens with the ryokan night.
 where the Sushi-Ei dinner is, and close to the castle approach and Kansui Park. The shortlist
 optimised for Saturday morning's train and under-weighted the whole Friday evening.
 
-🚨 **Rostik and Mogi have no room this night either.**
+✅ **Rostik and Mogi are covered here**, in the second twin.
 
 The shortlist that led here:
 
@@ -1633,8 +1639,8 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Nagano, 1 night | **32** | ✅ Sotetsu Fresa Inn, booked by Nadir, €63 for a twin covering Nadir and Georgi |
 | Tokyo, 1 night | 60–90 | ⚠️ |
 | Hakuba, 2 nights | **292**, or 219 if a 4th joins | 🚨 From P, booked and paid 28 Sep 2026, ¥162,000. **Booked for 3, so it is ¥54,000 = €292 each** as it stands; €219 only if a fourth person is added to the same dome. ⚠️ Hakuba accommodation tax extra, cash at check-in |
-| 🏮 Okuhida ryokan, 1 night | **173** | ✅ **匠の宿 深山桜庵 Miyama-ouan**, booked by Nadir 24 Sep 2026, ¥128,000 **for four**, on-site payment. 🚨 Whether dinner is included is unconfirmed |
-| Toyama, 1 night | **92** | ✅ Dormy Inn Toyama Tsurugi-no-Yu, booked by Nadir, ¥34,200 for a twin covering Nadir and Georgi, breakfast included |
+| 🏮 Okuhida ryokan, 1 night | **173** | ✅ **匠の宿 深山桜庵 Miyama-ouan**, booked by Nadir 24 Sep 2026, ¥128,000 **for four**, on-site payment. ✅ Dinner included, Hida beef kaiseki, 17:30 or 20:00 by order of check-in |
+| Toyama, 1 night | **46** | ✅ Dormy Inn Toyama Tsurugi-no-Yu, booked by Nadir, ¥34,200 for **two twins**, all four, breakfast included. Corrected 6 Nov 2026, earlier read as one twin at €92 each |
 | Kanazawa, 1 night | 70–110 | ⚠️ |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
@@ -1649,24 +1655,26 @@ Recomputed **26 Aug 2026**, once Nadir's fare came in. **Updated 28 Sep 2026** w
 **Updated again 28 Sep 2026**, with four accommodation lines now real instead of estimated:
 Nagano €32, Hakuba, the ryokan €173 and Toyama €92.
 
+**Corrected 6 Nov 2026:** Toyama is **€46**, not €92, since ¥34,200 covers two twins. Every figure below is €46 lower than before.
+
 🚨 **Two numbers, because Hakuba is booked for three people, not four.** As it stands the dome
 splits ¥162,000 three ways at **€292 each**; it only becomes **€219** if a fourth person is added
 to the same booking.
 
-**Shared base, everything except flight and gear: €1,559 – 1,704** as booked, or **€1,486 – 1,631**
+**Shared base, everything except flight and gear: €1,513 – 1,658** as booked, or **€1,440 – 1,585**
 if the dome takes a fourth.
 
 | | Flight | Gear | **Total, as booked** | If Hakuba takes a 4th |
 |---|---|---|---|---|
-| **Georgi** | 943 ✅ | 89 | **≈ €2,591 – 2,736** | ≈ €2,518 – 2,663 |
-| **Nadir** | 1,077 ✅ | 89 | **≈ €2,725 – 2,870** | ≈ €2,652 – 2,797 |
-| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,667 – 2,812** | ≈ €2,594 – 2,739 |
-| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,724 – 1,869** | ≈ €1,651 – 1,796 |
+| **Georgi** | 943 ✅ | 89 | **≈ €2,545 – 2,690** | ≈ €2,472 – 2,617 |
+| **Nadir** | 1,077 ✅ | 89 | **≈ €2,679 – 2,824** | ≈ €2,606 – 2,751 |
+| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,621 – 2,766** | ≈ €2,548 – 2,693 |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,678 – 1,823** | ≈ €1,605 – 1,750 |
 
 🚨 **Mogi's row is the least trustworthy of the four.** If the three in the dome are Georgi,
 Nadir and Rostik, then **Mogi has no Hakuba bed at all** and his row is missing two nights that
-nobody has priced. The same applies to Rostik and Mogi on the **Nagano and Toyama** nights, both
-of which are twins covering Nadir and Georgi only.
+nobody has priced. The same applies to Rostik and Mogi on the **Nagano** night, a twin covering Nadir and
+Georgi only. **Toyama is two twins, so all four are covered there.**
 
 ⚠️ **Accommodation is running over estimate.** Hakuba was estimated €120–180 and is €292 as
 booked; the ryokan was €122 and is €173. Nagano came in well under at €32, which does not cover
@@ -2056,16 +2064,16 @@ cost. The 16th breaks the rule the dates were built around.**
 
 ## Open questions
 
-0. 🚨 **Does the Miyama-ouan booking include dinner?** It is **Nadir's birthday**, and a
+0. ✅ **Answered 6 Nov 2026: yes.** Hida Beef Grilled Kaiseki, 17:30 or 20:00 by order of check-in, we said 16:00. Original question: **Does the Miyama-ouan booking include dinner?** It is **Nadir's birthday**, and a
    kaiseki dinner with Hida beef was one of the three criteria for this night. The confirmation
    names the plan and the room but **says nothing about meals**, and this page had previously
    rejected this very hotel because no dinner plan was on sale for the 18th. **Ask the property.**
    If the answer is no, the birthday meal needs solving separately and Hirayu is a small village.
 
 0b. 🚨 **Beds for Rostik and Mogi on three nights.** Every accommodation booked so far covers
-   fewer than four people: **Nagano** and **Toyama** are twins for Nadir and Georgi, and **Hakuba**
-   is booked for three. Only the **ryokan** is for four. So there are **two people without a bed in
-   Nagano, two without one in Toyama**, and **one in Hakuba**, which is being solved by adding Mogi
+   fewer than four people: **Nagano** is a twin for Nadir and Georgi, and **Hakuba**
+   is booked for three. The **ryokan** is for four, and **Toyama turned out to be two twins** (corrected
+   6 Nov 2026). So there are **two people without a bed in Nagano**, and **one in Hakuba**, which is being solved by adding Mogi
    to the dome (see 15). None of this is priced.
 
 1. 🟡 **Mogi: where exactly do you join on Monday?** ✅ You are with us **from the start** (agreed

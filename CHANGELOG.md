@@ -33,6 +33,22 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v71 &middot; 6 Nov 2026 &middot; Georgi
+
+**Toyama is booked for all four, and the ryokan dinner is confirmed.** Both from Nadir.
+
+- ✅ **Toyama, Dormy Inn: ¥34,200 is two twins, not one.** ¥17,100 a room with breakfast, so
+  Rostik and Mogi already have beds. The page had read it as one twin since v68. Today the same room
+  with breakfast is ¥19,800, so the existing booking is cheaper. Budget line €92 → **€46**, and every
+  per person total is **€46 lower**.
+- ✅ **Question 0 answered: dinner at Miyama-ouan is included**, a Hida Beef Grilled Kaiseki.
+  Sittings at 17:30 or 20:00, no reservations, seated by order of check-in. Nadir gave 16:00 as
+  our arrival, so Thursday's drive from Happo should not slip.
+- Question 0b narrows: only **Nagano** (two beds) and **Hakuba** (being solved with Mogi in the
+  dome) remain.
+
+---
+
 ## v70 &middot; 24 Oct 2026 &middot; Georgi
 
 **Mogi is with us from the start, and he goes into the Hakuba dome as the fourth.**
