@@ -33,6 +33,33 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v74 &middot; 7 Nov 2026 &middot; Georgi
+
+**Tokyo is booked, the two Tokyo cars are chosen, Daikoku is dropped, Mogi is confirmed in the Hakuba
+dome, and the budget is recomputed line by line.** Built on top of Nadir's v72/v73 Kanazawa booking.
+
+- ✅ **Tokyo, Sun 21: Henn na Hotel Tokyo Haneda**, booked by Georgi on Booking.com, confirmation
+  6918982985. Triple with three beds for Georgi, Nadir and Rostik (Mogi sleeps at home), ¥26,944 paid at
+  the hotel, free cancellation until 19 Feb. Replaces the old shortlist. 🚨 That shortlist claimed
+  Tokyu Stay Kamata had free parking; it has no car park, corrected. Parking for both cars (B-Times,
+  about ¥1,300 each) is **not booked yet**.
+- 🏎 **Day 8: Daikoku is dropped**, the night drive is central Tokyo (Odaiba, Tokyo Tower, Ginza,
+  Shibuya, Shinjuku). All Daikoku references updated.
+- ✅ **OnlyJDM: EVO X + R35 GT-R chosen** (6 Nov), not booked yet. Their booking rules are now on the
+  page: full rental paid online at booking, free cancellation until 14 Feb, deposit by credit card in
+  the main driver's name, R35 from age 26, German licences need a JAF translation, no returns after
+  18:30. The Haneda store address is known (2-20-14 Omori-minami), so that part of question 6 is closed.
+  The R35 "Red Dragon" is preferred if Rostik hears from OnlyJDM that it is not scratched.
+- ✅ **Hakuba: Mogi is in as the fourth.** The property confirmed ¥30,000 extra plus ¥3,200 tax on
+  27 Oct. Question 15 closed, the "booked for three" figures are gone.
+- 💶 **Budget recomputed:** Tokyo €49, Hakuba €264, Tokyo drive **€120 to 169** (was €32 to 77 for one
+  R34, the big jump), Kanazawa €41 as Nadir booked it. Shared base **€1,533 to 1,625**, summed line by
+  line (the old top end carried a €13 slip). Totals: Georgi ≈ €2,565 to 2,657, Nadir ≈ €2,699 to 2,791,
+  Rostik ≈ €2,641 to 2,733 (flight estimated), Mogi ≈ €1,649 to 1,741.
+- Question 0b: **Nagano only**. Rostik books a twin for himself and Mogi (seen 7 Nov at ¥17,580).
+
+---
+
 ## v73 &middot; 8 Nov 2026 &middot; Nadir
 
 **Housekeeping on the v72 Kanazawa write-up.** No facts changed.

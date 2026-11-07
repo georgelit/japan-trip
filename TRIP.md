@@ -163,7 +163,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 5 | **Thu 18 Feb** | 🎿 **Day 3: Happo-One, Nadir's birthday morning** (his call), until ~12:30. Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | ✅ 🏮 **Miyama-ouan, Hirayu** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | ✅ Toyama, Dormy Inn |
 | 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | ✅ Kanazawa, the square hotel |
-| 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
+| 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive through central Tokyo**: Odaiba, Tokyo Tower, Ginza, Shibuya, Shinjuku. Daikoku dropped 7 Nov 2026 | ✅ Tokyo, Henn na Hotel Haneda |
 | 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back by 16:00** at the branch, 🚨 then a transfer to the terminal, then 🚃 Keikyu to Ginza and back. ✈️ **Georgi HND 22:05, Nadir HND 22:45**, ⚠️ Rostik's return leg is not known yet | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Georgi lands Berlin 09:25, Nadir lands Leipzig 09:45** | home |
 
@@ -1213,7 +1213,7 @@ to **Higashi-Ginza in about 35 minutes for ¥550**, then five minutes on foot to
 
 ⚠️ **Mileage.** Rough total for the day is **~60 km** (Tokyo → Shin-Yokohama → Yokohama Station
 → Minato Mirai → Haneda), which sits inside what is left of OnlyJDM's **200 km per 24 h** after
-Sunday night's Daikoku run. Not unlimited, but not tight either.
+Sunday night's drive. Not unlimited, but not tight either.
 
 ⚠️ **Cost**, per person: about **€30–35** for entry, noodles and the bath, plus parking split
 and the ¥1,100 return train.
@@ -1266,7 +1266,7 @@ Padding these would mean recommending something we cannot actually use.
 | 1 · Sun 14 | In Berlin, flying at 19:20 |
 | **2 · Mon 15** | ✅ **Corrected 25 Aug:** something *is* open. See the Nagano late-arrival note below |
 | **5 · Thu 18** | 🎂 **The ryokan kaiseki is the birthday dinner.** That is the whole point of the night |
-| 8 · Sun 21 | Car at 16:00, Daikoku from 20:00, so the evening is the drive. Tokyo food is **Mogi's call**, he lives there |
+| 8 · Sun 21 | Car at 16:00, then central Tokyo, so the evening is the drive. Tokyo food is **Mogi's call**, he lives there |
 | 9 · Mon 22 | 🍜 **The Ramen Museum mini-bowls are the meal.** Which shops, and the alternative, are below |
 | 10 · Tue 23 | Landing in Berlin |
 
@@ -1337,9 +1337,10 @@ property. It is **sauna glamping**: a private dome with its own outdoor sauna.
 | Contact | 0261-72-3780 (Japanese) · info@frompbow.com |
 | Where | Hokujo 3020-45, **Echoland**, the same block as Lion Gear. By car: Goryu ~9 min, Tsugaike ~15 min, Happo village 1 km, Happo's Adam gondola ~4 km |
 
-🟡 **Booked for 3 adults, Mogi goes in as the fourth** (decided 24 Oct 2026). Georgi writes to the
-property on 25 Oct to add a fourth adult and ask the extra cost. Until they answer, both price
-figures stay on the page.
+✅ **Mogi is in as the fourth.** The property confirmed 4 adults on 27 Oct 2026: **¥30,000 extra, paid at
+check-in**, plus Hakuba accommodation tax of **¥3,200 for all four**. Total **¥192,000**, ≈ **€264 each**
+with the tax. Check-in from 15:00, tell them if after 20:00. A price watch runs until 1 Feb 2027 and
+flags if the same dome gets cheaper.
 ⚠️ **Not stated anywhere we found:** what beds are in the dome, and whether it has its own toilet
 and shower or uses a shared building.
 
@@ -1417,30 +1418,35 @@ starts with the Kagayaki. The sweet spot is **between the station and Omicho**.
 | **2. Hotel Nikko Kanazawa** | At the **station**, walkable to Omicho | Best if the Sunday train matters more than the Saturday walking |
 | **3. UAN Kanazawa** | **5 min** to Omicho, next to Kanazawa Castle Park, 15 min to Kenrokuen | The most central for Saturday's actual route |
 
-### 🏎 Night 6 · Tokyo, Sun 21 Feb — the awkward one
+### 🏎 Night 6 · Tokyo, Sun 21 Feb: ✅ booked
 
-🚨 **This night has a constraint nobody had written down: two rental cars are parked overnight.**
-They are collected around 16:00 Sunday near Haneda, driven to Daikoku, and must be back by 16:00
-Monday. Central Tokyo hotel parking runs roughly **¥1,000 to ¥8,000 per night per car** where it
-exists at all, and it frequently does not.
+✅ **[Henn na Hotel Tokyo Haneda](https://www.google.com/maps/search/?api=1&query=Henn%20na%20Hotel%20Tokyo%20Haneda)**, booked by Georgi on Booking.com on 7 Nov 2026.
+Confirmation **6918982985**.
 
-**So the answer is to stay south, near Haneda, not in the centre.** It shortens the Sunday
-pickup, it shortens Monday's drive to Shin-Yokohama, and it puts the airport minutes away for
-both the car return and the flight.
+| | |
+|---|---|
+| Where | Higashikojiya 2-11-18, Ota, near Haneda. +81 50-5894-3783 |
+| Dates | **Sun 21 → Mon 22 Feb**, 1 night. Check-in 15:00 to midnight, check-out by 11:00 |
+| Room | **Triple Room, non-smoking, three beds**, for **3 adults**: Georgi, Nadir, Rostik. Mogi sleeps at home |
+| Price | **¥26,944 tax included**, ≈ **€49 each** for three. **Paid at the hotel**, the card only guarantees it. City tax extra, at the hotel |
+| Breakfast | Not included, ¥2,000 per person |
+| Cancellation | **Free until 19 Feb 2027, 23:59 JST**, after that the full price |
 
-| | Where | Why |
-|---|---|---|
-| **1. Tokyu Stay Kamata** | 8 min walk from JR Kamata, **Haneda 8 min by train**, ✅ **complimentary parking** | The only candidate that answers the parking problem for free, and it sits exactly on the Sunday-pickup, Monday-drive, evening-flight axis |
-| **2. Urbain Tokyo Haneda Kamata** | Kamata, **on-site parking**, ~15 min drive to Haneda | Same logic, cheaper bracket |
-| **3. Mercure Tokyo Haneda Airport** | **Private parking**, close to the airport | The most airport-shaped option |
+History: the same morning Georgi first booked a Theater Triple (two beds and a sofa bed, ¥22,480), then
+switched to the Triple with three real beds and cancelled the first booking free of charge.
 
-🚨 **Two cars, not one.** Wherever "free" or "on-site" parking is advertised, spaces are usually
-few and often first-come. **Confirm two spaces at booking**, or the plan quietly becomes one car
-parked and one hunting a coin lot at midnight.
+**Why here.** Two rental cars park overnight, so the night is near Haneda, not in the centre.
 
-⚠️ **The trade:** staying south means the Sunday night drive into central Tokyo is a there-and-back
-rather than starting on the doorstep. Given the drive is the point of the evening, that is
-acceptable. Budget line: €60–90 per person.
+- The OnlyJDM Haneda store is **1.1 km away, about 13 minutes on foot.**
+- Driving times without traffic (OSRM): Odaiba 12 min, Tokyo Tower 16, Ginza 17, Shibuya 19,
+  Shinjuku 21. Shin-Yokohama on Monday 26.
+- 🚨 **Parking for both cars is not booked yet.** The hotel car park has about 10 spaces, ⚠️ about
+  ¥1,300 per car for 24 h (15:00 to 15:00), reserved through **B-Times**. Book both spaces together with
+  the cars.
+
+🚨 **Correction:** this section used to list **Tokyu Stay Kamata** with "complimentary parking". That was
+wrong: the ANA and Yahoo Travel listings show no car park of its own. The old shortlist (Tokyu Stay
+Kamata, Urbain Kamata, Mercure Haneda) is retired.
 
 ---
 
@@ -1637,8 +1643,7 @@ The Kaga domain was rich for three centuries and its food is refined rather than
 
 **This list is everyone's to build.** Mogi knows the city and will have opinions, which is useful,
 not a job assignment. What we would not want to miss: a proper **ramen** counter (Nadir's map has Ramen FeeL and others), **tsukemen**, a standing
-sushi bar, and a **yakitori alley** dinner. On the night drive, Daikoku PA itself has a food court
-that is part of the ritual.
+sushi bar, and a **yakitori alley** dinner.
 
 ### A pattern worth noticing
 
@@ -1661,63 +1666,42 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~139 | ≈ ¥25,700: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥2,860 Shinkansen unreserved**, Kanazawa→Tokyo ¥14,380 |
 | **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
 | Nagano, 1 night | **32** | ✅ Sotetsu Fresa Inn, booked by Nadir, €63 for a twin covering Nadir and Georgi |
-| Tokyo, 1 night | 60–90 | ⚠️ |
-| Hakuba, 2 nights | **292**, or 219 if a 4th joins | 🚨 From P, booked and paid 28 Sep 2026, ¥162,000. **Booked for 3, so it is ¥54,000 = €292 each** as it stands; €219 only if a fourth person is added to the same dome. ⚠️ Hakuba accommodation tax extra, cash at check-in |
+| Tokyo, 1 night | **49** | ✅ Henn na Hotel Tokyo Haneda, booked by Georgi 7 Nov 2026, ¥26,944 for a triple, **three people**, Mogi sleeps at home. ⚠️ Parking for two cars extra, about ¥1,300 per car |
+| Hakuba, 2 nights | **264** | ✅ From P, ¥162,000 paid 28 Sep 2026 for three, plus ¥30,000 for Mogi at check-in (confirmed 27 Oct) and ¥3,200 accommodation tax. ¥195,200 for four |
 | 🏮 Okuhida ryokan, 1 night | **173** | ✅ **匠の宿 深山桜庵 Miyama-ouan**, booked by Nadir 24 Sep 2026, ¥128,000 **for four**, on-site payment. ✅ Dinner included, Hida beef kaiseki, 17:30 or 20:00 by order of check-in |
 | Toyama, 1 night | **46** | ✅ Dormy Inn Toyama Tsurugi-no-Yu, booked by Nadir, ¥34,200 for **two twins**, all four, breakfast included. Corrected 6 Nov 2026, earlier read as one twin at €92 each |
 | Kanazawa, 1 night | **41** | ✅ **the square hotel KANAZAWA**, booked by Nadir 8 Nov 2026, ¥30,294 for **two twins, all four**, no meals. ⚠️ Kanazawa accommodation tax ¥200 per person extra |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
-| The Tokyo drive, one car, 24 h | 32–77 | R34 ¥23,800 to R35 ¥56,800, split four ways |
+| The Tokyo drive, two cars, 24 h | **120–169** | EVO X + R35, chosen 6 Nov 2026. ¥89,000 rental, about ¥125,000 with Premium cover and second drivers, split four ways. Fuel, tolls and parking extra |
 | **Total** | **see below** | The single total is gone: flights and gear now differ per person |
 
 ### Total, per person
 
-Recomputed **26 Aug 2026**, once Nadir's fare came in. **Updated 28 Sep 2026** with the real Hakuba price. The old single figure of €2,150–2,800 is
-**withdrawn**: it was built on a flight *estimate*, and it sat below what the trip actually costs.
+**Recomputed 7 Nov 2026** from the line items above. Since the last full pass: Toyama is €46 (two
+twins), Kanazawa €41 (booked by Nadir, v72), Hakuba now has Mogi as the fourth, Tokyo is booked, and the
+Tokyo drive is two chosen cars instead of one R34. Nadir's v72 base of €1,484–1,589 carried a €13
+adding slip at the top end from earlier versions; this one is summed line by line. The old single figure of €2,150–2,800 stays withdrawn.
 
-**Updated again 28 Sep 2026**, with four accommodation lines now real instead of estimated:
-Nagano €32, Hakuba, the ryokan €173 and Toyama €92.
+**Shared base, everything except flight and gear: €1,533 – 1,625** for Georgi, Nadir and Rostik. Mogi
+pays no Tokyo night, so his base is €49 lower.
 
-**Corrected 6 Nov 2026:** Toyama is **€46**, not €92, since ¥34,200 covers two twins.
+| | Flight | Gear | **Total** |
+|---|---|---|---|
+| **Georgi** | 943 ✅ | 89 | **≈ €2,565 – 2,657** |
+| **Nadir** | 1,077 ✅ | 89 | **≈ €2,699 – 2,791** |
+| **Rostik** | ⚠️ price not known, 943 assumed | 165 | ⚠️ **≈ €2,641 – 2,733** |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,649 – 1,741** |
 
-**Updated 8 Nov 2026:** **Kanazawa is booked at €41**, against a €70–110 estimate. Only **Tokyo**
-is still an estimated accommodation line.
-
-🚨 **Two numbers, because Hakuba is booked for three people, not four.** As it stands the dome
-splits ¥162,000 three ways at **€292 each**; it only becomes **€219** if a fourth person is added
-to the same booking.
-
-**Shared base, everything except flight and gear: €1,484 – 1,589** as booked, or **€1,411 – 1,516**
-if the dome takes a fourth.
-
-| | Flight | Gear | **Total, as booked** | If Hakuba takes a 4th |
-|---|---|---|---|---|
-| **Georgi** | 943 ✅ | 89 | **≈ €2,516 – 2,621** | ≈ €2,443 – 2,548 |
-| **Nadir** | 1,077 ✅ | 89 | **≈ €2,650 – 2,755** | ≈ €2,577 – 2,682 |
-| **Rostik** | ⚠️ booked, **fare unknown** | 165 | ⚠️ **≈ €2,592 – 2,697** | ≈ €2,519 – 2,624 |
-| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,649 – 1,754** | ≈ €1,576 – 1,681 |
-
-⚠️ **Rostik's row is a placeholder on the flight.** His ticket is booked but the agency screen
-never showed a fare, so his row still assumes he paid roughly what Georgi did.
-
-🚨 **Mogi's row is the least trustworthy of the four.** If the three in the dome are Georgi,
-Nadir and Rostik, then **Mogi has no Hakuba bed at all** and his row is missing two nights that
-nobody has priced. The same applies to Rostik and Mogi on the **Nagano** night, a twin covering
-Nadir and Georgi only. ✅ **Toyama and Kanazawa are both two twins, so all four are covered on
-those nights.**
-
-⚠️ **Accommodation is running over estimate.** Hakuba was estimated €120–180 and is €292 as
-booked; the ryokan was €122 and is €173. Nagano came in well under at €32, which does not cover
-it.
-
-- The spread inside each row is now only **Kanazawa, Tokyo, the car and the Tokyo drive**. Every
-  other line is a real, booked number.
-- **Rostik's row assumes he pays roughly what Georgi or Nadir paid.** Booking late may cost more.
+- The spread inside each row is now only **the Toyota car, the drop fee and the cover on the Tokyo
+  cars**. Every other line is a booked or chosen price.
+- ⚠️ **Nagano for Rostik and Mogi** is not in their rows yet. Rostik books their own twin; on 7 Nov the
+  same hotel showed ¥17,580 for a Comfort Twin, ≈ €48 each, so about €16 more each than the €32 line.
+- ⚠️ **The Tokyo drive is the big jump**: €32–77 before, **€120–169** now. Two cars, one of them an R35,
+  plus cover.
+- ⚠️ The **ropeway €18 is still in every row**, although v41 took it off the plan. Small, so left in.
 - **Mogi is about €900 cheaper than everyone else**, purely because he does not fly. Worth
   remembering when anything gets split "evenly".
-- ⚠️ The **ropeway €18 is still in every row**, although v41 took it off the plan in favour of a
-  slow ryokan morning. Left in because it is decided on the day and it is small.
 
 **Where not to save:** the ryokan, and gear rental.
 **Where we already saved:** no JR Pass (≈ €160 per person).
@@ -1729,6 +1713,37 @@ it.
 ✅ **Decided (1 Aug, Georgi).** Self-drive, not a chauffeured tour. Operator is **OnlyJDM**,
 <https://only-jdm.com>, which the group has already rented from once before. That trip went
 *out* of Tokyo; **this time the point is central Tokyo and the busy districts at night.**
+
+### ✅ The two cars, chosen 6 Nov 2026 (not booked yet)
+
+| Car | 24 h | Deposit | Premium cover |
+|---|---|---|---|
+| **Mitsubishi Lancer EVO X**, Karin Kuruma 2.0, automatic | ¥30,000 | ¥50,000 | ¥12,000 |
+| **Nissan GT-R R35 "Godzilla"**, automatic | ¥59,000 | ¥200,000 | ¥18,000 |
+
+- Rental **¥89,000** for both. With Premium cover and a second driver on each car (¥3,000 each), about
+  **¥125,000**. Split four ways **≈ €120–169 each**, before fuel, tolls and parking.
+- 🟡 **R35 Abflug "Red Dragon"** (same price and deposit) is the one we would rather have. Rostik, who has
+  rented from OnlyJDM before, heard it may have scratches and is asking them on Instagram. Waiting.
+- Both from the **Haneda Airport Store**, 2-20-14 Omori-minami, Ota, open 10:00 to 18:30. About 5.2 km,
+  9 minutes by car to Terminal 3. Pickup Sun 21 around 16:00, back by 16:00 Mon 22. Both cars showed as
+  free for those dates on 6 Nov.
+- **Daikoku is dropped** (7 Nov 2026): the evening is central Tokyo.
+
+**Their booking rules, read 6 Nov 2026 from their Terms of Use and FAQ:**
+
+- 💳 **The full rental is paid online by credit card when booking.**
+- **Cancellation:** free until 7 days before, so **until 14 Feb** for us. 6 to 3 days before 30 %,
+  2 to 1 days 50 %, on the day 100 %. Refund to the card in 1 to 3 working days.
+- **No refund** if more than 30 minutes late without calling, for weather, a delayed flight, illness, or
+  if the staff decide someone cannot drive the car.
+- **Deposit at pickup**, credit card in the main driver's name only, no debit or prepaid cards.
+- **R35: minimum age 26.** Other cars 23, licence held 3 years or more.
+- 🚨 **Licences:** Germany is not on the International Driving Permit route for Japan. A German licence
+  needs a **JAF Japanese translation**. Mogi drives on his Japanese licence. ⚠️ Who goes on which car is
+  still open.
+- Return with a **full tank of premium petrol**. Over the mileage cap: ¥55 per km on the EVO, ¥165 on the R35.
+- **No returns after 18:30.**
 
 ### Why the operator choice settles the logistics too
 
@@ -1767,8 +1782,8 @@ evening-drive product we want.
 ### Two cars, not one: the proposal
 
 Georgi (23 Aug): **get two cars, it is way cooler and there is no downside except price.** That is
-right, and it is now the recommendation. Two cars means two people driving, passengers swapping at
-Daikoku, two different engines in one night, and the convoy itself is part of the evening. One car
+right, and it is now the recommendation. Two cars means two people driving, passengers swapping on
+the way, two different engines in one night, and the convoy itself is part of the evening. One car
 with four people and bags is a taxi with a spoiler.
 
 24-hour tier, both cars, **Haneda branch only**, OnlyJDM prices read 1 Aug 2026. Cars that live at
@@ -1842,7 +1857,7 @@ document.
 
 | | |
 |---|---|
-| **Day 8, Sun 21** | Into Tokyo early afternoon, car at ~16:00, drive the city, **Daikoku from ~20:00**, back late |
+| **Day 8, Sun 21** | Into Tokyo early afternoon, car at ~16:00, drive central Tokyo, back late. Daikoku dropped 7 Nov 2026 |
 | **Day 9, Mon 22** | Free day in Tokyo, car back by 16:00, Haneda, 22:05 flight |
 
 **It costs almost nothing.** The R34 is **¥23,800 for 24 hours** against ¥20,800 for 7 hours, so
@@ -2101,11 +2116,10 @@ cost. The 16th breaks the rule the dates were built around.**
    rejected this very hotel because no dinner plan was on sale for the 18th. **Ask the property.**
    If the answer is no, the birthday meal needs solving separately and Hirayu is a small village.
 
-0b. 🚨 **Nagano is now the only night where two of us have no bed.** Updated 8 Nov 2026.
-   ✅ The **ryokan**, ✅ **Toyama** (two twins, corrected 6 Nov) and ✅ **Kanazawa** (two twins,
-   booked 8 Nov) all cover four. **Hakuba** is being fixed by adding Mogi to the dome (see 15).
-   That leaves **Nagano, a twin for Nadir and Georgi only**, so **Rostik and Mogi still need a bed
-   on Mon 15 Feb**, unpriced. ⚠️ **Tokyo on Sun 21 is also still unbooked entirely.**
+0b. 🟡 **One bed question left: Nagano, Mon 15 Feb.** Hakuba (Mogi in the dome, confirmed 27 Oct),
+   the ryokan, Toyama, Kanazawa (two twins, booked by Nadir 8 Nov) and Tokyo (three of us, Mogi at home) are
+   covered. **Rostik books a twin for himself and Mogi** at the Sotetsu Fresa Inn, unless Mogi goes
+   straight to Hakuba by bus. Seen 7 Nov on Booking.com: Comfort Twin ¥17,580, single ¥10,940.
 
 1. 🟡 **Mogi: where exactly do you join on Monday?** ✅ You are with us **from the start** (agreed
    with Nadir, Oct 2026): whole loop, skis, beginner. Nagano Station on Monday night is the obvious
@@ -2130,8 +2144,9 @@ cost. The 16th breaks the rule the dates were built around.**
 
 6. 🚨 **Ask OnlyJDM three things**, whoever gets to it first, their site and email handle English.
    The first one is new and it is the one that actually affects the flight day:
-   - 🚨 **Where is the "Haneda Airport" branch, exactly?** It is **not in a terminal**. How long is
-     the transfer to departures, and is there a shuttle? The whole last afternoon is timed off this.
+   - ✅ **Where is the "Haneda Airport" branch?** Answered 6 Nov 2026 from their own data: 2-20-14
+     Omori-minami, Ota, about 9 minutes by car to Terminal 3. ⚠️ Whether they run a shuttle is still
+     unknown.
    - Holiday opening on 23 Feb, in case the dates shift.
    - An after-hours return past 18:30.
 
@@ -2166,9 +2181,8 @@ cost. The 16th breaks the rule the dates were built around.**
 14. 🟡 **Bad-weather plan for the ski days.** If the upper lifts close in a storm, where do we go
     instead? ⚠️ Nothing checked yet, no wind-hold data found so far.
 
-15. 🟡 **From P: Mogi goes in as the fourth** (decided 24 Oct 2026). Georgi emails the property on
-    25 Oct to add a fourth adult, and asks the extra cost, the beds, and whether the dome has its own
-    toilet and shower. Until they answer, the budget keeps both numbers: €292 as booked, €219 with four.
+15. ✅ **From P: Mogi is in as the fourth.** Confirmed by the property 27 Oct 2026, ¥30,000 extra at
+    check-in plus ¥3,200 tax. Budget updated in v72.
 
 16. 🚨 **Rostik: your Etihad booking, the missing half.** The screen seen on 24 Oct showed only
     **BER 10:00 on the 14th → NRT 11:40 on the 15th**, 1 stop, status still "Processing". Three
