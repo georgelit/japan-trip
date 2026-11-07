@@ -162,7 +162,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** The only full day, so the one mountain that works for all four: long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi and Iimori zones for Rostik and Mogi. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3: Happo-One, Nadir's birthday morning** (his call), until ~12:30. Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | ✅ 🏮 **Miyama-ouan, Hirayu** |
 | 6 | Fri 19 Feb | **The ryokan until check-out at 10:00**: morning bath, breakfast, no rush. Then Route 471 and 41 north to **Toyama** (~1 h 30), past Takayama without stopping. **Iwase sake district before 17:00**, drop the car, **Kansui Park illumination after dark** (optional). 🍽 Sushi at **寿司栄 総曲輪店**, Tabelog 3.61 (503 reviews) | ✅ Toyama, Dormy Inn |
-| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | Kanazawa |
+| 7 | Sat 20 Feb | Toyama → **Kanazawa** (**Shinkansen, unreserved, ¥2,860, 23 min**; the local train is ¥1,240 but takes an hour, and we decided the time matters more). [**Omicho Market**](https://www.google.com/maps/search/?api=1&query=Omicho%20Market%20Kanazawa) in snow crab season, Kenrokuen, KIRARI. 🍽 **金澤 鮨 洋次郎**, Tabelog 3.77, lunch is the value play | ✅ Kanazawa, the square hotel |
 | 8 | Sun 21 Feb | Kanazawa in the morning, then Kagayaki to Tokyo (2 h 28, ¥14,380), in the city early afternoon. Car at ~16:00. 🏎 **The night drive**, Daikoku from about 20:00 | Tokyo |
 | 9 | Mon 22 Feb | Drive south: 🍜 [**Shin-Yokohama Ramen Museum**](https://www.google.com/maps/search/?api=1&query=Shin-Yokohama%20Ramen%20Museum), 🏎 **Nissan HQ Gallery**, ♨️ [**Manyo Club**](https://www.google.com/maps/search/?api=1&query=Yokohama%20Minatomirai%20Manyo%20Club) onsen. **Cars back by 16:00** at the branch, 🚨 then a transfer to the terminal, then 🚃 Keikyu to Ginza and back. ✈️ **Georgi HND 22:05, Nadir HND 22:45**, ⚠️ Rostik's return leg is not known yet | plane |
 | 10 | **Tue 23 Feb** | ✈️ **Georgi lands Berlin 09:25, Nadir lands Leipzig 09:45** | home |
@@ -1380,7 +1380,33 @@ side, no exceptions.
 ⚠️ Dinner at 寿司栄 総曲輪店 is in **Sogawa**, the city centre, not at the station: a short tram
 ride. Worth knowing but not worth relocating for. Budget line: €60–100 per person.
 
-### 🦀 Night 5 · Kanazawa, Sat 20 Feb
+### 🦀 Night 5 · Kanazawa, Sat 20 Feb: ✅ booked
+
+✅ **the square hotel KANAZAWA**, booked by Nadir **8 Nov 2026**. Reservation **IN1738336836**,
+status **confirmed**.
+
+| | |
+|---|---|
+| Rooms | **Two** × non-smoking **Superior Twin**, 23 m², separate bath and toilet. ✅ **All four of us covered** |
+| Dates | **Sat 20 Feb from 15:30 → Sun 21 Feb by 11:00** |
+| Plan | *[Early Bird 90]*, the 90-days-ahead rate. ✅ **Outdoor bath and sauna included.** No meals |
+| Price | ¥16,830 a room × 2 = ¥33,660, **less a ¥3,366 point discount = ¥30,294** ≈ **€41 each** |
+| Payment | Online card, **charged 21 Feb 2027**, so nothing is debited yet. Mastercard •••9879 |
+| Check-in | **15:00–29:00**, i.e. up to 05:00 the next morning |
+| Public bath | Regular hours **06:00–10:00 and 15:00–02:00** |
+| Cancellation | Free until **2 days before**; 20 % the day before, 80 % same day, 100 % no-show |
+| Where | 〒920-0917 Ishikawa, 10 Shimotsutsumicho, Kanazawa. Tel +81-76-221-2611 |
+
+✅ **The location is as good as it gets for our Saturday.** From Kanazawa Station take a bus from
+stops 8, 9 or 10 at the **Kenrokuen Exit** terminal, get off at **Musashigatsuji–Omicho Market**,
+and the hotel is **one minute's walk**. Saturday is Omicho, Kenrokuen and Higashi Chaya on foot,
+so this is effectively on top of the day.
+
+✅ **Well under estimate:** the budget line was €70–110 a head and this is **€41**.
+⚠️ **Kanazawa accommodation tax is extra**, ¥200 per person per night at this rate band, paid
+locally.
+
+The shortlist that led here:
 
 **The constraint: Saturday is walked, not driven** (Omicho, Kenrokuen, Higashi Chaya), and Sunday
 starts with the Kagayaki. The sweet spot is **between the station and Omicho**.
@@ -1641,7 +1667,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Hakuba, 2 nights | **292**, or 219 if a 4th joins | 🚨 From P, booked and paid 28 Sep 2026, ¥162,000. **Booked for 3, so it is ¥54,000 = €292 each** as it stands; €219 only if a fourth person is added to the same dome. ⚠️ Hakuba accommodation tax extra, cash at check-in |
 | 🏮 Okuhida ryokan, 1 night | **173** | ✅ **匠の宿 深山桜庵 Miyama-ouan**, booked by Nadir 24 Sep 2026, ¥128,000 **for four**, on-site payment. ✅ Dinner included, Hida beef kaiseki, 17:30 or 20:00 by order of check-in |
 | Toyama, 1 night | **46** | ✅ Dormy Inn Toyama Tsurugi-no-Yu, booked by Nadir, ¥34,200 for **two twins**, all four, breakfast included. Corrected 6 Nov 2026, earlier read as one twin at €92 each |
-| Kanazawa, 1 night | 70–110 | ⚠️ |
+| Kanazawa, 1 night | **41** | ✅ **the square hotel KANAZAWA**, booked by Nadir 8 Nov 2026, ¥30,294 for **two twins, all four**, no meals. ⚠️ Kanazawa accommodation tax ¥200 per person extra |
 | Shinhotaka Ropeway | **18** | ✅ official, ¥3,300 |
 | Food and onsen | ~400 | ⚠️ roughly €45/day |
 | The Tokyo drive, one car, 24 h | 32–77 | R34 ¥23,800 to R35 ¥56,800, split four ways |
@@ -1655,26 +1681,33 @@ Recomputed **26 Aug 2026**, once Nadir's fare came in. **Updated 28 Sep 2026** w
 **Updated again 28 Sep 2026**, with four accommodation lines now real instead of estimated:
 Nagano €32, Hakuba, the ryokan €173 and Toyama €92.
 
-**Corrected 6 Nov 2026:** Toyama is **€46**, not €92, since ¥34,200 covers two twins. Every figure below is €46 lower than before.
+**Corrected 6 Nov 2026:** Toyama is **€46**, not €92, since ¥34,200 covers two twins.
+
+**Updated 8 Nov 2026:** **Kanazawa is booked at €41**, against a €70–110 estimate. Only **Tokyo**
+is still an estimated accommodation line.
 
 🚨 **Two numbers, because Hakuba is booked for three people, not four.** As it stands the dome
 splits ¥162,000 three ways at **€292 each**; it only becomes **€219** if a fourth person is added
 to the same booking.
 
-**Shared base, everything except flight and gear: €1,513 – 1,658** as booked, or **€1,440 – 1,585**
+**Shared base, everything except flight and gear: €1,484 – 1,589** as booked, or **€1,411 – 1,516**
 if the dome takes a fourth.
 
 | | Flight | Gear | **Total, as booked** | If Hakuba takes a 4th |
 |---|---|---|---|---|
-| **Georgi** | 943 ✅ | 89 | **≈ €2,545 – 2,690** | ≈ €2,472 – 2,617 |
-| **Nadir** | 1,077 ✅ | 89 | **≈ €2,679 – 2,824** | ≈ €2,606 – 2,751 |
-| **Rostik** | 🚨 not booked | 165 | ⚠️ **≈ €2,621 – 2,766** | ≈ €2,548 – 2,693 |
-| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,678 – 1,823** | ≈ €1,605 – 1,750 |
+| **Georgi** | 943 ✅ | 89 | **≈ €2,516 – 2,621** | ≈ €2,443 – 2,548 |
+| **Nadir** | 1,077 ✅ | 89 | **≈ €2,650 – 2,755** | ≈ €2,577 – 2,682 |
+| **Rostik** | ⚠️ booked, **fare unknown** | 165 | ⚠️ **≈ €2,592 – 2,697** | ≈ €2,519 – 2,624 |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,649 – 1,754** | ≈ €1,576 – 1,681 |
+
+⚠️ **Rostik's row is a placeholder on the flight.** His ticket is booked but the agency screen
+never showed a fare, so his row still assumes he paid roughly what Georgi did.
 
 🚨 **Mogi's row is the least trustworthy of the four.** If the three in the dome are Georgi,
 Nadir and Rostik, then **Mogi has no Hakuba bed at all** and his row is missing two nights that
-nobody has priced. The same applies to Rostik and Mogi on the **Nagano** night, a twin covering Nadir and
-Georgi only. **Toyama is two twins, so all four are covered there.**
+nobody has priced. The same applies to Rostik and Mogi on the **Nagano** night, a twin covering
+Nadir and Georgi only. ✅ **Toyama and Kanazawa are both two twins, so all four are covered on
+those nights.**
 
 ⚠️ **Accommodation is running over estimate.** Hakuba was estimated €120–180 and is €292 as
 booked; the ryokan was €122 and is €173. Nagano came in well under at €32, which does not cover
@@ -2070,11 +2103,11 @@ cost. The 16th breaks the rule the dates were built around.**
    rejected this very hotel because no dinner plan was on sale for the 18th. **Ask the property.**
    If the answer is no, the birthday meal needs solving separately and Hirayu is a small village.
 
-0b. 🚨 **Beds for Rostik and Mogi on three nights.** Every accommodation booked so far covers
-   fewer than four people: **Nagano** is a twin for Nadir and Georgi, and **Hakuba**
-   is booked for three. The **ryokan** is for four, and **Toyama turned out to be two twins** (corrected
-   6 Nov 2026). So there are **two people without a bed in Nagano**, and **one in Hakuba**, which is being solved by adding Mogi
-   to the dome (see 15). None of this is priced.
+0b. 🚨 **Nagano is now the only night where two of us have no bed.** Updated 8 Nov 2026.
+   ✅ The **ryokan**, ✅ **Toyama** (two twins, corrected 6 Nov) and ✅ **Kanazawa** (two twins,
+   booked 8 Nov) all cover four. **Hakuba** is being fixed by adding Mogi to the dome (see 15).
+   That leaves **Nagano, a twin for Nadir and Georgi only**, so **Rostik and Mogi still need a bed
+   on Mon 15 Feb**, unpriced. ⚠️ **Tokyo on Sun 21 is also still unbooked entirely.**
 
 1. 🟡 **Mogi: where exactly do you join on Monday?** ✅ You are with us **from the start** (agreed
    with Nadir, Oct 2026): whole loop, skis, beginner. Nagano Station on Monday night is the obvious

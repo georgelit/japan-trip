@@ -33,6 +33,46 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v72 &middot; 8 Nov 2026 &middot; Nadir
+
+**Kanazawa is booked, and it is the best-value night of the trip so far.**
+
+✅ **the square hotel KANAZAWA**, booked by Nadir 8 Nov 2026, reservation **IN1738336836**,
+confirmed.
+
+| | |
+|---|---|
+| Rooms | **Two** non-smoking **Superior Twins**, 23 m² — ✅ **all four of us** |
+| Dates | **Sat 20 Feb 15:30 → Sun 21 Feb 11:00** |
+| Plan | *[Early Bird 90]*. ✅ **Outdoor bath and sauna included**, no meals |
+| Price | ¥16,830 × 2 less a ¥3,366 point discount = **¥30,294** ≈ **€41 each** |
+| Payment | Online card, **charged 21 Feb 2027** — nothing debited yet |
+| Cancellation | Free until **2 days before** |
+
+✅ **€41 against a €70–110 estimate**, the largest undershoot on the page. Check-in runs to
+**29:00** (05:00 next morning) and the public bath to 02:00, neither of which we need on a
+Saturday but both of which are reassuring.
+
+✅ **The location is near-ideal for the Saturday as planned.** Bus from Kanazawa Station's
+Kenrokuen Exit, off at **Musashigatsuji–Omicho Market**, **one minute's walk**. The day is Omicho,
+Kenrokuen and Higashi Chaya on foot, so the hotel sits on top of it.
+
+⚠️ **Kanazawa accommodation tax ¥200 per person** extra, paid locally, at this rate band.
+
+### What this changes elsewhere
+
+- **Totals drop.** Base is now **€1,484–1,589** as booked (€1,411–1,516 if the dome takes a
+  fourth). Per person, as booked: **Georgi €2,516–2,621 · Nadir €2,650–2,755 · Rostik
+  €2,592–2,697 · Mogi €1,649–1,754.**
+- ✅ **Tokyo is now the only estimated accommodation line left** on the whole trip.
+- 🚨 **Nagano is now the only night where two of us have no bed.** With Kanazawa and Toyama both
+  two twins, the ryokan for four, and Hakuba being fixed by adding Mogi, the remaining gap is
+  **Rostik and Mogi on Mon 15 Feb**, unpriced. Open question 0b rewritten to say exactly that
+  instead of the older "three nights" framing.
+- ⚠️ **Rostik's row in the totals is a placeholder on the flight.** v69 recorded his ticket as
+  booked, but the agency screen never showed a fare, so the table still assumes he paid roughly
+  what Georgi did. Relabelled from "not booked" to "booked, fare unknown".
+
 ## v71 &middot; 6 Nov 2026 &middot; Georgi
 
 **Toyama is booked for all four, and the ryokan dinner is confirmed.** Both from Nadir.
