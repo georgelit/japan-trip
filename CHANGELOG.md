@@ -33,6 +33,15 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v73 &middot; 8 Nov 2026 &middot; Nadir
+
+**Housekeeping on the v72 Kanazawa write-up.** No facts changed.
+
+The retained Kanazawa shortlist still carried its old "⚠️ Budget line: €70–110 per person"
+line underneath the now-booked €41, which read as a current figure rather than as the estimate
+it was. Removed; the booked section already states the estimate it beat. Also replaced two em
+dashes that slipped into the v72 entry.
+
 ## v72 &middot; 8 Nov 2026 &middot; Nadir
 
 **Kanazawa is booked, and it is the best-value night of the trip so far.**
@@ -42,11 +51,11 @@ confirmed.
 
 | | |
 |---|---|
-| Rooms | **Two** non-smoking **Superior Twins**, 23 m² — ✅ **all four of us** |
+| Rooms | **Two** non-smoking **Superior Twins**, 23 m². ✅ **All four of us** |
 | Dates | **Sat 20 Feb 15:30 → Sun 21 Feb 11:00** |
 | Plan | *[Early Bird 90]*. ✅ **Outdoor bath and sauna included**, no meals |
 | Price | ¥16,830 × 2 less a ¥3,366 point discount = **¥30,294** ≈ **€41 each** |
-| Payment | Online card, **charged 21 Feb 2027** — nothing debited yet |
+| Payment | Online card, **charged 21 Feb 2027**, so nothing is debited yet |
 | Cancellation | Free until **2 days before** |
 
 ✅ **€41 against a €70–110 estimate**, the largest undershoot on the page. Check-in runs to

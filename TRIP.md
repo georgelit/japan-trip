@@ -1417,8 +1417,6 @@ starts with the Kagayaki. The sweet spot is **between the station and Omicho**.
 | **2. Hotel Nikko Kanazawa** | At the **station**, walkable to Omicho | Best if the Sunday train matters more than the Saturday walking |
 | **3. UAN Kanazawa** | **5 min** to Omicho, next to Kanazawa Castle Park, 15 min to Kenrokuen | The most central for Saturday's actual route |
 
-⚠️ Budget line: €70–110 per person.
-
 ### 🏎 Night 6 · Tokyo, Sun 21 Feb — the awkward one
 
 🚨 **This night has a constraint nobody had written down: two rental cars are parked overnight.**
