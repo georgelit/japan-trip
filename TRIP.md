@@ -41,8 +41,8 @@ group in three useful ways:
 Mogi is one of four, not the Tokyo fixer. Who rents which car, who picks the Tokyo spots and who
 rings OnlyJDM are group jobs, shared out like everything else.
 
-✅ **From the start, confirmed again in Oct 2026** (Nadir agreed it with him). An earlier note that
-he might only join on 19 Feb is void.
+✅ **Joins on Tue 16 Feb**, the day after Nagano (Nadir spoke to him, 8 Nov 2026). He does not
+need the Nagano night. Where exactly he meets us on Tuesday is question 1.
 
 ⚠️ **Still open:** only **where he joins**. Nagano Station on Monday night is the obvious spot, since
 the three of us sleep there, and it means he could be the one to pick the car up at 08:00. The natural meeting point
@@ -157,7 +157,7 @@ Northern Alps, no backtracking, and Takayama is only ever driven through.
 | Day | Date | Plan | Night |
 |---|---|---|---|
 | 1 | **Sun 14 Feb** | 💝 **Valentine's Day at home.** ✈️ **Georgi: Turkish, BER 19:20.** ✈️ **Nadir: LH/ANA, LEJ 18:40.** ✈️ **Rostik: Etihad, BER 10:00**, he leaves in the morning | plane |
-| 2 | Mon 15 Feb | ✈️ **Rostik lands NRT 11:40, Nadir HND 17:55, Georgi HND 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. **Rostik comes in from Narita and can be in Nagano in the afternoon**, ⚠️ his room there is not booked. Mogi meets us here | ✅ Nagano, Sotetsu Fresa Inn |
+| 2 | Mon 15 Feb | ✈️ **Rostik lands NRT 11:40, Nadir HND 17:55, Georgi HND 19:45.** Georgi: bags, Monorail or Keikyu to Tokyo Station (~20 min), **Asama 633 at 22:08**, the last train, Nagano 23:40. **Nadir can take an earlier Asama and be in Nagano by ~21:30**, see the flights section. **Rostik comes in from Narita and can be in Nagano in the afternoon**, his single in the same hotel is booked. Mogi joins on Tuesday | ✅ Nagano, Sotetsu Fresa Inn |
 | 3 | **Tue 16 Feb** | **Car at 08:00** when the rental opens, on the road by 08:30, Hakuba ~09:30, rental gear at **Lion Gear in Echoland** ~10:15, then 15 min to Tsugaike. 🎿 **On the snow around 11:00, Tsugaike**, the beginners' mountain, because it is Rostik's and Mogi's first day. A short first day, and that is fine after the night before. 🍽 Early dinner: **グリンデル**, Tabelog 3.61 | Hakuba |
 | 4 | **Wed 17 Feb** | 🎿 **Day 2: Goryu + Hakuba47.** The only full day, so the one mountain that works for all four: long, daily-groomed cruisers from the high plateau, wide gentle slopes in the Toomi and Iimori zones for Rostik and Mogi. Lifts from 08:00, so this is the first full morning. 🍽 **庄屋丸八DINING**, robatayaki, Tabelog 3.35 (clashes with night skiing) | Hakuba |
 | 5 | **Thu 18 Feb** | 🎿 **Day 3: Happo-One, Nadir's birthday morning** (his call), until ~12:30. Then Route 158 through the Abo Tunnel to **Okuhida** (~2 h 30). 🎂 **The birthday dinner is the ryokan kaiseki** | ✅ 🏮 **Miyama-ouan, Hirayu** |
@@ -1293,15 +1293,12 @@ around 20 Nov 2026.
 covering Nadir and Georgi** (≈ €32 each), **free cancellation**, confirmed. This was shortlist #2,
 chosen for the **self check-in terminals**, which is what makes a **23:40 arrival** safe.
 
-🚨 **Rostik and Mogi have no room this night.** Book them into the same hotel: splitting the
-group across two hotels at 23:40 in February, with an 08:00 car collection the next morning, is
-the kind of small mess that costs the morning.
-🚨 **Rostik's room is the urgent one.** With the Etihad booking he lands at Narita at **11:40 on
-the 15th** and can reach Nagano in the afternoon, hours before the twin room is occupied. He needs
-his own bed that night, booked under his own name, with a normal afternoon check-in rather than
-the 23:40 one the rest of the plan is built around. Mogi, as of 28 Sep, probably only joins on the
-19th, so he may not need this night at all.
-⚠️ Confirm it is a **twin**, not a semi-double. Budget chains default to small doubles.
+✅ **Rostik: Comfort Single in the same hotel**, booked by Nadir 9 Nov 2026, **¥10,939 (≈ €59)**,
+breakfast not included (¥1,700 extra on the day if wanted). He lands at Narita at 11:40 and can check
+in normally in the afternoon. Seen on Booking.com before booking: free cancellation until 14 Feb,
+payment from 12 Feb.
+✅ **Mogi does not need this night.** He joins on Tue 16 Feb (Nadir, 8 Nov 2026), so the night is
+three people in one hotel and nobody walks to the car from elsewhere.
 
 The shortlist that led here:
 
@@ -1665,7 +1662,7 @@ nodoguro in Kanazawa, then whatever Tokyo does best. Nothing repeats.
 | Car, 4 days incl. winter tyres, split 4 ways | 70–100 | ⚠️ recomputed from the old 7-day figure, Tue 16 pickup to Fri 19 drop-off, short-rental daily rate not separately checked, plus fuel and tolls |
 | Rail: Tokyo→Nagano, Toyama→Kanazawa, Kanazawa→Tokyo | ~139 | ≈ ¥25,700: Tokyo→Nagano ~¥8,500, **Toyama→Kanazawa ¥2,860 Shinkansen unreserved**, Kanazawa→Tokyo ¥14,380 |
 | **One-way car drop, Nagano → Toyama** | **7–20** | ✅ verified 23 Aug: Toyota zone table, Nippon ¥880/10 km. ¥5,000–15,000 for the car, split four ways |
-| Nagano, 1 night | **32** | ✅ Sotetsu Fresa Inn, booked by Nadir, €63 for a twin covering Nadir and Georgi |
+| Nagano, 1 night | **32** Georgi/Nadir · **59** Rostik · **0** Mogi | ✅ Sotetsu Fresa Inn, booked by Nadir: €63 twin for Nadir and Georgi, and a Comfort Single for Rostik, ¥10,939 without breakfast (9 Nov 2026). Mogi joins on the 16th |
 | Tokyo, 1 night | **49** | ✅ Henn na Hotel Tokyo Haneda, booked by Georgi 7 Nov 2026, ¥26,944 for a triple, **three people**, Mogi sleeps at home. ⚠️ Parking for two cars extra, about ¥1,300 per car |
 | Hakuba, 2 nights | **264** | ✅ From P, ¥162,000 paid 28 Sep 2026 for three, plus ¥30,000 for Mogi at check-in (confirmed 27 Oct) and ¥3,200 accommodation tax. ¥195,200 for four |
 | 🏮 Okuhida ryokan, 1 night | **173** | ✅ **匠の宿 深山桜庵 Miyama-ouan**, booked by Nadir 24 Sep 2026, ¥128,000 **for four**, on-site payment. ✅ Dinner included, Hida beef kaiseki, 17:30 or 20:00 by order of check-in |
@@ -1683,20 +1680,22 @@ twins), Kanazawa €41 (booked by Nadir, v72), Hakuba now has Mogi as the fourth
 Tokyo drive is two chosen cars instead of one R34. Nadir's v72 base of €1,484–1,589 carried a €13
 adding slip at the top end from earlier versions; this one is summed line by line. The old single figure of €2,150–2,800 stays withdrawn.
 
-**Shared base, everything except flight and gear: €1,533 – 1,625** for Georgi, Nadir and Rostik. Mogi
-pays no Tokyo night, so his base is €49 lower.
+**Shared base, everything except flight and gear: €1,533 – 1,625** for Georgi and Nadir. Rostik's
+base is **€27 higher** (his Nagano single, €59 against €32). Mogi pays no Tokyo night and no Nagano
+night, so his base is **€81 lower**.
 
 | | Flight | Gear | **Total** |
 |---|---|---|---|
 | **Georgi** | 943 ✅ | 89 | **≈ €2,565 – 2,657** |
 | **Nadir** | 1,077 ✅ | 89 | **≈ €2,699 – 2,791** |
-| **Rostik** | ⚠️ price not known, 943 assumed | 165 | ⚠️ **≈ €2,641 – 2,733** |
-| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,649 – 1,741** |
+| **Rostik** | ⚠️ price not known, 943 assumed | 165 | ⚠️ **≈ €2,668 – 2,760** |
+| **Mogi** | none, lives in Tokyo | 165 | **≈ €1,617 – 1,709** |
 
 - The spread inside each row is now only **the Toyota car, the drop fee and the cover on the Tokyo
   cars**. Every other line is a booked or chosen price.
-- ⚠️ **Nagano for Rostik and Mogi** is not in their rows yet. Rostik books their own twin; on 7 Nov the
-  same hotel showed ¥17,580 for a Comfort Twin, ≈ €48 each, so about €16 more each than the €32 line.
+- ✅ **Nagano is now in every row** (9 Nov 2026): Rostik +€27 for his single, Mogi −€32 because he
+  joins on the 16th. ⚠️ Mogi's rail line still carries Tokyo→Nagano; his own way out on Tuesday will
+  cost something similar, not checked.
 - ⚠️ **The Tokyo drive is the big jump**: €32–77 before, **€120–169** now. Two cars, one of them an R35,
   plus cover.
 - ⚠️ The **ropeway €18 is still in every row**, although v41 took it off the plan. Small, so left in.
@@ -2116,14 +2115,13 @@ cost. The 16th breaks the rule the dates were built around.**
    rejected this very hotel because no dinner plan was on sale for the 18th. **Ask the property.**
    If the answer is no, the birthday meal needs solving separately and Hirayu is a small village.
 
-0b. 🟡 **One bed question left: Nagano, Mon 15 Feb.** Hakuba (Mogi in the dome, confirmed 27 Oct),
-   the ryokan, Toyama, Kanazawa (two twins, booked by Nadir 8 Nov) and Tokyo (three of us, Mogi at home) are
-   covered. **Rostik books a twin for himself and Mogi** at the Sotetsu Fresa Inn, unless Mogi goes
-   straight to Hakuba by bus. Seen 7 Nov on Booking.com: Comfort Twin ¥17,580, single ¥10,940.
+0b. ✅ **Every night has a bed.** Nagano closed 9 Nov 2026: Nadir booked Rostik a Comfort Single at the
+   Sotetsu Fresa Inn, ¥10,939, no breakfast. Mogi joins on the 16th and does not need Nagano.
 
-1. 🟡 **Mogi: where exactly do you join on Monday?** ✅ You are with us **from the start** (agreed
-   with Nadir, Oct 2026): whole loop, skis, beginner. Nagano Station on Monday night is the obvious
-   spot, and it would let you be the one who picks the car up at 08:00 on Tuesday.
+1. 🟡 **Mogi: where exactly do you join on Tuesday 16 Feb?** You join the day after Nagano (Nadir
+   spoke to you, 8 Nov 2026). Two shapes: **Nagano Station around 08:00**, in time for the car, or
+   **straight to Hakuba**, meeting us at Lion Gear or at Tsugaike. ⚠️ Train and bus times from Tokyo
+   not checked yet. Either way **the 08:00 Toyota pickup is one of Georgi, Nadir or Rostik**, not Mogi.
 
 2. 🟡 **Rostik and Mogi: a lesson each, or none?** Both beginners, one on a board and one on skis,
    so one instructor cannot cover both. ⚠️ Private lessons are expensive: Evergreen is **¥110,000
@@ -2188,8 +2186,8 @@ cost. The 16th breaks the rule the dates were built around.**
     **BER 10:00 on the 14th → NRT 11:40 on the 15th**, 1 stop, status still "Processing". Three
     things the plan needs from you: **when do you fly back**, has the agency **confirmed** the
     booking, and how do you get **from Narita to Nagano** on Monday afternoon. You land about
-    eight hours before Georgi and at the other airport, so Monday is your own run, and you need a
-    bed in Nagano in your own name, see question 0b.
+    eight hours before Georgi and at the other airport, so Monday is your own run. ✅ Your Nagano
+    single is booked (Nadir, 9 Nov), see question 0b.
 
 ### Closed
 

@@ -33,6 +33,23 @@ file below is the human-readable layer: what changed and, more importantly, why.
 
 ---
 
+## v75 &middot; 9 Nov 2026 &middot; Georgi
+
+**Every night has a bed now. Nagano is closed, and Mogi joins on Tuesday 16 Feb.**
+
+- 🗼 **Mogi joins on Tue 16 Feb**, the day after Nagano (Nadir spoke to him, 8 Nov 2026). Replaces
+  "from the start" and the old Monday night meeting point. He does not need the Nagano night.
+- ✅ **Nagano for Rostik:** Nadir booked a **Comfort Single** at the Sotetsu Fresa Inn on 9 Nov,
+  ¥10,939 (≈ €59), no breakfast. Same hotel as the twin for Nadir and Georgi. Replaces "Rostik
+  books a twin for himself and Mogi" (¥17,580, seen 7 Nov), which no longer made sense with Mogi
+  arriving on the 16th. Question 0b closed, the 🚨 "no room" blocks on Day 2 are gone.
+- 🟡 **Question 1 rewritten:** where Mogi meets us on Tuesday, Nagano at 08:00 or straight to Hakuba.
+  Train and bus times not checked. **The 08:00 Toyota pickup is now one of Georgi, Nadir or Rostik.**
+- 💶 **Budget per person:** Rostik ≈ €2,668 to 2,760 (+€27, single €59 against the €32 twin share),
+  Mogi ≈ €1,617 to 1,709 (−€32, no Nagano night). Georgi and Nadir unchanged.
+
+---
+
 ## v74 &middot; 7 Nov 2026 &middot; Georgi
 
 **Tokyo is booked, the two Tokyo cars are chosen, Daikoku is dropped, Mogi is confirmed in the Hakuba
